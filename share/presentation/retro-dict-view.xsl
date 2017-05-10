@@ -37,6 +37,8 @@
             margin-bottom: 0em;
             margin-top: 0em;
         }
+	table {text-indent: 0px;}
+	td {vertical-align:top;}
 	.title_page{
 	    text-align:center;
 	    border:1px solid black;
@@ -136,16 +138,23 @@
 	  <hr class="{translate(./@rendition, '#', '')}"></hr>
   </xsl:template>
   
-  <xsl:template match="choice">
-	<xsl:apply-templates/>
-  </xsl:template>
-
   <xsl:template match="tei:sic">
     <span class="editorial s"><xsl:apply-templates/></span>
   </xsl:template>
   <xsl:template match="tei:corr">
     <span class="editorial">|<xsl:apply-templates/></span>
   </xsl:template>  
+
+  <xsl:template match="tei:table">
+	  <table><xsl:apply-templates/></table>
+  </xsl:template>
+
+  <xsl:template match="tei:row">
+	  <tr><xsl:apply-templates/></tr>
+  </xsl:template>
   
+  <xsl:template match="tei:cell">
+	  <td class="{translate(./@rendition, '#', '')}"><xsl:apply-templates/></td>
+  </xsl:template>
 
 </xsl:stylesheet>
