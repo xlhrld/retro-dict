@@ -228,6 +228,7 @@
         <p><hi rendition="#k">Leiden,</hi> im Januar 1900. C. C.
           UHLENBECK.</p>
         <pb facs="#f0005" n="[V]"/>
+        <cb n="1"/>
         <div xml:id="abbreviations">
           <head rendition="#c">ERKLÄRUNG EINIGER ABKÜRZUNGEN.</head>
           <p>a- bedeutet alt-.</p>
@@ -260,7 +261,7 @@
           <p>bask. baskisch.</p>
           <p>bret. bretonisch.</p>
           <p>bulg. bulgarisch.</p>
-          <p>bzw. bezugsweise.</p>
+          <cb n="2"/><p>bzw. bezugsweise.</p>
           <p>corn. cornisch.</p>
           <p>cymr. cymrisch.</p>
           <p>czech. czechisch.</p>
@@ -291,6 +292,7 @@
           <p>lapp. lappisch.</p>
           <p>lat. lateinisch.</p>
           <pb facs="#f0006" n="VI"/>
+          <cb n="1"/>
           <p>lett. lettisch.</p>
           <p>lit. litauisch.</p>
           <p>lw. lehnwort.</p>
@@ -313,7 +315,7 @@
           <p>pamphyl. pamphylisch.</p>
           <p>pāz. pāzend.</p>
           <p>pkr. prākrit.</p>
-          <p>polab. polabisch.</p>
+          <cb n="2"/><p>polab. polabisch.</p>
           <p>poln. polnisch.</p>
           <p>provenz. provenzalisch.</p>
           <p>rum. rumänisch.</p>
@@ -338,7 +340,7 @@
       </div>
     </front>
     <body xml:id="dictionary">
-      <pb facs="#f0007" n="1"/>
+      <pb facs="#f0007" n="1"/><cb n="1"/>
       <div xml:id="section-a">
         <head rendition="#c">a.</head>
         <p><hi rendition="#b">aba</hi> m. ehemann, vielleicht zu ahd. <hi
@@ -371,7 +373,8 @@
           Vielleicht ist <hi rendition="#i">abrṣ</hi> identisch mit czech.
             <hi rendition="#i">obr</hi>, slowak. <hi rendition="#i"
             >obor</hi> riese (Prusík, Krok 11, 19). Eine ganz andere
-          auffassung des Wortes finden wir bei Lidén (Stud. zur aind. und
+          auffassung des Wortes finden wir bei Lidén
+          <cb n="2"/>(Stud. zur aind. und
           vergl. sprachgeschichte 74 f. f.), der an. <hi rendition="#i"
             >afar</hi> in hohem grade, besonders, ungemein, sehr zur
           vergleichung heranzieht (vgl. <hi rendition="#g">afar</hi>). Man
@@ -410,7 +413,7 @@
             <hi rendition="#g">dauþs</hi>.</p>
         <p><hi rendition="#b">afdōbnan</hi> verstummen, vielleicht nur eine
           Schreibweise für <hi rendition="#i">*afdubnan</hi>, <pb
-            facs="#f0008" n="2"/>nebenform von <hi rendition="#g"
+            facs="#f0008" n="2"/><cb n="1"/>nebenform von <hi rendition="#g"
             >afdumbnan</hi>. Vgl. an. <hi rendition="#i">dofna</hi> seine
           kraft verlieren (Boer, Museum 4, 281).</p>
         <p><hi rendition="#b">afdrausjan</hi> hinabstürzen und <hi
@@ -456,7 +459,8 @@
             <hi rendition="#i">*xam-</hi> bedecken liegt vor in gall. lat.
             <hi rendition="#i">camisia</hi> hemd (woraus air. <hi
             rendition="#i">caimmse</hi>, während cymr. <hi rendition="#i"
-            >hefis</hi> aus dem germ. stammt), in gr. <hi rendition="#i"
+            >hefis</hi>
+            <cb n="2"/>aus dem germ. stammt), in gr. <hi rendition="#i"
             >ϰαμάρα</hi> gewölbe, verdeckter wagen und in ai. <hi
             rendition="#i">çāmulyà-</hi>, <hi rendition="#i">çāmūlyá-</hi>
           wollenes hemd (s. Johansson, Bezz. Beitr. 18, 12 f.). Unsicher
@@ -498,7 +502,7 @@
           halten, weil es eher auf einer wurzelform mit dentalem auslaut
           beruht.</p>
         <p><hi rendition="#b">afhwapjan</hi> ersticken, auslöschen, <pb
-            facs="#f0009" n="3"/><hi rendition="#i">afhwapnan</hi>
+            facs="#f0009" n="3"/><cb n="1"/><hi rendition="#i">afhwapnan</hi>
           erlöschen sind vielleicht mit mhd. <hi rendition="#i"
             >verwepfen</hi> umschlagen (von getränken), kahnig werden
           verwant. Man vergleiche ferner lit. <hi rendition="#i"
@@ -543,7 +547,8 @@
           as. <hi rendition="#i">mōđi</hi>, ahd. <hi rendition="#i"
             >muodi</hi> müde, lat. <hi rendition="#i">mōlēs</hi>
           anstrengung, mühe, last, masse, <hi rendition="#i">molestus</hi>
-          beschwerlich, gr. <hi rendition="#i">μῶλος</hi> anstrengung,
+          beschwerlich,
+          <cb n="2"/>gr. <hi rendition="#i">μῶλος</hi> anstrengung,
           mühe, <hi rendition="#i">μῶλυς</hi> matt, trüg, <hi
             rendition="#i">μόλις</hi> kaum (weiteres, doch unsicheres bei
           Hirt, Beitr. 22, 229).</p>
@@ -588,7 +593,7 @@
           zu heissen, denn <hi rendition="#i">váñcati</hi> hat mittleres
           idg. <hi rendition="#i">k</hi>, wie aus lat. <hi rendition="#i"
             >vacillāre</hi> hervorgeht.</p>
-        <pb facs="#f0010" n="4"/>
+        <pb facs="#f0010" n="4"/><cb n="1"/>
         <p><hi rendition="#b">afswaírban</hi> auswischen, <hi
             rendition="#i">biswaírban</hi> bewischen, abtrocknen, an. <hi
             rendition="#i">svërfa</hi> feilen, abfeilen, drängen, ags. <hi
@@ -639,6 +644,7 @@
             rendition="#i">vélti</hi> walken, skr. <hi rendition="#i"
             >válati</hi> wendet sich, dreht sich; vgl. <hi rendition="#g"
             >waltjan</hi>.</p>
+      <cb n="2"/>
         <p><hi rendition="#b">agga,</hi> s. <hi rendition="#g"
             >halsagga</hi>.</p>
         <p><hi rendition="#b">aggilus</hi> m. engel, an. <hi rendition="#i"
@@ -694,7 +700,7 @@
           beschwerlich, ags. <hi rendition="#i">egele</hi> lästig, <hi
             rendition="#i">eglan</hi> schmerz zufügen, <hi rendition="#i"
             >eglian</hi>
-          <pb facs="#f0011" n="5"/>schmerzlich empfunden werden können mit
+          <pb facs="#f0011" n="5"/><cb n="1"/>schmerzlich empfunden werden können mit
             <hi rendition="#g">agis</hi> verwant sein. Man vergleicht air.
             <hi rendition="#i">áil</hi> schande.</p>
         <p><hi rendition="#b">aha</hi> m. sinn, verstand, <hi
@@ -739,10 +745,10 @@
             rendition="#i">acuo</hi> spitze, schärfe, <hi rendition="#i"
             >acūtus</hi> spitz, scharf, <hi rendition="#i">ācer</hi> spitz,
           scharf, stechend, gr. <hi rendition="#i">ἄϰρος</hi> scharf, <hi
-            rendition="#i">ἀϰίς</hi> spitze, stachel, <hi rendition="#i"
+            rendition="#i">ἀϰίς</hi> spitze, <cb n="2"/>stachel, <hi rendition="#i"
             >ἀϰή</hi>, <hi rendition="#i">ἀϰωϰή</hi> spitze, <hi
             rendition="#i">ἀϰαχμένος</hi> gespitzt, <hi rendition="#i"
-            >ἄϰων</hi> wurfspiess, <hi rendition="#i">ἀϰόνή</hi> wetzstein,
+            >ἄϰων</hi> wurfspiess, <hi rendition="#i">ἀϰόνη</hi> wetzstein,
             <hi rendition="#i">ἄϰαινα</hi> spitze, stachel, <hi
             rendition="#i">ἄϰανος</hi> distelart, armen. <hi rendition="#i"
             >aseλn</hi> nadel, ai. <hi rendition="#i">áçri-</hi> scharfe
@@ -793,7 +799,7 @@
             >ágan</hi>, as. <hi rendition="#i">ēgan</hi>, ahd. <hi
             rendition="#i">eigan</hi>; dazu <hi rendition="#i">aigin</hi>
           n. eigentum und <hi rendition="#i">aihts</hi> f., ahd. <pb
-            facs="#f0012" n="6"/><hi rendition="#i">ēht</hi> eigentum, an.
+            facs="#f0012" n="6"/><cb n="1"/><hi rendition="#i">ēht</hi> eigentum, an.
             <hi rendition="#i">ǽtt</hi> familie. Vgl. avest. <hi
             rendition="#i">īs-</hi> vermögen, ai. <hi rendition="#i"
             >ī́çe</hi> habe zu eigen. S. auch <hi rendition="#g"
@@ -846,7 +852,7 @@
             >ekkja</hi>, aschw. <hi rendition="#i">ænkja</hi> wittwe, <hi
             rendition="#i">ænkil</hi> wittwer. Zu <hi rendition="#g"
             >ains</hi>.</p>
-        <p><hi rendition="#b">ainamundiþa</hi> einmütigkeit setzt ein adj.
+        <p><hi rendition="#b">ainamundiþa</hi> einmütigkeit setzt<cb n="2"/>ein adj.
             <hi rendition="#i">*ainamunds</hi> einmütig voraus (vgl. skr.
             <hi rendition="#i">ekamati-</hi> einmütig): s. <hi
             rendition="#g">ains</hi> und <hi rendition="#g"
@@ -903,7 +909,7 @@
             rendition="#i">eitt</hi>.</p>
         <p><hi rendition="#b">ainshun</hi> irgend einer enthält das suffix
           der unbestimmtheit <hi rendition="#i">-hun</hi>, wozu <pb
-            facs="#f0013" n="7"/>sich mit gramm. Wechsel und anderer
+            facs="#f0013" n="7"/><cb n="1"/>sich mit gramm. Wechsel und anderer
           vocalstufe ahd. <hi rendition="#i">-gin</hi> stellt. Ausserhalb
           des germ. sind lat. <hi rendition="#i">-cun-</hi> (in <hi
             rendition="#i">quicunque</hi> wer immer u. dgl.) und ai. <hi
@@ -954,7 +960,7 @@
             rendition="#i">jǫrđ</hi>, ags. <hi rendition="#i">eorđe</hi>,
           afris. <hi rendition="#i">ërthe</hi>, as. <hi rendition="#i"
             >ërtha</hi>, ahd. <hi rendition="#i">ërda</hi>, verwant mit an.
-            <hi rendition="#i">jǫrve</hi> sand, ahd. <hi rendition="#i"
+            <hi rendition="#i">jǫrve</hi><cb n="2"/>sand, ahd. <hi rendition="#i"
             >ëro</hi> erde, gr. <hi rendition="#i">ἔραζε</hi> zur erde,
           nicht zu <hi rendition="#i">arjan</hi> pflügen.</p>
         <p><hi rendition="#b">aírþakunds</hi> von irdischer abkunft enthält
@@ -1007,7 +1013,7 @@
             rendition="#i">ár</hi>, as. ahd. <hi rendition="#i">ēra</hi>
           ehre (mit <hi rendition="#i">r</hi> aus <hi rendition="#i"
           >z</hi>, also got. <hi rendition="#i">*aiza</hi> f.).</p>
-        <pb facs="#f0014" n="8"/>
+        <pb facs="#f0014" n="8"/><cb n="1"/>
         <p><hi rendition="#b">aiþei</hi> f. mutter, ahd. <hi rendition="#i"
             >eidī</hi>, <hi rendition="#i">eidhī</hi>, wie <hi
             rendition="#g">atta</hi> urspr. ein ladlwort der kinder.
@@ -1049,7 +1055,7 @@
             >unaiwisks</hi> schandlos, <hi rendition="#i">aiwiskōn</hi>
           schändlich handeln, <hi rendition="#i">gaaiwiskōn</hi> beschämen,
           beschimpfen, ags. <hi rendition="#i">ǽwisc</hi> schändlich lassen
-          sich mit gr. <hi rendition="#i">αἶσχος</hi> schande, <hi
+          sich mit gr. <hi rendition="#i">αἶσχος</hi> schande,<cb n="2"/><hi
             rendition="#i">αἰσχρός</hi> schändlich kaum vereinigen.</p>
         <p><hi rendition="#b">aíwlaúgja</hi> m. segen, spende, aus gr. <hi
             rendition="#i">εὐλογία</hi>.</p>
@@ -1098,7 +1104,7 @@
           beachte, dass an. <hi rendition="#i">smiđr</hi> sowol ‘arbeiter
           in holz’ wie ‘in metall’ bedeutet. Schwierig zu beurteilen ist
           aksl. <hi rendition="#i">mědĭ</hi> kupfer, erz. <pb facs="#f0015"
-            n="9"/>Vielleicht gehört es in diesen zusammenhang. Vgl. <hi
+            n="9"/><cb n="1"/>Vielleicht gehört es in diesen zusammenhang. Vgl. <hi
             rendition="#g">gasmiþōn</hi>.</p>
         <p><hi rendition="#b">ajukdūþs</hi> f. ewigkeit, abgeleitet von <hi
             rendition="#i">*ajuks</hi>, ags. <hi rendition="#i">éce</hi>
@@ -1148,7 +1154,8 @@
           auf welche das vieh getrieben wird’: vgl. hd. <hi rendition="#i"
             >trift</hi> zu <hi rendition="#i">treiben</hi>.</p>
         <p><hi rendition="#b">alabalstraún</hi> n. alabastergefäss, aus gr.
-            <hi rendition="#i">ἀλάβαστρον</hi>, das semitischen ursprunges
+            <hi rendition="#i">ἀλάβαστρον</hi>, das semitischen
+            <cb n="2"/>ursprunges
           sein soll (Lewy, Die semit. fremdwörter im griechischen 55). Man
           beachte das vor <hi rendition="#i">str</hi> eingeschobene <hi
             rendition="#i">l</hi> in <hi rendition="#i">alabalstraún</hi>:
@@ -1193,7 +1200,7 @@
         <p><hi rendition="#b">alds</hi> f. alter wird mit <hi
             rendition="#g">alþeis</hi> zu <hi rendition="#g">alan</hi>
           gestellt, was wegen der bedeutung kaum bedenken erregen <pb
-            facs="#f0016" n="10"/>kann: man vergleiche die verschiedenen
+            facs="#f0016" n="10"/><cb n="1"/>kann: man vergleiche die verschiedenen
           bedeutungen von ai. <hi rendition="#i">vardh-</hi> wachsen,
           gedeihen, gedeihen machen, <hi rendition="#i">vṛddhá-</hi>
           erwachsen, alt. Vgl. <hi rendition="#g">framaldrs</hi>.</p>
@@ -1234,7 +1241,8 @@
           ölbaum, <hi rendition="#i">ἔλαιον</hi> öl ist nicht bekannt:
           wahrscheinlich sind die lateinischen Wörter aus den griechischen
           hervorgegangen und entstammen diese selbst dem orient. Vgl. noch
-          Kretschmer, Einl. in die geschichte der griechischen sprache 112
+          Kretschmer, Einl. in die geschichte 
+          <cb n="2"/>der griechischen sprache 112
           f. f.</p>
         <p><hi rendition="#b">alhs</hi> f. tempel, ags. <hi rendition="#i"
             >ealh</hi>, as. <hi rendition="#i">alah</hi>, zu ags. <hi
@@ -1279,7 +1287,7 @@
         <p><hi rendition="#b">aljar</hi> anderswo, ags. <hi rendition="#i"
             >ellor</hi>, as. <hi rendition="#i">ellior</hi> anderswohin,
           mnl. <hi rendition="#i">elder</hi> anderswo, <pb facs="#f0017"
-            n="11"/>wie an. <hi rendition="#i">ellar</hi>, <hi
+            n="11"/><cb n="1"/>wie an. <hi rendition="#i">ellar</hi>, <hi
             rendition="#i">ella</hi> anders zu <hi rendition="#g"
             >aljis</hi>. Gebildet wie <hi rendition="#g">hēr</hi>, <hi
             rendition="#g">hwar</hi> u. s. w.</p>
@@ -1336,7 +1344,7 @@
             rendition="#g">alan</hi>.</p>
         <p><hi rendition="#b">amēn</hi> wahrlich, amen, fremdwort: <hi
             rendition="#i">ἀμήν</hi>.</p>
-        <p><hi rendition="#b">ams</hi> m. schulter (oder ist <hi
+        <cb n="2"/><p><hi rendition="#b">ams</hi> m. schulter (oder ist <hi
             rendition="#i">amsa</hi> als nom. anzusetzen?), urverwant mit
           lat. <hi rendition="#i">umerus</hi>, gr. <hi rendition="#i"
             >ὦμος</hi>, armen. <hi rendition="#i">us</hi>, ai. <hi
@@ -1388,7 +1396,7 @@
           173 f.) soll <hi rendition="#i">anaks</hi> aber aus armen. <hi
             rendition="#i">anakn-</hi> plötzlich entlehnt sein.</p>
         <p><hi rendition="#b">anakumbjan</hi> sich niederlegen (zum <pb
-            facs="#f0018" n="12"/>essen), umbildung von lat. <hi
+            facs="#f0018" n="12"/><cb n="1"/>essen), umbildung von lat. <hi
             rendition="#i">accumbere</hi>. Vgl. <hi rendition="#g"
             >kubitus</hi>.</p>
         <p><hi rendition="#b">anakunnan</hi> lesen, <hi rendition="#i"
@@ -1436,7 +1444,7 @@
           sondern echtgerm. Das <hi rendition="#i">p</hi> im anlaut wird
           aus idg. <hi rendition="#i">b</hi> entstanden sein, weshalb
           zusammenhang mit gr. βρόγχος luftröhre, schlund, schluck vermutet
-          werden darf: man beachte schw. <hi rendition="#i">prang</hi> enge
+          <cb n="2"/>werden darf: man beachte schw. <hi rendition="#i">prang</hi> enge
           gasse, schlund, das sicher zu <hi rendition="#i">-praggan</hi>
           gehört (Johansson, Kuhns Zs. 36, 346). Anders Zupitza (Die germ.
           gutturale 25 f.), der von <hi rendition="#i">spr</hi> ausgeht und
@@ -1482,7 +1490,7 @@
         <p><hi rendition="#b">anawammjan</hi> beflecken, zu <hi
             rendition="#g">wamm</hi>.</p>
         <p><hi rendition="#b">anawiljei</hi> f. willigkeit, sanftmut, <pb
-            facs="#f0019" n="13"/>zu <hi rendition="#g">ana</hi> und <hi
+            facs="#f0019" n="13"/><cb n="1"/>zu <hi rendition="#g">ana</hi> und <hi
             rendition="#g">wiljan</hi>. Zunächst beruht <hi rendition="#i"
             >anawiljei</hi> auf einem adj. <hi rendition="#i"
             >*anawiljis</hi> willig.</p>
@@ -1531,7 +1539,8 @@
             rendition="#i">andniman</hi> (s. <hi rendition="#g"
             >andanēm</hi>). Das <hi rendition="#i">t</hi> in <hi
             rendition="#i">andanumts</hi> scheint von <hi rendition="#i"
-            >fralusts</hi> u. dgl. herübergenommen zu sein: vgl. ahd. <hi
+            >fralusts</hi> u.
+            <cb n="2"/>dgl. herübergenommen zu sein: vgl. ahd. <hi
             rendition="#i">numft</hi>, <hi rendition="#i">nunft</hi>
           nehmen, ai. <hi rendition="#i">nati-</hi> senkung,
           verbeugung.</p>
@@ -1578,7 +1587,7 @@
             rendition="#i">ambahti</hi>, <hi rendition="#i">ambaht</hi>
           amt, dienst, <hi rendition="#i">ambaht</hi> diener, <hi
             rendition="#i">ambahten</hi>
-          <pb facs="#f0020" n="14"/>einen dienst vollbringen. Die sippe
+          <pb facs="#f0020" n="14"/><cb n="1"/>einen dienst vollbringen. Die sippe
           beruht vielleicht auf gall.-lat. <hi rendition="#i">ambactus</hi>
           dienstmann und <hi rendition="#i">andbahts</hi>, <hi
             rendition="#i">andbahti</hi> können durch anlehnung an <hi
@@ -1620,7 +1629,8 @@
           zu <hi rendition="#g">lētan</hi>.</p>
         <p><hi rendition="#b">andstald</hi> n. darreichung, dienstleistung
           (eher so als <hi rendition="#i">andstalds</hi> m.), <hi
-            rendition="#i">andstaldan</hi> mit etwas versehen, etwas geben,
+            rendition="#i">andstaldan</hi> mit etwas versehen, etwas
+            <cb n="2"/>geben,
           darreichen, <hi rendition="#i">gastaldan</hi> erwerben, besitzen,
           dazu <hi rendition="#i">aglaitgastalds</hi> schändlichen gewinn
           erstrebend. Das westgerm. hat nur die zusammensetzung ags. <hi
@@ -1662,7 +1672,7 @@
             rendition="#i">zilōn</hi> sich beeilen, denominativum von <hi
             rendition="#g">til</hi>.</p>
         <p><hi rendition="#b">andwaírþi</hi> n. gegenwart, angesicht, <pb
-            facs="#f0021" n="15"/><hi rendition="#i">andwaírþis</hi>
+            facs="#f0021" n="15"/><cb n="1"/><hi rendition="#i">andwaírþis</hi>
           gegenüber, <hi rendition="#i">andwaírþs</hi> gegenwärtig, ags.
             <hi rendition="#i">andweard</hi>, as. <hi rendition="#i"
             >andward</hi>, ahd. <hi rendition="#i">antwart</hi>, <hi
@@ -1705,7 +1715,8 @@
             <hi rendition="#i">andar</hi>, identisch mit lit. <hi
             rendition="#i">ântras</hi>, apr. <hi rendition="#i"
           >antars</hi>, osset. <hi rendition="#i">ändär</hi>, ai. <hi
-            rendition="#i">ántara-</hi> und verwant mit avest. <hi
+            rendition="#i">ántara-</hi> und verwant mit
+            <cb n="2"/>avest. <hi
             rendition="#i">anya-</hi>, ap. <hi rendition="#i">aniya-</hi>,
           ai. <hi rendition="#i">anyá-</hi> ander. Ob aksl. <hi
             rendition="#i">vŭtorŭ</hi> und gr. <hi rendition="#i"
@@ -1757,7 +1768,7 @@
             rendition="#i">rabŭ</hi>, <hi rendition="#i">robŭ</hi> knecht,
           diener, leibeigner, poln. <hi rendition="#i">robić</hi> arbeiten,
           armen. <hi rendition="#i">arbaneak</hi> gehilfe, diener, und
-          weiter mit unerklärtem <pb facs="#f0022" n="16"/><hi
+          weiter mit unerklärtem <pb facs="#f0022" n="16"/><cb n="1"/><hi
             rendition="#i">d</hi> im anlaut lit. <hi rendition="#i"
             >dárbas</hi> arbeit, <hi rendition="#i">darbùs</hi> arbeitsam,
             <hi rendition="#i">dìrbti</hi> arbeiten: vgl. lit. <hi
@@ -1811,7 +1822,8 @@
             rendition="#i">erran</hi>, ein allgem. europ. wort: lit. <hi
             rendition="#i">ariù</hi>, <hi rendition="#i">árti</hi>, aksl.
             <hi rendition="#i">orją</hi>, <hi rendition="#i">orati</hi>,
-          air. <hi rendition="#i">airim</hi>, lat. <hi rendition="#i"
+          air.
+          <cb n="2"/><hi rendition="#i">airim</hi>, lat. <hi rendition="#i"
             >arāre</hi>, gr. <hi rendition="#i">ἀρόω</hi>. Dazu an. <hi
             rendition="#i">arđr</hi> pflug, lit. <hi rendition="#i"
             >árklas</hi>, aksl. <hi rendition="#i">ralo</hi>, air. <hi
@@ -1863,7 +1875,7 @@
             <hi rendition="#i">arms</hi> aus idg. <hi rendition="#i"
             >*ormo-</hi> und vergleicht armen. <hi rendition="#i"
             >oλormim</hi> misereor („une forme redoublee <pb facs="#f0023"
-            n="17"/>avec dissimilation de <hi rendition="#i">r</hi> en <hi
+            n="17"/><cb n="1"/>avec dissimilation de <hi rendition="#i">r</hi> en <hi
             rendition="#i">λ</hi>”). Alles unsicher. Vielleicht ist
           ‘bemitleidet, bemitleidenswert’ die grundbedeutung von <hi
             rendition="#i">arms</hi>: vgl. finn. lw. <hi rendition="#i"
@@ -1905,7 +1917,8 @@
           identisch mit apr. <hi rendition="#i">assanis</hi>, aksl. <hi
             rendition="#i">jesenĭ</hi> herbst. Vgl. ferner an. <hi
             rendition="#i">ǫnn</hi> feldarbeit, <hi rendition="#i"
-            >annask</hi> versorgen, sorge tragen, sich mühen, ags. <hi
+            >annask</hi> versorgen,
+            <cb n="2"/>sorge tragen, sich mühen, ags. <hi
             rendition="#i">earnian</hi> verdienen, ahd. <hi rendition="#i"
             >arnōn</hi> ernten und mhd. <hi rendition="#i">asten</hi>
           bebauen. Hierher stellt man noch lat. <hi rendition="#i"
@@ -1950,7 +1963,7 @@
             >asinus</hi>, das selbst etymologisch noch nicht aufgeklärt ist
           und trotz G. Meyer (Idg. forschungen 1, 319 f.) kaum etwas mit
           gr. <hi rendition="#i">ὄνος</hi> zu tun haben kann. <pb
-            facs="#f0024" n="18"/>Wahrscheinlich ist <hi rendition="#i"
+            facs="#f0024" n="18"/><cb n="1"/>Wahrscheinlich ist <hi rendition="#i"
             >asinus</hi> orientalischen ursprunges: s. G. Meyer a. a. o.
           und Schrader, Sprachvergl. und urgeschichte ²385.</p>
         <p><hi rendition="#b">asneis</hi> m. tagelöhner, ags. <hi
@@ -1997,7 +2010,8 @@
           geschichte, wie es fast in jeder sprache gibt, vgl. ahd. <hi
             rendition="#i">atto</hi>, aksl. <hi rendition="#i">otĭcĭ</hi>
             (<hi rendition="#i">*otŭ</hi>) vater, air. <hi rendition="#i"
-            >aite</hi> pflegevater, lat. <hi rendition="#i">atta</hi>, gr.
+            >aite</hi> pflegevater, lat. <hi rendition="#i">atta</hi>,
+            <cb n="2"/>gr.
             <hi rendition="#i">ἄττα</hi>, alban. <hi rendition="#i">at</hi>
           vater, osset. <hi rendition="#i">äda</hi> väterchen, skr. <hi
             rendition="#i">attā</hi> mutter, ältere schwester und
@@ -2051,7 +2065,7 @@
             rendition="#i">auda-</hi> in <hi rendition="#g"
           >audahafts</hi>.</p>
         <p><hi rendition="#b">audahafts</hi> beglückt, beseligt enthält <pb
-            facs="#f0025" n="19"/>den gemeingerm. stamm <hi rendition="#i"
+            facs="#f0025" n="19"/><cb n="1"/>den gemeingerm. stamm <hi rendition="#i"
             >auda-</hi>: an. <hi rendition="#i">auđr</hi>, ags. <hi
             rendition="#i">éad</hi>, as. <hi rendition="#i">ōd</hi>, ahd.
             <hi rendition="#i">ōt</hi> besitz, gut, reichtum. Dazu an. <hi
@@ -2099,7 +2113,8 @@
           zunächst mit gr. <hi rendition="#i">ὀπωπή</hi> zu vergleichen.
           Einige forscher trennen <hi rendition="#i">augō</hi> von der wz.
             <hi rendition="#i">*oq-</hi>: Stokes (Kuhns Zs. 35, 151 f.) und
-          Zupitza (Die germ. gutturale 74) stellen es zu air. <hi
+          Zupitza (Die germ. gutturale
+          <cb n="2"/>74) stellen es zu air. <hi
             rendition="#i">úag</hi> höhle, grab (vgl. für die
           bedeutungsentwicklung ir. <hi rendition="#i">derc</hi> auge,
           höhle und hebr. <hi rendition="#i">a͑jin</hi> auge, quelle).
@@ -2146,7 +2161,7 @@
         <p><hi rendition="#b">aúhuma,</hi>
           <hi rendition="#i">aúhumists</hi>, <hi rendition="#i"
             >aúhmists</hi> höchst (die form <hi rendition="#i">aúhuma</hi>
-          wird comparativisch <pb facs="#f0026" n="20"/>gebraucht), ags.
+          wird comparativisch <pb facs="#f0026" n="20"/><cb n="1"/>gebraucht), ags.
             <hi rendition="#i">ýmest</hi> (s. Ehrismann, Beitr. 18, 232),
           zu apr. <hi rendition="#i">ucka-</hi> praefix zur
           superlativbildung.</p>
@@ -2192,7 +2207,7 @@
             rendition="#g">gards</hi>. Aksl. <hi rendition="#i"
             >vrŭtogradŭ</hi> beruht auf <hi rendition="#i">aúrtigards</hi>
           oder einer ähnlichen altgerm. form.</p>
-        <p><hi rendition="#b">aúrtja</hi> m. gärtner, ableitung von <hi
+        <cb n="2"/><p><hi rendition="#b">aúrtja</hi> m. gärtner, ableitung von <hi
             rendition="#i">aúrti-</hi> kraut, an. <hi rendition="#i"
             >urt</hi>, eher verwant mit <hi rendition="#i">waúrts</hi> als,
           wie Kluge (s. Pauls Grundr. 1², 339) vermutet, aus lat. <hi
@@ -2245,7 +2260,7 @@
           schaf. <hi rendition="#i">Awēþi</hi> ist eine collectivbildung,
           welche sich mit lat. <hi rendition="#i">vinētum</hi>, <hi
             rendition="#i">fruticētum</hi> u. s. w. vergleichen lässt (van
-          Helten, <pb facs="#f0027" n="21"/>Beitr. 20, 506 f.). Das
+          Helten, <pb facs="#f0027" n="21"/><cb n="1"/>Beitr. 20, 506 f.). Das
           verhältnis von <hi rendition="#i">awēþi</hi> zu ags. <hi
             rendition="#i">éowde</hi>, ahd. <hi rendition="#i">ewit</hi>
           ist dunkel. Vgl. <hi rendition="#g">awistr</hi>. Für ‘lamm,
@@ -2296,7 +2311,8 @@
           f.). Armen. <hi rendition="#i">hav</hi> grossvater gehört nicht
           hierher.</p>
         <p><hi rendition="#b">azēts</hi> leicht, adv. <hi rendition="#i"
-            >azētaba</hi> gern, leicht, <hi rendition="#i">azēti</hi> n.
+            >azētaba</hi> gern,
+            <cb n="2"/>leicht, <hi rendition="#i">azēti</hi> n.
           leichtigkeit, annehmlichkeit, lust. Bugge (Idg. forschungen 5,
           172 f.) denkt an entlehnung aus armen. <hi rendition="#i"
             >azat</hi> frei, das selbst auf pers. <hi rendition="#i"
@@ -2342,7 +2358,7 @@
           forschungen 5, 177).</p>
         <p><hi rendition="#b">badi</hi> n. bett, an. <hi rendition="#i"
             >beđr</hi> polster (dieselbe bedeutung haben die aus <pb
-            facs="#f0028" n="22"/> dem germ. entlehnten finn. <hi
+            facs="#f0028" n="22"/><cb n="1"/>dem germ. entlehnten finn. <hi
             rendition="#i">patja</hi>, estn. <hi rendition="#i">padi</hi>),
           ags. <hi rendition="#i">bed</hi>, as. <hi rendition="#i"
           >bed</hi>, ahd. <hi rendition="#i">betti</hi> bett, beet. Franck
@@ -2384,7 +2400,8 @@
           für sicher gelten, denn das <hi rendition="#i">đ</hi> in an. <hi
             rendition="#i">bađmr</hi> sträubt sich gegen jede bisher
           vorgebrachte erklärung (vgl. jedoch Loewe, Die ethnische und
-          sprachliche gliederung der Germanen 5 fussnote). Zu beachten ist
+          sprachliche gliederung der Germanen
+          <cb n="2"/>5 fussnote). Zu beachten ist
           noch aschw. <hi rendition="#i">bagn</hi> baumstamm, das sich zu
             <hi rendition="#i">bagms</hi> verhalten könnte wie an. <hi
             rendition="#i">botn</hi>, ai. <hi rendition="#i">budhná-</hi>
@@ -2436,7 +2453,7 @@
             <hi rendition="#g">baúr</hi>, <hi rendition="#g">barúrþei</hi>,
             <hi rendition="#g">bērusjōs</hi>, <hi rendition="#g"
             >gabaúr</hi>, <hi rendition="#g">gabaúrþs</hi>.</p>
-        <pb facs="#f0029" n="23"/>
+        <pb facs="#f0029" n="23"/><cb n="1"/>
         <p><hi rendition="#b">baírgahei</hi> f. bergland, <hi
             rendition="#i">*baírgahs</hi> gebirgig, abgeleitet von germ.
             <hi rendition="#i">*berga-</hi>: an. <hi rendition="#i"
@@ -2484,7 +2501,8 @@
           as. ahd. <hi rendition="#i">bittar</hi>. Zu <hi rendition="#g"
             >beitan</hi>.</p>
         <p><hi rendition="#b">bajōþs</hi> beide, zu <hi rendition="#g"
-            >bai</hi>. Vgl. die litauischen zahlwortbildungen auf <hi
+            >bai</hi>. Vgl. die litauischen zahlwortbildungen auf
+            <cb n="2"/><hi
             rendition="#i">-ėtas</hi> wie <hi rendition="#i">dvejė̕tas</hi>
           anzahl von zweien.</p>
         <p><hi rendition="#b">balgs</hi> m. schlauch, an. <hi
@@ -2530,7 +2548,7 @@
           Verwant ist an. <hi rendition="#i">baldr</hi>, ags. <hi
             rendition="#i">bealdor</hi> fürst, woher der name des gottes
           Balder. Ganz unsicheres bei Johansson, Beitr. <pb facs="#f0030"
-            n="24"/> 15, 225 f. und Osthoff, Beitr. 18, 255 f.</p>
+            n="24"/><cb n="1"/>15, 225 f. und Osthoff, Beitr. 18, 255 f.</p>
         <p><hi rendition="#b">balwawēsei</hi> f. bosheit, muss vielleicht
             <hi rendition="#i">*balwaweisei</hi> geschrieben werden (vgl.
             <hi rendition="#i">hindarweisei</hi> arglist, s. <hi
@@ -2577,7 +2595,8 @@
             <hi rendition="#i">beniwunda</hi>, zu an. <hi rendition="#i"
             >bane</hi>, ags. <hi rendition="#i">bona</hi>, as. <hi
             rendition="#i">bano</hi> mörder, ahd. <hi rendition="#i"
-            >bano</hi> tod, verderben. Gehört germ. <hi rendition="#i"
+            >bano</hi>
+            <cb n="2"/>tod, verderben. Gehört germ. <hi rendition="#i"
             >ban-</hi> mit ablautsentgleisung zu air. <hi rendition="#i"
             >benim</hi> schlage, bret. <hi rendition="#i">benaff</hi>
           schneide, aksl. <hi rendition="#i">biti</hi> schlagen (s.
@@ -2620,7 +2639,7 @@
           kind, vgl. lit. <hi rendition="#i">bérnas</hi> knecht, jüngling.
           Dazu <hi rendition="#i">barnisks</hi>, an. <hi rendition="#i"
             >bernskr</hi>
-          <pb facs="#f0031" n="25"/>kindisch, lit. <hi rendition="#i"
+          <pb facs="#f0031" n="25"/><cb n="1"/>kindisch, lit. <hi rendition="#i"
             >bérniszkas</hi> knechtisch. Wahrscheinlich zu <hi
             rendition="#g">baíran</hi>.</p>
         <p><hi rendition="#b">barusnjan</hi> ehren, ein wort dunkelen
@@ -2674,7 +2693,8 @@
             >baíran</hi>.</p>
         <p><hi rendition="#b">baúrd,</hi> s. <hi rendition="#g"
             >fōtubaúrd</hi>.</p>
-        <p><hi rendition="#b">baúrgs</hi> f. stadt, an. <hi rendition="#i"
+        <cb n="2"/><p><hi rendition="#b">baúrgs</hi>
+        f. stadt, an. <hi rendition="#i"
             >borg</hi>, ags. as. ahd. <hi rendition="#i">burg</hi> burg,
           stadt, identisch mit gall. <hi rendition="#i">brig-</hi> in <hi
             rendition="#i">Brigiani</hi>, <hi rendition="#i">Brigantes</hi>
@@ -2720,7 +2740,7 @@
         <p><hi rendition="#b">beidan</hi> erwarten, an. <hi rendition="#i"
             >bíđa</hi> erwarten, ertragen, ags. <hi rendition="#i"
             >bídan</hi> verweilen, erwarten, ertragen, as. <hi
-            rendition="#i">bīdan</hi>, ahd. <pb facs="#f0032" n="26"/><hi
+            rendition="#i">bīdan</hi>, ahd. <pb facs="#f0032" n="26"/><cb n="1"/><hi
             rendition="#i">bītan</hi> warten wird gewöhnlich mit lat. <hi
             rendition="#i">fīdo</hi> vertraue, gr. <hi rendition="#i"
             >πειϑω</hi> überrede identificiert, was wegen der bedeutung
@@ -2773,7 +2793,8 @@
           und Zupitza (Die germ. gutturale 95) annehmen, für <hi
             rendition="#i">*bidaqa</hi> verschrieben? Vgl. ags. <hi
             rendition="#i">bedecian</hi> betteln.</p>
-        <p><hi rendition="#b">bidjan</hi> bitten, beten, betteln, an. <hi
+        <cb n="2"/><p><hi rendition="#b">bidjan</hi> bitten,
+        beten, betteln, an. <hi
             rendition="#i">biđja</hi>, ags. <hi rendition="#i">biddan</hi>,
           as. <hi rendition="#i">biddian</hi>, ahd. <hi rendition="#i"
             >bittan</hi> gehört nach Kern (Tijdschr. v. Ned. taal- en
@@ -2822,7 +2843,7 @@
           vergessen. Mit germ. <hi rendition="#i">*getan</hi> erfassen,
           erlangen, vermuten, raten sind urverwant: aksl. <hi
             rendition="#i">gadati</hi> raten (daneben <hi rendition="#i"
-            >gatati</hi>), <pb facs="#f0033" n="27"/>lat. <hi
+            >gatati</hi>), <pb facs="#f0033" n="27"/><cb n="1"/>lat. <hi
             rendition="#i">prehendo</hi> ergreife, <hi rendition="#i"
             >praeda</hi> (<hi rendition="#i">*praiheda</hi> beute, <hi
             rendition="#i">hedera</hi> epheu, gr. <hi rendition="#i"
@@ -2882,7 +2903,8 @@
         <p><hi rendition="#b">bimait</hi> n. beschneidung, zu <hi
             rendition="#i">bimaitan</hi> beschneiden, s. <hi rendition="#g"
             >maitan</hi>.</p>
-        <p><hi rendition="#b">bimampjan</hi> verhöhnen, verspotten, weist
+        <p><hi rendition="#b">bimampjan</hi> verhöhnen, verspotten,
+        <cb n="2"/>weist
           auf eine idg. wz. mit <hi rendition="#i">b</hi> im auslaut.
           Trotzdem darf man es kaum von gr. <hi rendition="#i"
             >μέμφομαι</hi> tadele, <hi rendition="#i">μομφή</hi> tadel
@@ -2935,7 +2957,7 @@
             >rōf</hi> (<hi rendition="#i">nōdrōf</hi> gewaltsame
           entreissung), ahd. <hi rendition="#i">roub</hi> raub, zu an. <hi
             rendition="#i">rjúfa</hi>, ags. <hi rendition="#i">réofan</hi>
-          <pb facs="#f0034" n="28"/>brechen, zerreissen und ausserhalb des
+          <pb facs="#f0034" n="28"/><cb n="1"/>brechen, zerreissen und ausserhalb des
           germ. lit. <hi rendition="#i">rūpė̕ti</hi> kümmern, <hi
             rendition="#i">rûpestis</hi> sorge (diese bedeutungen lassen
           sich sehr wol aus dem grundbegriff des brechens erklären), <hi
@@ -2982,7 +3004,8 @@
           lästern, welche wegen des anl. <hi rendition="#i">ch</hi> besser
           zur seite gelassen werden (s. jedoch Pedersen, Idg. forschungen
           5, 64). Auf grund von an. <hi rendition="#i">saurr</hi> feuchte
-          erde, schlamm, kot wird man das <hi rendition="#i">l</hi> in
+          erde, schlamm, kot wird man das <hi rendition="#i">l</hi>
+          <cb n="2"/>in
           germ. <hi rendition="#i">saul-</hi> zum suffix ziehen müssen.
           Weitere unsichere combinationen findet man bei Person (Wurzelerw.
           175), der ohne genügenden grund an die sippe von ai. <hi
@@ -3031,7 +3054,7 @@
         <p><hi rendition="#b">biūhts</hi> gewohnt, aus <hi rendition="#i"
             >bi</hi> und <hi rendition="#i">-ūhts</hi>, das auf idg. <hi
             rendition="#i">*uṅkto-</hi> zurückgeht, vgl. <pb facs="#f0035"
-            n="29"/>lit. <hi rendition="#i">jùnktas</hi> gewohnt, <hi
+            n="29"/><cb n="1"/>lit. <hi rendition="#i">jùnktas</hi> gewohnt, <hi
             rendition="#i">jùnkti</hi> gewohnt werden, <hi rendition="#i"
             >jaukìnti</hi> gewöhnen, aksl. <hi rendition="#i">vyknąti</hi>
           sich gewöhnen, <hi rendition="#i">učiti</hi> lehren, ai. <hi
@@ -3077,7 +3100,8 @@
             rendition="#g">baúrgswaddjus</hi>, <hi rendition="#g"
           >wein</hi>).</p>
         <p><hi rendition="#b">blandan</hi> mischen, an. <hi rendition="#i"
-            >blanda</hi>, ags. as. <hi rendition="#i">blandan</hi>, ahd.
+            >blanda</hi>, ags.
+            <cb n="2"/>as. <hi rendition="#i">blandan</hi>, ahd.
             <hi rendition="#i">blantan</hi>, damit ablautend <hi
             rendition="#g">blinds</hi> und an. <hi rendition="#i"
             >blunda</hi> die augen schliessen, <hi rendition="#i"
@@ -3121,7 +3145,7 @@
         <p><hi rendition="#b">beiþjan</hi> mitleid haben, barmherzig sein,
           ahd. <hi rendition="#i">blīden</hi> sich freuen, zu <hi
             rendition="#g">bleiþs</hi>.</p>
-        <pb facs="#f0036" n="30"/>
+        <pb facs="#f0036" n="30"/><cb n="1"/>
         <p><hi rendition="#b">bleiþs</hi> freundlich, barmherzig, an. <hi
             rendition="#i">blíđr</hi> mild, sanft, ags. <hi rendition="#i"
             >blíđe</hi> mild, sanft, fröhlich, as. <hi rendition="#i"
@@ -3171,7 +3195,8 @@
             rendition="#i">blōtinassus</hi> m. Verehrung, <hi
             rendition="#g">guþblōstreis</hi>. Aussergerm. beziehungen sind
           nicht mit sicherheit nachgewiesen. Man vergleicht das mehrdeutige
-          lat. flāmen priester (aus <hi rendition="#i">*flādmen</hi>?
+          lat. flāmen priester (aus
+          <cb n="2"/><hi rendition="#i">*flādmen</hi>?
           Bugge, Bezz. Beitr. 3, 98). Nach andern wäre dieses wort mit ai.
             <hi rendition="#i">brahmán-</hi> zauberpriester, <hi
             rendition="#i">bráhman-</hi> zauberspruch zu identificieren (s.
@@ -3217,7 +3242,7 @@
           ags. <hi rendition="#i">bócere</hi> Schreiber, vgl. ahd. <hi
             rendition="#i">buohhāri</hi> schreiber, schriftgelehrter, zu
             <hi rendition="#g">bōka</hi>.</p>
-        <pb facs="#f0037" n="31"/>
+        <pb facs="#f0037" n="31"/><cb n="1"/>
         <p><hi rendition="#b">bōta</hi> f. nutzen, vorteil, an. ags. <hi
             rendition="#i">bót</hi>, as. <hi rendition="#i">bōta</hi>, ahd.
             <hi rendition="#i">buoʒa</hi> besserung, vergütung, zu <hi
@@ -3263,7 +3288,7 @@
             >brengan</hi>, as. <hi rendition="#i">brengian</hi> aus <hi
             rendition="#i">*brangjan</hi>. Die vorgeschichte des wortes ist
           dunkel, denn Johanssons erklärungsversuch (Beitr. 15, 227 f.)
-          darf kaum für gelungen gelten. Falls das <hi rendition="#i"
+          <cb n="2"/>darf kaum für gelungen gelten. Falls das <hi rendition="#i"
             >b</hi> in <hi rendition="#i">briggan</hi> aber wirklich aus
             <hi rendition="#g">bi</hi> entstanden ist, so darf man freilich
           an zusammenhang mit ahd. <hi rendition="#i">ringi</hi> leicht,
@@ -3314,7 +3339,7 @@
           gebrüder, zu <hi rendition="#g">brōþar</hi> (vgl. skr. <hi
             rendition="#i">bhrātṛka-</hi>).</p>
         <p><hi rendition="#b">brōþrulubō</hi> f. brüderliebe (auch <pb
-            facs="#f0038" n="32"/><hi rendition="#i">brōþralubō</hi>?), s.
+            facs="#f0038" n="32"/><cb n="1"/><hi rendition="#i">brōþralubō</hi>?), s.
             <hi rendition="#g">brōþar</hi> und <hi rendition="#g"
             >liufs</hi>.</p>
         <p><hi rendition="#b">brūkjan</hi> gebrauchen, an. <hi
@@ -3361,7 +3386,8 @@
             rendition="#i">brustian</hi> knospe zu verbinden, welche uns in
           die sippe von an. <hi rendition="#i">brjóta</hi>, ags. <hi
             rendition="#i">bréotan</hi> brechen, mhd. <hi rendition="#i"
-            >brieʒen</hi> hervorbrechen, aufschwellen, knospen
+            >brieʒen</hi> hervorbrechen,
+            <cb n="2"/>aufschwellen, knospen
           hineinführen. Vgl. auch ags. <hi rendition="#i">brýsan</hi>
           brechen, air. <hi rendition="#i">brúim</hi> zerschlage,
           zerschmettere (zunächst aus <hi rendition="#i">*brūsyō</hi>).
@@ -3404,7 +3430,7 @@
             <hi rendition="#i">þ</hi> zu lit. <hi rendition="#i">martì</hi>
           braut, Solmsen, Kuhns Zs. 35, 481 f. f.) ist uns durch Busbeck
           erhalten geblieben.</p>
-        <pb facs="#f0039" n="33"/>
+        <pb facs="#f0039" n="33"/><cb n="1"/>
         <p><hi rendition="#b">bugjan</hi> kaufen, ags. <hi rendition="#i"
             >bycgan</hi>, as. <hi rendition="#i">buggian</hi>. Unbekannten
           ursprunges.</p>
@@ -3457,7 +3483,8 @@
             rendition="#i">azan-</hi>, ai. <hi rendition="#i">áhan-</hi>,
             <hi rendition="#i">áhar</hi>, <hi rendition="#i">áhas-</hi>
           (vgl. an. <hi rendition="#i">dǿgr</hi>, ags. dógor mit <hi
-            rendition="#i">r</hi> aus <hi rendition="#i">z</hi>) hierher
+            rendition="#i">r</hi> aus <hi rendition="#i">z</hi>)
+          <cb n="2"/>hierher
           gehört, ist zweifelhaft: vgl. das unter <hi rendition="#g"
             >arbaiþs</hi> bemerkte und s. Bugge (Bezz. Beitr. 14, 72
           f.).</p>
@@ -3510,7 +3537,7 @@
           gr. <hi rendition="#i">τυφλός</hi> blind, dunkel, <hi
             rendition="#i">τῦφος</hi> rauch, <hi rendition="#i">τυ᷄φω</hi>
           mache rauch, <hi rendition="#i">τῡφόω</hi> räuchere, <pb
-            facs="#f0040" n="34"/>mache hoffärtig, stumpfsinnig. Vgl. <hi
+            facs="#f0040" n="34"/><cb n="1"/>mache hoffärtig, stumpfsinnig. Vgl. <hi
             rendition="#g">dumbs</hi>.</p>
         <p><hi rendition="#b">daúhtar</hi> f. tochter, an. <hi
             rendition="#i">dótter</hi>, ags. <hi rendition="#i"
@@ -3559,7 +3586,7 @@
             >dorus</hi> tor, lat. <hi rendition="#i">forēs</hi> pl. tor,
             <hi rendition="#i">forum</hi> marktplatz, gr. <hi
             rendition="#i">ϑὐρᾱ</hi>, armen. <hi rendition="#i">duρn</hi>
-            (<hi rendition="#i">n</hi>-stamm, vgl. <hi rendition="#i"
+            <cb n="2"/>(<hi rendition="#i">n</hi>-stamm, vgl. <hi rendition="#i"
             >daúrōns</hi>), pl. <hi rendition="#i">durkh</hi>, avest. <hi
             rendition="#i">dvar-</hi>, ap. <hi rendition="#i">duvar-</hi>,
           ai. <hi rendition="#i">dvār-</hi>, <hi rendition="#i">dur-</hi>
@@ -3617,7 +3644,7 @@
             rendition="#i">dehalī́</hi> schwelle, terrasse, <hi
             rendition="#i">dehikā</hi> ein best. insect, das die erde
           aufwirft, <hi rendition="#i">uddehikā</hi> termite. Dazu gehören
-            <pb facs="#f0041" n="35"/>auch lit. <hi rendition="#i"
+            <pb facs="#f0041" n="35"/><cb n="1"/>auch lit. <hi rendition="#i"
             >dižti</hi>, <hi rendition="#i">dëžti</hi> durchprügeln (vgl.
           für die bedeutung mhd. <hi rendition="#i">smīʒen</hi> streichen,
           schlagen), lett. <hi rendition="#i">dëzēt</hi> anbieten,
@@ -3667,7 +3694,7 @@
         <p><hi rendition="#b">distaheins</hi> f. zerstreuung, zu <hi
             rendition="#i">distahjan</hi> zerstreuen, s. <hi rendition="#g"
             >tahjan</hi>.</p>
-        <p><hi rendition="#b">distaíran</hi> zerreissen, aus einander
+        <cb n="2"/><p><hi rendition="#b">distaíran</hi> zerreissen, aus einander
           treiben, <hi rendition="#i">gataíran</hi> zerreissen, zerstören,
           auflösen enthalten das sonst nicht belegte <hi rendition="#i"
             >-taíran</hi> reissen (dazu <hi rendition="#i">-taúrnan</hi>,
@@ -3719,7 +3746,7 @@
             <hi rendition="#i">dwfn</hi>, air. <hi rendition="#i"
             >domun</hi> tief. Neben idg. <hi rendition="#i">*dheub-</hi>
           steht <hi rendition="#i">*dheup-</hi>
-          <pb facs="#f0042" n="36"/>in ags. <hi rendition="#i">dýfan</hi>,
+          <pb facs="#f0042" n="36"/><cb n="1"/>in ags. <hi rendition="#i">dýfan</hi>,
             <hi rendition="#i">dúfan</hi>, an. <hi rendition="#i"
           >dýfa</hi>, <hi rendition="#i">deyfa</hi> tauchen, mnd. <hi
             rendition="#i">bedoven</hi> niedergesunken, mhd. <hi
@@ -3768,7 +3795,8 @@
             >dóm</hi> urteil, gericht, meinung, ansehen, ruhm, afris. <hi
             rendition="#i">dōm</hi> rechtliche entscheidung, gericht, as.
             <hi rendition="#i">dōm</hi> meinung, urteil, gericht, ahd. <hi
-            rendition="#i">tuom</hi> urteil, gericht, satzung, tat,
+            rendition="#i">tuom</hi> urteil, gericht,
+            <cb n="2"/>satzung, tat,
           leistung, macht, stand, zustand (davon abgeleitet <hi
             rendition="#g">dōmjan</hi>), zu ags. <hi rendition="#i"
             >dón</hi>, afris. <hi rendition="#i">dua</hi>, as. <hi
@@ -3820,7 +3848,7 @@
           von dem in <hi rendition="#g">draúhtiwitōþ</hi> und <hi
             rendition="#g">gadraúhts</hi> steckenden <hi rendition="#i"
             >draúhti-</hi>.</p>
-        <pb facs="#f0043" n="37"/>
+        <pb facs="#f0043" n="37"/><cb n="1"/>
         <p><hi rendition="#b">draúhtiwitōþ</hi> n. kriegsdienst,
           zusammensetzung aus <hi rendition="#i">draúhti-</hi> und <hi
             rendition="#g">witōþ</hi>. Mit <hi rendition="#i">draúhti-</hi>
@@ -3870,7 +3898,8 @@
           vergleicht gr. <hi rendition="#i">ϑραύω</hi> zerbreche, zermalme.
           Eher sind lett. <hi rendition="#i">druska</hi> krümchen, brocken,
           cymr. <hi rendition="#i">dryll</hi>, lat. <hi rendition="#i"
-            >frūstum</hi> brocken verwant. Vgl. <hi rendition="#g"
+            >frūstum</hi> brocken verwant.
+            <cb n="2"/>Vgl. <hi rendition="#g"
             >drauhsna</hi>, <hi rendition="#g">driusō</hi>, <hi
             rendition="#g">drus</hi>, <hi rendition="#g">usdrusts</hi>.</p>
         <p><hi rendition="#b">driusō</hi> f. abhang, jähe stelle, zu <hi
@@ -3918,7 +3947,7 @@
             rendition="#i">djužij</hi> stark, rüstig und vielleicht mit gr.
             <hi rendition="#i">τεύχω</hi> verfertige, rüste, bereite, <hi
             rendition="#i">τυγχάνω</hi> treffe, <pb facs="#f0044" n="38"
-          />habe glück, <hi rendition="#i">τύχη</hi> schicksal, glück.
+          /><cb n="1"/>habe glück, <hi rendition="#i">τύχη</hi> schicksal, glück.
           Bezzenberger (Bezz. Beitr. 16, 247) stellt <hi rendition="#i"
             >dugan</hi> und lit. <hi rendition="#i">dâug</hi> zu ai. <hi
             rendition="#i">dógdhi</hi> melkt, beutet aue.</p>
@@ -3958,7 +3987,8 @@
             rendition="#i">dleout</hi> schuldigkeit, Vgl. den aufsatz von
           d’Arbois de Jubainville über gemeinschaftliche rechtsausdrücke
           der Kelten und Germanen (Mém. de la Soc. de Ling. 7, 286 f. f.).
-          Ein anderes urteil über die Wörter für ‘wunde’ hat Ehrismann
+          Ein anderes urteil
+          <cb n="2"/>über die Wörter für ‘wunde’ hat Ehrismann
           (Beitr. 20, 60).</p>
         <p><hi rendition="#b">dulþs</hi> f. fest (davon <hi rendition="#i"
             >dulþjan</hi> ein fest feiern), ahd. <hi rendition="#i"
@@ -3999,7 +4029,7 @@
             rendition="#i">cluas-dall</hi> taub) gestellt werden darf. Der
           ganzen sippe scheint der begriff der finsternis und der
           verwirrung zu grunde zu liegen: vgl. noch lit. <hi rendition="#i"
-            >dūlis</hi> räuchermasse, <pb facs="#f0045" n="39"/><hi
+            >dūlis</hi> räuchermasse, <pb facs="#f0045" n="39"/><cb n="1"/><hi
             rendition="#i">dùlkė</hi> stäubchen, lat. <hi rendition="#i"
             >fūlīgo</hi> russ, skr. <hi rendition="#i">dhūli-</hi> staub,
             <hi rendition="#i">dkūlikā</hi> nebel, welche die tiefstufe <hi
@@ -4049,7 +4079,8 @@
           >fægnian</hi>, as. <hi rendition="#i">faginōn</hi>, <hi
             rendition="#i">faganōn</hi>, <hi rendition="#i">fagnōn</hi>,
           ahd. <hi rendition="#i">faginōn</hi>, <hi rendition="#i"
-            >feginōn</hi>, abgeleitet von <hi rendition="#i">*fagina-</hi>,
+            >feginōn</hi>, abgeleitet
+            <cb n="2"/>von <hi rendition="#i">*fagina-</hi>,
           an. <hi rendition="#i">fegenn</hi>, ags. <hi rendition="#i"
             >fægen</hi>, as. <hi rendition="#i">fagin</hi>, <hi
             rendition="#i">fagan</hi> froh, verwant mit <hi rendition="#g"
@@ -4097,7 +4128,7 @@
         <p><hi rendition="#b">fahēþs</hi> f. freude, mit gramm. wechsel zu
           ahd. <hi rendition="#i">fagēn</hi> willfahren, vgl. <hi
             rendition="#g">faginōn</hi>, <hi rendition="#g">fagrs</hi>.</p>
-        <pb facs="#f0046" n="40"/>
+        <pb facs="#f0046" n="40"/><cb n="1"/>
         <p><hi rendition="#b">faian</hi> tadeln, ablautend mit <hi
             rendition="#g">fijan</hi>, zur wz. <hi rendition="#i"
             >*pēi-</hi>, <hi rendition="#i">*pī̆-</hi> (vgl. lat. <hi
@@ -4153,7 +4184,8 @@
             >faíhufrikei</hi> f. geldgier, vgl. ahd. <hi rendition="#i"
             >frëchī</hi>, <hi rendition="#i">frëcchī</hi> habsucht,
           begier.</p>
-        <p><hi rendition="#b">faíhugaírns</hi> habsüchtig, an. fégjarn, s.
+        <p><hi rendition="#b">faíhugaírns</hi> habsüchtig, an. fégjarn,
+        <cb n="2"/>s.
             <hi rendition="#g">faíhu</hi> und <hi rendition="#g"
             >gaírnei</hi> (<hi rendition="#i">gaírns</hi>).</p>
         <p><hi rendition="#b">faíhugeigō</hi> f. habsucht, s. <hi
@@ -4202,7 +4234,7 @@
           krimgot. <hi rendition="#i">fers</hi> mann = got. <hi
             rendition="#i">*faírhws</hi>). Gr. <hi rendition="#i"
             >πραπίδες</hi>
-          <pb facs="#f0047" n="41"/>zwerchfell liegt begrifflich zu weit
+          <pb facs="#f0047" n="41"/><cb n="1"/>zwerchfell liegt begrifflich zu weit
           ab. Verfehlt ist auch von Grienbergers erklärungsversuch (Arch.
           f. slav. phil. 18, 14 f.), der als grundbedeutung ‘das herz, als
           schlagendes’ annimmt und lit. <hi rendition="#i">Perkúnas</hi>
@@ -4251,7 +4283,7 @@
             rendition="#i">πάρος</hi> früher, vor, s. <hi rendition="#g"
             >faúr</hi>). Verwantschaft mit <hi rendition="#g">faírneis</hi>
           ist wahrscheinlich.</p>
-        <p><hi rendition="#b">faírweitjan</hi> umherspähen, auf etwas
+        <cb n="2"/><p><hi rendition="#b">faírweitjan</hi> umherspähen, auf etwas
           hinsehen, zu <hi rendition="#g">witan</hi>.</p>
         <p><hi rendition="#b">faírweitl</hi> n. schauspiel, zu <hi
             rendition="#g">faírweitjan</hi>.</p>
@@ -4301,7 +4333,7 @@
           ziehen, as. <hi rendition="#i">fōrian</hi>, ahd. <hi
             rendition="#i">fuoren</hi> führen, urverwant mit aksl. <hi
             rendition="#i">perą</hi>
-          <pb facs="#f0048" n="42"/>fliege (inf. <hi rendition="#i"
+          <pb facs="#f0048" n="42"/><cb n="1"/>fliege (inf. <hi rendition="#i"
             >pĭrati</hi>, <hi rendition="#i">prati</hi>), <hi
             rendition="#i">pariti</hi> fliegen, schweben, gr. <hi
             rendition="#i">πείρω</hi> durchdringe, <hi rendition="#i"
@@ -4351,7 +4383,8 @@
           schweif und die slavische wz. <hi rendition="#i">pŭch-</hi>, <hi
             rendition="#i">pych-</hi>, <hi rendition="#i">puch-</hi>,
           welche ‘blasen, aufblasen, aufgedunsen sein’ u. dgl. bedeutet und
-          deren <hi rendition="#i">ch</hi> auf idg. <hi rendition="#i"
+          deren <hi rendition="#i">ch</hi> auf idg.
+          <cb n="2"/><hi rendition="#i"
             >ks</hi> (= ahd. <hi rendition="#i">hs</hi> in <hi
             rendition="#i">fuhs</hi>) zurückgehen kann. Man beachte
           insbesondere russ. <hi rendition="#i">puch</hi> flaumfedern,
@@ -4396,7 +4429,7 @@
             rendition="#g">faúra</hi> und <hi rendition="#g">fill</hi>.</p>
         <p><hi rendition="#b">faúragagga</hi> m. vorsteher, verwalter, <hi
             rendition="#i">faúragaggi</hi> n. vorsteheramt, verwaltung, <pb
-            facs="#f0049" n="43"/><hi rendition="#i">faúragaggja</hi> m.
+            facs="#f0049" n="43"/><cb n="1"/><hi rendition="#i">faúragaggja</hi> m.
           vorsteher, verwalter, vgl. an. <hi rendition="#i">forenge</hi>
           führer, ags. <hi rendition="#i">foregenga</hi> vorläufer,
           vorgänger, s. <hi rendition="#g">faúra</hi> und <hi
@@ -4444,8 +4477,12 @@
             rendition="#i">forht</hi>, as. <hi rendition="#i">foraht</hi>,
             <hi rendition="#i">forht</hi>, ahd. <hi rendition="#i"
             >foraht</hi>, vielleicht eigl. ‘affectus’ (welche bedeutung an
-          stellen wie ags. <hi rendition="#i">þá wǽron mid egsan ealle
-            áfyrhte</hi> noch hindurchschimmern soll) und identisch mit ai.
+          stellen wie ags. <hi rendition="#i">þá</hi>
+          <hi rendition="#i">wǽron</hi>
+          <cb n="2"/><hi rendition="#i">mid</hi>
+          <hi rendition="#i">egsan</hi> <hi rendition="#i">ealle</hi>
+            <hi rendition="#i">áfyrhte</hi>
+            noch hindurchschimmern soll) und identisch mit ai.
             <hi rendition="#i">spṛṣṭá-</hi> zu <hi rendition="#i"
             >spṛçáti</hi> berührt (Zupitza, Die germ. gutturale 6). Die
           idg. wz. wäre <hi rendition="#i">*(s)perϰ-</hi>. Oder gehört <hi
@@ -4490,7 +4527,7 @@
           unsicheres bei Ehrismann (Literaturblatt 16, 218).</p>
         <p><hi rendition="#b">fērja</hi> m. nachsteller, zu ags. <hi
             rendition="#i">fǽr</hi>
-          <pb facs="#f0050" n="44"/>plötzliche gefahr, as. <hi
+          <pb facs="#f0050" n="44"/><cb n="1"/>plötzliche gefahr, as. <hi
             rendition="#i">fār</hi> nachstellung, ahd. <hi rendition="#i"
             >fāra</hi> nachstellung, betrug, lauer, gefährdung, gefahr, <hi
             rendition="#i">fārī</hi> lauer (mit etwas anderer bedeutung an.
@@ -4545,7 +4582,7 @@
             >petora</hi>, umbr. <hi rendition="#i">petur-</hi>, gr. dor.
             <hi rendition="#i">τέτορες</hi>, ion. <hi rendition="#i"
             >τέσσερες</hi>, att. <hi rendition="#i">τέτταρες</hi>, aeol.
-            <hi rendition="#i">πέσυρες</hi>, <hi rendition="#i"
+            <cb n="2"/><hi rendition="#i">πέσυρες</hi>, <hi rendition="#i"
             >πίσυρες</hi>, armen. <hi rendition="#i">thšorhk</hi>, avest.
             <hi rendition="#i">caþwārō</hi>, ai. <hi rendition="#i"
             >catvā́ras</hi> (schw. st. <hi rendition="#i">catur-</hi>).</p>
@@ -4598,7 +4635,7 @@
           übergeben, ags. <hi rendition="#i">beféolan</hi> anvertrauen,
           überlassen, afris. <hi rendition="#i">bifëla</hi>, as. ahd. <hi
             rendition="#i">bifëlhan</hi> bergen, begraben, anvertrauen,
-          übergeben. Man führt den <pb facs="#f0051" n="45"/>begriff des
+          übergeben. Man führt den<pb facs="#f0051" n="45"/><cb n="1"/>begriff des
           verbergens auf den des begrabens zurück und denkt an zusammenhang
           mit gr. <hi rendition="#i">πέλεϰυς</hi> beil, ai. <hi
             rendition="#i">paraçú-</hi>, <hi rendition="#i">párçu-</hi>
@@ -4648,7 +4685,8 @@
             rendition="#i">πολύ</hi> (nach Schmidts regel aus <hi
             rendition="#i">*παλύς</hi>, <hi rendition="#i">*παλύ</hi>),
           avest. <hi rendition="#i">pouru-</hi>, ap. <hi rendition="#i"
-            >paru-</hi>, ai. <hi rendition="#i">purú-</hi>, welche auf idg.
+            >paru-</hi>, ai.
+            <cb n="2"/><hi rendition="#i">purú-</hi>, welche auf idg.
             <hi rendition="#i">*pəlu-</hi> zurückgehen. Die wörter gehören
           zu der unter <hi rendition="#g">fulls</hi> besprochenen
           wurzel.</p>
@@ -4697,7 +4735,7 @@
             rendition="#g">filu</hi>.</p>
         <p><hi rendition="#b">filuwaúrdei</hi> f. geschwätzigkeit, <hi
             rendition="#i">filuwaúrdjan</hi> viele worte machen, <pb
-            facs="#f0052" n="46"/>beruhen auf einem adj. <hi rendition="#i"
+            facs="#f0052" n="46"/><cb n="1"/>beruhen auf einem adj. <hi rendition="#i"
             >*filuwaúrds</hi>, an. <hi rendition="#i">fjǫlorđr</hi>, s. <hi
             rendition="#g">filu</hi> und <hi rendition="#g">waúrd</hi>.</p>
         <p><hi rendition="#b">fimf</hi> fünf, krimgot. <hi rendition="#i"
@@ -4752,7 +4790,7 @@
           gehens entwickelt hat und vergleicht ahd. <hi rendition="#i"
             >fendo</hi> fussgänger, <hi rendition="#i">funden</hi> eilen.
           Sütterlin (Beitr. 18, 261) überzeugt mich nicht.</p>
-        <p><hi rendition="#b">fiskja</hi> m. fischer, zu <hi rendition="#g"
+        <cb n="2"/><p><hi rendition="#b">fiskja</hi> m. fischer, zu <hi rendition="#g"
             >fisks</hi>.</p>
         <p><hi rendition="#b">fiskōn</hi> fischen, an. <hi rendition="#i"
             >fiska</hi> (<hi rendition="#i">fiskja</hi>), ags. <hi
@@ -4804,7 +4842,7 @@
           as. <hi rendition="#i">flōd</hi>, ahd. <hi rendition="#i"
             >fluot</hi>, zu an. <hi rendition="#i">flóa</hi>, ags. <hi
             rendition="#i">flówan</hi> fliessen, das mit <pb facs="#f0053"
-            n="47"/>gr. <hi rendition="#i">πλώω</hi> schwimme, schiffe, <hi
+            n="47"/><cb n="1"/>gr. <hi rendition="#i">πλώω</hi> schwimme, schiffe, <hi
             rendition="#i">πλωτός</hi> schwimmend, schiffend, schiffbar auf
           einer wz. <hi rendition="#i">*plō(u)-</hi> beruht. Dieses <hi
             rendition="#i">*plō(u)-</hi> ist aber die dehnstufige form von
@@ -4850,7 +4888,8 @@
             >pitati</hi> nähren gehört nicht hierher, sondern zu lit. pl.
             <hi rendition="#i">pë̂tūs</hi> mittagmahl, mittag, süden,
           avest. <hi rendition="#i">pitu-</hi>, ai. <hi rendition="#i"
-            >pitú-</hi> nahrung (vgl. jedoch Hirt, Beitr. 22, 233).</p>
+            >pitú-</hi> nahrung
+            <cb n="2"/>(vgl. jedoch Hirt, Beitr. 22, 233).</p>
         <p><hi rendition="#b">fōdr</hi> n. scheide, ahd. <hi rendition="#i"
             >fuotar</hi> kleidfutter, futteral ist von ahd. <hi
             rendition="#i">fuotar</hi> nahrung, futter etymologisch ganz
@@ -4904,7 +4943,7 @@
             >padá-</hi> fussspur, weiter lit. <hi rendition="#i">pâdas</hi>
           fusssohle, <hi rendition="#i">padis</hi> untergestell, aksl. <hi
             rendition="#i">podŭ</hi> boden und viele andere wörter.</p>
-        <pb facs="#f0054" n="48"/>
+        <pb facs="#f0054" n="48"/><cb n="1"/>
         <p><hi rendition="#b">fra</hi> ver-, untrennbare partikel, ahd. <hi
             rendition="#i">fra-</hi> (vgl. <hi rendition="#g">faír</hi>,
             <hi rendition="#g">faúr</hi>), lit. <hi rendition="#i"
@@ -4957,7 +4996,8 @@
             >-hinþan</hi> mit <hi rendition="#i">þ</hi> aus idg. <hi
             rendition="#i">t</hi> finden wir im ags. offenbar verwante
           wörter mit <hi rendition="#i">t</hi> aus idg. <hi rendition="#i"
-            >d</hi>, nämlich <hi rendition="#i">hunta</hi> jäger, <hi
+            >d</hi>,
+            <cb n="2"/>nämlich <hi rendition="#i">hunta</hi> jäger, <hi
             rendition="#i">huntian</hi> jagen (ganz unsicheres bei Bechtel,
           Bezz. Beitr. 23, 250).</p>
         <p><hi rendition="#b">fraíhnan</hi> fragen, an. <hi rendition="#i"
@@ -5004,7 +5044,7 @@
           gang, weg (Osthoff, Beitr. 20, 95 f.). S. <hi rendition="#g"
             >iddja</hi>.</p>
         <p><hi rendition="#b">fralēt</hi> n. freilassung, erlass (oder <pb
-            facs="#f0055" n="49"/><hi rendition="#i">fralēts</hi> m.?),
+            facs="#f0055" n="49"/><cb n="1"/><hi rendition="#i">fralēts</hi> m.?),
           mhd. <hi rendition="#i">verlāʒ</hi> ausgelassenheit, frechheit,
           mit <hi rendition="#i">fralēts</hi> m. freigelassener zu <hi
             rendition="#i">fralētan</hi> freilassen, erlassen, ags. <hi
@@ -5058,7 +5098,8 @@
         <p><hi rendition="#b">framwaírþis</hi> fernerhin, vgl. ahd. <hi
             rendition="#g">framwort</hi>, <hi rendition="#i">frammërt</hi>,
             <hi rendition="#i">frammortes</hi> vorwärts, sofort, ferner,
-            <hi rendition="#i">framwertīg</hi> vorwärts gerichtet,
+            <hi rendition="#i">framwertīg</hi>
+            <cb n="2"/>vorwärts gerichtet,
           gelingend, s. <hi rendition="#g">fram</hi> und <hi rendition="#g"
             >waírþan</hi>.</p>
         <p><hi rendition="#b">framwigis</hi> fortwährend, für immer, s. <hi
@@ -5104,7 +5145,7 @@
             >*sē-</hi> sähen (s. <hi rendition="#g">saian</hi>), 2° <hi
             rendition="#i">frasti-</hi> aus <hi rendition="#i"
             >*pro-s(p)-ti-</hi> zu lat. <hi rendition="#i">prōsāpia</hi>,
-            <pb facs="#f0056" n="50"/><hi rendition="#i">prōsāpiēs</hi>
+            <pb facs="#f0056" n="50"/><cb n="1"/><hi rendition="#i">prōsāpiēs</hi>
           nachkommenschaft, <hi rendition="#i">sōpio</hi> penis, ai. <hi
             rendition="#i">sápa-</hi> penis, <hi rendition="#i"
             >sāpáyant-</hi> futuens.</p>
@@ -5158,7 +5199,7 @@
             rendition="#i">farwīʒan</hi> tadelnd vorwerfen, ohne das
           praefix ags. <hi rendition="#i">wítan</hi>, as. <hi
             rendition="#i">wītan</hi>, ahd. <hi rendition="#i">wīʒan</hi>
-          vorwerfen, wahrscheinlich zur idg. wz. <hi rendition="#i"
+          <cb n="2"/>vorwerfen, wahrscheinlich zur idg. wz. <hi rendition="#i"
             >*weid-</hi> sehen (s. <hi rendition="#g">witan</hi>). Vgl. für
           die bedeutung lat. <hi rendition="#i">animadvertere</hi>
           wahrnehmen, strafen und <hi rendition="#g">idweitjan</hi>.</p>
@@ -5210,7 +5251,7 @@
             >pri</hi>, aksl. <hi rendition="#i">pri</hi> bei und die unter
             <hi rendition="#g">faír</hi> genannten Wörter zu
           vergleichen.</p>
-        <pb facs="#f0057" n="51"/>
+        <pb facs="#f0057" n="51"/><cb n="1"/>
         <p><hi rendition="#b">friþōn,</hi> s. <hi rendition="#g"
             >gafrifþōn</hi>.</p>
         <p><hi rendition="#b">frius</hi> n. (?) frost, zu <hi
@@ -5259,7 +5300,8 @@
           vielleicht verwant mit lit. <hi rendition="#i">pâuksztis</hi>
           vogel. Man denkt aber gerne an zusammenhang mit <hi
             rendition="#i">*fliugan</hi>, indem man annimmt, dass <hi
-            rendition="#i">fugla-</hi> durch dissimilation aus <hi
+            rendition="#i">fugla-</hi> durch dissimilation
+            <cb n="2"/>aus <hi
             rendition="#i">*flugla-</hi> entstanden sei (s. <hi
             rendition="#g">usflaugjan</hi>).</p>
         <p><hi rendition="#b">fula</hi> m. füllen, an. <hi rendition="#i"
@@ -5319,7 +5361,7 @@
             >plēnus</hi>, avest. <hi rendition="#i">frāna-</hi>, ai. <hi
             rendition="#i">prāṇa-</hi> und air. <hi rendition="#i"
           >lán</hi>, cymr. <hi rendition="#i">laun</hi>. Die wörter <pb
-            facs="#f0058" n="52"/>sind participia der wz. <hi
+            facs="#f0058" n="52"/><cb n="1"/>sind participia der wz. <hi
             rendition="#i">*pel-</hi>, <hi rendition="#i">*plē-</hi> in
           lit. <hi rendition="#i">pìlti</hi> giessen, schütten, air. <hi
             rendition="#i">línaim</hi> fülle, lat. <hi rendition="#i"
@@ -5369,7 +5411,7 @@
             rendition="#i">ágnian</hi>, ahd. <hi rendition="#i"
             >eiginen</hi>, zu <hi rendition="#i">aigin</hi>, s. <hi
             rendition="#g">aigan</hi>.</p>
-        <p><hi rendition="#b">gaainanan</hi> vereinzeln, zu <hi
+        <cb n="2"/><p><hi rendition="#b">gaainanan</hi> vereinzeln, zu <hi
             rendition="#g">ains</hi>.</p>
         <p><hi rendition="#b">gaandjan</hi> aufhören, enden, an. <hi
             rendition="#i">enda</hi>, ags. <hi rendition="#i">endian</hi>,
@@ -5425,7 +5467,7 @@
             rendition="#i">inbrannjan</hi> in brand stecken, an. <hi
             rendition="#i">brenna</hi>, ags. <hi rendition="#i"
           >bærnan</hi>, as. <hi rendition="#i">brennian</hi>, ahd. <hi
-            rendition="#i">prennan</hi>, <pb facs="#f0059" n="53"/><hi
+            rendition="#i">prennan</hi>, <pb facs="#f0059" n="53"/><cb n="1"/><hi
             rendition="#i">brennen</hi> brennen machen, anzünden,
           causativum zu <hi rendition="#g">brinnan</hi>.</p>
         <p><hi rendition="#b">gabruka</hi> f. abgebrochenes, brocken, vgl.
@@ -5480,7 +5522,8 @@
             rendition="#g">missadēþs</hi>, <hi rendition="#g"
             >waíladēþs</hi>), an. <hi rendition="#i">dáđ</hi>, ags. <hi
             rendition="#i">dǽd</hi>, as. dād, ahd. <hi rendition="#i"
-            >tāt</hi>, zur wz. <hi rendition="#i">*dhē-</hi>, <hi
+            >tāt</hi>, zur wz. <hi rendition="#i">*dhē-</hi>,
+            <cb n="2"/><hi
             rendition="#i">*dhō-</hi> in lit. <hi rendition="#i"
           >dė́mi</hi>, <hi rendition="#i">dedù</hi> lege (inf. <hi
             rendition="#i">dė́ti</hi>), aksl. <hi rendition="#i">děją</hi>,
@@ -5529,7 +5572,7 @@
         <p><hi rendition="#b">gadraban</hi> aushauen, vielleicht mit
           Hoffmann (Bezz. Beitr. 18, 288 f.) zu gr. <hi rendition="#i"
             >τάφος</hi> ⸱ <hi rendition="#i">τάφος</hi> (Hesych.). Ganz
-          unsicher ist verwantschaft mit <pb facs="#f0060" n="54"/>aksl.
+          unsicher ist verwantschaft mit <pb facs="#f0060" n="54"/><cb n="1"/>aksl.
             <hi rendition="#i">drobiti</hi> feinmachen, zerstückeln, <hi
             rendition="#i">drobĭnŭ</hi> fein, zerstückelt.</p>
         <p><hi rendition="#b">gadraúhts</hi> m. kriegsmann, zu <hi
@@ -5581,7 +5624,8 @@
           erreiche, ai. <hi rendition="#i">jíhīte</hi> geht fort, geht
           hervor.</p>
         <p><hi rendition="#b">gaggs</hi> m. gang, gasse, an. <hi
-            rendition="#i">gangr</hi>, as. ahd. <hi rendition="#i"
+            rendition="#i">gangr</hi>,
+            <cb n="2"/>as. ahd. <hi rendition="#i"
             >gang</hi> gang, zu <hi rendition="#g">gaggan</hi>.</p>
         <p><hi rendition="#b">gagrēfts</hi> f. beschluss, befehl (auch <hi
             rendition="#i">gagreifts</hi> geschrieben), unbekannten
@@ -5633,7 +5677,7 @@
           >hweits</hi>.</p>
         <p><hi rendition="#b">gaíaínnan</hi> acc., fremdwort: <hi
             rendition="#i">γέενναν</hi>.</p>
-        <pb facs="#f0061" n="55"/>
+        <pb facs="#f0061" n="55"/><cb n="1"/>
         <p><hi rendition="#b">gaïbnjan</hi> ebnen, vgl. an. <hi
             rendition="#i">jafna</hi>, ahd. <hi rendition="#i">ëbanōn</hi>,
           zu <hi rendition="#g">ibns</hi>.</p>
@@ -5685,7 +5729,8 @@
             rendition="#i">gërnī</hi> und <hi rendition="#i">gaírnjan</hi>
           begehren, an. <hi rendition="#i">girna</hi>, ags. <hi
             rendition="#i">giernan</hi>, as. <hi rendition="#i"
-            >girnian</hi> sind abgeleitet von dem adj. <hi rendition="#i"
+            >girnian</hi> sind
+            <cb n="2"/>abgeleitet von dem adj. <hi rendition="#i"
             >-gaírns</hi> begierig (in <hi rendition="#i">faíhugaírns</hi>
           geldgierig), an. <hi rendition="#i">gjarn</hi>, ags. <hi
             rendition="#i">georn</hi>, as. ahd. <hi rendition="#i"
@@ -5734,7 +5779,7 @@
             rendition="#i">caer-iwrch</hi> rehbock, lat. <hi rendition="#i"
             >caper</hi> bock, <hi rendition="#i">capra</hi> ziege, gr. <hi
             rendition="#i">ϰάπρος</hi> eber in einem ablautsverhältnis
-          stehen <pb facs="#f0062" n="56"/>kann. Andere idg. wörter für
+          stehen <pb facs="#f0062" n="56"/><cb n="1"/>kann. Andere idg. wörter für
           ‘bock, ziege’ sind lit. <hi rendition="#i">ožŷs</hi> bock, <hi
             rendition="#i">oszkà</hi> ziege, lett. <hi rendition="#i"
             >āzis</hi> bock, apr. <hi rendition="#i">wosee</hi> ziege,
@@ -5783,7 +5828,8 @@
             <hi rendition="#i">álýfan</hi> gestatten, as. <hi
             rendition="#i">gilōƀian</hi> glauben, ahd. <hi rendition="#i"
             >gilouben</hi> glauben, <hi rendition="#i">irlouben</hi>
-          zulassen. Die grundbedeutung von <hi rendition="#i">-laubjan</hi>
+          zulassen. Die
+          <cb n="2"/>grundbedeutung von <hi rendition="#i">-laubjan</hi>
           ist ‘gutheissen, gerne haben’: es gehört zu der unter <hi
             rendition="#g">liufs</hi> besprochenen wz. <hi rendition="#i"
             >*leubh-</hi> begehren, liebhaben.</p>
@@ -5830,7 +5876,7 @@
             >lúcan</hi>, afris. <hi rendition="#i">lūka</hi>, as. <hi
             rendition="#i">-lūcan</hi>, ahd. <hi rendition="#i"
             >-lūhhan</hi> schliessen. Wie verhält dieses wort sich zur idg.
-            <pb facs="#f0063" n="57"/>wz. <hi rendition="#i">*leug-</hi>
+            <pb facs="#f0063" n="57"/><cb n="1"/>wz. <hi rendition="#i">*leug-</hi>
           brechen in ags. <hi rendition="#i">lúcan</hi>, afris. <hi
             rendition="#i">lūka</hi>, ahd. <hi rendition="#i">liohhan</hi>
           ziehen, raufen, <hi rendition="#i">ἀλυϰτοπέδι</hi>
@@ -5874,7 +5920,8 @@
             >mainýti</hi> tauschen, aksl. <hi rendition="#i">měna</hi>
           änderung, wechsel, <hi rendition="#i">měniti</hi> ändern und ohne
           das <hi rendition="#i">n</hi>-suffix lett. <hi rendition="#i"
-            >mīju</hi> tausche, skr. <hi rendition="#i">máyate</hi> tauscht
+            >mīju</hi> tausche, skr.
+            <cb n="2"/><hi rendition="#i">máyate</hi> tauscht
           (vgl. <hi rendition="#g">maidjan</hi>, <hi rendition="#g"
             >missō</hi>).</p>
         <p><hi rendition="#b">gamainþs</hi> f. gemeinde, versammlung, vgl.
@@ -5926,7 +5973,7 @@
             rendition="#i">merg</hi> runzel, cymr. <hi rendition="#i"
             >mer-</hi> stagnans, <hi rendition="#i">merydd</hi> schwach,
           lat. <hi rendition="#i">brevis</hi>, <pb facs="#f0064" n="58"
-          />gr. <hi rendition="#i">βραχύς</hi> kurz verwant sein kann. Nach
+          /><cb n="1"/>gr. <hi rendition="#i">βραχύς</hi> kurz verwant sein kann. Nach
           andern wäre das germ. adjectiv mit lat. <hi rendition="#i"
             >murcus</hi> kurz identisch (zu ai. <hi rendition="#i"
             >marcáyati</hi> versehrt, beschädigt, beeinträchtigt).</p>
@@ -5971,7 +6018,8 @@
           ags. <hi rendition="#i">nægel</hi>, as. ahd. <hi rendition="#i"
             >nagal</hi> nagel (im westgerm., wie im gotischen, auch
           ‘hölzerner, eiserner nagel’, welche bedeutung wir im
-          scandinavischen bei der ableitung an. <hi rendition="#i"
+          scandinavischen
+          <cb n="2"/>bei der ableitung an. <hi rendition="#i"
             >nagle</hi> widerfinden), urverwant mit lit. <hi rendition="#i"
             >nâgas</hi> nagel, klaue, <hi rendition="#i">nagà</hi> huf,
           aksl. <hi rendition="#i">noga</hi> fuss, <hi rendition="#i"
@@ -6020,7 +6068,7 @@
           idg. wz. <hi rendition="#i">*nes-</hi> sich vereinigen, sich
           zusammentun, zurückkehren, heil werden in air. <hi rendition="#i"
             >fuinim</hi> gehe unter (von der sonne, aus <hi rendition="#i"
-            >*vo-nesō</hi>), gr. <pb facs="#f0065" n="59"/><hi
+            >*vo-nesō</hi>), gr. <pb facs="#f0065" n="59"/><cb n="1"/><hi
             rendition="#i">νέομαι</hi> kehre zurück, <hi rendition="#i"
             >νόστος</hi> heimkehr, ai. <hi rendition="#i">násate</hi>
           gesellt sich, vereinigt sich mit, <hi rendition="#i"
@@ -6069,7 +6117,8 @@
         <p><hi rendition="#b">garaíhts</hi> gerecht, ahd. <hi
             rendition="#i">gerëht</hi>, s. <hi rendition="#g"
           >raíhts</hi>.</p>
-        <p><hi rendition="#b">garaiþs</hi> angeordnet, bestimmt, an. <hi
+        <p><hi rendition="#b">garaiþs</hi> angeordnet, bestimmt, an.
+        <cb n="2"/><hi
             rendition="#i">greiđr</hi> bereit, frei, leicht, ags. <hi
             rendition="#i">gerǽde</hi>, mhd. <hi rendition="#i"
             >gereite</hi> fertig, bereit, zur hand, <hi rendition="#i"
@@ -6118,7 +6167,7 @@
             >*ghortó-</hi> zurückführen und es mit air. <hi rendition="#i"
             >gort</hi> saat, lat. <hi rendition="#i">hortus</hi> garten,
           gr. <hi rendition="#i">χόρτος</hi> gehege, hof, <pb facs="#f0066"
-            n="60"/> futter gleichsetzen. Vgl. <hi rendition="#g"
+            n="60"/><cb n="1"/>futter gleichsetzen. Vgl. <hi rendition="#g"
             >garda</hi>.</p>
         <p><hi rendition="#b">garēdaba</hi> besonnen, ehrbar, adv. zu <hi
             rendition="#i">*garēþs</hi>, s. <hi rendition="#g"
@@ -6165,7 +6214,7 @@
             rendition="#g">rinnan</hi>. Ebenso <hi rendition="#i"
             >garuns</hi> f. markt, strasse (<hi rendition="#i"
             >garunsi-</hi>).</p>
-        <p><hi rendition="#b">gasahts</hi> f. tadel, zurechtweisung, zu <hi
+        <cb n="2"/><p><hi rendition="#b">gasahts</hi> f. tadel, zurechtweisung, zu <hi
             rendition="#i">gasakan</hi> schelten, anfahren, s. <hi
             rendition="#g">sakan</hi>.</p>
         <p><hi rendition="#b">gasibjōn</hi> sich versöhnen, zu <hi
@@ -6219,7 +6268,7 @@
         <p><hi rendition="#b">gasleiþjan</hi> schädigen, zu <hi
             rendition="#g">sleiþs</hi>.</p>
         <p><hi rendition="#b">gasmiþōn</hi> schmieden, ags. <hi
-            rendition="#i">smiđian</hi>, <pb facs="#f0067" n="61"/>ahd. <hi
+            rendition="#i">smiđian</hi>, <pb facs="#f0067" n="61"/><cb n="1"/>ahd. <hi
             rendition="#i">smidōn</hi>, zu <hi rendition="#i">-smiþa</hi>,
           s. <hi rendition="#g">aizasmiþa</hi>.</p>
         <p><hi rendition="#b">gasōþjan</hi> sättigen, zu <hi rendition="#g"
@@ -6271,7 +6320,8 @@
             >ufswōgjan</hi> aufseufzen, <hi rendition="#i">swōgatjan</hi>
           seufzen, ags. <hi rendition="#i">swógan</hi>, <hi rendition="#i"
             >swégan</hi> rauschen, klingen, as. <hi rendition="#i"
-            >swōgan</hi> rauschend einherfahren, lit. <hi rendition="#i"
+            >swōgan</hi> rauschend einherfahren, lit.
+            <cb n="2"/><hi rendition="#i"
             >svagiù</hi> töne (inf. <hi rendition="#i">svagė́ti</hi>). <hi
             rendition="#i">Swōgatjan</hi> ist ein intensivum wie <hi
             rendition="#g">lauhatjan</hi>. Vgl. <hi rendition="#g"
@@ -6324,7 +6374,7 @@
           >gatiman</hi>.</p>
         <p><hi rendition="#b">gatēwjan</hi> verordnen, bestimmen, zu <hi
             rendition="#g">tēwa</hi>.</p>
-        <pb facs="#f0068" n="62"/>
+        <pb facs="#f0068" n="62"/><cb n="1"/>
         <p><hi rendition="#b">gatils</hi> passend, geeignet, zu <hi
             rendition="#g">til</hi>.</p>
         <p><hi rendition="#b">gatiman</hi> geziemen, anfr. <hi
@@ -6369,7 +6419,8 @@
           trösten, ahd. <hi rendition="#i">flēhan</hi>, <hi rendition="#i"
             >flēhōn</hi> schmeicheln, dazu an. <hi rendition="#i"
           >flár</hi>, ags. <hi rendition="#i">fláh</hi> falsch,
-          hinterlistig. Osthoff (Beitr. 13, 399 f. f.) vergleicht u. a. gr.
+          hinterlistig. Osthoff (Beitr. 13,
+          <cb n="2"/>399 f. f.) vergleicht u. a. gr.
             <hi rendition="#i">λαιϰάς</hi> hure, <hi rendition="#i"
             >λαιϰάζω</hi> betrüge, welche ein <hi rendition="#i">τ</hi> im
           anlaut verloren haben können.</p>
@@ -6411,7 +6462,7 @@
           wahrnehmen sind aus dem germ. entlehnt.</p>
         <p><hi rendition="#b">gaunlēdjan</hi> arm machen, zu <hi
             rendition="#g">unlēds</hi>.</p>
-        <pb facs="#f0069" n="63"/>
+        <pb facs="#f0069" n="63"/><cb n="1"/>
         <p><hi rendition="#b">gaunōn</hi> klagelieder singen, klagen (dazu
             <hi rendition="#g">gaunōþus</hi> m. wehklage). Man vermutet,
           dass <hi rendition="#i">gaunōn</hi> auf der idg. wz. <hi
@@ -6461,7 +6512,7 @@
             >waúrkjan</hi>.</p>
         <p><hi rendition="#b">gawaúrstwa</hi> m. mitarbeiter zu <hi
             rendition="#g">waúrstw</hi>.</p>
-        <p><hi rendition="#b">gawaúrts</hi> gewurzelt, zu <hi
+        <cb n="2"/><p><hi rendition="#b">gawaúrts</hi> gewurzelt, zu <hi
             rendition="#g">waúrts</hi>.</p>
         <p><hi rendition="#b">gaweisōn</hi> nach einem sehen, besuchen,
           sorgen, as. ahd. <hi rendition="#i">wīsōn</hi> sehen nach,
@@ -6511,7 +6562,7 @@
           bringen, afris. <hi rendition="#i">wëga</hi> wiegen, ahd. <hi
             rendition="#i">wëgan</hi> sich bewegen, wiegen, wägen, lit. <hi
             rendition="#i">vežù</hi> (inf. <hi rendition="#i">vèszti</hi>),
-          aksl. <pb facs="#f0070" n="64"/><hi rendition="#i">vezą</hi>
+          aksl. <pb facs="#f0070" n="64"/><cb n="1"/><hi rendition="#i">vezą</hi>
           (inf. <hi rendition="#i">vesti</hi>), lat. <hi rendition="#i"
             >veho</hi> fahre, gr. pamphyl. <hi rendition="#i">ϝεχέτω</hi>
           soll bringen, avest. <hi rendition="#i">vazaiti</hi>, ai. <hi
@@ -6559,7 +6610,7 @@
           urspr. <hi rendition="#i">r</hi> und kann also nicht mit <hi
             rendition="#i">gazds</hi> verwant sein (s. Cosijn, Tijdschr. v.
           Ned. taal- en letterk. 13, 19 f. f.).</p>
-        <p><hi rendition="#b">geigan</hi> erstreben, <hi rendition="#i"
+        <cb n="2"/><p><hi rendition="#b">geigan</hi> erstreben, <hi rendition="#i"
             >gageigan</hi> gewinnen, <hi rendition="#i">faíhugeigō</hi> f.
           habsucht, urverwant mit lit. <hi rendition="#i">gëžiůs</hi>
           verlange heftig, <hi rendition="#i">pagëžà</hi> rache. Gr. <hi
@@ -6611,7 +6662,7 @@
             >geldr</hi>, ahd. <hi rendition="#i">galt</hi> gelt, keine
           milch gebend, unfruchtbar. Die wz. hätte ‘schneiden, das getreide
           abschneiden, verschneiden’ bedeutet.</p>
-        <pb facs="#f0071" n="65"/>
+        <pb facs="#f0071" n="65"/><cb n="1"/>
         <p><hi rendition="#b">ginnan,</hi> s. <hi rendition="#g"
             >duginnan</hi>.</p>
         <p><hi rendition="#i">gistradagis</hi> morgen, an. <hi
@@ -6667,8 +6718,7 @@
             >glinzen</hi> schimmern, glänzen, air. <hi rendition="#i"
             >at-gleinn</hi> demonstrat, <hi rendition="#i">in-glennat</hi>
           vestigant zusammen.</p>
-        <cb n="2"/>
-        <p><hi rendition="#b">gōdakunds</hi> von guter abkunft, s. <hi
+        <cb n="2"/><p><hi rendition="#b">gōdakunds</hi> von guter abkunft, s. <hi
             rendition="#g">gōþs</hi> und <hi rendition="#g"
           >aírþakunds</hi>.</p>
         <p><hi rendition="#b">gōljan</hi> grüssen, begrüssen, an. <hi
@@ -6774,7 +6824,8 @@
           ahd. <hi rendition="#i">grīfan</hi>, ablautend mit an. <hi
             rendition="#i">greipa</hi>, ags. <hi rendition="#i"
             >grápian</hi> und mit an. <hi rendition="#i">gripr</hi>
-          eigentum, <cb n="2"/>kleinod, <hi rendition="#i">grip</hi>, ahd.
+          eigentum,
+          <cb n="2"/>kleinod, <hi rendition="#i">grip</hi>, ahd.
             <hi rendition="#i">grif</hi> griff, vgl. ausserhalb des germ.
           lit. <hi rendition="#i">grëbiù</hi> greife, <hi rendition="#i"
             >graibýti</hi> umhergreifen, lett. <hi rendition="#i"
@@ -6825,8 +6876,7 @@
             >grunt</hi> grund, boden weist auf vorgerm. <hi rendition="#i"
             >*ghrn̥-tu-</hi>, das noch nicht in andern sprachzweigen
           widergefunden ist. Möglicherweise gehört es <pb facs="#f0073"
-            n="67"/>
-          <cb n="1"/>zu gr. <hi rendition="#i">χραίνω</hi> streife,
+            n="67"/><cb n="1"/>zu gr. <hi rendition="#i">χραίνω</hi> streife,
           bestreiche (Persson, Wurzelerw. 72 f.).</p>
         <p><hi rendition="#b">gudafaúrhts</hi> gottesfürchtig, ags. <hi
             rendition="#i">godfyrht</hi>, ahd. <hi rendition="#i"
@@ -6926,8 +6976,7 @@
             rendition="#i">hváyati</hi> ruft, avest. <hi rendition="#i"
             >zūta-</hi>, ai. <hi rendition="#i">hūtá-</hi> gerufen
           (Osthoff, Bezz. Beitr. 24, 191 f. f., vgl. Morph. Unters. 4, <pb
-            facs="#f0074" n="68"/>
-          <cb n="1"/>84 f.). Anders Aufrecht (Bezz. Beitr. 20, 256) und
+            facs="#f0074" n="68"/><cb n="1"/>84 f.). Anders Aufrecht (Bezz. Beitr. 20, 256) und
           Lidén (Bezz. Beitr. 21, 97). Der stamm des wortes ist <hi
             rendition="#i">guda-</hi>, nicht <hi rendition="#i">guþa-</hi>
           (Hench, Beitr. 21, 562 f. f.). Vgl. <hi rendition="#g"
@@ -7392,8 +7441,7 @@
             rendition="#i">aṅká-</hi> biegung, seite, schoss, haken,
           zeichen, <hi rendition="#i">áñcati</hi>, <hi rendition="#i"
             >ácati</hi> biegt, krümmt.</p>
-        <pb facs="#f0079" n="73"/>
-        <cb n="1"/>
+        <pb facs="#f0079" n="73"/><cb n="1"/>
         <p><hi rendition="#b">halts</hi> lahm, an. <hi rendition="#i"
             >haltr</hi>, ags. <hi rendition="#i">healt</hi>, afris. as. <hi
             rendition="#i">halt</hi>, ahd. <hi rendition="#i">halz</hi>
@@ -7589,8 +7637,7 @@
           und <hi rendition="#i">*kap-</hi> ist noch nicht genügend
           aufgeklärt (s. Zupitza, Die germ. gutturale 104). Vgl. <hi
             rendition="#g">kaupatjan</hi>.</p>
-        <pb facs="#f0081" n="75"/>
-        <cb n="1"/>
+        <pb facs="#f0081" n="75"/><cb n="1"/>
         <p><hi rendition="#b">haubiþwunda</hi> m. am kopfe verwundeter,
           vgl. ags. <hi rendition="#i">héafodwund</hi>, as. <hi
             rendition="#i">hōƀidwunda</hi> wunde am kopfe, s. <hi
