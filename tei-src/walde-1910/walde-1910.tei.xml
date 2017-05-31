@@ -1,0 +1,377 @@
+<?xml-stylesheet type="text/xsl" href="../../share/presentation/retro-dict-view.xsl"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="dtabf">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lateinisches etymologisches Wörterbuch.</title>
+        <author>
+          <persName ref="http://d-nb.info/gnd/117117730">
+            <surname>Walde</surname>
+            <forename>Alois</forename>
+          </persName>
+        </author>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1127209485">
+            <surname>Herold</surname>
+            <forename>Axel</forename>
+          </persName>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>partly digitized and proof-read edition</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <orgName ref="https://github.com/xlhrld/retro-dict"
+            >retro-dict</orgName>
+        </publisher>
+        <date type="publication">2017-05-31</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            <p>This work is licensed under a Creative Commons Attribution
+              4.0 International License.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Walde, Alois: Lateinisches etymologisches Wörterbuch. 2.
+          umgearbeitete Aufl. Heidelberg, 1910.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Lateinisches etymologisches
+              Wörterbuch</title>
+            <author>
+              <persName ref="http://d-nb.info/gnd/117117730">
+                <surname>Walde</surname>
+                <forename>Alois</forename>
+              </persName>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition n="2">2. umgearbeitete Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>
+              <name>Carl Winter's Universitätsbuchhandlung</name>
+            </publisher>
+            <pubPlace>Heidelberg</pubPlace>
+            <date type="publication">1910</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository>Archive.org (via University of
+              Michigan)</repository>
+            <idno>
+              <idno type="URLImages"
+                >https://archive.org/details/1057917.0001.001.umich.edu</idno>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p>Antiqua</p>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>font properties preserved, no character normalization, line
+          breaks not preserved, signature marks not preserved, hyphenation
+          not preserved (words reconstructed)</p>
+        <p>TEI markup according to the DTA base format (<ref
+            target="http://www.deutschestextarchiv.de/doku/basisformat/"
+            >DTABf</ref>), a TEI customization for historical texts)</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb facs="#f0001" n="[II]"/>
+      <titlePage type="series">
+        <docTitle>
+          <titlePart type="series">Indogermanische Bibliothek</titlePart>
+        </docTitle>
+        <byline><hi rendition="#smaller">HERAUSGEGEBEN VON</hi>
+          <lb/><docAuthor>H. HIRT</docAuthor>
+          <hi rendition="#smaller">und</hi>
+          <docAuthor corresp="http://d-nb.info/gnd/117317500">WILHELM
+            STREITBERG</docAuthor></byline>
+        <docTitle>
+          <titlePart type="sub"><hi rendition="#smaller">I. ABTEILUNG</hi>
+            <lb/>SAMMLUNG INDOGERMANISCHER LEHR- UND HANDBÜCHER</titlePart>
+          <lb/>
+          <milestone rendition="#hr" unit="section"/>
+          <lb/>
+          <titlePart type="sub">II. REIHE: WÖRTERBÜCHER</titlePart>
+          <titlePart type="sub">ERSTER BAND</titlePart>
+          <titlePart type="main">LATEINISCHES ETYMOLOGISCHES
+            WÖRTERBUCH</titlePart>
+        </docTitle>
+        <byline>von <lb/><docAuthor
+            corresp="http://d-nb.info/gnd/117117730"><hi
+              rendition="#larger">ALOIS WALDE</hi></docAuthor>
+          <lb/>ZWEITE AUFLAGE</byline>
+        <lb/>
+        <milestone rendition="#hr" unit="section"/>
+        <lb/>
+        <docImprint>
+          <pubPlace><hi rendition="#larger">HEIDELBERG</hi></pubPlace>
+          <docDate><hi rendition="#larger">1910</hi></docDate>
+          <lb/><publisher>CARL WINTER'S
+            UNIVERSITÄTSBUCHHANDLUNG</publisher>
+        </docImprint>
+      </titlePage>
+      <pb facs="#f0002" n="[III]"/>
+      <titlePage type="main">
+        <docTitle>
+          <titlePart type="main">LATEINISCHES <lb/>ETYMOLOGISCHES
+            <lb/>WÖRTERBUCH</titlePart>
+        </docTitle>
+        <lb/>
+        <byline>VON <lb/>DR. <persName
+            corresp="http://d-nb.info/gnd/117117730">ALOIS WALDE</persName>
+          <lb/>O. PROFESSOR AN DER UNIVERSITÄT GIESSEN <lb/>
+          <milestone rendition="#hr" unit="section"/>
+          <lb/>ZWEITE UMGEARBEITETE AUFLAGE</byline>
+        <lb/>
+        <figure/>
+        <lb/>
+        <docImprint>
+          <pubPlace><hi rendition="#larger">HEIDELBERG</hi></pubPlace>
+          <docDate><hi rendition="#larger">1910</hi></docDate>
+          <lb/><publisher>CARL WINTER'S
+            UNIVERSITÄTSBUCHHANDLUNG</publisher>
+          <lb/><hi rendition="#smaller">Verlags-Nr. 475.</hi>
+        </docImprint>
+      </titlePage>
+      <pb facs="#f0003" n="[IV]"/>
+      <div>
+        <p rendition="#c">Alle Rechte, besonders das Recht der Übersetzung
+          in fremde Sprachen, werden vorbehalten.</p>
+      </div>
+      <pb facs="#f0004" n="V"/>
+      <div xml:id="prefaces">
+        <div xml:id="preface-1">
+          <head rendition="#c">Aus dem Vorwort zur ersten Auflage.</head>
+          <milestone rendition="#hr" unit="section"/>
+          <p>Als die Herren Herausgeber und Verleger der «Sammlung
+            indogermanischer Lehr- und Wörterbücher» im November 1900 an
+            den Unterzeichneten mit dem Vorschlage herantraten, die
+            Ausführung des lateinischen etymologischen Wörterbuches zu
+            übernehmen, verhehlte er sich die großen Schwierigkeiten des
+            wissenschaftlich außerordentlich lockenden Unternehmens nicht.
+            Sich trotzdem dieser Aufgabe zu unterziehen, bestimmte ihn vor
+            allem die Erwägung, daß ein etymologisches Wörterbuch des
+            Lateinischen schon seit langem zu den dringendsten Bedürfnissen
+            der Sprachwissenschaft gehört; es soll nicht nur berufen sein,
+            dem lateinischen und romanischen Philologen das zu vermitteln,
+            was ihn die vergleichende indogermanische Sprachwissenschaft
+            über die Vorgeschichte des lateinischen Wortschatzes zu lehren
+            vermag, sondern soll auch dem Sprachvergleicher durch möglichst
+            kritische Einordnung dieses Wortschatzes in den Rahmen des aus
+            andern Sprachen gewonnenen einen Gegendienst erweisen. Es war
+            dabei von vornherein klar, daß das Buch erst dann den rechten
+            Nutzen stiften könne, wenn es nicht rein dogmatisch die Ansicht
+            des Verfassers zum Ausdruck bringe, sondern dem Benutzer durch
+            Angabe der einschlägigen Literatur und durch Erwähnung
+            abweichender Auffassungen Gelegenheit biete, sich an der Hand
+            der Quellen ein eigenes Urteil zu bilden und die vom Verfasser
+            getroffene Entscheidung nachzuprüfen. Daß des Lesers
+            Entscheidung hierbei nicht selten in abweichendem <pb n="VI"
+              facs="#f0005"/>Sinne erfolgen dürfte, wird nicht
+            verwunderlich finden, wer sich gegenwärtig hält, welche Rolle
+            in etymologischen Dingen heute noch notwendig subjektive
+            Denkgewohnheiten spielen; dieser Subjektivismus betätigt sich
+            notwendig überall dort, wo es sich um Abschätzung größerer oder
+            geringerer Wahrscheinlichkeit von Bedeutungsentwicklungen
+            handelt oder wo formale Erwägungen die Anknüpfung an der
+            Bedeutung nach nächstverwandt scheinende Sippen erschweren …
+            Konnte also über die Notwendigkeit von Literaturangaben kein
+            Zweifel herrschen, so um so mehr über deren wünschenswerten
+            Umfang. Ausgehend von der Erwägung, daß im vorliegenden Buche
+            keine Geschichte der Etymologie zu schreiben, sondern nur im
+            einzelnen Falle das anzuführen sei, was den Leser weiter
+            belehrt, und geleitet von dem Bestreben, alle unübersichtliche
+            Häufung von Literaturangaben tunlichst zu vermeiden, hat sich
+            der Verfasser dafür entschieden, für alles schon bei Vaniček
+            und Curtius Erwähnte auf diese, bezw. deren Literaturangaben zu
+            verweisen, also hier einen Querschnitt zu ziehen, der sich
+            hoffentlich als praktisch erweisen wird; dagegen war alle seit
+            jener Zeit erfolgte oder versuchte Bereicherung unseres
+            etymologischen Wissens zu buchen und für jede neuere
+            etymologische Deutung und jede neugewonnene morphologische oder
+            bedeutungsgeschichtliche Modifikation älterer Deutungen der
+            Urheber ausfindig zu machen …</p>
+          <p>Aufgenommen sind alle lateinischen Worte, bzw. von
+            etymologisch zusammengehörigen Worten dasjenige, unter dem
+            vermutlich der Leser die ganze Sippe sucht, wobei eigenartigere
+            oder der etymologischen Durchsichtigkeit entrücktere
+            Ableitungen oder Zusammensetzungen verwiesen wurden … Daß bei
+            größeren Wortsippen unter einem Schlagworte nicht vollständige
+            Aufzählung aller zugehörigen Bildungen, sondern nur eine
+            Auswahl geboten wurde, dürfte keinem Widerspruche begegnen; bei
+            der getroffenen Auswahl wurden in erster Linie solche Formen
+            berücksichtigt, denen aus anderen Sprachgebieten <pb n="VII"
+              facs="#f0006"/>gleiche oder ähnliche Bildungen an die Seite
+            gesetzt werden konnten, weiter solche, die in lautlicher oder
+            begrifflicher Beziehung für die Etymologie der Sippe von
+            Bedeutung sind. Ausgeschieden wurde im allgemeinen die große
+            Menge griechischen Lehnguts im Lateinischen, da die
+            gebräuchlichen Wörterbücher, sowie besonders die einschlägigen
+            Werke von Weise und Saalfeld hier im wesentlichen ausreichenden
+            Aufschluß gewähren. Nur wo eine Richtigstellung der genannten
+            Werke nötig schien oder ein griechisches <choice>
+              <sic>Lehnwert</sic>
+              <corr>Lehnwort</corr>
+            </choice> aus irgendeinem sprachlichen Grunde bemerkenswert
+            war, ist es kurz erwähnt …</p>
+          <p>Ein Register der nichtlateinischen Worte beizugeben, schien
+            unumgänglich, um den verarbeiteten Stoff möglichst allgemein
+            nutzbar zu machen. Um aber den Umfang des Bandes nicht
+            allzusehr anzuschwellen, wurde in zweifacher Weise eine
+            Sichtung vorgenommen: einerseits wurde, wenn eine größere
+            Anzahl wurzelgleicher und im Alphabete nicht weit voneinander
+            abliegender Worte derselben Sprache in demselben Artikel
+            angeführt war, auf vollzählige Verweisung aller verzichtet, da
+            der Benutzer die ausgewählten Formen leicht als Vertreter
+            anderer von ihm gerade gesuchter Worte erkennen wird;
+            andererseits aber wurde in jenen Teilen des Registers, die
+            größere Sprachgruppen, z. B. Germanisch, zusammenfassen, von
+            ganz oder nahezu sich deckenden Formen mehrerer Mundarten nur
+            eine, z. B. die gotische, verwiesen, und durch einen
+            nachgesetzten Stern (z. B. got.*) angedeutet, daß auch
+            entsprechende Formen anderer Mundarten unter dem betreffenden
+            Schlagworte erwähnt sind; bei stärkerer lautlicher
+            Verschiedenheit mußte allerdings von dieser Kürzung abgesehen
+            werden … Um dem Nichtfachmann nicht durch die verschiedene
+            Buchstabenfolge der einzelnen nationalen Alphabete das
+            Auffinden zu erschweren, wurde — mit Ausnahme des Altindischen
+            und Iranischen — die Reihenfolge des lateinischen Alphabetes
+            gewählt, wobei differenzierte Buchstabenzeichen nach den
+            undifferenzierten eingereiht sind …</p>
+          <milestone rendition="#hr" unit="section"/>
+        </div>
+        <pb n="VIII" facs="#f0007"/>
+        <div xml:id="preface-2">
+          <head rendition="#c">Zur zweiten Auflage.</head>
+          <milestone rendition="#hr" unit="section"/>
+          <p>Viel rascher, als ich es gewünscht hätte, bereits anderthalb
+            Jahre nach Abschluß der ersten Auflage, stellte sich im
+            Spätherbst 1907 die Notwendigkeit heraus, die Bearbeitung
+            dieser Neuauflage in Angriff zu nehmen, die trotz der Kürze des
+            zeitlichen Abstandes doch eine vollständige Neubearbeitung
+            darstellt. Das hat seinen Grund zunächst in dem außerordentlich
+            regen Leben, das gerade in den letzten Jahren, und gewiß
+            angeregt durch die auf verschiedenen Sprachgebieten
+            erschienenen oder erscheinenden etymologischen Sammelwerke,
+            sich auf dem Gebiete der indogermanischen Etymologie entfaltet
+            hat; andrerseits war ich schon beim Erscheinen der ersten
+            Auflage nicht darüber im unklaren, daß die Grundlagen, auf
+            denen sich der Bau der Darstellung erhob, in Zukunft an gar
+            vielen Stellen tieferer Fundierung bedürfen werden. Daß ein
+            indogermanistischer Bearbeiter der lateinischen Etymologie bei
+            künftigen Auflagen gerade an den einzelphilologischen
+            Grundlagen des Buches, an der genauen Feststellung der ältesten
+            Bedeutungen und deren weiteren Entwicklung, an der eingehenden
+            Beobachtung des Sprachgebrauches, kurz an der intern
+            lateinischen Etymologie als der verläßlichen Grundlage
+            auswärtiger Vergleichungen sich selbst am meisten
+            nachzuarbeiten finden werde, konnte von Anfang an nicht
+            zweifelhaft sein. Man wird zwar vom Verfasser eines
+            etymologischen Wörterbuches, der schon für die Feststellung der
+            auswärtigen Beziehungen in der kritischen und oft wenig
+            erfreulichen Sichtung einer fast schon unübersehbaren Literatur
+            von leider sehr ungleichem Werte eine Aufgabe zu erfüllen hat,
+            die schon <pb n="IX" facs="#f0008"/>für sich auch eine starke
+            Arbeitskraft auf eine nicht leichte Probe stellt, billigerweise
+            nicht fordern, daß er dazu auch noch jene Aufgabe löse, die
+            Generationen von Philologen noch nicht gelöst haben und die
+            erst mit dem Fortschreiten des großen Thesauruswerkes ihre
+            sichere Grundlage und zum Teile auch ihre Lösung finden wird,
+            nämlich die genaue Verfolgung der Bedeutungsentwicklung in
+            jedem einzelnen Worte des lateinischen Sprachschatzes. Daß die
+            monographische Behandlung einzelner Wortsippen uns auf Schritt
+            und Tritt zeigt, wie viel von ungenauen oder schiefen
+            Bedeutungsangaben das deskriptive Wörterbuch gewohnheitsmäßig
+            mit sich schleppt und auch sehr bewußte Philologen mit sich
+            schleppen, bis sie aus irgendeinem Grunde an die monographische
+            Untersuchung einer begrenzten Sippe heranzutreten sich
+            veranlaßt finden, soll für uns alle, die wir an der Sprache
+            interessiert sind, vor allem aber doch für die
+            Einzelphilologen, in deren ureigenstes Gebiet dies fällt, ein
+            Sporn sein, hier Wandel zu schaffen. Für mein Teil wird, so
+            hoffe ich, trotz der kurzen Zeit, die seit Abschluß der ersten
+            Auflage zur Verfügung stand, die vorliegende Neubearbeitung
+            überall die Sorgfalt erkennen lassen, die gerade bei weniger
+            häufigen Worten, aber auch, wo sich Zweifel regten, bei reicher
+            entwickelten Sippen auf die Feststellung der Bedeutung und
+            Bedeutungsentwicklung verwendet wurde. Daß der Zukunft noch
+            vieles vorbehalten bleibt, wird der nicht rügen, der sich die
+            eigentlich doch recht naheliegende Frage vorlegt, welchen
+            Zeitraum er selber nötig hätte, um auf Grund eigener
+            Monographien jeder einzelnen Wortsippe das lateinische
+            etymologische Wörterbuch nicht bloß zu — planen, sondern auch
+            zum Abschlusse zu bringen.</p>
+          <p>An der allgemeinen Anlage des Buches zu ändern habe ich keine
+            Veranlassung gefunden. Öfters, als es in der ersten Auflage
+            geschehen war, habe ich auf Schwierigkeiten der Wortbildung,
+            deren Klarlegung allein erst einer im wurzelhaften Elemente
+            zutreffendenden Verknüpfung <pb n="X" facs="#f0009"/>zur vollen
+            Überzeugungskraft zu verhelfen vermag, ausdrücklich aufmerksam
+            gemacht, öfters, hoffe ich, sie auch gelöst. Wie weit man in
+            der Aufzählung von Ableitungen gehen soll, ist Geschmacksache,
+            und ich bin vielleicht diesbezüglichen Wünschen von
+            philologischer Seite zu wenig entgegengekommen; außer den schon
+            in der ersten Auflage vertretenen Grundsätzen war für mich die
+            Erwägung bestimmend, daß ein zu starkes Anschwellen des
+            Umfanges vermieden werden müsse; aus demselben Grunde habe ich
+            auch an dem gedrängten Stile der Ausdrucksweise mit ihren
+            Klammern und Einschachtelungen nicht ändern mögen und können;
+            das wäre nur durch Zusammendrängung der Literaturangaben an den
+            Schluß jedes Artikels möglich gewesen. Getilgt wurde die
+            Lauttabelle A der 1. Auflage, S. XXII—XXXVII: überflüssig für
+            den Kenner, gab sie dem Fernerstehenden kaum ein ausreichendes
+            Mittel zur Beurteilung an die Hand.</p>
+          <p>Für die keltischen Entsprechungen hat sich bei dem bekannten
+            Charakter vornehmlich der irischen Lexikographie besonders
+            sorgfältige Nachprüfung des vielfach zweifelhaften
+            Wortmaterials als unumgänglich erwiesen; wo sie mit den mir
+            zugänglichen Hilfsmitteln nicht zu erreichen war, hat der
+            getreue keltologische Eckart der deutschen Indogermanistik,
+            Rudolf <hi rendition="#g">Thurneysen</hi>, mit nie versiegender
+            Liebenswürdigkeit und Bereitwilligkeit mir auf meine oft recht
+            zahlreichen Anfragen Auskunft erteilt; ihm auch an dieser
+            Stelle dafür innig zu danken, ist mir nicht bloß Pflicht,
+            sondern Bedürfnis.</p>
+          <p>Was während des Druckes an neuer Literatur Berücksichtigung
+            heischte, ist, soweit es nicht noch im Texte verwertet werden
+            konnte, in den Nachträgen kurz erwähnt; daß es sich dabei nur
+            um eine recht subjektive Auswahl handeln konnte, ist wohl
+            selbstverständlich.</p>
+          <p><hi rendition="#g">Gießen</hi>, im Juli 1910.</p>
+          <p rendition="#right"><hi rendition="#b">Alois Walde.</hi></p>
+        </div>
+      </div>
+      <pb n="XI" facs="#f0010"/>
+      <div xml:id="introduction">
+        <head rendition="#c">Zur Einführung.</head>
+      </div>
+    </front>
+    <body>
+      <div/>
+    </body>
+    <back/>
+  </text>
+</TEI>
