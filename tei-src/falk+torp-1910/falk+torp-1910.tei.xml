@@ -1,0 +1,300 @@
+<?xml-stylesheet type="text/xsl" href="../../share/presentation/retro-dict-view.xsl"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="dtabf">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Norwegisch-dänisches etymologisches
+          Wörterbuch.</title>
+        <title type="sub">Erster Teil (A–O)</title>
+        <author>
+          <persName ref="http://d-nb.info/gnd/136512119">
+            <surname>Falk</surname>
+            <forename>Hjalmar</forename>
+          </persName>
+        </author>
+        <author>
+          <persName ref="http://d-nb.info/gnd/117406651">
+            <surname>Torp</surname>
+            <forename>Alf</forename>
+          </persName>
+        </author>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1127209485">
+            <surname>Herold</surname>
+            <forename>Axel</forename>
+          </persName>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>partly digitized and proof-read edition</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <orgName ref="https://github.com/xlhrld/retro-dict"
+            >retro-dict</orgName>
+        </publisher>
+        <date type="publication">2017-05-31</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            <p>This work is licensed under a Creative Commons Attribution
+              4.0 International License.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Falk, H. S.; Torp, Alf: Norwegisch-dänisches etymologisches
+          Wörterbuch. Erster Teil (A – O). Heidelberg, 1910.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Norwegisch-dänisches etymologisches
+              Wörterbuch</title>
+            <title type="sub">Erster Teil (A – O)</title>
+            <author>
+              <persName ref="http://d-nb.info/gnd/136512119">
+                <surname>Falk</surname>
+                <forename>H. S.</forename>
+              </persName>
+            </author>
+            <author>
+              <persName ref="http://d-nb.info/gnd/117406651">
+                <surname>Alf</surname>
+                <forename>Torp</forename>
+              </persName>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition n="1"/>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>
+              <name>Carl Winter's Universitätsbuchhandlung</name>
+            </publisher>
+            <pubPlace>Heidelberg</pubPlace>
+            <date type="publication">1910</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository>Archive.org (via MSN)</repository>
+            <idno>
+              <idno type="URLImages"
+                >http://www.archive.org/details/norwegischdnis01falkuoft</idno>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p>Antiqua</p>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>font properties preserved, no character normalization, line
+          breaks not preserved, signature marks not preserved, hyphenation
+          not preserved (words reconstructed)</p>
+        <p>TEI markup according to the DTA base format (<ref
+            target="http://www.deutschestextarchiv.de/doku/basisformat/"
+            >DTABf</ref>), a TEI customization for historical texts)</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb facs="#f0001" n="[II]"/>
+      <titlePage type="series">
+        <docTitle>
+          <titlePart type="series">Germanische Bibliothek</titlePart>
+        </docTitle>
+        <byline><hi rendition="#smaller">HERAUSGEGEBEN VON</hi>
+          <lb/><docAuthor corresp="http://d-nb.info/gnd/117317500">WILHELM
+            STREITBERG</docAuthor></byline>
+        <docTitle>
+          <titlePart type="sub">I. SAMMLUNG <lb/>GERMANISCHER ELEMENTAR-
+            UND HANDBÜCHER</titlePart>
+          <milestone rendition="#hr" unit="section"/>
+          <titlePart type="sub">IV. REIHE: WÖRTERBÜCHER</titlePart>
+          <titlePart type="sub">ERSTER BAND</titlePart>
+          <titlePart type="main">NORWEGISCH-DÄNISCHES ETYMOLOGISCHES
+            WÖRTERBUCH</titlePart>
+        </docTitle>
+        <byline>von <lb/><docAuthor
+            corresp="http://d-nb.info/gnd/136512119"><hi
+              rendition="#larger">H. S. FALK</hi></docAuthor> und
+            <docAuthor corresp="http://d-nb.info/gnd/117406651"><hi
+              rendition="#larger">ALF TORP</hi></docAuthor></byline>
+        <lb/>
+        <milestone rendition="#hr" unit="section"/>
+        <lb/>
+        <docImprint>
+          <pubPlace><hi rendition="#larger">HEIDELBERG</hi></pubPlace>
+          <docDate><hi rendition="#larger">1910</hi></docDate>
+          <lb/><publisher>CARL WINTER'S
+            UNIVERSITÄTSBUCHHANDLUNG</publisher>
+        </docImprint>
+      </titlePage>
+      <pb facs="#f0002" n="[III]"/>
+      <titlePage type="main">
+        <docTitle>
+          <titlePart type="main">NORWEGISCH-DÄNISCHES <lb/>ETYMOLOGISCHES
+            <lb/>WÖRTERBUCH</titlePart>
+        </docTitle>
+        <lb/>
+        <byline>AUF GRUND DER ÜBERSETZUNG VON Dr. <persName>H.
+            DAVIDSEN</persName>
+          <lb/>NEU BEARBEITETE DEUTSCHE AUSGABE <lb/>MIT
+          LITERATURNACHWEISEN STRITTIGER ETYMOLOGIEN <lb/>SOWIE DEUTSCHEM
+          UND ALTNORDISCHEM <lb/>WÖRTERVERZEICHNIS <lb/><hi
+            rendition="#smaller">von</hi>
+          <lb/><docAuthor corresp="http://d-nb.info/gnd/136512119"><hi
+              rendition="#larger">H. S. FALK</hi></docAuthor> und
+            <docAuthor corresp="http://d-nb.info/gnd/117406651"><hi
+              rendition="#larger">ALF TORP</hi></docAuthor>
+          <lb/><hi rendition="#smaller">PROFESSOREN AN DER UNIVERSITÄT
+            KRISTIANIA</hi>
+        </byline>
+        <lb/>
+        <titlePart type="volume">ERSTER TEIL <lb/><hi rendition="#smaller"
+            >A—O</hi></titlePart>
+        <lb/>
+        <figure/>
+        <lb/>
+        <docImprint>
+          <pubPlace><hi rendition="#larger">HEIDELBERG</hi></pubPlace>
+          <docDate><hi rendition="#larger">1910</hi></docDate>
+          <lb/><publisher>CARL WINTER'S
+            UNIVERSITÄTSBUCHHANDLUNG</publisher>
+          <lb/><hi rendition="#smaller">Verlags-Nr. 184.</hi>
+        </docImprint>
+      </titlePage>
+      <pb facs="#f0003" n="[IV]"/>
+      <div>
+        <p rendition="#c">Alle Rechte, besonders das Recht der Übersetzung
+          in fremde Sprachen, werden vorbehalten.</p>
+      </div>
+      <pb facs="#f0004" n="V"/>
+      <div xml:id="preface">
+        <head rendition="#c">Vorwort.</head>
+        <p>Das in den jahren 1900—1906 erschienene „Etymologisk ordbog over
+          det norske og det danske sprog“ beabsichtigte, die ergebnisse der
+          etymologischen forschung einem größeren leserkreise zugänglich zu
+          machen, und ist aus diesem gesichtspunkt zu beurteilen. Die
+          ausdrucksweise mußte im allgemeinen umständlicher werden als in
+          einem ausschließlich für fachmänner bestimmten werke. Abweichende
+          auffassungen konnten nur in beschränktem maße erwähnt, geschweige
+          denn erörtert werden. Redensarten und phraseologische ausdrücke,
+          die eine sprachliche oder reale aufhellung bedurften, wurden in
+          größerer breite behandelt, als sonst in etymologischen
+          wörterbüchern geschieht. Wir verhehlen uns nicht, daß die
+          deutsche bearbeitung des buches von diesen eigentümlichkeiten
+          mehr bewahrt hat, als dem neuen abnehmerkreise angemessen wäre.
+          Andrerseits ist das buch, was die etymologischen
+          zusammenstellungen betrifft, einer durchgreifenden Umarbeitung
+          unterzogen worden, die sich auf fast jeden artikel erstreckt hat.
+          Um den wissenschaftlichen erfordernissen gerecht zu werden, haben
+          wir — dem wunsche des verlegers gemäß — ein
+            literaturverzeichnis<note place="foot" n="1">In diesem
+            Verzeichnis führt das neueste buch H. Schröders statt
+            „Ablautstudien“ irrtümlich den titel „Zum germ. ablaut“.</note>
+          mit angabe der abweichenden etymologien angefertigt; daß dabei
+          manche erwägenswerte erklärung übersehen sein wird, ist wohl
+          nicht zu verwundern, zumal da eine ganz vollständige literatur
+          uns nicht zu gebote stand. Mancher wird es vielleicht als einen
+          übelstand empfinden, daß in dieser weise fast jedes wort zweimal
+          aufgesucht werden muß; dieser nachteil wird aber wohl dadurch <pb
+            n="VI" facs="#f0005"/>aufgewogen, daß bei dieser anordnung des
+          stoffes die hauptartikel übersichtlicher und lesbarer geworden
+          sind. Den deutschen fachgenossen zuliebe ist ein index über die
+          im buche besprochenen deutschen wörter beigegeben worden, in dem
+          jedoch von der vollzähligen aufstellung aller sich entsprechenden
+          formen abgesehen werden mußte.</p>
+        <p>Eine besondere teilung der arbeit unter den verfassern hat nicht
+          stattgefunden. Sowohl an der einsammlung des materials wie an der
+          bearbeitung desselben haben beide so ziemlich denselben anteil
+          gehabt. Auch von den neuen etymologien, die das buch bringt, ist
+          es schwer zu sagen, wem von beiden jede einzelne gehört, sie sind
+          gewöhnlich unter gemeinsamer erwägung zustande gekommen.</p>
+        <p>Mit diesen bemerkungen übergeben wir unser buch einer
+          wohlwollenden kritik. Über die unvollkommenheiten und schwächen
+          desselben täuschen wir uns nicht, hoffen aber, daß die
+          verdeutschte ausgabe, die uns viel arbeit gekostet hat, auch als
+          ein entschiedener fortschritt bezeichnet werden darf.</p>
+        <p><hi rendition="#g">Kristiania</hi>, Juli 1910.</p>
+        <p rendition="#c"><hi rendition="#larger #b">Hjalmar Falk.</hi>
+          <hi rendition="#larger #b">Alf Torp.</hi></p>
+      </div>
+      <pb n="VII" facs="#f0006"/>
+      <div xml:id="abbreviations">
+        <head rendition="#c">Abkürzungen.</head>
+        <cb type="start"/>
+        <p><cb n="1"/>* = hypothetische Form. <lb/>ags. = angelsächsisch.
+          <lb/>afrz. = altfranzösisch. <lb/>afries. = altfriesisch.
+          <lb/>ahd. = althochdeutsch. <lb/>air. = altirisch. <lb/>alb. =
+          albanesisch. <lb/>anord. = altnordisch. <lb/>apers. =
+          altpersisch. <lb/>apreuß. = altpreußisch. <lb/>arm. = armenisch.
+          <lb/>as. = altsächsisch. <lb/>aslav. = altslavisch. <lb/>aschwed.
+          = altschwedisch. <lb/>avest. = avestisch. <lb/>bed. = bedeutung.
+          <lb/>bret. = bretonisch. <lb/>čech. = čechisch. <lb/>d. =
+          deutsch. <lb/>dän. = dänisch. <lb/>dass., ds. = dasselbe.
+          <lb/>dial. = dialektisch. <lb/>engl. = englisch. <lb/>fries. =
+          friesisch. <lb/>frz. = französisch. <lb/>gäl. = gälisch.
+          <lb/>gall. = gallisch. <lb/>germ. = germanisch. <lb/>got. =
+          gotisch. <lb/>gr. = griechisch. <lb/>gutn. = gutnisch. <lb/>hebr.
+          = hebräisch. <lb/>holl. = holländisch. <lb/>hd. = hochdeutsch.
+          <lb/>idg. = indogermanisch. <lb/>ir. = irisch. <cb n="2"/>isl. =
+          isländisch. <lb/>ital. = italienisch. <lb/>kelt. = keltisch.
+          <lb/>korn. = kornisch. <lb/>kymr. = kymrisch. <lb/>lapp. =
+          lappisch. <lb/>lat. = lateinisch. <lb/>lett. = lettisch.
+          <lb/>lit. = litauisch. <lb/>mhd. = mittelhochdeutsch. <lb/>mir. =
+          millelirisch. <lb/>mlat. = mittelalterlich-lateinisch. <lb/>mndl.
+          = mittelniederländisch. <lb/>mnd. = mittelniederdeutsch. <lb/>nd.
+          = niederdeutsch. <lb/>neunorw. = neunorwegisch („landsmaal“).
+          <lb/>nord. = nordisch. <lb/>norw. = norwegisch („rigsmaal“).
+          <lb/>osk. = oskisch. <lb/>pers. = persisch. <lb/>poln. =
+          polnisch. <lb/>port. = portugiesisch. <lb/>prov. = provenzalisch.
+          <lb/>rom. = romanisch. <lb/>russ. = russisch. <lb/>schwed. =
+          schwedisch. <lb/>serb. = serbisch. <lb/>skr. = sanskrit.
+          <lb/>slav. = slavisch. <lb/>slov. = slovenisch. <lb/>span. =
+          spanisch. <lb/>Syntax = Dansk-norskens syntax af Falk og Torp
+          (Kristiania 1900). <lb/>umbr. = umbrisch.<cb type="end"/>
+          <milestone rendition="#hr" unit="section"/>
+        </p>
+        <pb n="[VIII]" facs="#f0007"/>
+      </div>
+    </front>
+    <body>
+      <pb n="[1]" facs="#f0008"/>
+      <div xml:id="section-a">
+        <head rendition="#c">A.</head>
+        <p><hi rendition="#b">Aa</hi> (ein kleiner fluß), auch noch
+          lebendig im schwedischen und isländischen, sowie in deutschen
+          fluß- und ortsnamen auf <hi rendition="#i">-a</hi> (meist md. und
+          nd.) und <hi rendition="#i">-ach</hi> (meist südd.). Germ.
+          grundform <hi rendition="#i">*ahwô</hi>, anord. o&#808;&#769;
+          (norw. dial. <hi rendition="#i">aa</hi> und <hi rendition="#i"
+            >o</hi>), ahd. <hi rendition="#i">aha</hi>, „fließendes
+          wasser“, got. <hi rendition="#i">ahwa</hi> „fluß“. Dem entspricht
+          lat. <hi rendition="#i">aqua</hi> „wasser“, idg. <hi
+            rendition="#i">*akvâ</hi>. Vgl. die ableitung <hi
+            rendition="#i">ø</hi>. Der alte genitiv <hi rendition="#i"
+            >âr</hi> ist u. a. bewahrt im stadtnamen <hi rendition="#i #g"
+            >Aarhus</hi>, älter <hi rendition="#i">Arus</hi> oder <hi
+            rendition="#i">Aros</hi> = anord. <hi rendition="#i"
+            >âr-ôss</hi> „flußmündung“, und in mehreren ortsnamen in
+          Norwegen und Schweden.</p>
+      </div>
+    </body>
+    <back/>
+  </text>
+</TEI>

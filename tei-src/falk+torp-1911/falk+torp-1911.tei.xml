@@ -1,0 +1,224 @@
+<?xml-stylesheet type="text/xsl" href="../../share/presentation/retro-dict-view.xsl"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="dtabf">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Norwegisch-dänisches etymologisches
+          Wörterbuch.</title>
+        <title type="sub">Zweiter Teil (P–Ø)</title>
+        <author>
+          <persName ref="http://d-nb.info/gnd/136512119">
+            <surname>Falk</surname>
+            <forename>Hjalmar</forename>
+          </persName>
+        </author>
+        <author>
+          <persName ref="http://d-nb.info/gnd/117406651">
+            <surname>Torp</surname>
+            <forename>Alf</forename>
+          </persName>
+        </author>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1127209485">
+            <surname>Herold</surname>
+            <forename>Axel</forename>
+          </persName>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>partly digitized and proof-read edition</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <orgName ref="https://github.com/xlhrld/retro-dict"
+            >retro-dict</orgName>
+        </publisher>
+        <date type="publication">2017-05-31</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            <p>This work is licensed under a Creative Commons Attribution
+              4.0 International License.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Falk, H. S.; Torp, Alf: Norwegisch-dänisches etymologisches
+          Wörterbuch. Zweiter Teil (P – Ø). Heidelberg, 1911.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Norwegisch-dänisches etymologisches
+              Wörterbuch</title>
+            <title type="sub">Zweiter Teil (P – Ø)</title>
+            <author>
+              <persName ref="http://d-nb.info/gnd/136512119">
+                <surname>Falk</surname>
+                <forename>H. S.</forename>
+              </persName>
+            </author>
+            <author>
+              <persName ref="http://d-nb.info/gnd/117406651">
+                <surname>Alf</surname>
+                <forename>Torp</forename>
+              </persName>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition n="1"/>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>
+              <name>Carl Winter's Universitätsbuchhandlung</name>
+            </publisher>
+            <pubPlace>Heidelberg</pubPlace>
+            <date type="publication">1911</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository>Archive.org (via MSN)</repository>
+            <idno>
+              <idno type="URLImages"
+                >http://www.archive.org/details/norwegischdnis02falkuoft</idno>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p>Antiqua</p>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>font properties preserved, no character normalization, line
+          breaks not preserved, signature marks not preserved, hyphenation
+          not preserved (words reconstructed)</p>
+        <p>TEI markup according to the DTA base format (<ref
+            target="http://www.deutschestextarchiv.de/doku/basisformat/"
+            >DTABf</ref>), a TEI customization for historical texts)</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb facs="#f0001" n="[II]"/>
+      <titlePage type="series">
+        <docTitle>
+          <titlePart type="series">Germanische Bibliothek</titlePart>
+        </docTitle>
+        <byline><hi rendition="#smaller">HERAUSGEGEBEN VON</hi>
+          <lb/><docAuthor corresp="http://d-nb.info/gnd/117317500">WILHELM
+            STREITBERG</docAuthor></byline>
+        <docTitle>
+          <titlePart type="sub">I. SAMMLUNG <lb/>GERMANISCHER ELEMENTAR-
+            UND HANDBÜCHER</titlePart>
+          <milestone rendition="#hr" unit="section"/>
+          <titlePart type="sub">IV. REIHE: WÖRTERBÜCHER</titlePart>
+          <titlePart type="sub">ERSTER BAND</titlePart>
+          <titlePart type="main">NORWEGISCH-DÄNISCHES ETYMOLOGISCHES
+            WÖRTERBUCH</titlePart>
+        </docTitle>
+        <byline>von <lb/><docAuthor
+            corresp="http://d-nb.info/gnd/136512119"><hi
+              rendition="#larger">H. S. FALK</hi></docAuthor> und
+            <docAuthor corresp="http://d-nb.info/gnd/117406651"><hi
+              rendition="#larger">ALF TORP</hi></docAuthor></byline>
+        <lb/>
+        <milestone rendition="#hr" unit="section"/>
+        <lb/>
+        <docImprint>
+          <pubPlace><hi rendition="#larger">HEIDELBERG</hi></pubPlace>
+          <docDate><hi rendition="#larger">1911</hi></docDate>
+          <lb/><publisher>CARL WINTER'S
+            UNIVERSITÄTSBUCHHANDLUNG</publisher>
+        </docImprint>
+      </titlePage>
+      <pb facs="#f0002" n="[III]"/>
+      <titlePage type="main">
+        <docTitle>
+          <titlePart type="main">NORWEGISCH-DÄNISCHES <lb/>ETYMOLOGISCHES
+            <lb/>WÖRTERBUCH</titlePart>
+        </docTitle>
+        <lb/>
+        <byline>AUF GRUND DER ÜBERSETZUNG VON Dr. <persName>H.
+            DAVIDSEN</persName>
+          <lb/>NEU BEARBEITETE DEUTSCHE AUSGABE <lb/>MIT
+          LITERATURNACHWEISEN STRITTIGER ETYMOLOGIEN <lb/>SOWIE DEUTSCHEM
+          UND ALTNORDISCHEM <lb/>WÖRTERVERZEICHNIS <lb/><hi
+            rendition="#smaller">von</hi>
+          <lb/><docAuthor corresp="http://d-nb.info/gnd/136512119"><hi
+              rendition="#larger">H. S. FALK</hi></docAuthor> und
+            <docAuthor corresp="http://d-nb.info/gnd/117406651"><hi
+              rendition="#larger">ALF TORP</hi></docAuthor>
+          <lb/><hi rendition="#smaller">PROFESSOREN AN DER UNIVERSITÄT
+            KRISTIANIA</hi>
+        </byline>
+        <lb/>
+        <titlePart type="volume">ZWEITER TEIL <lb/><hi rendition="#smaller"
+            >P—Ø</hi></titlePart>
+        <lb/>
+        <figure/>
+        <lb/>
+        <docImprint>
+          <pubPlace><hi rendition="#larger">HEIDELBERG</hi></pubPlace>
+          <docDate><hi rendition="#larger">1911</hi></docDate>
+          <lb/><publisher>CARL WINTER'S
+            UNIVERSITÄTSBUCHHANDLUNG</publisher>
+          <lb/><hi rendition="#smaller">Verlags-Nr. 184.</hi>
+        </docImprint>
+      </titlePage>
+      <pb facs="#f0003" n="[IV]"/>
+      <div>
+        <p rendition="#c">Alle Rechte, besonders das Recht der Übersetzung
+          in fremde Sprachen, werden vorbehalten.</p>
+      </div>
+    </front>
+    <body>
+      <pb facs="#f0004" n="809"/>
+      <div xml:id="section-p">
+        <head rendition="#c">P.</head>
+        <p><hi rendition="#b">P</hi> in der redensart <hi rendition="#i #g"
+            >sætte</hi>
+          <hi rendition="#i #g">en</hi>
+          <hi rendition="#i #g">p</hi>
+          <hi rendition="#i #g">for</hi>
+          <hi rendition="#i #g">noget</hi> (etwas verhindern) ist nicht
+          eine verkürzung für <hi rendition="#i #g">pind</hi>, sondern eine
+          wiedergabe von d. <hi rendition="#i">dem</hi>
+          <hi rendition="#i">will</hi>
+          <hi rendition="#i">ich</hi>
+          <hi rendition="#i">ein</hi>
+          <hi rendition="#i">P</hi>
+          <hi rendition="#i">vorschreiben</hi> in ders. bed.: der ursprung
+          geht hervor aus dem ält. nhd. <hi rendition="#i">ich</hi>
+          <hi rendition="#i">will</hi>
+          <hi rendition="#i">ein</hi>
+          <hi rendition="#i">P</hi>
+          <hi rendition="#i">für</hi>
+          <hi rendition="#i">das</hi>
+          <hi rendition="#i">Haus</hi>
+          <hi rendition="#i">schreiben</hi>, ein ausdruck, der aus der zeit
+          der pest und pockenepidemien stammt, wo eine tafel mit der
+          aufschrift <hi rendition="#i">P</hi> außen an die angesteckten
+          häuser gehängt wurde; unter <hi rendition="#i">P</hi> war teils
+            <hi rendition="#i">Pest</hi> teils <hi rendition="#i"
+            >Pocken</hi> zu verstehen (vgl. den heutigen brauch,
+          pulverwagen mit einer kleinen schwarzen und weißen fahne zu
+          versehen, worauf ein <hi rendition="#i">P</hi> gezeichnet ist,
+          das hier <hi rendition="#i">Pulver</hi> bedeutet).</p>
+      </div>
+    </body>
+    <back/>
+  </text>
+</TEI>
