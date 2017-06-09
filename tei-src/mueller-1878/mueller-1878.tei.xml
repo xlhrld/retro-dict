@@ -1,0 +1,338 @@
+<?xml-stylesheet type="text/xsl" href="../../share/presentation/retro-dict-view.xsl"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Etymologisches Wörterbuch der englischen Sprache</title>
+        <author>
+          <persName>
+            <surname>Mueller</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1127209485">
+            <surname>Herold</surname>
+            <forename>Axel</forename>
+          </persName>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>partly digitized and proof-read edition</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <orgName ref="https://github.com/xlhrld/retro-dict"
+            >retro-dict</orgName>
+        </publisher>
+        <date type="publication">2017-06-09</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            <p>This work is licensed under a Creative Commons Attribution
+              4.0 International License.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Mueller, Eduard: Etymologisches Wörterbuch der englischen Sprache. Bd. 1 (A – K). Cöthen, 1878.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Etymologisches Wörterbuch der englischen Sprache. Bd. 1 (A – K).</title>
+            <author>
+              <persName>
+                <surname>Mueller</surname>
+                <forename>Eduard</forename>
+              </persName>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition n="2">zweite vermehrte und verbesserte Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>
+              <name>Paul Schettler's Verlag.</name>
+            </publisher>
+            <pubPlace>Cöthen</pubPlace>
+            <date type="publication">1878</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository>Archive.org (via Google Books)</repository>
+            <idno>
+              <idno type="URLImages"
+                >http://books.google.com/books?id=cEoSAAAAIAAJ&amp;oe=UTF-8</idno>
+              <idno type="URLImages"
+                >http://www.archive.org/details/etymologischesw02muelgoog</idno>
+              <idno type="URLImages"
+                >http://books.google.com/books?id=5aAFAAAAQAAJ&amp;oe=UTF-8</idno>              
+              <idno type="URLImages"
+                >http://www.archive.org/details/etymologischesw01muelgoog</idno>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p>Antiqua</p>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>font properties preserved, no character normalization, line
+          breaks not preserved, signature marks not preserved, hyphenation
+          not preserved (words reconstructed)</p>
+        <p>TEI markup according to the DTA base format (<ref
+            target="http://www.deutschestextarchiv.de/doku/basisformat/"
+            >DTABf</ref>), a TEI customization for historical texts)</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <pb facs="#f0001" n="[I]"/>
+    <front>
+      <titlePage type="main">
+        <docTitle>
+          <titlePart type="main">ETYMOLOGISCHES <lb/><hi rendition="#larger"
+              >WOERTERBUCH</hi>
+            <lb/><hi rendition="#smaller">DER</hi>
+            <lb/>ENGLISCHEN SPRACHE</titlePart>
+        </docTitle>
+        <lb/>
+        <byline>von <lb/><docAuthor><hi
+              rendition="#larger">EDUARD MUELLER</hi></docAuthor>.          
+        </byline>
+        <lb/>
+        <milestone rendition="#hr" unit="section"/>
+        <lb/>
+        <docTitle>
+          <titlePart type="sub">ERSTER THEIL.
+          <lb/><hi rendition="#smaller">A – K.</hi></titlePart>
+        </docTitle>
+        <lb/>
+        <milestone rendition="#hr" unit="section"/>
+        <lb/>        
+        <docEdition>ZWEITE VERMEHRTE UND VERBESSERTE AUFLAGE.</docEdition>
+        <lb/>
+        <milestone rendition="#hr" unit="section"/>
+        <lb/>
+        <docImprint>
+          <pubPlace><hi rendition="#larger">CÖTHEN.</hi></pubPlace>
+          <lb/><publisher>PAUL SCHETTLER'S VERLAG</publisher>
+          <lb/>
+          <docDate>1878.</docDate>
+        </docImprint>        
+      </titlePage>
+      <pb facs="#f0002" n="[II]"/>
+      <pb facs="#f0003" n="[III]"/>
+      <div xml:id="preface">
+        <div xml:id="preface-1">
+        <head rendition="#c #i">Vorrede zur ersten auflage.</head>
+        <p rendition="#i">Der versuch eines etymologischen wörterbuchs
+          der englischen sprache wird an sich keiner grossen
+          rechtfertigung bedürfen. Denn
+          im allgemeinen werden die sätze auf wenig widerspruch stossen:
+          dass ein wissenschaftliches studium der sprache auch der etymologie
+          nicht entrathen darf; dass diese selbst nicht nur in einer
+          leichtfertigen und unkritischen, sondern in einer gründlichen und
+          wissenschaftlichen weise getrieben werden kann; dass sie endlich
+          auch für die zwecke des unterrichts und der schule auszubeuten
+          ist und mehr als bisher geschehn zu sein pflegt nutzbar gemacht
+          werden muss. Bedenken oder zweifeln gegen den werth aller
+          etymologischen forschung, zumal auf einem enger umgränzten
+          gebiete, entgegenzutreten, ist wenigstens hier der ort nicht, weil
+          dabei auf die verschiedene auffassung des wesens und der
+          entwicklung der sprache müsste eingegangen werden. Wer die neueren
+          arbeiten auf dem felde der vergleichenden und historischen
+          grammatik kennt, wer ihren einfluss nur auf das studium der
+          klassischen sprachen verfolgt hat, der wird die bedeutung einer
+          echten etymologischen forschung nicht leugnen. Was aber für die
+          neueren sprachen in dieser beziehung von männern wie Grimm
+          und Diez bereits geleistet worden ist, braucht nicht erst
+          hervorgehoben und gerühmt zu werden.</p>
+        <p rendition="#i">Während nun für die romanischen sprachen
+          und die französische insbesondere die werke von Diez,
+          Scheler und Weiss-Haas
+          dem heutigen bedürfnisse in verschiedener weise entgegenkommen,
+          war für das englische bisher nur wenig gethan. Die in Deutschland
+          erschienenen englischen wörterbucher nahmen auf etymologie entweder
+          gar keine rücksicht, oder waren wie das von Grieb in dieser
+          beziehung werthlos, wo nicht gar schädlich zu nennen. Die hierher
+          gehörigen werke englischer und amerikanischer gelehrten aber
+          liessen, abgesehen von ihrem umfange und preise, wodurch sie
+          vielen unerreichbar bleiben mussten, gar manches zu wünschen
+          übrig. Dem deutschen forscher, lehrer und schüler konnte für
+          etymologische zwecke weder Webster und Worcester genügen, noch
+          mit Richardson und Wedgwood gedient sein. Denn so werthvoll
+          diese wörterbücher in verschiedenen punkten sein mochten, so war
+          doch die objektiv-historische forschung und die nüchterne
+          besonnenheit fast ganz zu vermissen,
+          ohne welche die etymologie gerade
+          <pb n="IV" facs="#f0004"/>immer wieder zu
+          einem spiele der wilkür, höchstens zu einem geistreich
+          dilettantischen speculiren wird. Dass also ein etymologisches
+          wörterbuch der englischen sprache zeitgemäss und dass es besser
+          als seine vorgänger herzustellen war, konnte angenommen werden.
+          Dazu schien die aufgabe selbst nicht allzuschwierig zu sein. Denn
+          es war vergönnt, die vortrefflichen arbeiten von Fiedler, Koch
+          und besonders von Mätzner in ihren englischen grammatiken zu
+          benutzen, sowie alle die ergebnisse zu sammeln, welche für die
+          germanischen und romanischen wörter des englischen bei Grimm,
+          Weigand, Diefenbach, Diez und anderen sich fanden. Waren
+          ihre forschungen eben in England meist noch unbeachtet oder
+          unverwerthet geblieben, so galt es vor allem das bisher gewonnene
+          zusammenzufassen, zu sichten und zu ordnen. Freilich konnte bei
+          der ausführung solcher arbeit das ziel näher oder ferner gesteckt
+          und musste danach der eine oder der andere weg eingeschlagen
+          werden.</p>
+        <p rendition="#i">Sollte das höchste erstrebt werden,
+          so konnte dies nichts anderes
+          sein als ein umfassendes historisches wörterbuch der englischen
+          sprache, in welchem die vollständige geschichte jedes einzelnen
+          wortes mit zahlreichen belegstellen gegeben würde, kurz ein werk
+          wie das Grimm’sche für unsere neuhochdeutsche sprache. Bekanntlich
+          wird ein solches in England selbst von der philological
+          society im grossartigsten massstabe vorbereitet; ob es in seiner
+          ausführung, insbesondere des etymologischen theils, dem plane und
+          allen gerechten erwartungen entsprechen wird, kann aus diesem
+          oder jenem grunde fraglich erscheinen. Ihm zuvorkommen oder
+          nur damit wetteifern zu wollen, war kaum eines einzelnen, am
+          allerwenigsten meine sache. Rücksicht auf das bescheidene mass
+          der eigenen kraft wie auf die beschränktheit äusserer gelegenheiten
+          und hülfsmittel wiesen vielmehr entschieden darauf hin, lieber
+          den nächsten als den weitesten wurf zu wagen. So konnte denn
+          andrerseits an ein gedrängtes buch zum praktischen gebrauche
+          für die schule, nach art des kleineren werks von Scheler, oder der
+          arbeiten von Hauschild, Busch und Weiss-Haas für französische
+          etymologie, gedacht werden. Es würde dann die von Schmitz mit
+          recht angeregte frage zu erwägen gewesen sein, ob nicht besser
+          ein nach stämmen geordnetes etymologisches wörterbuch für die
+          deutsche, französische und englische sprache zugleich zu versuchen
+          wäre. Allein bei der augenblicklichen lage der sache, wo gerade
+          auf dem englischen gebiete so unendlich viel noch unermittelt
+          oder wenigstens unsicher war, die wirklich gewonnenen ergebnisse
+          aber überall zerstreut erschienen, galt es mir wichtiger, dem
+          forscher und lehrer des englischen ein bequemes hülfsmittel zu
+          bieten, das ihm bei eigenen weitern untersuchungen sowohl als
+          für den nächsten praktischen zweck bei dem unterrichte dienen
+          könnte. Ich würde sagen, dass ich mir das romanische wörterbuch
+          von Diez zum muster genommen habe, wenn ich mit den
+          selbständigen und bahnbrechenden forschungen dieses mannes
+          <pb n="V" facs="#f0005"/>meine geringen leistungen auch
+          nur im entfernfesten vergleichen
+          dürfte; dass ich ihm nacheifere wird mir vielleicht vergönnt sein
+          durch eingehende untersuchung schwieriger wörter später zu beweisen.
+          Genauer werde ich meinen zweck bei dem vorliegenden
+          buche als denselben bezeichnen können, welcher Scheler bei seinem
+          dictionnaire d’étymologie française vorschwebte, nämlich die
+          vereinzelten resultate mannigfacher untersuchungen zu vereinigen und
+          übersichtlich zusammenzustellen. Ich bin dabei bemüht gewesen,
+          mit grösster besonnenheit zu verfahren, weil mir vorläufig mehr
+          darauf anzukommen schien, unter dem reichlich gebotenen stoffe
+          einsichtsvoll zu wählen, als zu vier, fünf anderen conjekturen
+          eine sechste hizuzufügen, deren begründung unverhältnissmässig
+          viel zeit und raum würde in anspruch genommen haben; ich
+          wollte zunächst nur den grund sichern und ebenen, auf welchem
+          anderen und mir selbst weiter zu bauen gestattet wäre. Von
+          welchen grundanschauungen ich in der behandlung der wörter
+          ausgegangen bin, wird sich dem unbefangenen und einsichtigen
+          leser von selbst ergeben; am meisten habe ich gestrebt, mich vor
+          einseitigkeiten zu hüten, in folge deren aus einem momente, wie
+          der onomatopöie, wo möglich alles erklärt werden, oder von der
+          einzelnen sprache aus ohne volle berücksichtigung der historischen
+          vermittlungen die grosse etymologie betrieben, am englischen der
+          ursprung und die entwicklung alter sprache nachgewiesen werden
+          soll. Dass selbst durch ein mehr negatives verhalten hier ein
+          gewisses verdienst zu erwerben war, wird man werken gegenüber
+          wie dem etymological dictionary von Wedgwood, oder dem buche
+          von Voigtmann (Dr. Max Müller’s Bau-wau Theorie und der
+          Ursprung der Sprache. Leipzig 1865.) schwerlich leugnen können.
+          Ueber einzelne hierhergehörige punkte habe ich mich ausführlicher
+          als es an dieser stelle geschehen kann, in einer besonderen kleinen
+          schrift (Zur englischen etymologie. Cöthen bei Paul Schettler 1865)
+          ausgesprochen; andere denke ich in einer „geschichte der englischen
+          etymologie“ bei genauerer besprechung meiner vorgänger zu
+          behandeln.</p>
+        <p rendition="#i">Die einrichtung des buches selbst,
+          hoffe ich, wird im ganzen
+          den wünschen der kenner entsprechen. Mir lag daran, so weit
+          es in der grössten kürze möglich war, den nächsten ursprung
+          der wörter aufzudecken, den gang ihrer begriffs- und formentwicklung
+          anzudeuten und auf den zusammenhang innerhalb
+          der grossen indogermanischen sprachengruppe hinzuweisen. Ob
+          dieses oder jenes wort aufgenommen, ein anderes ausgeschlossen
+          zu werden verdiente, konnte im einzelnen falle zweifelhaft sein;
+          der bequemlichkeit und nutzbarkeit des buchs wegen sind von
+          den allgemein gebräuchlichen wörtern eher zu viel als zu wenig
+          zugelassen; aus demselben grunde habe ich auf die wichtigeren
+          lexicalischen werke reichlich auch da verwiesen, wo die resultate
+          derselben mir zweifelhaft oder gradezu falsch erschienen, der
+          gesammelte stoff aber irgendwie beachtung verdiente.
+          Eine überarbeitung
+          <pb n="VI" facs="f0006"/>meines buchs würde
+          vielleicht mehr auf seltene und jetzt
+          veraltete ausdrücke in den englischen klassikern, andrerseits auf
+          eigenthümliche wendungen und redensarten rücksicht zu nehmeh
+          haben, dagegen manche verweisung auf die wörterbucher entbehren
+          und dafür besonders treffende belegstellen aus den schriftstellern
+          selbst bringen können. Für den ersten versuch bitte ich um
+          nachsicht; auch insofern als trotz redlicher mühe in folge von
+          mancherlei missgünstigen verhältnissen verschiedene übelstände,
+          unebehheiten und versehen entstanden sind, die dem scharfen
+          auge des beurtheilers nicht entgehen werden. Bei dem schlusse
+          des zweiten bandes, der etwa binnen jahresfrist erscheinen soll,
+          wird es nicht an veranlassung und soll es meinerseits nicht an
+          gutem willen mangeln nachträge, verbesserungen und zusätze zu
+          geben. Jede die sache fördernde beurtheilung und zurechtweisung
+          wird mit dem grössten danke von mir entgegengenommen werden.</p>
+        <p rendition="#i"><hi rendition="g">Cöthen</hi> im april 1865.</p>
+        <milestone rendition="#hr" unit="section"/>
+        </div>
+        <div xml:id="preface-2">
+          <head rendition="#i #c">Zur zweiten auflage.</head>
+          <p rendition="#i">Die bemerkungen, welche ich
+            meinem wörterbuche bei seinem
+            ersten erscheinen vorausschickte, habe ich für diejenigen wieder
+            abdrucken lassen, die sich mit dem ursprünglichen, im ganzen
+            noch jetzt beibehaltenen zweck und plan des werks bekannt zu
+            machen wünschen. Sonst ist von der ersten ausgabe wenig
+            unverändert geblieben. Die überaus grosse und fruchtbare, wenn
+            auch bisher noch fast nirgends abschliessende thätigkeit, welche
+            seit einer längeren reihe von jahren der historischen erforschung
+            der englischen sprache gewidmet worden ist, gebot mir, mich mit
+            einer durchsicht und beseitigung einzelner mängel nicht zu
+            begnügen, sondern, so gut meine kraft und der verhältnisse drang
+            es gestatteten, eine völlig neue bearbeitung vorzunehmen. Mögen
+            denn einsichtige und billige beurtheiler entscheiden, ob es mir
+            gelungen ist, dabei dem jetzigen stande der wissenschaft überall
+            gerecht zu werden; das ernste streben wenigstens, dem ziele nahe
+            zu kommen, wird, wic ich hoffe, auch dieses mal niemand
+            vermissen.</p>
+          <p rendition="#i"><hi rendition="#g">Cöthen</hi> im august
+            1878.</p>
+          <p rendition="#i #right #larger">Eduard Müller.</p>
+        </div>
+      </div>
+      <pb n="[VII]" facs="f0007"/>
+      <div xml:id="lists-and-tables">
+        <head rendition="#i #c">Quellen und abkürzungen.</head>
+        <milestone rendition="#hr" unit="section"/>
+        <p></p>
+      </div>
+    </front>
+    <body>
+      <div xml:id="section-a"></div>
+    </body>
+    <back></back>
+  </text>
+</TEI>
