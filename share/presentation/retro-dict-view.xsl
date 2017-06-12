@@ -56,12 +56,12 @@
         }
         .i{
             font-style: italic;
-	    border:1px dotted black;
+	    background-color: LightSteelBlue;
 	    padding-left:1px; padding-right:1px;
         }
         .k{
             font-variant: small-caps;
-	    background-color: yellow;
+	    background-color: Yellow;
 	    padding-left:1px; padding-right:1px;
         }
         .smaller { font-size: 0.8em;}
@@ -78,8 +78,8 @@
 	    background-color:#ddd;
         }
         .page_number{
-		background-color: gray;
-		color: white;
+		background-color: Gray;
+		color: White;
 		padding: 2px;
 		margin: 2px;
 		max-width: 4em;
