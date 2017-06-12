@@ -30,7 +30,7 @@
           <orgName ref="https://github.com/xlhrld/retro-dict"
             >retro-dict</orgName>
         </publisher>
-        <date type="publication">2017-06-09</date>
+        <date type="publication">2017-06-12</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">
             <p>This work is licensed under a Creative Commons Attribution
@@ -548,7 +548,78 @@
       </div>
     </front>
     <body>
-      <div xml:id="section-a"/>
+      <pb n="[1]" facs="#f0009"/>
+      <div xml:id="section-a">
+        <head rendition="#c">A.</head>
+        <p><hi rendition="#b">A</hi>
+          <hi rendition="#i">als unbestimmter artikel aus</hi> an <hi
+            rendition="#i">(vgl.</hi>
+          <hi rendition="#g">one</hi>) <hi rendition="#i">verkürzt; in
+            anderen bedeutungen besonders mundartlich und veraltet
+            entstellt aus</hi> on, of, <hi rendition="#i">selbst aus</hi>
+          he <hi rendition="#i">und</hi> have; <hi rendition="#i">als
+            vorsilbe zunächst dem ags.</hi> â, <hi rendition="#i">in
+            griechischen wörtern dem α privativum entsprechend, in
+            lateinischen den praepositionen</hi> a, ab<choice>
+            <sic>.</sic>
+            <corr>,</corr>
+          </choice> ad.</p>
+        <p><hi rendition="#b">Abacot</hi>
+          <hi rendition="#i">kopfschmuck der alten englischen könige in
+            form einer doppelkrone; mlat.</hi> abacot: „pileus augustalis
+          regum Anglorum, duabus coronis insignitus“ Ducange; <hi
+            rendition="#i">fr.</hi> abaco, abacot: „couronnement du
+          chapiteau d’une colonne; ornement de tête des rois d’Angleterre“
+          Boiste; <hi rendition="#i">fr.</hi> abaque, <hi rendition="#i"
+            >it.</hi> abbaco <hi rendition="#i">vom lat.</hi> abacus, <hi
+            rendition="#i">gr.</hi> ἄβαξ <hi rendition="#i">tisch, platte;
+            jedenfalls nach der ähnlichkeit, welche die alte krone mit dem
+            architektonischen</hi> abacus <hi rendition="#i">zeigte;
+            vgl.</hi>
+          <hi rendition="#g">mitre</hi>. <hi rendition="#i">In unverändert
+            lat. form</hi> abacus <hi rendition="#i">mit der bedeutung
+            rechenbret; auch vermittelt durch das fr.</hi> abaque <hi
+            rendition="#i">in der form</hi> áback, <hi rendition="#i">in
+            der es dann bis auf die betonung zusammentrifft mit</hi> abáck
+          = <hi rendition="#i">ags.</hi> on bäc, <hi rendition="#i"
+            >altn.</hi> â bak, <hi rendition="#i">altengl.</hi> abac <hi
+            rendition="#i">zurück, rückwärts; vgl.</hi>
+          <hi rendition="#g">back</hi>.</p>
+        <p><hi rendition="#b">Abaft</hi> (baft) <hi rendition="#i">nach
+            hinten; altengl. auch</hi> baft; <hi rendition="#i">zu
+            ags.</hi> bäfta <hi rendition="#i">rücken,</hi> be-äftan, äftan
+            <hi rendition="#i">hinten, nach; frühzeitig sowie jetzt nur
+            noch als schifferausdruck vorkommend;</hi> „every man shewid
+          his connyng tofore the ship and baft“ Chaucer; <hi rendition="#i"
+            >vgl. wegen des stammes das weitere unter</hi>
+          <hi rendition="#g">after</hi>.</p>
+        <p><hi rendition="#b">Abaisance</hi>
+          <hi rendition="#i">verbeugung; in dieser form angelehnt an das
+            fr.</hi> abaisser <hi rendition="#i">(zu</hi> bas, <hi
+            rendition="#i">it.</hi> basso, <hi rendition="#i">lat.</hi>
+          bassus Diez 1, 57), <hi rendition="#i">welches engl. als</hi>
+          abase <hi rendition="#i">erscheint; es beruht aber auf</hi>
+          obeisance, <hi rendition="#i">fr.</hi> obéissance <hi
+            rendition="#i">gehorsam (zu fr.</hi> obéir, <hi rendition="#i"
+            >lat.</hi> obedire, <hi rendition="#i">engl.</hi> obey); <hi
+            rendition="#i">vgl. wegen der begriffsübergänge unser</hi>
+          compliment <hi rendition="#i">und</hi> reverenz, <hi
+            rendition="#i">sowie das engl.</hi>
+          <hi rendition="#g">curtsy</hi>.</p>
+        <p><hi rendition="#b">Abandon</hi>
+          <hi rendition="#i">aufgeben; altengl.</hi> abandonen, abandon,
+            <hi rendition="#i">fr.</hi> abandonner, abandon, <hi
+            rendition="#i">von der altfr. redensart</hi> à bandon <hi
+            rendition="#i">in gewalt, nach belieben; altengl.</hi> abandon
+            <hi rendition="#i">als adverb, adjectiv und substantiv; zu dem
+            fr.</hi> ban, <hi rendition="#i">mlat.</hi> bannum <hi
+            rendition="#i">aus goth.</hi> bandvjan, <hi rendition="#i"
+            >ahd.</hi> pannan Diez 1, 51; <hi rendition="#i">vgl.</hi>
+          <hi rendition="#g">ban</hi>
+          <hi rendition="#i">und</hi>
+          <hi rendition="#g">band</hi>.</p>
+        <pb n="2" facs="#f0010"/>
+      </div>
     </body>
     <back/>
   </text>
