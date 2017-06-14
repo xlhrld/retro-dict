@@ -1,0 +1,524 @@
+<?xml-stylesheet type="text/xsl" href="../../share/presentation/retro-dict-view.xsl"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="dtabf">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Etymologisches Wörterbuch der europäischen
+          (germanischen, romanischen und slavischen) Wörter orientalischen
+          Ursprungs</title>
+        <author>
+          <persName ref="http://d-nb.info/gnd/101552319">
+            <surname>Lokotsch</surname>
+            <forename>Karl</forename>
+          </persName>
+        </author>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1127209485">
+            <surname>Herold</surname>
+            <forename>Axel</forename>
+          </persName>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>partly digitized and proof-read edition</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <orgName ref="https://github.com/xlhrld/retro-dict"
+            >retro-dict</orgName>
+        </publisher>
+        <date type="publication">2017-06-14</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            <p>This work is licensed under a Creative Commons Attribution
+              4.0 International License.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Lokotsch, Karl: Etymologisches Wörterbuch der europäischen
+          (germanischen, romanischen und slavischen) Wörter orientalischen
+          Ursprungs. Heidelberg, 1927.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Etymologisches Wörterbuch der europäischen
+              (germanischen, romanischen und slavischen) Wörter
+              orientalischen Ursprungs</title>
+            <author>
+              <persName ref="http://d-nb.info/gnd/101552319">
+                <surname>Lokotsch</surname>
+                <forename>Karl</forename>
+              </persName>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition n="1"/>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>
+              <name>Carl Winter's Universitätsbuchhandlung</name>
+            </publisher>
+            <pubPlace>Heidelberg</pubPlace>
+            <date type="publication">1927</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository>Archive.org (via Universidad Francisco
+              Marroquín)</repository>
+            <idno>
+              <idno type="URLImages"
+                >https://archive.org/details/etymologische00lokoguat</idno>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p>Antiqua</p>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>font properties preserved, no character normalization, line
+          breaks not preserved, signature marks not preserved, hyphenation
+          not preserved (words reconstructed)</p>
+        <p>TEI markup according to the DTA base format (<ref
+            target="http://www.deutschestextarchiv.de/doku/basisformat/"
+            >DTABf</ref>), a TEI customization for historical texts)</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb facs="#f0001" n="[I]"/>
+      <pb facs="#f0002" n="[II]"/>
+      <titlePage type="series">
+        <docTitle>
+          <titlePart type="series">INDOGERMANISCHE BIBLIOTHEK</titlePart>
+        </docTitle>
+        <lb/>
+        <byline><hi rendition="#smaller">HERAUSGEGEBEN VON</hi>
+          <lb/><docAuthor>H. HIRT</docAuthor>
+          <hi rendition="#smaller">und</hi>
+          <docAuthor corresp="http://d-nb.info/gnd/117317500">W.
+            STREITBERG</docAuthor> †</byline>
+        <lb/>
+        <docTitle>
+          <titlePart type="sub"><hi rendition="#smaller">ERSTE
+              ABTEILUNG</hi>
+            <lb/>SAMMLUNG INDOGERMANISCHER LEHR- <lb/>UND
+            HANDBÜCHER</titlePart>
+          <lb/>
+          <titlePart type="sub">II. REIHE: WÖRTERBÜCHER</titlePart>
+          <lb/>
+          <titlePart type="sub">DRITTER BAND</titlePart>
+          <lb/>
+          <titlePart type="main">ETYMOLOGISCHES WÖRTERBUCH DER
+            <lb/>EUROPÄISCHEN WÖRTER ORIENTALISCHEN
+            <lb/>URSPRUNGS</titlePart>
+        </docTitle>
+        <lb/>
+        <byline>von <lb/><docAuthor
+            corresp="http://d-nb.info/gnd/101552319"><hi
+              rendition="#larger">KARL LOKOTSCH</hi></docAuthor></byline>
+        <lb/>
+        <milestone rendition="#hr" unit="section"/>
+        <lb/>
+        <docImprint>
+          <pubPlace><hi rendition="#larger">HEIDELBERG</hi></pubPlace>
+          <docDate><hi rendition="#larger">1927</hi></docDate>
+          <lb/><publisher>CARL WINTER'S
+            UNIVERSITÄTSBUCHHANDLUNG</publisher>
+        </docImprint>
+      </titlePage>
+      <pb facs="#f0003" n="[III]"/>
+      <titlePage type="main">
+        <docTitle>
+          <titlePart type="main"><hi rendition="#larger"
+              >ETYMOLOGISCHES</hi>
+            <lb/><hi rendition="#larger">WÖRTERBUCH</hi>
+            <lb/>DER EUROPÄISCHEN <hi rendition="#smaller">(GERMANISCHEN,
+              <lb/>ROMANISCHEN UND SLAVISCHEN)</hi> WÖRTER
+            <lb/>ORIENTALISCHEN URSPRUNGS</titlePart>
+        </docTitle>
+        <lb/>
+        <byline>von <lb/><docAuthor
+            corresp="http://d-nb.info/gnd/101552319"><hi rendition="#k">Dr.
+              KARL LOKOTSCH</hi></docAuthor>
+        </byline>
+        <lb/>
+        <figure/>
+        <lb/>
+        <docImprint>
+          <pubPlace>HEIDELBERG</pubPlace>
+          <docDate>1927</docDate>
+          <lb/><publisher><hi rendition="#smaller">CARL WINTER'S
+              UNIVERSITÄTSBUCHHANDLUNG</hi></publisher>
+          <lb/><hi rendition="#smaller">Verlags-Nr. 1988.</hi>
+        </docImprint>
+        <lb/>
+      </titlePage>
+      <pb facs="#f0004" n="[IV]"/>
+      <p rendition="#c #smaller">Alle Rechte, besonders das Recht der
+        Übersetzung in fremde Sprachen, werden vorbehalten</p>
+      <pb facs="#f0005" n="[V]"/>
+      <div type="dedication">
+        <p rendition="#c #i">Dem Nestor der deutschen Orientalisten
+          <lb/>Herrn Prof. Dr. <hi rendition="#larger">Theodor Nöldeke</hi>
+          <lb/>zu seinem neunzigsten Gehurtstagsfeste <lb/>in dankbarer
+          Verehrung <lb/>gewidmet <lb/><hi rendition="#smaller">2. März
+            1926.</hi></p>
+      </div>
+      <pb facs="#f0006" n="[VI]"/>
+      <pb facs="#f0007" n="[VII]"/>
+      <div xml:id="preface">
+        <head rendition="#c">Vorwort.</head>
+        <p>Das etymologische Wörterbuch der europäischen Wörter
+          orientalischen Ursprungs verdankt seine erste Anregung dem häufig
+          ausgesprochenen Wunsche meiner Hörer an der Kölner
+          Handelshochschule und Universität, die Hinweise auf das
+          Weiterleben orientalischer Grundwörter in den verschiedenen
+          europäischen Sprachen, die ich in meinen Vorlesungen und Übungen
+          zahlreich zu geben pflegte, in einer gedruckten Zusammenstellung
+          wiederfinden und nachschlagen zu können. Wenn ich auf die
+          Wörterbücher der Einzelsprachen verwies, so mußte immer wieder
+          festgestellt werden, daß zahlreiche irrige Etymologien von
+          Generation zu Generation weitergeschleppt werden oder günstigen
+          Falles das zugrunde liegende Etymon in seiner orientalischen
+          Grundform nicht zu erkennen ist, weil es zu sehr verunstaltet
+          wurde. Den Wörtern beigefügte kurze Hinweise, wie „arabischen
+          oder persischen Ursprungs“, z. B. im allbekannten Oxford
+          Dictionary, genügen erst recht nicht, um das Wandern eines Wortes
+          vom Orient bis zu seinem letzten Erscheinen in irgendeiner
+          abendländischen Sprache aufzuhellen. Als mir nun im vergangenen
+          Sommer einer der bedeutendsten Orientalisten Deutschlands, der
+          seine Lehrtätigkeit z. Zt. an einer süddeutschen Universität
+          ausübt, schrieb, daß die Wörterbücher der verschiedenen
+          europäischen Sprachen dringend einer Korrektur in Bezug auf die
+          orientalischen Entlehnungen erforderten, entschloß ich mich, mein
+          inzwischen reicher gewordenes Material zu sichten und zu
+          ergänzen, um eine möglichst vollständige Darstellung des
+          Übergangs orientalischer Wörter in die Sprachen des Abendlandes
+          in Form eines etymologischen Wörterbuches in Druck zu geben.</p>
+        <p>Was die Ausgangssprachen angeht, so kommen in erster Linie die
+          Sprachen des islamischen Kulturkreises in Betracht, insbesondere
+          das Arabische, Persische und Türkische; daneben lieferten von den
+          semitischen Sprachen das Hebräische und das Aramäische, ferner
+          das Sanskrit und seine modernen Entwicklungen dem Abendlande
+          manches neue Wort. Weniger zahlreich sind die Entlehnungen aus
+          den anderen indischen Sprachen [Drawidasprachen], dem
+          Chinesischen und Japanischen sowie dem Malayischen. Gewöhnlich
+          wird ein orientalicher Abkömmling nicht gleichzeitig in alle
+          europäischen Sprachen aufgenommen, vielmehr von einer
+          Einzelsprache ihrem nationalen Lautbestande angeglichen und so an
+          die Nachbarsprachen weitergegeben. Im Altertum sind es natürlich
+          vorwiegend das Griechische und Lateinische, die diese
+          Durchgangsstation bilden. Ich konnte mir nicht die Aufgabe
+          stellen, alle griechischen und lateinischen Wörter, die seit den
+            <pb n="VIII" facs="#f0008"/>ältesten Zeiten jemals dem Orient
+          entlehnt wurden, aufzuzählen<note n="1" place="foot">Noch weniger
+            durfte auf die Entlehnungen eingegangen werden, die die
+            indogermanische Ursprache oder auch die frühe Gestalt des
+            Griechischen orientalischen Sprachen zu verdanken haben. Ebenso
+            sind die zahlreichen dem Orient entlehnten Eigennamen nicht
+            erklärt worden; nur wo sie zu Gattungsnamen geworden sind,
+            haben sie Platz gefunden.</note>; vielmehr sind nur diejenigen
+          Wörter hier verfolgt worden, die in den modernen in Europa
+          gesprochenen Sprachen des indogermanischen Sprachstammes, nämlich
+          in den romanischen, germanischen und slavischen Sprachen,
+          lebendig sind; nur hier und da ist auf das gleichzeitige
+          Vorkommen im Neugriechischen oder in anderen, nicht
+          indogermanischen Sprachen [z. B. im Ungarischen] hingewiesen
+          worden, wo entweder die besondere Form oder die Art der
+          Entlehnung eine solche Ausnahme nahelegte.</p>
+        <p>Betrachtet man die Form der dem Orient entlehnten Wörter<note
+            place="foot" n="2">Ein Unterschied zwischen Lehn- und
+            Fremdwörtern, deren theoretische Definition als bekannt
+            vorausgesetzt werden darf, konnte hier unmöglich gemacht
+            werden, da die Grenzen zwischen ihnen so verschwommen sind, daß
+            in der Praxis in den weitaus meisten Fällen der persönliche
+            Geschmack oder die Willkür die Entscheidung über die
+            Zugehörigkeit eines Wortes zu der einen oder anderen Klasse von
+            Entlehnungen treffen müßte.</note>, so fällt es auf, daß diese
+          Entlehnungen zwar mehr oder weniger dem nationalen Lautbestande
+          der betreffenden Zeit angeglichen, die Lautgesetze aber, wie sie
+          für die ungestörte Entwicklung jeder Sprache, etwa für das Werden
+          der romanischen Sprachen aus den Formen des Vulgärlateins,
+          beobachtet und festgestellt sind, nur in seltenen Fällen beachtet
+          werden. Hier wirken Eigentümlichkeiten des eigenen und des
+          fremden Lautbestandes, Neigung zur vereinfachten oder bequemeren
+          Aussprache, Assimilation und Dissimilation, volkstümliche
+          Anlehnung an bekanntere Wortformen und zahlreiche fast
+          willkürlich erscheinende Ursachen zusammen, ohne daß es möglich
+          wäre, eine allgemein gültige Gesetzmäßigkeit festzustellen. Als
+          wichtigster Umstand kommt noch hinzu, daß, wie schon erwähnt, die
+          orientalischen Grundwörter meistens durch mehrere europäische
+          Sprachen hindurchgehen und in ihnen immer wieder aufs Neue jene
+          lautlichen Änderungen erfahren, ehe sie in ihre heutige,
+          endgültige Form angelangt sind. Als die wichtigste Zäsur, welche
+          die Zeiten größerer und geringerer Formänderung der Entlehnungen
+          trennt, muß die Erfindung der Buchdruckerkunst bezeichnet werden;
+          während bis dahin die soeben angedeuteten Ursachen im Munde des
+          Volkes ungehemmt wirken, üben der Buchdruck und die durch ihn
+          bewirkten oder auf ihm sich gründenden Kulturerscheinungen, unter
+          denen nur die Schule als bedeutsamste genannt werden soll, eine
+          stark konservierende Wirkung aus. Wörter, die in den letzten
+          Jahrhunderten aus dem Orient zu uns gekommen sind, stehen daher
+          der ursprünglichen Grundform so nahe, daß man ohne weiteres ihren
+          fremden Ursprung hört und sieht, während frühere Entlehnungen nur
+          noch schwer zu durchschauen sind.</p>
+        <p>Neben der Änderung der Form geht in vielen Fällen eine
+          Verschiebung der Wortbedeutung vor sich, zumal wenn es sich nicht
+          um Gegenstände <pb n="IX" facs="#f0009"/>oder Verhältnisse
+          handelt, die dem Morgenlande eigen sind; so werden z. B. die
+          Namen für die Kleidungsstücke, die ja im Morgen- und Abendlande
+          eine erhebliche Verschiedenheit aufweisen, trotz der gleichen
+          oder ähnlichen Wortgestalt eine sehr verschiedene Bedeutung haben
+          können; statt aller Einzelheiten sei als Beispiele auf die
+          Geschichte der deutschen Wörter ‘Schaube’ und ‘Mütze’ verwiesen.
+          Es ist daher hier versucht worden, die Bedeutung der angegebenen
+          Wörter der europäischen Sprachen möglichst genau festzulegen,
+          eingedenk der trefflichen Worte, die schon Horne Tooke in seinen
+          Ἔπεα πτερόεντα oder Diversions of Purley ausspricht: „It is a
+          trifling etymology that barely refers us to some words in another
+          language, either the same or similar; unless the <hi
+            rendition="#i">meaning</hi> of the word and <hi rendition="#i"
+            >cause</hi> of its composition can be discovered by such
+          reference.“ Es würde den Umfang des Buches, das für den bequemen
+          und praktischen Gebrauch bestimmt ist, zu gewaltig haben
+          anschwellen lassen, wenn bei jedem einzelnen Grundworte der
+          genaue geschichtliche Gang der Entlehnung bis ins Einzelnste
+          dargelegt worden wäre. Statt eines etymologischen Wörterbuches
+          hätte dann ein Thesaurus von Wortgeschichten geschrieben werden
+          müssen, eine Leistung, die die Kraft eines einzelnen Gelehrten
+          bei weitem übersteigt.<note n="1" place="foot">Um den Leser, der
+            sich in einzelnen Fällen eine solche Wortgeschichte
+            herzustellen wünscht, dazu in stand zu setzen, ist jedesmal die
+            einschlägige Literatur angegeben worden, deren Einblick auch
+            andere als hier angegebene Erklärungen vor Augen führen wird.
+            In bestimmten Fällen sind diese entgegenstehenden Ansichten
+            auch hier bereits aufgeführt worden.</note> Doch sollen die
+          hauptsächlichsten geschichtlichen Ereignisse und Umstände, die zu
+          Wortentlehnungen aus dem Orient führten, hier kurz dargelegt
+          werden.</p>
+        <p>Die weitaus bedeutsamste Verbindung des Morgen- und Abendlandes
+          im Altertum wurde, wenn von einer Besprechung der Wirkung der
+          Perserkriege in sprachlicher Hinsicht abgesehen werden darf,
+          durch den Zug Alexanders des Großen hervorgerufen. Bis auf diese
+          Zeiten läßt sich der erste reichlichere Abfluß orientalischer
+          Begriffe und Wörter in die griechische Sprache und in den darauf
+          folgenden Jahrhunderten ins Latemische zurückführen; seitdem
+          erstreckt sich die Wirkung in ununterbrochenem Flusse bis auf die
+          heutigen modernen Sprachen und Dialekte Europas. Das folgende
+          hellenistische Zeitalter begünstigte aus hier nicht zu
+          erörternden Gründen die Entlehnung orientalischen Sprachgutes in
+          hervorragendem Maße; die Verbreitung des Judentums und die
+          Entstehung des Christentums gaben Anlaß zur Übernahme vieler
+          hebräischer und aramäischer Wörter ins Griechische und
+          Lateinische [besonders in die als Kichenlatein bezeichnete
+          Färbung]. Mit dem Mittelalter beginnt der Einfluß des Arabischen.
+          Nachdem sich der Islam von den malayischen Inseln bis zu den
+          Gestaden des Atlantischen Ozeans verbreitet hatte, war eine
+          riesige Berührungslinie des arabischen Sprachgebiets mit dem
+          Abendlande geschaffen. Der Wortschatz der Sprachen der
+          Pyrenäenhalbinsel, des Spanischen, Portugiesischen und
+          Katalanischen, und in geringerem Umfange auch der des
+          Provenzalischen, Französischen und Italienischen werden mit
+          arabischen Wörtern derart <pb n="X" facs="#f0010"/>durchtränkt,
+          daß z. B. das Spanische nach Ausscheidung der arabischen Elemente
+          nicht mehr fähig wäre, seine Funktion als moderne Sprache
+          auszuüben. Fast tausend Jahre arabischer oder islamischer
+          Herrschaft und Kultur haben deren Stempel den Sprachen des <hi
+            rendition="#g">westlichen</hi> Mittelmeerbeckens unauslöschlich
+          aufgeprägt. Dagegen setzt die Wirkung auf die Sprachen des <hi
+            rendition="#g">östlichen</hi> Beckens des mittelländischen
+          Meeres erst später ein; bis zum Falle Konstantinopels schützt das
+          griechische Sprachgebiet den Osten Europas vor orientalischer
+          Sprachüberflutung. Nur die Inseln, besonders Malta, Sizilien und
+          Sardinien, wie auch Unteritalien sind mehrere Jahrhunderte
+          hindurch arabischer Sprach- und Kulturwirkung ausgesetzt, deren
+          Förderung durch Friedrich II. und vielleicht schon durch seine
+          Vorgänger aus dem Geschlechte der Hohenstaufen nicht zu
+          unterschätzen ist. Die Wirkung der direkten Berührung der
+          Abendländer mit dem Orient, wie sie im vorhergehenden Zeitalter
+          der Kreuzzüge vor sich gegangen war, wird auf diese Weise
+          nachhaltig verstärkt; auch der Aufschwung der arabischen
+          Lehrtätigkeit in den südeuropäischen Zentren der Gelehrsamkeit
+          ist nicht ohne dauernden Einfluß auf die Gestaltung des
+          Wortschatzes der romanischen Sprachen geblieben. Hervorgehoben
+          sei besonders das damals eingedrungene arabische Element im
+          Wortschatz der Anatomie und Mathematik. Bei der im Mittelalter
+          noch größeren Freizügigkeit der Gelehrten und Ungelehrten und
+          praktischeren Internationalität der Wissenschaft, als wir sie
+          heute besitzen, verbreiteten sich die arabischen Elemente rasch
+          bis in die nordischen Länder gemanischer Zunge. Gewiß haben zu
+          dieser schnellen Verbreitung auch die Juden beigetragen, die seit
+          dem frühen Mittelalter sämtliche europäische Sprachen mit Wörtern
+          ihrer Muttersprache oder des verwandten Arabischen bereicherten.
+          Besonders im Deutschen ist dieser Einfluß sehr lebendig gewesen
+          und hat ja zur Bildung eines weit verbreiteten Dialektes, des
+          Jiddischen, geführt.</p>
+        <p>Mit dem epochalen Ereignisse des Jahres 1453 beginnt die starke
+          Wirkung des Türkischen auf die Sprachen der Balkanhalbinsel, die
+          nunmehr über vier Jahrhunderte lang unter der politischen
+          Herrschaft der Osmanen stehen sollte; daher stammt die starke
+          Vermischung des Rumänischen und des Bulgarischen und Serbischen,
+          sowie in weiterem Umkreise der übrigen slavischen Sprachen mit
+          türkischen Lehn- und Fremdwörtern, die nur noch selten ihr
+          orientalisches Gewand abgelegt und eine nationalslavische Form
+          angenommen haben, da selbst hier in den Halbkulturländern des
+          südöstlichen Europas die Wirkung der Buchdruckerkunst in gleichem
+          Sinne wie anderswo zu beobachten ist. Dazu scheinen überhaupt die
+          Zeiten der gewaltigen Lautänderungen, wie sie sich vom 8. bis 15.
+          Jahrhundert in ganz Europa abspielten, endgültig vorbei zu sein,
+          jedenfalls ein weit langsameres Ausmaß der Entwicklung angenommen
+          zu haben. Eine letzte Wirkung der orientalischen Sprachen auf den
+          Wortschatz des Abendlandes erzielen die direkten Beziehungen
+          kolonisatorischer und merkantiler Tätigkeit, welche die Europäer
+          mit den Völkern Süd- und Ostasiens in Berührung bringt. Der
+          Zustrom malayischer, hindustanischer, chinesischer und
+          japanischer <pb n="XI" facs="#f0011"/>Wörter zunächst ins
+          Englische und Niederländische und weiter in die übrigen
+          europäischen Sprachen hat seit Beginn des 19. Jahrhunderts
+          außerordentlichen Umfang genommen; bei dem beginnenden Aufstieg
+          Asiens ist anzunehmen, daß diese sprachliche Wirkung eher zu- als
+          abnehmen wird.</p>
+        <p>Im etymologischen Wörterbuche sollen die jetzt noch <hi
+            rendition="#g">lebendigen</hi> Entlehnungen aus dem Orient
+          erklärt werden, während von den bereits wieder aufgegebenen
+          orientalischen Lehnwörtern nur hier und da vergleichsweise die
+          Rede sein soll; die Zahl der hierhin gehörigen wieder
+          ausgestorbenen Wörter, wie z. B. im Mittelhochdeutschen, ist
+          nicht gering; auch für Lehnwörter gilt wie für so viele dem
+          nationalen Stamme entsprossene Wörter der Ausspruch des Horaz (De
+          arte poetica 70/71): <cit rendition="#et">
+            <quote>
+              <lg>
+                <l>Multa renascentur quae iam cecidere cadentque</l>
+                <lb/>
+                <l>Quae nunc sunt in honore vocabula, si volet usus.</l>
+                <lb/>
+                <l>„Manches gefallene Wort wird wiedergeboren, vergehn
+                  wird</l>
+                <lb/>
+                <l>Manches, das jetzt noch in Ehre dasteht, wenn so es der
+                  Brauch will.“</l>
+              </lg>
+            </quote>
+          </cit>
+        </p>
+        <p>Noch einige Bemerkungen über die Wiedergabe der orientalischen
+          und europäischen Wörter. Die Umschrift der orientalischen Formen
+          ist entsprechend dem Gebrauche der Semitisten (Umschrift der
+          DMG), der Indologen und der Sinologen erfolgt; es schien mir dies
+          praktischer zu sein, als eine einheitliche Umschrift zu wählen
+          und durchzuführen, wenn auch derselbe oder ein ähnlicher Laut auf
+          diese Weise verschiedene Umschrift erfährt (š, ś, sh). Bei den
+          arabischen und persischen Wörtern ist die klassische Form, also
+          mit kurzem oder langem a, i, u angegeben, und nur, wo es nötig
+          schien, die vulgäre Form hinzugefügt. Da im Türkischen kein
+          Unterschied zwischen langen und kurzen Vokalen vorhanden ist,
+          wurde auch bei solchen Wörtern, die dem Türkischen aus dem
+          Arabischen oder Persischen zugekommen sind, von einer Angabe der
+          Quantität abgesehen. Dagegen sind durchweg die emphatischen
+          Konsonanten auch bei rein türkischen Wörtern bezeichnet worden,
+          wenn sie hier auch nur geringfügige lautliche Unterschiede
+          bedingen (z. B. <hi rendition="#i">k</hi> und <hi rendition="#i"
+            >ḳ</hi> in <hi rendition="#i">kel</hi> und <hi rendition="#i"
+            >ḳara</hi>). Was die Umschrift der Formen aus den europäischen
+          Sprachen anlangt, so ist für das Russische, Bulgarische und
+          Serbische die übliche Umschrift<note place="foot" n="1">Dabei
+            wurde der Einfachheit halber für den labialen Reibelaut wie im
+            Türkischen auch im Slavischen <hi rendition="#i">w</hi>
+            gesetzt; wenn auch im Arabischen hiermit der bilabiale Laut
+            bezeichnet wird, so scheinen mir phonetische Fragen hier von
+            geringerem Belange zu sein. Ebenso ist in den slavischen
+            Wörtern <hi rendition="#i">h</hi> zur Umschreibung von x
+            gewählt worden.</note> ohne die bei den Slavisten
+          gebräuchlichen Feinheiten benutzt worden; im übrigen ist die
+          nationale Orthographie angewandt worden, die nur bei älteren
+          Ausdrücken zu Schwierigkeiten führen kann (z. B. altspanisches
+            <hi rendition="#i">x</hi>).</p>
+        <p>Daß ich bei keiner der vermerkten Etymologien die Priorität für
+          mich in Anspruch nehme, ist selbstverständlich; es ist ja
+          vielfach überhaupt sehr schwierig, wenn nicht unmöglich, die
+          erstmalige Angabe einer Etymologie genau festzustellen, gehen
+          doch manche gute Etymologien beispielsweise auf Étienne und
+          Ménage zurück, die heutzutage wieder entdeckt werden. Der <pb
+            n="XII" facs="#f0012"/>Kenner und Fachgelehrte wird übrigens an
+          vielen Stellen merken, daß neue Vorschläge und Erklärungen
+          geboten werden. Bei nicht sicheren Etymologien war ich bemüht,
+          den Grad der Wahrscheinlichkeit durch entsprechende
+          Einschränkungen wie „vielleicht, möglicherweise, wahrscheinlich“
+          anzudeuten. Daß eine absolute Vollständigkeit in einem
+          etymologischen Wörterbuche niemals zu erreichen ist, bitte ich
+          bei Benutzung und Beurteilung bedenken zu wollen. Wer die
+          Entwicklung der aufeinander folgenden Auflagen bekannter
+          etymologischer Wörterbücher einmal verfolgt hat, wird die
+          Beobachtung gemacht haben, daß relative Vollkommenheit einer
+          solchen Arbeit erst von Auflage zu Auflage, meist mit Hilfe
+          anderer Fachgelehrter, deren Rat ich mit größtem Danke
+          entgegennehmen werde, zu erreichen ist. In diesem Sinne schicke
+          ich mein etymologisches Wörterbuch mit dem Spruche in die Welt,
+          der auf einem alten Gymnasium steht: <cit rendition="#et">
+            <quote>
+              <lg>
+                <l>Praesens imperfectum,</l>
+                <lb/>
+                <l>Perfectum futurum.</l>
+              </lg>
+            </quote>
+          </cit></p>
+        <p><hi rendition="#g">Köln</hi>, Januar 1927.</p>
+        <p rendition="#larger #right">Dr. Karl Lokotsch.</p>
+      </div>
+      <pb n="[XIII]" facs="#f0013"/>
+      <div xml:id="list-of-abbreviations">
+        <head rendition="#c">Verzeichnis der Abkürzungen und
+          Zeichen.</head>
+        <div xml:id="list-of-abbreviations1">
+          <head rendition="#c">1. Bücher und Zeitschriften.</head>
+          <p>Andresen DVEt = Karl Gustaf <hi rendition="#g">Andresen</hi>,
+            Über deutsche Volksetymologie. Heilbronn a. N. 1876.</p>
+          <p>Avé-L = F. C. B. <hi rendition="#g">Avé-Lallemand</hi>. Das
+            deutsche Gaunerthum in seiner socialpolitischen, literarischen
+            und linguistischen Ausbildung zu seinem heutigen Bestande. 4
+            Bde. Leipzig 1858/1862.</p>
+          <p>Behrens Beiträge = Dietrich <hi rendition="#g">Behrens</hi>,
+            Beiträge zur französischen Wortgeschichte und Grammatik.
+            Studien und Kritiken. Halle a. S. 1910.</p>
+          <p>Bern SlEtWb = Erich <hi rendition="#g">Berneker</hi>,
+            Slavisches Etymologisches Wörterbuch. I. Bd. A—L. 2.
+            unveränderte Aufl. Heidelberg 1924.</p>
+          <p>Birnbaum HebrEl = Salomo <hi rendition="#g">Birnbaum</hi>, Das
+            hebräische und aramäische Element in der jiddischen Sprache.
+            Leipzig 1922.</p>
+          <p>BrLexSyr = Lexicon syriacum auctore Carolo <hi rendition="#g"
+              >Brockelmann</hi>. Editio secunda aucta et emendata. Halis
+            Saxonum 1923 sqq.</p>
+          <p>Browne Festschr = <gap reason="fm"/>. A volume of oriental
+            studies presented to Edward G. <hi rendition="#g">Browne</hi>
+            on bis 60th birthday. Edited by T. W. Arnold and Reynold A.
+            Nicholson. Cambridge 1922.</p>
+        </div>
+        <div xml:id="list-of-abbreviations2"> </div>
+      </div>
+    </front>
+    <body>
+      <div/>
+    </body>
+    <back/>
+  </text>
+</TEI>
