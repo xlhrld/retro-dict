@@ -72,6 +72,7 @@
 		margin-bottom:0.5em;
 		margin-left:5em;
 	}
+	.hspace { padding-right: 3em; }
         .right {text-align: right;}
         .g{
             letter-spacing: 0.25em;
@@ -114,6 +115,18 @@
     <p class="{translate(./@rendition, '#', '')}">
       <xsl:apply-templates/>
     </p>
+  </xsl:template>
+
+  <xsl:template match="tei:item">
+    <p class="{translate(./@rendition, '#', '')}">
+      <xsl:apply-templates/>
+    </p>
+  </xsl:template>
+
+  <xsl:template match="tei:space[@dim='horizontal']">
+    <span class="{translate(./@rendition, '#', '')} hspace">
+      <xsl:apply-templates/>
+    </span>
   </xsl:template>
 
   <xsl:template match="tei:hi">
