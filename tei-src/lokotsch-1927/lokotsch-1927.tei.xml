@@ -1,7 +1,7 @@
 <?xml-stylesheet type="text/xsl" href="../../share/presentation/retro-dict-view.xsl"?>
-<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+<?xml-model href="../../share/validation/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
 ?>
-<?xml-model href="http://www.deutschestextarchiv.de/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
+<?xml-model href="../../share/validation/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="dtabf">
@@ -983,6 +983,135 @@
           <head rendition="#c">Etymologisches Wörterbuch.</head>
           <pb n="[XXII]" facs="#f0022"/>
           <pb n="[1]" facs="#f0023"/>
+          <cb type="start"/>
+          <div xml:id="section-a">
+            <cb n="1"/>
+            <p><hi rendition="#b">1. Syr. aβā:</hi>
+              <lb/>[BrLexSyr 1 a; allgemein-semitisch, vgl. hebr. <hi
+                rendition="#i">āβ</hi>, ar. <hi rendition="#i">abū</hi>,
+              ass. <hi rendition="#i">abu</hi>, Del HWB 3 a] ‘Vater’.
+              Hieraus gr. <hi rendition="#i">ἄββας</hi> und seit dem 4.
+              Jahrhundert im Kirchenlatein <hi rendition="#i">abbas</hi>
+                [<hi rendition="#i">abbătem</hi>, <hi rendition="#i"
+                >abbātem</hi>] in der Bedeutung ‘Vater, Mönch’, woraus die
+              Ableitungen <hi rendition="#i">abbatia</hi> ‘Abtei’ und <hi
+                rendition="#i">abbatissa</hi> ‘Äbtissin’. Die romanischen
+              Formen sind: it. <hi rendition="#i">abate</hi>, <hi
+                rendition="#i">abbate</hi>; <hi rendition="#i"
+              >abbadía</hi>, <hi rendition="#i">badía</hi>, <hi
+                rendition="#i">abazía</hi>; <hi rendition="#i"
+                >(a)badessa</hi>; prov. <hi rendition="#i">abas</hi>; <hi
+                rendition="#i">abadia</hi>; <hi rendition="#i"
+              >abadesa</hi>; kat. <hi rendition="#i">abat</hi>; <hi
+                rendition="#i">abadesa</hi>; sp. <hi rendition="#i"
+                >abad</hi>; <hi rendition="#i">abadesa</hi>, <hi
+                rendition="#i">abadía</hi>; pg. <hi rendition="#i"
+                >abbade</hi>; <hi rendition="#i">abbadia</hi>; <hi
+                rendition="#i">abbadessa</hi>; frz. <hi rendition="#i"
+                >abbé</hi>; <hi rendition="#i">abbesse</hi>; <hi
+                rendition="#i">abbaye</hi>. In den germanischen Sprachen:
+              ags. <hi rendition="#i">abbod</hi>, engl. <hi rendition="#i"
+                >abbot</hi>, ndl. <hi rendition="#i">abt</hi>, dtsch. <hi
+                rendition="#i">Abt</hi>, <hi rendition="#i">Abtei</hi>, <hi
+                rendition="#i">Äbtissin</hi>. Daß das von ML 8 aufgeführte
+              sp. kat. <hi rendition="#i">abadejo</hi>, pg. <hi
+                rendition="#i">badejo</hi> ‘Stockfisch’ hierher gehört,
+              darf doch wohl aus semantischen Gründen bezweifelt werden.
+              Aus dem it. wurde russ. <hi rendition="#i">abbat</hi>, <hi
+                rendition="#i">abbatissa</hi>, <hi rendition="#i"
+                >abbatstwo</hi>; serb. <hi rendition="#i">abat</hi>, <hi
+                rendition="#i">opat</hi>, čech. poln. <hi rendition="#i"
+                >opat</hi>, dagegen čech. <hi rendition="#i">jeptiška</hi>
+              ‘Nonne’ aus dem mhd. <hi rendition="#i">eppetisse</hi>
+              ‘Äbtissin’. [ML 8—10. Wartbg FEWb 3. Kluge 5. Gorjajew 1.
+              Bern SlEtWb 22.</p>
+            <p><hi rendition="#b">2. Ar. ‘abā’:</hi>
+              <lb/>‘Grober, dicker Wollstoff’ [vgl. ZDMG IV, 392], ‘Mantel
+              daraus’. Im Tk. ebenso und <hi rendition="#i">abaǧy</hi>
+              ‘Hersteller od. Verkäufer von solchen Mänteln’. Hieraus rum.
+                <hi rendition="#i">aba</hi> ‘dicker Stoff für
+              Mönchskutten’, <hi rendition="#i">abagiŭ</hi> ‘Verkäufer
+              dieses Stoffes’, <hi rendition="#i">abagerie</hi> ‘Handel
+              damit’ und Ableitungen: <hi rendition="#i">abager</hi>, <hi
+                rendition="#i">abageresc</hi>, <hi rendition="#i"
+                >abăioară</hi>, <hi rendition="#i">abăluţă</hi>. — Russ.
+                <hi rendition="#i">aba</hi> ‘grobes, weißes Tuch’; bulg.
+                <hi rendition="#i">aba</hi> ‘dass.’, ‘Art Oberkleid der
+              Bauern’; serb. <hi rendition="#i">aba</hi> ‘grobes Tuch’;
+              poln. <hi rendition="#i">haba</hi>, <hi rendition="#i"
+                >chaba</hi> ‘dass.’. [Sain 46. Gorjajew 1. Bern SlEtWb
+              22.</p>
+            <p><hi rendition="#b">3. Ar. abanūs:</hi>
+              <lb/>[Das selbst aus gr. <hi rendition="#i">ἔβενος</hi>,
+              letzten Endes phönizischen Ursprungs ist] ‘Ebenholz’. Hieraus
+              prov. <hi rendition="#i">avenuts</hi>, sp. <hi rendition="#i"
+                >abenuz</hi> ‘Ebenholzbaum, Diospyrus ebenus’ [neben
+              unmittelbar dem lat. <hi rendition="#i">ebenus</hi>
+              entlehnten <hi rendition="#i">ebano</hi> wie die übrigen
+              romanischen Formen]. Ebenso rum. <hi rendition="#i"
+                >abanos</hi> ‘Ebenholz’, fig. ‘kräftig’. [Sain 46. DE 31.
+              ML 2816.</p>
+            <cb n="2"/>
+            <p><hi rendition="#b">4. Ar. ‘Abbās:</hi>
+              <lb/>N. pr. Nach dem pers. Schah ‘ABBĀS I. [1586—1628] wurde
+              eine Münze mit seinem Bilde so genannt [vgl. Napoléon d’or,
+              Louis d’or]; hieraus russ. <hi rendition="#i">abaz</hi>
+              ‘Münze von 20 Kopeken’. [Gorjajew 1.</p>
+            <p><hi rendition="#b">5. Pers. ābdār:</hi>
+              <lb/>[Aus <hi rendition="#i">āb</hi> ‘Wasser’ od. ‘Glanz’
+              Horn NpEt S. 1, Nr. 2 und 3, und Stamm <hi rendition="#i"
+                >dār-</hi> ‘habend, haltend’ ebda. S. 116, Nr. 527]
+              ‘wässerig, hell, glänzend’ [von Stahl od. Waffen gesagt].
+              Über das tk. hieraus rum. <hi rendition="#i">abitir</hi>
+              ‘besser, vortrefflicher’; russ. <hi rendition="#i"
+                >ob&#769;jaŕ</hi> ‘Art Stoff’.</p>
+            <p><hi rendition="#b">6. Ar. abjaḍ:</hi>
+              <lb/>‘Weiß’. Hieraus frz. <hi rendition="#i">abit</hi>
+              ‘Bleiweiß’, alter chemischer Terminus. Aus dem ar. Subst. <hi
+                rendition="#i">bajāḍ</hi> ‘Weiße’ wurde mit ar. Art. sp.
+                <hi rendition="#i">albayalde</hi> ‘kohlensaures Bleisalz’,
+              Vb. <hi rendition="#i">albayaldar</hi>. [Devic DEt 1.</p>
+            <p><hi rendition="#b">7. Pers. ābkārī:</hi>
+              <lb/>[Aus pers. <hi rendition="#i">āb</hi> s. hier Nr. 5 und
+                <hi rendition="#i">kār</hi> ‘Werk, Tat’ Horn NpEt S. 185,
+              Nr. 831; dazu das ī des Abstraktums], ebenso hind.
+              ‘Wasserarbeit’. Hieraus angloind. <hi rendition="#i"
+                >abcaree</hi>, <hi rendition="#i">abkary</hi> ursprünglich
+              ‘die Arbeit, Wasser zu destillieren und zu verkaufen’,
+              heutzutage ‘die Steuer auf dieses Geschäft’. <hi
+                rendition="#g">Abkary-System</hi> ist also das System der
+              Besteuerung geistiger Getränke in Britisch-Indien.
+              [Hobson-Jobson 2.</p>
+            <p><hi rendition="#b">8. Hebr. Abrāhām:</hi>
+              <lb/>N. pr. [Volksetymologisch ‘Vater der Menge’]. In frz.
+              Dialekten in der Bedeutung ‘Milchstraße’, wallon. <hi
+                rendition="#i">abe d’Abraham</hi> [= arbre d’A.] sind
+              fächerförmig vom Horizont aus sich über den Abendhimmel
+              ausbreitende Wolkengebilde. [Wartbg FEWb 8.</p>
+            <p><hi rendition="#b">9. Ar. abraṣ:</hi>
+              <lb/>Auch tk. ‘Pferd mit weißen und schwarzen Füßen’. Hieraus
+              rum. <hi rendition="#i">abraş</hi> ‘gefleckt, buntscheckig’,
+              fig. ‘Unheil verkündend’; im walachischen Dialekt <hi
+                rendition="#i">iabraş</hi>, <hi rendition="#i">iambraş</hi>
+              ‘Pferd mit weißen Flecken’.</p>
+            <p><hi rendition="#b">10. Pers. äbrēšäm:</hi>
+              <lb/>[Horn NpEt S. 16, Nr. 65] ‘Seide’, entweder gehaspelte
+              od, gedrehte, gezwirnte <pb n="2" facs="#f0024"/><cb n="1"
+              />Ganzseide [auch ins Semitische übergegangen: syr. <hi
+                rendition="#i">abrāšom</hi>, <hi rendition="#i"
+                >abrīšūm</hi> BrLexSyr 3 b; ar. <hi rendition="#i"
+                >ibrīsam</hi>, <hi rendition="#i">ibrīsum</hi>, schon
+              häufig mit der Bedeutung ‘Seidenfaden, Seidenzwirn’, vgl.
+              Joseph Karabacek, Über einige Benennungen mittelalterlicher
+              Gewebe I. Wien 1882. S. 21 bis 22.]. Ins Tk. übergegangen als
+                <hi rendition="#i">ibrišim</hi> [offenbar mit Anlehnung an
+              die Wurzel <hi rendition="#i">ip</hi>, <hi rendition="#i"
+                >ib</hi> ‘winden’ Vámbéry TktEtWb Nr. 37]. Aus dem Tk.
+              wurde rum. <hi rendition="#i">ibrişim</hi>, <hi
+                rendition="#i">ibrişin</hi> ‘Seidenfaden, Zwirn’; Ableitung
+                <hi rendition="#i">ibrişinar</hi>.</p>
+          </div>
+          <cb type="end"/>
         </div>
       </div>
     </front>
