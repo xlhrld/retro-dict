@@ -14,5 +14,5 @@ The collection of transcripts comprise the following dictionaries:
 | miklosich-1886  | Miklosich, Franz: Etymologisches Wörterbuch der slavischen Sprachen. Wien, 1886. | stub |
 | mueller-1878    | Mueller, Eduard: Etymologisches Wörterbuch der englischen Sprache. Bd. 1 (A – K). Cöthen, ²1878. | partly transcribed |
 | mueller-1879    | Mueller, Eduard: Etymologisches Wörterbuch der englischen Sprache. Bd. 2 (L – Z). Cöthen, ²1879. | stub |
-| uhlenbeck-1900  | Uhlenbeck, C. C.: Kurzgefaßtes etymologisches Wörterbuch der gotischen Sprache. Amsterdam, ²1900. | partly transcribed |
+| uhlenbeck-1900  | Uhlenbeck, C. C.: Kurzgefaßtes etymologisches Wörterbuch der gotischen Sprache. Amsterdam, ²1900. | fully transcribed |
 | walde-1910      | Walde, Alois: Lateinisches etymologisches Wörterbuch. Heidelberg, ²1910 | stub |
