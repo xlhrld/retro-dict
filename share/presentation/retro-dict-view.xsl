@@ -80,6 +80,7 @@
         }
         .page_number{
 		background-color: Gray;
+		border: 1px dotted White;
 		color: White;
 		padding: 2px;
 		margin: 2px;
@@ -136,11 +137,11 @@
   </xsl:template>
   
   <xsl:template match="tei:p/tei:pb">
-    <span class="page_number">[<xsl:value-of select="./@n"/>]</span>
+    <span class="page_number">p.&#160;<xsl:value-of select="./@n"/></span>
   </xsl:template>
   
   <xsl:template match="tei:pb">
-    <div class="page_number">[<xsl:value-of select="./@n"/>]</div>
+    <div class="page_number">p.&#160;<xsl:value-of select="./@n"/></div>
   </xsl:template>
   
   <xsl:template match="tei:lb">
