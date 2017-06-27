@@ -1,7 +1,7 @@
 <?xml-stylesheet type="text/xsl" href="../../share/presentation/retro-dict-view.xsl"?>
-<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+<?xml-model href="../../share/validation/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
 ?>
-<?xml-model href="http://www.deutschestextarchiv.de/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
+<?xml-model href="../../share/validation/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
@@ -37,7 +37,7 @@
           <orgName ref="https://github.com/xlhrld/retro-dict"
             >retro-dict</orgName>
         </publisher>
-        <date type="publication">2017-05-16</date>
+        <date type="publication">2017-06-27</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">
             <p>This work is licensed under a Creative Commons Attribution
@@ -200,6 +200,8 @@
       <div xml:id="list-of-abbreviation">
         <pb facs="#f0005" n="[VII]"/>
         <head rendition="#c">LIST OF ABBREVIATIONS.</head>
+        <cb type="start"/>
+        <cb n="1"/>
         <p>acc. = accusative case <lb/>adj. = adjective <lb/>adv. = adverb
             <lb/><hi rendition="#k">bret.</hi> = Breton <lb/><hi
             rendition="#k">celt.</hi> = Celtic <lb/>conj. = conjunction
@@ -216,8 +218,8 @@
           mood <lb/>infl. = inflected <lb/>interj. = interjection <lb/><hi
             rendition="#k">ir.</hi> = Irish <lb/><hi rendition="#k"
             >ital.</hi> = Italian <lb/><hi rendition="#k">lat.</hi> = Latin
-            <lb/><hi rendition="#k">lg.</hi> = Low German <lb/>lit. =
-          literally <lb/><hi rendition="#k"><choice>
+            <lb/><hi rendition="#k">lg.</hi> = Low German <cb n="2"
+          /><lb/>lit. = literally <lb/><hi rendition="#k"><choice>
               <sic>lith</sic>
               <corr>lith.</corr>
             </choice></hi> = Lithuanian <lb/>m. = masculine <lb/><hi
@@ -239,9 +241,11 @@
             <lb/><hi rendition="#k">span.</hi> = Spanish <lb/>superl. =
           superlative <lb/><hi rendition="#k">swed.</hi> = Swedish <lb/><hi
             rendition="#k">teut.</hi> = Teutonic <lb/>vb. = verb</p>
+        <cb type="end"/>
       </div>
+      <pb n="VIII" facs="#f0006"/>
       <div xml:id="list-of-symbols">
-        <head rendition="#c">LIST OF SYMBOLS IN TEUTONIC WORDS.</head>
+        <head rendition="#c">LIST OF SYMBOLS IN TEUT. WORDS.</head>
         <p><lb/><hi rendition="#i">ë</hi> (not umlauted) = European and
           Aryan <hi rendition="#i">e</hi>. <lb/><hi rendition="#i">ẹ́</hi>
           in <hi rendition="#k">oe.</hi>
@@ -269,16 +273,17 @@
             rendition="#i">đ</hi> in On. Oe. Osax. words = <hi
             rendition="#k">E</hi>. <hi rendition="#i">th</hi>. <lb/><hi
             rendition="#i">ƕ</hi> in Goth. is <hi rendition="#i">h</hi> +
-            <hi rendition="#i">w</hi>. <lb/>√ root. <lb/>* indicates a word
-          or form not actually found, but of which the existence is
-          inferred.</p>
+            <hi rendition="#i">w</hi>. <lb/>√ = root. <lb/>* before a word
+          conjectured or inferred.</p>
       </div>
     </front>
     <body>
       <div xml:id="dictionary">
         <div xml:id="section-a">
-          <pb facs="#f0006" n="1"/>
+          <pb facs="#f0007" n="1"/>
           <head rendition="#c">A</head>
+          <cb type="start"/>
+          <cb n="1"/>
           <p><hi rendition="#b">a¹,</hi>
             <hi rendition="#b">an</hi> indef. article <hi rendition="#k"
               >me.</hi>
@@ -361,6 +366,7 @@
               <sic>abound’</sic>
               <corr>‘abound’</corr>
             </choice>.</p>
+          <cb n="2"/>
           <p><hi rendition="#b">about</hi>
             <hi rendition="#k">me.</hi>
             <hi rendition="#i">aboute</hi>
@@ -440,7 +446,7 @@
             <hi rendition="#i">acan</hi>
             <hi rendition="#k">me.</hi>
             <hi rendition="#i">ake</hi> ‘ache, feel pain’.</p>
-          <pb facs="#f0007" n="2"/>
+          <pb facs="#f0008" n="2"/>
           <p><hi rendition="#b">achieve</hi>
             <hi rendition="#k">me.</hi>
             <hi rendition="#i">achẹ́ve</hi>: adapt. of <hi rendition="#k"
@@ -544,6 +550,7 @@
             <hi rendition="#i">neidr</hi>. For the loss of initial <hi
               rendition="#i">n</hi> cp. <hi rendition="#i #g">auger</hi>
             and <hi rendition="#i #g">apron</hi>.</p>
+          <cb n="2"/>
           <p><hi rendition="#b">adjourn</hi> vb. <hi rendition="#k"
               >me.</hi>
             <hi rendition="#i">ajurne</hi>
@@ -641,7 +648,8 @@
               rendition="#k">goth.</hi>
             <hi rendition="#i">usgaisjan</hi> ‘make afraid’ and perh. to
               <hi rendition="#i #g">ghost</hi>.</p>
-          <pb facs="#f0008" n="3"/>
+          <pb facs="#f0009" n="3"/>
+          <cb n="1"/>
           <p><hi rendition="#b">aglet</hi> ‘spangle, pin’ (Shakesp.) from
               <hi rendition="#k">fr.</hi>
             <hi rendition="#i">aiguillet</hi> dimin. of <hi rendition="#i"
@@ -719,6 +727,7 @@
             <hi rendition="#i">*cyneboga</hi> formed as <hi rendition="#k"
               >oe.</hi>
             <hi rendition="#i">cynewiđđe</hi>.</p>
+          <cb n="2"/>
           <p><hi rendition="#b">alder</hi>
             <hi rendition="#k">me.</hi>
             <hi rendition="#i">alder</hi>
@@ -830,8 +839,9 @@
             <hi rendition="#i">amandel</hi>). Source <hi rendition="#k"
               >lat.</hi>
             <hi rendition="#i">amygdala</hi> (<hi rendition="#k">gr.</hi>
-            <hi rendition="#i">ἀμυγδάλη</hi> ‘an <pb facs="#f0009" n="4"
-            />almond’, whence a vulgar <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">ἀμυγδάλη</hi> ‘an <pb facs="#f0010" n="4"
+              /><cb n="1"/>almond’, whence a vulgar <hi rendition="#k"
+              >lat.</hi>
             <hi rendition="#i">amendla</hi> (<hi rendition="#k">it.</hi>
             <hi rendition="#i">mandola</hi> = <hi rendition="#k">ohg.</hi>
             <hi rendition="#i">mandala</hi>
@@ -925,6 +935,7 @@
             <hi rendition="#k">me.</hi>
             <hi rendition="#i">alwaies</hi>, being an adv. gen. sing. ‘all
             the time, always’.</p>
+          <cb n="2"/>
           <p><hi rendition="#b">amaze</hi> vb. <hi rendition="#k">me.</hi>
             <hi rendition="#i">amáse</hi>
             <hi rendition="#k">oe.</hi>
@@ -1028,8 +1039,8 @@
               rendition="#k">ofr.</hi>
             <hi rendition="#i">angele</hi> (<hi rendition="#k">fr.</hi>
             <hi rendition="#i">ange</hi>). The <hi rendition="#k">fr.</hi>
-            word supplanted the orig. <pb facs="#f0010" n="5"/><hi
-              rendition="#k">oe.</hi>
+            word supplanted the orig. <pb facs="#f0011" n="5"/>
+            <cb n="1"/><hi rendition="#k">oe.</hi>
             <hi rendition="#k">me.</hi>
             <hi rendition="#i">engel</hi> = <hi rendition="#k">g.</hi>
             <hi rendition="#k">du.</hi>
@@ -1134,6 +1145,7 @@
             <hi rendition="#i">enoint</hi> ‘anointed’ part. of <hi
               rendition="#i">enoindre</hi> ‘anoint’; cp. <hi
               rendition="#i #g">ointment</hi>.</p>
+          <cb n="2"/>
           <p><hi rendition="#b">anon</hi> ‘immediately’ <hi rendition="#k"
               >me.</hi>
             <hi rendition="#i">anǫ́n</hi> earlier <hi rendition="#i"
@@ -1235,8 +1247,9 @@
               >teut.</hi> word, whence <hi rendition="#k">oruss.</hi>
             <hi rendition="#k">slov.</hi>
             <hi rendition="#i">opica</hi>, <hi rendition="#k">obohem.</hi>
-            <pb facs="#f0011" n="6"/><hi rendition="#i">opice</hi> ‘ape’
-            are borrowed. Source of <hi rendition="#k">teut.</hi>
+            <pb facs="#f0012" n="6"/>
+            <cb n="1"/><hi rendition="#i">opice</hi> ‘ape’ are borrowed.
+            Source of <hi rendition="#k">teut.</hi>
             <hi rendition="#i">apan-</hi> unknown.</p>
           <p><hi rendition="#b">appal(l)</hi> vb. <hi rendition="#k"
               >me.</hi>
@@ -1335,8 +1348,9 @@
               >gr.</hi>
             <hi rendition="#i">πραιϰοϰϰια</hi>) from <hi rendition="#k"
               >lat.</hi>
-            <hi rendition="#i">praecocium</hi> (<hi rendition="#i">malum
-              praecoquum</hi>?) lit. ‘precocious’.</p>
+            <hi rendition="#i">praecocium</hi>
+            <cb n="2"/>(<hi rendition="#i">malum praecoquum</hi>?) lit.
+            ‘precocious’.</p>
           <p><hi rendition="#b">April</hi>
             <hi rendition="#k">me.</hi>
             <hi rendition="#i">ápril(l)e</hi>: adapt. of <hi rendition="#k"
@@ -1426,8 +1440,8 @@
             <hi rendition="#i">arms</hi>, <hi rendition="#k">ohg.</hi>
             <hi rendition="#i">ar(a)m</hi>
             <hi rendition="#k">g.</hi>
-            <hi rendition="#i">arm</hi>. Akin <pb facs="#f0012" n="7"/>to
-              <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">arm</hi>. Akin <pb facs="#f0013" n="7"/><cb
+              n="1"/>to <hi rendition="#k">lat.</hi>
             <hi rendition="#i">armus</hi> ‘the topmost part of the upper
             arm, fore-quarter’, <hi rendition="#k">oslov.</hi>
             <hi rendition="#i">ramę</hi> ‘shoulder, arm’, <hi
@@ -1513,6 +1527,7 @@
             <hi rendition="#i">arrivare</hi>; <hi rendition="#k">lat.</hi>
             type <hi rendition="#i">adripare</hi> (<hi rendition="#i"
               >rîpa</hi> ‘shore’).</p>
+          <cb n="2"/>
           <p><hi rendition="#b">arrow</hi>
             <hi rendition="#k">me.</hi>
             <hi rendition="#i">arwe</hi> late <hi rendition="#k">oe.</hi>
@@ -1626,7 +1641,8 @@
               >oslov.</hi>
             <hi rendition="#i">osĭlŭ</hi>, <hi rendition="#k">russ.</hi>
             <hi rendition="#i">oselŭ</hi> ‘ass’.</p>
-          <pb facs="#f0013" n="8"/>
+          <pb facs="#f0014" n="8"/>
+          <cb n="1"/>
           <p><hi rendition="#b">assail</hi> vb. <hi rendition="#k">me.</hi>
             <hi rendition="#i">asaile</hi>: adapt. of <hi rendition="#k"
               >fr.</hi>
@@ -1722,7 +1738,7 @@
             <hi rendition="#i">atíre</hi>: adapted fr. <hi rendition="#k"
               >ofr.</hi>
             <hi rendition="#i">atirer</hi> ‘adorn’. Source a Teut. sb. <hi
-              rendition="#i">tîr</hi> ‘ornament, honor’ = <hi
+              rendition="#i">tîr</hi> ‘ornament, honor’ <cb n="2"/>= <hi
               rendition="#k">osax.</hi>
             <hi rendition="#k">oe.</hi>
             <hi rendition="#i">tír</hi> ‘glory, honor’ (<hi rendition="#k"
@@ -1812,7 +1828,7 @@
             <hi rendition="#i">avenǧe</hi>: adapt. of <hi rendition="#k"
               >ofr.</hi>
             <hi rendition="#i">avengier</hi> ‘avenge’ (source <pb
-              facs="#f0014" n="9"/><hi rendition="#k">lat.</hi>
+              facs="#f0015" n="9"/><cb n="1"/><hi rendition="#k">lat.</hi>
             <hi rendition="#i">vindicare</hi> ‘vindicate’); cp. <hi
               rendition="#i #g">vengeance</hi>.</p>
           <p><hi rendition="#b">avoid</hi>
@@ -1912,7 +1928,8 @@
               rendition="#k">on.</hi>
             <hi rendition="#i">ǫgn</hi> which is ident. with <hi
               rendition="#k">oe.</hi>
-            <hi rendition="#i">ægne</hi>, <hi rendition="#k">ohg.</hi>
+            <cb n="2"/><hi rendition="#i">ægne</hi>, <hi rendition="#k"
+              >ohg.</hi>
             <hi rendition="#i">agana</hi>
             <hi rendition="#k">mhg.</hi>
             <hi rendition="#i">agene</hi>
@@ -2013,10 +2030,13 @@
             <hi rendition="#i">aiws</hi>, <hi rendition="#k">lat.</hi>
             <hi rendition="#i">aevum</hi>, <hi rendition="#k">gr.</hi>
             <hi rendition="#i">αἰών</hi>.</p>
+          <cb type="end"/>
         </div>
         <div xml:id="section-b">
-          <pb facs="#f0015" n="10"/>
+          <pb facs="#f0016" n="10"/>
           <head rendition="#c">B</head>
+          <cb type="start"/>
+          <cb n="1"/>
           <p><hi rendition="#b">babe</hi>
             <hi rendition="#k">me.</hi>
             <hi rendition="#i">bábe</hi> fuller form <hi rendition="#i"
@@ -2094,9 +2114,9 @@
             <hi rendition="#k">me.</hi>
             <hi rendition="#i">bad(de)</hi> ‘worthless, wicked’; prob.
             ident. with <hi rendition="#k">oe.</hi>
-            <hi rendition="#i">ábǽded</hi> ‘forced, compelled’: orig. part.
-            of the vb. <hi rendition="#i">á-bǽdan</hi> ‘compel,
-            restrain’.</p>
+            <hi rendition="#i">ábǽded</hi> ‘forced, compelled’: orig. <cb
+              n="2"/>part. of the vb. <hi rendition="#i">á-bǽdan</hi>
+            ‘compel, restrain’.</p>
           <p><hi rendition="#b">badge</hi> late <hi rendition="#k">me.</hi>
             <hi rendition="#i">baǧǧe</hi>: of <hi rendition="#k">fr.</hi>
             origin, cp. <hi rendition="#k">ofr.</hi>
@@ -2174,8 +2194,8 @@
               rendition="#k">mhg.</hi>
             <hi rendition="#i">beizen</hi> ‘bait’, <hi rendition="#k"
               >oe.</hi>
-            <pb facs="#f0016" n="11"/><hi rendition="#i">bǽtan</hi>:
-            causative of <hi rendition="#k">teut.</hi>
+            <pb facs="#f0017" n="11"/><cb n="1"/><hi rendition="#i"
+              >bǽtan</hi>: causative of <hi rendition="#k">teut.</hi>
             <hi rendition="#i">bîtan</hi> ‘bite’; cp. <hi rendition="#i #g"
               >bite</hi>.</p>
           <p><hi rendition="#b">bake</hi>
@@ -2264,7 +2284,7 @@
             <hi rendition="#i">ballo</hi> ‘a ball, sphere’, <hi
               rendition="#k">on.</hi>
             <hi rendition="#i">bǫllr</hi> ‘ball’.</p>
-          <cb n="1"/>
+          <cb n="2"/>
           <p><hi rendition="#b">ball²</hi> ‘a dance’ (= <hi rendition="#k"
               >du.</hi>
             <hi rendition="#k">g.</hi>
@@ -2368,7 +2388,7 @@
             <hi rendition="#i">*barkus</hi>: prob. akin to <hi
               rendition="#i #g">birch</hi> on account of <hi rendition="#k"
               >skr.</hi>
-            <hi rendition="#i">bhûrja</hi> m. ‘birch’ <pb facs="#f0017"
+            <hi rendition="#i">bhûrja</hi> m. ‘birch’ <pb facs="#f0018"
               n="12"/>— n. ‘birchbark’. <hi rendition="#i">Bark</hi> orig.
             ‘birchbark’? cp. <hi rendition="#i #g">birch</hi>.</p>
           <p><hi rendition="#b">bark²</hi> adapt. of <hi rendition="#k"
@@ -2453,8 +2473,8 @@
             <hi rendition="#i">baron</hi>. Source a military word <hi
               rendition="#k">lat.</hi>
             <hi rendition="#i">baro</hi>
-            <cb/>‘mercenary’, which oftentimes is found in the Teut. Leges
-            Barbarorum for ‘baron’.</p>
+            <cb n="2"/>‘mercenary’, which oftentimes is found in the Teut.
+            Leges Barbarorum for ‘baron’.</p>
           <p><hi rendition="#b">barrel</hi>
             <hi rendition="#k">me.</hi>
             <hi rendition="#i">bărel</hi> prop. <hi rendition="#i"
@@ -2539,10 +2559,11 @@
             <hi rendition="#i">baschoe</hi> ‘bucket’); ani <hi
               rendition="#k">oe.</hi>
             <hi rendition="#i">*bascod</hi>
-            <pb facs="#f0018" n="13"/><hi rendition="#i">*baxod</hi> was
-            supplanted by <hi rendition="#i">*bascot</hi>, <hi
-              rendition="#i">-ot</hi> being an <hi rendition="#k">e.</hi>
-            dimin. suffix. A primit. <hi rendition="#k">lat.-gall.</hi>
+            <pb facs="#f0019" n="13"/><cb n="1"/><hi rendition="#i"
+              >*baxod</hi> was supplanted by <hi rendition="#i"
+              >*bascot</hi>, <hi rendition="#i">-ot</hi> being an <hi
+              rendition="#k">e.</hi> dimin. suffix. A primit. <hi
+              rendition="#k">lat.-gall.</hi>
             <hi rendition="#i">basca</hi> appears in <hi rendition="#k"
               >fr.</hi>
             <hi rendition="#i">bâche</hi> ‘tilt, vat’.</p>
@@ -2616,7 +2637,7 @@
               >bacon</hi>, made prob. by <hi rendition="#k">g.</hi> (dial.)
               <hi rendition="#i">speckmaus</hi> ‘bat’ prop.
             ‘flitch-mouse’.</p>
-          <cb/>
+          <cb n="2"/>
           <p><hi rendition="#b">batch</hi>
             <hi rendition="#k">me.</hi>
             <hi rendition="#i">bacche</hi>
@@ -2719,8 +2740,8 @@
             <hi rendition="#k">oe.</hi>
             <hi rendition="#i">bǽᵹ</hi> = <hi rendition="#k"
               >northfris.</hi>
-            <hi rendition="#i">bei</hi>, <pb facs="#f0019" n="14"/><hi
-              rendition="#k">ditmarsch</hi>
+            <hi rendition="#i">bei</hi>, <pb facs="#f0020" n="14"/><cb
+              n="1"/><hi rendition="#k">ditmarsch</hi>
             <hi rendition="#i">beie</hi>, <hi rendition="#k">du.</hi>
             <hi rendition="#i">bei</hi> ‘berry’: Teut. base <hi
               rendition="#i">baijiz</hi>
@@ -2823,7 +2844,8 @@
             <hi rendition="#i">bôna</hi>
             <hi rendition="#k">g.</hi>
             <hi rendition="#i">bohne</hi>, <hi rendition="#k">du.</hi>
-            <cb/><hi rendition="#i">boon</hi>, <hi rendition="#k">on.</hi>
+            <cb n="2"/><hi rendition="#i">boon</hi>, <hi rendition="#k"
+              >on.</hi>
             <hi rendition="#i">baun</hi>: <hi rendition="#k">teut.</hi>
             base <hi rendition="#i">baunô-</hi> ‘bean’. The early existence
             of the word (<hi rendition="#k">goth.</hi>
@@ -2924,8 +2946,8 @@
             <hi rendition="#i">bebris</hi>, <hi rendition="#k">russ.</hi>
             <hi rendition="#i">bobrŭ</hi> ‘beaver’. In <hi rendition="#k"
               >skr.</hi> there is an adj. <hi rendition="#i">babhrús</hi>
-            ‘brown’, which is perh. a redupl. <pb facs="#f0020" n="15"
-            />form pointing to <hi rendition="#k">lith.</hi>
+            ‘brown’, which is perh. a redupl. <pb facs="#f0021" n="15"/><cb
+              n="1"/>form pointing to <hi rendition="#k">lith.</hi>
             <hi rendition="#i">beras</hi> ‘brown’ under <hi
               rendition="#g #i">bear</hi>.</p>
           <p><hi rendition="#b">beaver</hi>² ‘the lower part of a helmet’
@@ -3023,7 +3045,7 @@
               >lat.</hi>
             <hi rendition="#i">fûcus</hi> ‘drone’ (Aryan base <hi
               rendition="#i">bhoiko-</hi>?).</p>
-          <cb/>
+          <cb n="2"/>
           <p><hi rendition="#b">beech</hi>
             <hi rendition="#k">me.</hi>
             <hi rendition="#i">bẹ́che</hi>
@@ -3128,9 +3150,9 @@
             <hi rendition="#i">duginnen</hi> ‘begin’. The <hi
               rendition="#k">teut.</hi> √ <hi rendition="#i">gen</hi> (the
             initial <hi rendition="#i">g</hi> of which may be an <pb
-              facs="#f0021" n="16"/>Aryan <hi rendition="#i">k</hi> in the
-            compound) is traceable to the Aryan √ <hi rendition="#i"
-              >ken</hi> in <hi rendition="#i">oslov</hi>. <hi
+              facs="#f0022" n="16"/><cb n="1"/>Aryan <hi rendition="#i"
+              >k</hi> in the compound) is traceable to the Aryan √ <hi
+              rendition="#i">ken</hi> in <hi rendition="#i">oslov</hi>. <hi
               rendition="#i">po-čĭną</hi> (infinit. <hi rendition="#i"
               >po-čęti</hi> ‘begin’, <hi rendition="#i">konĭ</hi>
             ‘beginning’).</p>
@@ -3223,7 +3245,7 @@
             <hi rendition="#i">bælcian</hi>
             <hi rendition="#i">bealcian</hi> and with suffix <hi
               rendition="#i">bealcettan</hi> ‘belch’.</p>
-          <cb/>
+          <cb n="2"/>
           <p><hi rendition="#b">belfry</hi>
             <hi rendition="#k">me.</hi>
             <hi rendition="#i">berfray</hi>
@@ -3323,7 +3345,8 @@
               rendition="#k">ogall.</hi>
             <hi rendition="#i">bulga</hi> ‘leather-bag’. Cp. <hi
               rendition="#i #g">bolster</hi>.</p>
-          <pb facs="#f0022" n="17"/>
+          <pb facs="#f0023" n="17"/>
+          <cb n="1"/>
           <p><hi rendition="#b">belly</hi>
             <hi rendition="#k">me.</hi>
             <hi rendition="#i">belie</hi>
@@ -3432,7 +3455,7 @@
             <hi rendition="#i">birôƀôn</hi>, <hi rendition="#k">du.</hi>
             <hi rendition="#i">berooven</hi>, <hi rendition="#k">ohg.</hi>
             <hi rendition="#i">(bi)roubôn</hi>
-            <cb/><hi rendition="#k">g.</hi>
+            <cb n="2"/><hi rendition="#k">g.</hi>
             <hi rendition="#i">berauben</hi>, <hi rendition="#k">goth.</hi>
             <hi rendition="#i">biraubôn</hi> ‘rob’, <hi rendition="#k"
               >on.</hi>
@@ -3524,7 +3547,7 @@
             <hi rendition="#i">betwẹ́onum</hi> ‘between’; in <hi
               rendition="#k">oe.</hi> the orig. construction was <hi
               rendition="#i">be sǽm twẹ́onum</hi> = ‘between the seas’, <pb
-              facs="#f0023" n="18"/><hi rendition="#k">oe.</hi>
+              facs="#f0024" n="18"/><cb n="1"/><hi rendition="#k">oe.</hi>
             <hi rendition="#i">*twẹ́on</hi> earlier <hi rendition="#i"
               >twíhn</hi> ‘two’ answers to <hi rendition="#k">goth.</hi>
             <hi rendition="#i">tweihns</hi> = <hi rendition="#k">lat.</hi>
@@ -3621,8 +3644,8 @@
             <hi rendition="#i">fîdo</hi> ‘I trust’ and <hi rendition="#k"
               >gr.</hi>
             <hi rendition="#i">πείϑομαι</hi> ‘I trust, obey’ (<hi
-              rendition="#i">πείϑω</hi> ‘I move by <cb/>entreaty’): pre-<hi
-              rendition="#k">teut.</hi>
+              rendition="#i">πείϑω</hi> ‘I move by <cb n="2"/>entreaty’):
+              pre-<hi rendition="#k">teut.</hi>
             <hi rendition="#i">bhī̆dh</hi>. Cp. <hi rendition="#g #i"
               >bid</hi> ‘pray’ for the identity of <hi rendition="#i #g"
               >bide</hi> with <hi rendition="#k">teut.</hi>
@@ -3718,11 +3741,11 @@
               >osax.</hi>
             <hi rendition="#i">bindan</hi>, <hi rendition="#k">on.</hi>
             <hi rendition="#i">binda</hi>, <hi rendition="#k">du.</hi>
-            <pb facs="#f0024" n="19"/><hi rendition="#k">g.</hi>
+            <pb facs="#f0025" n="19"/><cb n="1"/><hi rendition="#k">g.</hi>
             <hi rendition="#i">binden</hi>, <hi rendition="#k">ohg.</hi>
             bintan: <hi rendition="#k">teut.</hi> √ <hi rendition="#i"
-              >bënd</hi>. An Aryan √i <hi rendition="#i">bhendh</hi>
-            appears in <hi rendition="#k">skr.</hi>
+              >bënd</hi>. An Aryan √ <hi rendition="#i">bhendh</hi> appears
+            in <hi rendition="#k">skr.</hi>
             <hi rendition="#i">bandh</hi> ‘bind’; <hi rendition="#k"
               >skr.</hi>
             <hi rendition="#i">bandhu</hi> ‘relative’ points to connection
@@ -3818,7 +3841,7 @@
             <hi rendition="#i">bicche</hi>
             <hi rendition="#k">oe.</hi>
             <hi rendition="#i">bičče</hi>; <hi rendition="#k">teut.</hi>
-            <cb/>base <hi rendition="#i">bikjôn-</hi> also in <hi
+            <cb n="2"/>base <hi rendition="#i">bikjôn-</hi> also in <hi
               rendition="#k">on.</hi>
             <hi rendition="#i">bikkja</hi> ‘bitch’; cp. <hi rendition="#k"
               >ofr.</hi>
@@ -3882,10 +3905,2691 @@
             <hi rendition="#i">blæc</hi> (<hi rendition="#i">blac-</hi>);
             akin to <hi rendition="#k">lg.</hi>
             <hi rendition="#i">black</hi> ‘ink’.</p>
+          <p><hi rendition="#b">bladder</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bladdre</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">blǽdre</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">blaar</hi>, <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">bladere</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">blâttara</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">blatter</hi>, <hi rendition="#k">icel.</hi>
+            <hi rendition="#i">bladra</hi>; the <hi rendition="#k"
+              >teut.</hi> base <hi rendition="#i">*blêdrôn-</hi> (with <hi
+              rendition="#i">drô-</hi> as suffix) comes from the <hi
+              rendition="#k">teut.</hi> √ <hi rendition="#i">blê</hi> in
+              <hi rendition="#i #g">blow</hi>².</p>
+          <p><hi rendition="#b">blade</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bláde</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">blæd</hi> (plur. <hi rendition="#i"
+              >bladu</hi>) = synon. <hi rendition="#k">ohg.</hi> blat <hi
+              rendition="#k">g.</hi>
+            <hi rendition="#i">blatt</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">blad</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">blađ</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">*blađa-</hi>. Their dental seems to be
+            formative; <hi rendition="#i">bla-</hi> from pre-<hi
+              rendition="#k">teut.</hi>
+            <hi rendition="#i">bhlo-</hi> is perh. akin to <hi
+              rendition="#k">lat.</hi>
+            <hi rendition="#i">fol-ium</hi>, <hi rendition="#k">gr.</hi>
+            <hi rendition="#i">φύλλον</hi>: Aryan √ <hi rendition="#i"
+              >bhol</hi>
+            <hi rendition="#i">bhlo-</hi> in <hi rendition="#i #g"
+              >bloom</hi>?</p>
+          <p><hi rendition="#b">blain</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">blein</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bleʒen</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">blein</hi>: <hi rendition="#k">teut.</hi>
+            base <hi rendition="#i">blajinô-</hi> from <hi rendition="#k"
+              >teut.</hi> √ <hi rendition="#i">bla</hi> in <hi
+              rendition="#i #g">bladder</hi>?</p>
+          <p><hi rendition="#b">blame</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bláme</hi> (= <hi rendition="#k">mdu.</hi>
+            <hi rendition="#i">blamen</hi>): loanword from <hi
+              rendition="#k">fr.</hi>
+            <pb n="20" facs="#f0026"/><cb n="1"/><hi rendition="#i"
+              >blâmer</hi> (= <hi rendition="#k">ospan.</hi>
+            <hi rendition="#i">blasmar</hi>, <hi rendition="#k">it.</hi>
+            <hi rendition="#i">biasimare</hi>: source <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">blasphemare</hi>).</p>
+          <p><hi rendition="#b">blank</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">blank</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">blanc</hi>
+            <hi rendition="#i">blǫnc</hi> = synon. <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">blanc</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">blank</hi>; <hi rendition="#k">on.</hi>
+            <hi rendition="#i">blakkr</hi> ‘gray or white horse’: <hi
+              rendition="#k">teut.</hi> √ <hi rendition="#i">blënk</hi> in
+              <hi rendition="#i #g">blink</hi>. The <hi rendition="#k"
+              >teut.</hi> adj. <hi rendition="#i">blanka-</hi> was
+            introduced into the Roman. langs.; cp. <hi rendition="#k"
+              >it.</hi>
+            <hi rendition="#i">bianco</hi>, <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">blanc</hi> with the deriv. <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">blanchet</hi> = <hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">blanket</hi>, whence <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#k">e.</hi>
+            <hi rendition="#b">blanket</hi> ‘a coarse woolen cover’.</p>
+          <p><hi rendition="#b">blare</hi> vb. ‘roar’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">bláre</hi> vb. = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">blaren</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">blärren</hi>
+            <hi rendition="#i">plärren</hi>.</p>
+          <p><hi rendition="#b">blast</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">blast</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">blæst</hi>= <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">blâst</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">blástr</hi> ‘a gust of wind’: deriv. of the
+              <hi rendition="#k">teut.</hi> √ <hi rendition="#i">blês</hi>
+            = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">blazen</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">blâsan</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">blasen</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">blása</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">blêsan</hi>. A shorter √ <hi rendition="#i"
+              >blê</hi> cp. under <hi rendition="#i #g">blow</hi>².</p>
+          <p><hi rendition="#b">blaze</hi> sb. ‘a flame’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">bláse</hi> ‘flame, torch’ <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">blæ&#774;se</hi> (infl. <hi rendition="#i"
+              >bla&#774;san</hi>) ‘torch’ = <hi rendition="#k">lg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">blas</hi> ‘a torch’. Akin to <hi
+              rendition="#k">goth.</hi>
+            <hi rendition="#i">blêsan</hi> = <hi rendition="#k">g.</hi>
+            <hi rendition="#i">blasen</hi> ‘blow’ (cp. <hi rendition="#k"
+              >g.</hi>
+            <hi rendition="#i">windlicht</hi> ‘torch’).</p>
+          <p><hi rendition="#b">blaze</hi> vb. ‘proclaim’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">bláse</hi> ‘blow as a trumpet’: perh.
+            loanword from <hi rendition="#k">on.</hi>
+            <hi rendition="#i">blása</hi> ‘blow’ = <hi rendition="#k"
+              >du.</hi>
+            <hi rendition="#i">blazen</hi> ‘sound a trumpet’, <hi
+              rendition="#k">ohg.</hi>
+            <hi rendition="#i">blâsan</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">blasen</hi> ‘blow’, <hi rendition="#k"
+              >goth.</hi>
+            <hi rendition="#i">blêsan</hi> (in <hi rendition="#i"
+              >ufblêsan</hi> ‘puff up’). — <hi rendition="#b">blazon</hi>¹
+            ‘proclamation’ from <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">blasonner</hi> ‘blazon’, whence <hi
+              rendition="#k">du.</hi>
+            <hi rendition="#i">blazoen</hi>. — <hi rendition="#b"
+              >blazon</hi>² <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bláson</hi> older <hi rendition="#i"
+              >blásoún</hi> from <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">blason</hi> ‘coat of arms’ (whence also <hi
+              rendition="#k">du.</hi>
+            <hi rendition="#i">blazoen</hi>)?</p>
+          <p><hi rendition="#b">bleach</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">blę&#769;che</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">blǽčan</hi> = <hi rendition="#k">on.</hi>
+            <hi rendition="#i">bleikja</hi> ‘whiten’: <hi rendition="#k"
+              >teut.</hi> base <hi rendition="#i">blaikjan</hi> from the
+            adj. <hi rendition="#b">bleak</hi>
+            <cb n="2"/><hi rendition="#k">me.</hi>
+            <hi rendition="#i">bleik</hi> late <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bláec</hi>: borrowed from <hi rendition="#k"
+              >on.</hi>
+            <hi rendition="#i">bleikr</hi> = orig. <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">blác</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">blǫ&#769;k</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bleek</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bleich</hi>. A <hi rendition="#k">teut.</hi>
+            √ <hi rendition="#i">blī&#774;k</hi> appears in <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">blícan</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">blíka</hi>, <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">blîkan</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">blijken</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">blîhhan</hi> ‘shine’.</p>
+          <p><hi rendition="#b">blear-eyed</hi> ‘having sore eyes’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">blę́r-eyed bler-eighed</hi> fr. <hi
+              rendition="#i">blę́re</hi> ‘blear’ + <hi rendition="#i">eye
+              eiᵹe</hi> ‘eye’; cp. <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">plir-ǫjet</hi>, <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">blêr-ôged</hi> ‘blear-eyed’ (akin to <hi
+              rendition="#k">lg.</hi>
+            <hi rendition="#i">flirr-ôge</hi> ‘a bleared-eye’, <hi
+              rendition="#i">ên flirr up’t ôge hebben</hi> ‘have a bleared
+            eye’).</p>
+          <p><hi rendition="#b">bleat</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">blę́te</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">blǽtan</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">blaten</hi>
+            <hi rendition="#i">bleeten</hi>, <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">bleten</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">blâʒan</hi>
+            <hi rendition="#i">mhg.</hi>
+            <hi rendition="#i">blâʒen</hi>.</p>
+          <p><hi rendition="#b">bleed</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">blẹ́de</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">blẹ́dan</hi> = <hi rendition="#k"
+              >ofris.</hi>
+            <hi rendition="#i">bléda</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bloeden</hi>, <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">blœ̂den</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">bluotan</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">blœ́đa</hi> ‘bleed’: deriv. from <hi
+              rendition="#k">teut.</hi>
+            <hi rendition="#i">blôda-</hi> in <hi rendition="#i #g"
+              >blood</hi>.</p>
+          <p><hi rendition="#b">blemish</hi> vb. <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">blemiss(h)e</hi> ‘wound, injure, soil’:
+            loanword from <hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">blemiss-</hi>, stem of some forms of <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">blêmir</hi> ‘grow pale’ (<hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">bleme</hi>
+            <hi rendition="#i">blesme</hi> ‘pale, wan’).</p>
+          <p><hi rendition="#b">blench</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">blenche</hi> (also <hi rendition="#i"
+              >blenke</hi>) ‘shrink back, give way’, oe. <hi rendition="#i"
+              >blenčan</hi> ‘deceive’: causative of <hi rendition="#i #g"
+              >blink</hi>, <hi rendition="#k">teut.</hi> base <hi
+              rendition="#i">*blankjan</hi>.</p>
+          <p><hi rendition="#b">blend</hi>¹ vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">blẹ́nde</hi> (pret. blĕnde) <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">blandan</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">blandan</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">blanda</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">blantan</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">blanden</hi>.</p>
+          <p><hi rendition="#b">blend</hi>² vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">blende</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">blendan</hi> = <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">blentan</hi>
+            <hi rendition="#i">blenten</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">blenden</hi>: causative of <hi
+              rendition="#i #g">blind</hi> vb.</p>
+          <p><hi rendition="#b">bless</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">blesse</hi> older <hi rendition="#i"
+              >blĕtsie</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">blétsian</hi> older <hi rendition="#i"
+              >blœ́dsian</hi> ‘bless’ from a <hi rendition="#k">teut.</hi>
+            base <hi rendition="#i">*blôdisôn</hi>, not found elsewhere in
+              <hi rendition="#k">teut.</hi> The <pb n="21" facs="#f0027"
+              /><cb n="1"/>vb. orig. ‘sprinkle with blood’ is appar. a
+            deriv. of <hi rendition="#k">teut.</hi>
+            <hi rendition="#i">blôda-</hi> in <hi rendition="#i #g"
+              >blood</hi>.</p>
+          <p><hi rendition="#b">blind</hi> adj. <hi rendition="#k">me.</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">blínd</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#k">du.</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#k">sw.</hi>
+            <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">blind</hi> (<hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">blint</hi>), <hi rendition="#k">on.</hi>
+            <hi rendition="#i">blindr</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">blinds</hi>. Akin to <hi rendition="#k"
+              >on.</hi>
+            <hi rendition="#i">blunda</hi> vb. ‘close one’s eyes’ and to
+              <hi rendition="#k">lith.</hi>
+            <hi rendition="#i">blandyti</hi> ‘cast down one’s eyes’ — <hi
+              rendition="#i">blęsti</hi>
+            <hi rendition="#i">blisti</hi> ‘grow dark’. — <hi
+              rendition="#b">blind</hi> vb. ‘make blind’ deriv. of <hi
+              rendition="#i">blind</hi>, supplanting <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">blẹ́nde</hi> (pret. <hi rendition="#i"
+              >blĕnde</hi>) <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">blẹ́ndan</hi> = synon. <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#i">blẹntan</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">blenden</hi>: causative of the <hi
+              rendition="#k">teut.</hi> base <hi rendition="#i">blinda</hi>
+            in <hi rendition="#i">blind</hi> adj. <hi rendition="#b"
+              >blindfold</hi> adj. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">blī̆ndfelle</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">blindfellian</hi> ‘strike blind, put out the
+            eyes’; the mod. phonology of the second element of the word is
+            due to confusion with <hi rendition="#i">fold</hi>? But its
+            origin is obscure; it may be akin to <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">fėll</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">fell</hi>
+            <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">fël</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">fill</hi> = <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">pellis</hi>.</p>
+          <p><hi rendition="#b">blink</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">blinke</hi> = <hi rendition="#k">g.</hi>
+            <hi rendition="#k">du.</hi>
+            <hi rendition="#i">blinken</hi>, sw. <hi rendition="#i"
+              >blinka</hi>, <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">blinke</hi>.</p>
+          <p><hi rendition="#b">bliss</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">blisse</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">blíss</hi> older <hi rendition="#i"
+              >blíds</hi>
+            <hi rendition="#i">blíđs</hi> (= <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">blîdsea</hi>): <hi rendition="#i"
+            >s</hi>-deriv. of <hi rendition="#i #g">blithe</hi>.</p>
+          <p><hi rendition="#b">blister</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">blister</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">*blýstre</hi> = <hi rendition="#k">odu.</hi>
+            <hi rendition="#i">bluyster</hi>. Root unknown.</p>
+          <p><hi rendition="#b">blithe</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">blíthe</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">blíđe</hi> ‘joyful, glad’ (cp. <hi
+              rendition="#i #g">bliss</hi>) = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">blîthi</hi>, <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">blîde</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">blij(de)</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">blîdi</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">blíđr</hi>, <hi rendition="#k">sw.</hi>
+            <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">blid</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">bleiþs</hi>. The dental is formative, but
+            the <hi rendition="#k">teut.</hi> √ <hi rendition="#i"
+              >blī̆</hi> unknown elsewhere.</p>
+          <p><hi rendition="#b">block</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">block</hi> ‘a block’ (of wood). Cp. the
+            synon. <hi rendition="#k">du.</hi>
+            <hi rendition="#i">blok</hi>, <hi rendition="#k">mlg.</hi>
+            <hi rendition="#i">block</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">bloh</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">bloch</hi>
+            <cb n="2"/><hi rendition="#k">g.</hi>
+            <hi rendition="#i">block</hi>. Uncertain whether the <hi
+              rendition="#k">e.</hi> word is a native <hi rendition="#k"
+              >e.</hi> word or adapt. fr. <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">bloc</hi> ‘block, log’.</p>
+          <p><hi rendition="#b">blond</hi> from <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">blond</hi>, whence also <hi rendition="#k"
+              >g.</hi>
+            <hi rendition="#k">du.</hi>
+            <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">blond</hi>. Source a lost <hi rendition="#k"
+              >teut.</hi>
+            <hi rendition="#i">blunda-</hi> (= <hi rendition="#k">it.</hi>
+            <hi rendition="#i">biondo</hi>, <hi rendition="#k">span.</hi>
+            <hi rendition="#i">blondo</hi>).</p>
+          <p><hi rendition="#b">blood</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">blọ́d</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">blôd</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bloed</hi>, <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">blood</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">bluot</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">blut</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">blóđ</hi>, <hi rendition="#k">sw.</hi>
+            <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">blod</hi>: <hi rendition="#k">teut.</hi>
+            base <hi rendition="#i">blôda-</hi> (and <hi rendition="#i"
+              >blôþa-</hi> in <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">blôþ</hi>) from a pre-<hi rendition="#k"
+              >teut.</hi>
+            <hi rendition="#i">bhlôto-</hi>
+            <hi rendition="#i">bhlâto-</hi>, not found elsewhere. Its
+            relation to the √ <hi rendition="#i">blô</hi> ‘bloom’ is
+            doubtful. See <hi rendition="#i #g">bleed</hi> and <hi
+              rendition="#i #g">bless</hi>.</p>
+          <p><hi rendition="#b">bloom</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">blọ́m(e)</hi>: borrowed from <hi
+              rendition="#k">on.</hi>
+            <hi rendition="#i">blóm</hi>
+            <hi rendition="#i">blómi</hi> = <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">blôma</hi>, <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">blômo</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bloem</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">bluoma</hi> (<hi rendition="#i">bluomo</hi>)
+              <hi rendition="#k">g.</hi>
+            <hi rendition="#i">blume</hi> ‘flower’. For the √ <hi
+              rendition="#i">blô</hi> cp. <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">flôs</hi> and <hi rendition="#k">oir.</hi>
+            <hi rendition="#i">bláth</hi> ‘blossom’ and <hi
+              rendition="#i #g">blow</hi>¹.</p>
+          <p><hi rendition="#b">blossom</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">blosme</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">blóstm(a)</hi>
+            <hi rendition="#i">blósma</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bloesem</hi> (<hi rendition="#i"
+            >bloem</hi>), <hi rendition="#k">mlg.</hi>
+            <hi rendition="#i">blo(s)sem</hi>: deriv. of the <hi
+              rendition="#k">teut.</hi> √ <hi rendition="#i">blô</hi> in
+              <hi rendition="#i #g">blow</hi>.¹</p>
+          <p><hi rendition="#b">blow</hi> sb. ‘a stroke’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">blowe</hi>; deriv. from <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">blẹ́we</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">blẹ́owan</hi> = <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">bliuwan</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">bliuwen</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bläuen</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">blouwen</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">bliggwan</hi> ‘strike’: <hi rendition="#k"
+              >teut.</hi> √ <hi rendition="#i">bleu</hi>
+            <hi rendition="#i">blew</hi>.</p>
+          <p><hi rendition="#b">blow</hi>¹ vb. ‘bloom’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">blọ́we</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">blọ́wan</hi> ‘blossom’ = <hi rendition="#k"
+              >osax.</hi>
+            <hi rendition="#i">blôjan</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bloeijen</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">bluojan</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">blühen</hi> ‘blow, bloom’, <hi
+              rendition="#k">goth.</hi>
+            <hi rendition="#i">*blôjan</hi>. The <hi rendition="#k"
+              >teut.</hi> √ <hi rendition="#i">blô</hi> appears also in <hi
+              rendition="#i #g">bloom</hi> and <hi rendition="#i #g"
+              >blossom</hi>.</p>
+          <p><hi rendition="#b">blow</hi>² vb. ‘puff’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">blọ́we</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bláwan</hi> str. vb. = <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#i">blâian</hi> ‘blow’ <pb n="22" facs="#f0028"
+              /><cb n="1"/><hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">blœwen</hi>
+            <hi rendition="#i">blœjen</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">blähen</hi> ‘blow, swell’. The <hi
+              rendition="#k">teut.</hi> √ <hi rendition="#i">blê</hi>
+            <hi rendition="#i">blâ</hi> agrees partly with <hi
+              rendition="#k">lat.</hi>
+            <hi rendition="#i">flare</hi> (Aryan <hi rendition="#i"
+              >bhlâ</hi> in <hi rendition="#i #g">blade</hi> and <hi
+              rendition="#i #g">bladder</hi>).</p>
+          <p><hi rendition="#b">blue</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">blẹ́w</hi>: not deriv. from <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">blœ́wen</hi> (deriv. of <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">bláw</hi>), whence <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">*blę́we</hi> ought to be derived. <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">blẹ́w</hi>
+            <hi rendition="#i">blẹ́u</hi> is loanword from the synon. <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">bleu</hi> (= <hi rendition="#k">it.</hi>
+            <hi rendition="#i">biavo</hi>); <hi rendition="#k"><choice>
+                <sic>me-</sic>
+                <corr>me.</corr>
+              </choice></hi>
+            <hi rendition="#i">blǫ́</hi> ‘blue’ is adapt. of <hi
+              rendition="#k">on.</hi>
+            <hi rendition="#i">blár</hi>. The source of the whole group is
+            a <hi rendition="#k">teut.</hi> base <hi rendition="#i"
+              >blâwa-</hi>
+            <hi rendition="#i">blêwa-</hi> ‘blue’ = <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">bláw</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">blár</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">blaauw</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">blâo</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">blau</hi>; ident. w. <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">flavus</hi> ‘yellow’.</p>
+          <p><hi rendition="#b">boar</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bǫ́r</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bár</hi> = <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">bêr</hi> ‘a young boar’, <hi rendition="#k"
+              >osax.</hi>
+            <hi rendition="#i">bêr(swîn)</hi>, <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">bêr</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">beer</hi>: <hi rendition="#k">teut.</hi>
+            base <hi rendition="#i">baizu-</hi> or <hi rendition="#i"
+              >bairu-</hi>.</p>
+          <p><hi rendition="#b">board</hi> ‘a plank’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bǫ́rd</hi> ‘board, plank, shield, table’ =
+              <hi rendition="#k">osax.</hi>
+            <hi rendition="#k">du.</hi>
+            <hi rendition="#k">sw.</hi>
+            <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">bord</hi>, <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">boord</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bort</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">borđ</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">(fôtu)baúrd</hi> ‘foot-stool’: <hi
+              rendition="#k">teut.</hi> base <hi rendition="#i">borda-</hi>
+            with the by-form <hi rendition="#i">breda-</hi> in <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">brëd</hi> = <hi rendition="#k">g.</hi>
+            <hi rendition="#i">brett</hi> (<hi rendition="#k">du.</hi>
+            <hi rendition="#i">berd</hi>
+            <hi rendition="#k">odu.</hi> bred),</p>
+          <p><hi rendition="#b">boast</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bǫ́ste</hi>; perh. traceable to an <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">*bôsettian</hi>: deriv. from <hi
+              rendition="#k">teut.</hi> √ <hi rendition="#i">baus</hi>
+            <hi rendition="#i">bus</hi> in <hi rendition="#k">g.</hi>
+            <hi rendition="#i">böse</hi>
+            <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">bôsi</hi>?</p>
+          <p><hi rendition="#b">boat</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bǫ́t</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bát</hi> = <hi rendition="#k">on.</hi>
+            <hi rendition="#i">beit</hi> ‘boat’. The <hi rendition="#k"
+              >e.</hi> word is the source of <hi rendition="#k">on.</hi>
+            <hi rendition="#i">bátr</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">boot</hi> and <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">bateau</hi>.</p>
+          <p><hi rendition="#b">bodice</hi> ‘stays for women’ formerly <hi
+              rendition="#i">bodies</hi>, being plur. of <hi
+              rendition="#i #g">body</hi>. Cp. <hi rendition="#i #g"
+              >pence</hi> for <hi rendition="#i">pennies</hi>.</p>
+          <cb n="2"/>
+          <p><hi rendition="#b">bodkin</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">boidekin</hi> ‘a small dagger’; of uncertain
+            origin, related to <hi rendition="#k">w.</hi>
+            <hi rendition="#i">bidog</hi>, <hi rendition="#k">ir.</hi>
+            <hi rendition="#i">bideog</hi> ‘a dagger’? The diphthong <hi
+              rendition="#i">oi</hi> in <hi rendition="#k">me.</hi> shows
+            foreign origin of <hi rendition="#k">me.</hi>
+            <hi rendition="#i">boidekin</hi>; but the suffix seems to be
+            Anglisized.</p>
+          <p><hi rendition="#b">body</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bŏdy</hi>
+            <hi rendition="#i">bŏdí</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bodiᵹ</hi> ‘body’; akin to <hi
+              rendition="#k">ohg.</hi>
+            <hi rendition="#i">botah</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">botech</hi> ‘trunk, corpse’. Relation to <hi
+              rendition="#k">ohg.</hi>
+            <hi rendition="#i">botahha</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bottich</hi> ‘a large vessel, tub’ is
+            uncertain.</p>
+          <p><hi rendition="#b">boil</hi> ‘a small tumor’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">bíle</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">býl(e)</hi>: ident. with <hi
+              rendition="#i #g">bile</hi>.</p>
+          <p><hi rendition="#b">boil</hi> vb. ‘bubble up’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">boile</hi>
+            <hi rendition="#i">boyle</hi>: loanword from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">boillir</hi>
+            <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">bouillir</hi> = <hi rendition="#k"
+              >span.</hi>
+            <hi rendition="#i">bullir</hi>, <hi rendition="#k">it.</hi>
+            <hi rendition="#i">bollire</hi> ‘boil’. Source <hi
+              rendition="#k">lat.</hi>
+            <hi rendition="#i">bullire</hi> ‘bubble’.</p>
+          <p><hi rendition="#b">boisterous</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">boistrous</hi> ‘rough, coarse’: an extended
+            form of <hi rendition="#k">me.</hi>
+            <hi rendition="#i">boistous</hi> ‘rough, clumsy’. The <hi
+              rendition="#i">oi</hi>-diphthong points to foreign origin; no
+            source yet found.</p>
+          <p><hi rendition="#b">bold</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bǫ́ld</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">báld</hi> (<hi rendition="#i">bę́ald</hi>
+            older <hi rendition="#i">bę́alþ</hi>) = <hi rendition="#k"
+              >goth.</hi>
+            <hi rendition="#i">*balþa-</hi> (in <hi rendition="#i"
+              >balþaba</hi> adv.), <hi rendition="#k">on.</hi>
+            <hi rendition="#i">ballr</hi> (orig. <hi rendition="#i"
+              >*balþr</hi>), <hi rendition="#k">osax.</hi>
+            <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">bald</hi> ‘bold’ (hence <hi rendition="#k"
+              >g.</hi>
+            <hi rendition="#i">bald</hi> ‘soon, quickly’).</p>
+          <p><hi rendition="#b">bole</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bǫ́le</hi> = <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">bole</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bohle</hi> ‘a thick plank’; akin to <hi
+              rendition="#k">on.</hi>
+            <hi rendition="#i">bolr</hi> ‘trunk of a tree’ and perh.
+            related to gr. <hi rendition="#i">φάλαγξ</hi> ‘stem of a
+            tree’.</p>
+          <p><hi rendition="#b">boll</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bolle</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bolla</hi> ‘bowel, a round vessel’ = <hi
+              rendition="#k">du.</hi>
+            <hi rendition="#i">bol</hi> m. <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">bolla</hi> ‘a round vessel’, <hi
+              rendition="#k">on.</hi>
+            <hi rendition="#i">bolli</hi>. Perh. akin to <hi rendition="#i"
+              >ball</hi> and <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">follis</hi> ‘hose’.</p>
+          <p><hi rendition="#b">bolster</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bolster</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">bolster</hi>
+            <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">bolstar</hi>
+            <hi rendition="#k">g.</hi>
+            <pb n="23" facs="#f0029"/><cb n="1"/><hi rendition="#i"
+              >polster</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">bolstr</hi>: deriv. with <hi rendition="#i"
+              >str-</hi> suffix from the <hi rendition="#k">teut.</hi> √
+              <hi rendition="#i">belg</hi> ‘swell’; hence its orig. meaning
+            ‘swelling’ (<hi rendition="#k">teut.</hi> base <hi
+              rendition="#i">bolstra-</hi> from <hi rendition="#i"
+              >*bolhstra-</hi>).</p>
+          <p><hi rendition="#b">bolt</hi> vb. ‘sift meal’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">bulte</hi>: borrowed from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">bulter</hi> (<hi rendition="#k">fr.</hi>
+            <hi rendition="#i">bluter</hi>) ‘sift’.</p>
+          <p><hi rendition="#b">bolt</hi> ‘a stout pin of iron etc., an
+            arrow’ <hi rendition="#k">me.</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bolt</hi> = synon. <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#i">bolz</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bout</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">bolte</hi>. Borrowed from <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">catapulta</hi>?</p>
+          <p><hi rendition="#b">bone</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bǫ́n</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bán</hi> = <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bein</hi>, <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">bên</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">been</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">bein</hi>, <hi rendition="#k">sw.</hi>
+            <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">ben</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">*bain</hi> (<hi rendition="#k">du.</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#k">on.</hi>
+            <hi rendition="#k">sw.</hi> also ‘leg’). Perh. cogn. with <hi
+              rendition="#k">on.</hi>
+            <hi rendition="#i">beinn</hi> ‘straight’.</p>
+          <p><hi rendition="#b">bonnet</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bonet</hi>: loanword from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">bonet</hi> orig. <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">chapel</hi>
+            <hi rendition="#i">de</hi>
+            <hi rendition="#i">bonet</hi>; <hi rendition="#k"
+              >med.-lat.</hi>
+            <hi rendition="#i">bonneta</hi> ‘a stuff of which caps were
+            made’.</p>
+          <p><hi rendition="#b">bonny</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bony</hi>: an <hi rendition="#k">engl.</hi>
+            derivative of <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">bon</hi> ‘good’.</p>
+          <p><hi rendition="#b">booby</hi> not found in <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#k">oe.</hi>, with <hi rendition="#k">engl.</hi>
+            ending derived from <hi rendition="#k">span.</hi>
+            <hi rendition="#i">bobo</hi> ‘fool’?</p>
+          <p><hi rendition="#b">book</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bọ́k</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bọ́c</hi> = <hi rendition="#k">g.</hi>
+            <hi rendition="#i">buch</hi>
+            <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">buoh</hi>, <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">bôk</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">boek</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">bôka</hi> f. — <hi rendition="#i">bôk</hi>
+            n. ‘a letter of the alphabet’ shows in the plur. the meaning
+            ‘writing, document, book’, and the <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">osax.</hi>
+            <hi rendition="#k">oe.</hi> corresponding <hi rendition="#i"
+              >buoh</hi>
+            <hi rendition="#i">bôk</hi> occurs in pluralform with the
+            meaning ‘a single book’. Therefore it is evident, that the
+            sing, meant orig. (as in <hi rendition="#k">goth.</hi>) ‘a
+            single letter of the alphabet’. The <hi rendition="#k"
+              >teut.</hi> base <hi rendition="#i">bôka-</hi> (cp. <hi
+              rendition="#i #g">beech</hi>) was orig. ‘beech-bark. <cb
+              n="2"/>beech-tablet’ used to scratch runes on.</p>
+          <p><hi rendition="#b">boom</hi> borrowed from <hi rendition="#k"
+              >du.</hi>
+            <hi rendition="#i">boom</hi> (= <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">boom</hi>) ‘a tree, beam, pole’. Ident. with
+              <hi rendition="#i #g">beam</hi>.</p>
+          <p><hi rendition="#b">boon</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bọ́ne</hi> ‘petition, favor’: loanword from
+              <hi rendition="#k">on.</hi>
+            <hi rendition="#i">bón</hi> ‘a prayer’. There was a native <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">bẹ́n</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bẹ́ne</hi> ‘a prayer’.</p>
+          <p><hi rendition="#b">boor</hi> adapt. of <hi rendition="#k"
+              >du.</hi>
+            <hi rendition="#i">boer</hi> (= <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bauer</hi>) ‘peasant’. Akin to <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">ᵹebúr</hi>, cp. <hi rendition="#i #g"
+              >neighbor</hi>.</p>
+          <p><hi rendition="#b">boot</hi>¹ <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bọ́te</hi>; loanword from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">bote</hi> (<hi rendition="#i">boute</hi>) =
+              <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">botte</hi> (<hi rendition="#k">it.</hi>
+            <hi rendition="#i">bota</hi>); akin to <hi rendition="#k"
+              >g.</hi>
+            <hi rendition="#i">bossen</hi> ‘shoes’. Source unknown.</p>
+          <p><hi rendition="#b">boot</hi>² ‘advantage’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">bọ́te</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bọ́t</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">bôta</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">buoʒa</hi>
+            <hi rendition="#i">buoʒ</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">busse</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">bót</hi>. For the <hi rendition="#k"
+              >teut.</hi> √ <hi rendition="#i">bat</hi> cp. <hi
+              rendition="#i #g">batten</hi>, <hi rendition="#i #g"
+              >better</hi> and <hi rendition="#i #g">best</hi>.</p>
+          <p><hi rendition="#b">booth</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bọ́the</hi>: loanword from <hi
+              rendition="#k">odan.</hi>
+            <hi rendition="#i">bóth</hi> (<hi rendition="#k">dan.</hi>
+            <hi rendition="#i">bod</hi>) = <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">buode</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bude</hi>. The <hi rendition="#k"
+              >oicel.</hi>
+            <hi rendition="#i">búđ</hi> differs from <hi rendition="#k"
+              >dan.</hi>
+            <hi rendition="#i">bód</hi> in the root-vowels (<hi
+              rendition="#k">teut.</hi>
+            <hi rendition="#i">ô</hi>: <hi rendition="#i">û</hi>). The
+            dental is suffix. For the <hi rendition="#k">teut.</hi> √ <hi
+              rendition="#i">bū̆</hi> (<hi rendition="#k">indo-teut.</hi>
+            <hi rendition="#i">bhū̆</hi>) ‘dwell’ cp. <hi rendition="#k"
+              >lith.</hi>
+            <hi rendition="#i">butas</hi> ‘house’, <hi rendition="#k"
+              >oir.</hi>
+            <hi rendition="#i">both</hi> (<hi rendition="#i">bothán</hi>)
+            ‘hut’ (base <hi rendition="#i">bhŭ-to</hi>). See <hi
+              rendition="#i #g">build</hi> and <hi rendition="#i #g"
+              >be</hi>.</p>
+          <p><hi rendition="#b">booty</hi> in the 15ᵗʰ cent. spelled <hi
+              rendition="#i">bọ́tye</hi> and <hi rendition="#i">butin</hi>;
+            akin to the equiv. <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">butin</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">buit</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">beute</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">býte</hi> ‘booty’; the <hi rendition="#k"
+              >fr.</hi> word represents an <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">*bûtîn</hi>
+            <hi rendition="#i">*bûtî</hi>, which is cogn. w. <hi
+              rendition="#k">oir.</hi>
+            <hi rendition="#i">buaid</hi> ‘victory’ and <hi rendition="#k"
+              >cymr.</hi>
+            <hi rendition="#i">budd</hi> ‘advantage, profit’. Aryan √ <hi
+              rendition="#i">bhud</hi>: <hi rendition="#i">bhaud</hi>.</p>
+          <pb n="24" facs="#f0030"/>
+          <cb n="1"/>
+          <p><hi rendition="#b">border</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">border</hi>
+            <hi rendition="#i">bord(e)ure</hi>: adapt. of <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">bordure</hi>. Ultimate source <hi
+              rendition="#k">ohg.</hi>
+            <hi rendition="#i">borto</hi> ‘edge’.</p>
+          <p><hi rendition="#b">bore</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bǫ́re</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">borian</hi> = <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">borôn</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bohren</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">boren</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">bora</hi>. The <hi rendition="#k">teut.</hi>
+            base <hi rendition="#i">bŏrôn</hi> agrees with <hi
+              rendition="#k">lat.</hi>
+            <hi rendition="#i">forâre</hi> ‘bore’; cp. <hi rendition="#k"
+              >gr.</hi>
+            <hi rendition="#i">φάρος</hi> ‘plough’, <hi rendition="#k"
+              >skr.</hi>
+            <hi rendition="#i">bhurij</hi> ‘scissors’: Aryan √ <hi
+              rendition="#i">bher</hi>
+            <hi rendition="#i">bhər</hi>.</p>
+          <p><hi rendition="#b">borough</hi> and <hi rendition="#i"
+              >-bury</hi> in place-names <hi rendition="#k">me.</hi>
+            <hi rendition="#i">borwe</hi> (and <hi rendition="#i"
+            >biry</hi>) <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">burh</hi>
+            <hi rendition="#i">burg</hi> (dat. sing. <hi rendition="#i"
+              >byrᵹ</hi>) ‘town’. <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">burg</hi> = synon. <hi rendition="#k"
+              >osax.</hi>
+            <hi rendition="#i">bur(u)g</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">burg</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">bur(u)g</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">burg</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">borg</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">baúrgs</hi> ‘town’.</p>
+          <p><hi rendition="#b">borrow</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">borwe</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">borgian</hi> ‘protect, borrow’ = <hi
+              rendition="#k">ohg.</hi>
+            <hi rendition="#i">borgên</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">borgen</hi> ‘borrow, give a pledge’. Prob.
+            akin to <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">bërgan</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">baírgan</hi> ‘protect, shelter’ (<hi
+              rendition="#k">oslov.</hi>
+            <hi rendition="#i">brěgą</hi> ‘I take care of’).</p>
+          <p><hi rendition="#b">bosom</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bọ́sum</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bọ́sm</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">bôsm</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">boezem</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">buosam</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">busen</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">*bôsma-</hi>.</p>
+          <p><hi rendition="#b">botch</hi> vb. ‘mend a garment’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">bocche</hi> ‘repair’: deriv. from <hi
+              rendition="#i">boot</hi> ‘mending, repair of a thing’? perh.
+            ident. with <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bótettian</hi> ‘repair’ Cp. <hi
+              rendition="#k">g.</hi> dial. <hi rendition="#i">büetzen</hi>
+            ‘mend shoes’ = <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">buozzen</hi> ‘repair’.</p>
+          <p><hi rendition="#b">botch</hi> ‘a swelling on the skin, a boil’
+              <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bocche</hi>: borrowed from <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">boche</hi> ‘a sore’ (<hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">bosse</hi> ‘swelling’ = <hi rendition="#k"
+              >it.</hi>
+            <hi rendition="#i">boccia</hi> ‘ball’).</p>
+          <p><hi rendition="#b">both</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bǫ́the</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">bêđie</hi>, <hi rendition="#k">ofris.</hi>
+            <hi rendition="#i">bêthe</hi>
+            <hi rendition="#i">bêde</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">beide</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">báđir</hi>, <hi rendition="#k">sw.</hi>
+            <hi rendition="#i">båda</hi>, <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">baade</hi>. The <cb n="2"/>stem of the
+            numeral in its oldest forms had no dental: <hi rendition="#k"
+              >goth.</hi>
+            <hi rendition="#i">bai</hi> = <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">beᵹen</hi>
+            <hi rendition="#i">bá</hi>
+            <hi rendition="#i">bú</hi> ‘both’. The dental ending is short
+            for the article: <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bǫ́the</hi> = <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bá</hi>
+            <hi rendition="#i">đá</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">beide</hi> instead of <hi rendition="#i"
+              >bei</hi>
+            <hi rendition="#i">die</hi>. In the older periods the article
+            was combined with the numeral; cp. <hi rendition="#k"
+              >goth.</hi>
+            <hi rendition="#i">ba</hi>
+            <hi rendition="#i">þô</hi>
+            <hi rendition="#i">scipa</hi> ‘both ships’, <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">beᵹen</hi>
+            <hi rendition="#i">đá</hi>
+            <hi rendition="#i">gebróđru</hi> ‘both brothers’.</p>
+          <p><hi rendition="#b">bottle</hi>¹ ‘a hollow vessel’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">botel</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bottel</hi>, <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">buttel</hi>
+            <hi rendition="#i">buddel</hi>: loanwords from <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">bouteille</hi> (= <hi rendition="#k"
+              >span.</hi>
+            <hi rendition="#i">botella</hi>, <hi rendition="#k">it.</hi>
+            <hi rendition="#i">bottiglia</hi>)<choice>
+              <sic/>
+              <corr>.</corr>
+            </choice> Source <hi rendition="#k">med.-lat.</hi>
+            <hi rendition="#i">buticula</hi> f. dimin. of <hi
+              rendition="#i">butis</hi> ‘a butt’.</p>
+          <p><hi rendition="#b">bottle</hi>² ‘a bundle of hay’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">botel</hi>: loanword from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">botel</hi> dimin. of <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">botte</hi> ‘a bundle of hay’. Source a <hi
+              rendition="#k">teut.</hi>
+            <hi rendition="#i">bauta-</hi> in <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">bôʒo</hi> ‘a bundle of flax’.</p>
+          <p><hi rendition="#b">bottom</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">botum</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">botm</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">bodom</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bodem</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">bodam</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">boden</hi>. The <hi rendition="#k"
+              >teut.</hi> bases <hi rendition="#i">buþma-</hi> (= <hi
+              rendition="#k">ohg.</hi>
+            <hi rendition="#i">bodam</hi>) or <hi rendition="#i">butna</hi>
+            (= <hi rendition="#k">on.</hi>
+            <hi rendition="#i">botn</hi>) or with assimilation <hi
+              rendition="#i">butma-</hi> (= <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">botm</hi>) represent Aryan bases <hi
+              rendition="#i">bhutno-</hi>
+            <hi rendition="#i">bhudno</hi>; cp. <hi rendition="#k">aryan </hi>
+            <hi rendition="#i">bhudhno-</hi> ‘bottom’ in <hi rendition="#k"
+              >skr.</hi>
+            <hi rendition="#i">budhna</hi>; cp. <hi rendition="#k">gr.</hi>
+            <hi rendition="#i">πυϑμήν</hi>, <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">fundus</hi> (if traceable to <hi
+              rendition="#i">bhudhno-s</hi>?). The phonetical relations of
+            the group are obscure.</p>
+          <p><hi rendition="#b">bough</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bọ́ugh</hi>
+            <hi rendition="#i">bọ́w</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bọ́h</hi>
+            <hi rendition="#i">bọ́g</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">boeg</hi> ‘bow of the ship’, <hi
+              rendition="#k">ohg.</hi>
+            <hi rendition="#i">buog</hi> ‘upper joint of the arm or leg,
+            shoulder, hip’ <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bug</hi> ‘shoulders, withers’, <hi
+              rendition="#k">on.</hi>
+            <hi rendition="#i">bógr</hi> ‘shoulder, bow of a ship’. <hi
+              rendition="#k">goth.</hi>
+            <pb n="25" facs="#f0031"/><cb n="1"/><hi rendition="#i"
+              >*bôgus</hi> from <hi rendition="#k">pre-teut.</hi>
+            <hi rendition="#i">bhâghú-s</hi> ‘arm, fore-arm’ corresponds to
+              <hi rendition="#k">skr.</hi>
+            <hi rendition="#i">bâhú</hi> ‘arm’, also <hi rendition="#k"
+              >gr.</hi>
+            <hi rendition="#i">πᾶχυς</hi>
+            <hi rendition="#i">πῆχυς</hi> ‘fore-arm, elbow’.</p>
+          <p><hi rendition="#b">bounce</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bounse</hi> ‘beat, knock’ <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">*búnsian</hi>: frequent. of a primit. <hi
+              rendition="#i">*bûnan</hi>? Akin to <hi rendition="#k"
+              >lg.</hi>
+            <hi rendition="#i">bunsen</hi>
+            <hi rendition="#i">bumsen</hi> (<hi rendition="#i"
+            >bansen</hi>?) ‘knock’?</p>
+          <p><hi rendition="#b">bound</hi> sb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bounde</hi> older <hi rendition="#i"
+              >boune</hi>: borrowed fr. <hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">bonde</hi>
+            <hi rendition="#i">bonne</hi> ‘boundary’. — <hi rendition="#b"
+              >boundary</hi> points to <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">bonnier</hi>, whence also <hi rendition="#k"
+              >du.</hi>
+            <hi rendition="#i">bunder</hi>
+            <hi rendition="#k">odu.</hi>
+            <hi rendition="#i">bunre</hi>. Source <hi rendition="#k"
+              >med.-lat.</hi>
+            <hi rendition="#i">bodina</hi>.</p>
+          <p><hi rendition="#b">bound</hi> vb. ‘leap, spring’ borrowed from
+              <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">bondir</hi> ‘leap, spring’ prop. ‘resound’.
+            Source <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">bombitare</hi> ‘hum’?</p>
+          <p><hi rendition="#b">bound</hi> adj. ‘ready, prepared’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">boun</hi> ‘ready, prepared to go’: loanword
+            from <hi rendition="#k">on.</hi>
+            <hi rendition="#i">búinn</hi> ‘prepared’, part. of <hi
+              rendition="#i">búa</hi> ‘till, prepare’; cp. <hi
+              rendition="#i #g">busk</hi>.</p>
+          <p><hi rendition="#b">bounty</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bountẹ́</hi> loanword from <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">bonté</hi>; source <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">bonitatem</hi>. — <hi rendition="#b"
+              >bounteous</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bountevous</hi>: derived from <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">bontive</hi> ‘benevolent’ by influence of
+              <hi rendition="#i #g">righteous</hi>.</p>
+          <p><hi rendition="#b">bourn</hi> ‘boundary’ adapt. of <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">borne</hi>; ident. with <hi
+              rendition="#i #g">bound</hi>.</p>
+          <p><hi rendition="#b">bow</hi> vb. ‘bend’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">bowe</hi> earlier <hi rendition="#i"
+              >búwe</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">búgan</hi> str. vb. ‘bend, flee’ (only
+            intr.) = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">buigen</hi>, <hi rendition="#k">mlg.</hi>
+            <hi rendition="#i">bûgen</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">biogan</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">biegen</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">biugan</hi> ‘bend’. The <hi rendition="#k"
+              >teut.</hi> √ <hi rendition="#i">bū̆g</hi> is an <hi
+              rendition="#k">aryan </hi>
+            <hi rendition="#i">bhū̆k</hi> on account of <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#i">buhil</hi> ‘hill’. A cogn. √ <hi
+              rendition="#i">bhū̆g</hi> appears in <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">fugio</hi>, <hi rendition="#k">gr.</hi>
+            <hi rendition="#i">φεύγω</hi>, — <hi rendition="#b">bow</hi>¹
+            sb. ‘a <cb n="2"/>weapon, a bend’ <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bǫ́we</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">boga</hi> = <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">bogo</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">boog</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bogen</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">bogi</hi>.</p>
+          <p><hi rendition="#b">bow</hi>² ‘the forward part of a ship’,
+            var. of <hi rendition="#i #g">bough</hi>.</p>
+          <p><hi rendition="#b">bowel</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bouél</hi>
+            <hi rendition="#i">bowel</hi>: loanword from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">bouel</hi> (<hi rendition="#k">fr.</hi>
+            <hi rendition="#i">boyau</hi>); source <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">botellus</hi> ‘sausage’ (<hi rendition="#k"
+              >it.</hi>
+            <hi rendition="#i">budello</hi>), whence also <hi
+              rendition="#k">odu.</hi>
+            <hi rendition="#i">bodelinc</hi>
+            <hi rendition="#k">du.</hi>
+            <hi rendition="#i">beuling</hi> ‘sausage’.</p>
+          <p><hi rendition="#b">bower</hi> sb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bour</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">búr</hi> ‘a dwelling’ (see <hi
+              rendition="#i #g">neighbor</hi> = <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">néhᵹebúr</hi>) = <hi rendition="#k"
+              >osax.</hi>
+            <hi rendition="#k">mlg.</hi>
+            <hi rendition="#i">bûr</hi> ‘a house, cage’, <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">bûr</hi> ‘a chamber’ <hi rendition="#k"
+              >g.</hi>
+            <hi rendition="#i">bauer</hi> ‘a cage’, <hi rendition="#k"
+              >on.</hi>
+            <hi rendition="#i">búr</hi> ‘a chamber, larder’. For the <hi
+              rendition="#k">teut.</hi> √ <hi rendition="#i">bū̆</hi>
+            ‘dwell’ cp. <hi rendition="#i #g">build</hi>.</p>
+          <p><hi rendition="#b">bowl</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bolle</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bolla</hi> = <hi rendition="#k">on.</hi>
+            <hi rendition="#i">bolli</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bol</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">bolla</hi>.</p>
+          <p><hi rendition="#b">box</hi>¹ ‘a chest’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">box</hi>: borrowed from a <hi rendition="#k"
+              >vulg.-lat.</hi>
+            <hi rendition="#i">*buxem</hi> for <hi rendition="#i"
+              >buxidem</hi> (nom. <hi rendition="#i">buxis</hi>), whence
+            also <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bus</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">büchse</hi> ‘box’ <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#i">buhsa</hi> for <hi rendition="#i"
+              >*buhsja</hi>, <hi rendition="#k">vulg.-lat.</hi>
+            <hi rendition="#i">buxis</hi> (from <hi rendition="#k">gr.</hi>
+            <hi rendition="#i">πύξις</hi> ‘box made of the box-tree’ cp.
+              <hi rendition="#i #g">box</hi>²) appears in <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">bossette</hi>, <hi rendition="#k">it.</hi>
+            <hi rendition="#i">bossolo</hi> ‘box’.</p>
+          <p><hi rendition="#b">box</hi>² ‘the name of a tree’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">box-trẹ́</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">box</hi>: borrowed from <hi rendition="#k"
+              >lat.-rom.</hi>
+            <hi rendition="#i">buxus</hi> (= <hi rendition="#k">it.</hi>
+            <hi rendition="#i">bosso</hi>, <hi rendition="#k">span.</hi>
+            <hi rendition="#i">box</hi>, <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">buis</hi>), whence also <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">buhs(-boum)</hi> = <hi rendition="#k"
+              >g.</hi>
+            <hi rendition="#i">buchsbaum</hi> ‘box-tree’, <hi
+              rendition="#k">du.</hi>
+            <hi rendition="#i">busboom</hi>.</p>
+          <p><hi rendition="#b">boy</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">boie</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">*bóïa</hi>; perh. dimin. of a lost <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">*bọ́</hi> ‘brother’ = <hi rendition="#k"
+              >flem.</hi>
+            <hi rendition="#i">boe</hi> ‘brother’: childish abbreviation of
+              <hi rendition="#k">e.</hi>
+            <hi rendition="#i">brother</hi>, as <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bube</hi>
+            <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">buobo</hi> is a reduplication of <hi
+              rendition="#i">*bô</hi> ‘brother’?</p>
+          <pb n="26" facs="#f0032"/>
+          <cb n="1"/>
+          <p><hi rendition="#b">boycott</hi> first heard of in Dec. 1880.
+              <hi rendition="#i">Captain</hi>
+            <hi rendition="#i">James</hi>
+            <hi rendition="#i">Boycott</hi> was a farmer at Lough Mask, co.
+            Mayo, Ireland; the Irish league pronounced their edict, in
+            consequence of which no one wished to work or have anything to
+            do with him; he was the victim of the system of procedure named
+            after him.</p>
+          <p><hi rendition="#b">brace</hi> sb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bráce</hi>: adapt. of <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">brace</hi>. Source <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">bracchium</hi>.</p>
+          <p><hi rendition="#b">brach</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bracche</hi>: adapt. of <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">brache</hi>. Source <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#i">bracko</hi> ‘hunting dog’ = <hi
+              rendition="#k">du.</hi>
+            <hi rendition="#i">brak</hi>
+            <hi rendition="#k">odu.</hi>
+            <hi rendition="#i">bracke</hi>.</p>
+          <p><hi rendition="#b">brad</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brad</hi> usually <hi rendition="#i"
+              >brod</hi>: loanword from <hi rendition="#k">on.</hi>
+            <hi rendition="#i">broddr</hi> ‘spike, shaft’ (= <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">brord</hi> ‘spike’, <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#i">brort</hi> ‘edge’). The <hi rendition="#k"
+              >teut.</hi> base <hi rendition="#i">brozda-</hi> answers to
+              <hi rendition="#k">oir.</hi>
+            <hi rendition="#i">brot</hi> ‘sting’.</p>
+          <p><hi rendition="#b">brag</hi> vb. ‘boast’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">bra(g)ge</hi>; akin to <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">braguer</hi> ‘flaunt, brave, brag’. Source
+            doubtful.</p>
+          <p><hi rendition="#b">braid</hi> vb. ‘weave’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">breide</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brëᵹdan</hi> ‘move to and fro, weave’ = <hi
+              rendition="#k">osax.</hi>
+            <hi rendition="#i">brëgdan</hi>, <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">breiden</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">brëttan</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">brëtten</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">bregđa</hi> ‘draw, pull, weave, braid’;
+            orig. ‘move quickly’; but <hi rendition="#k">mlg.</hi>
+            <hi rendition="#i">breiden</hi> ‘knit’. Cp. <hi
+              rendition="#i #g">bridle</hi>.</p>
+          <p><hi rendition="#b">brain</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brain</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bræᵹen</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">brein</hi>, <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">bregen</hi> ‘brain’. The <hi rendition="#k"
+              >teut.</hi> base <hi rendition="#i">bragē̆na-</hi> ‘brain’,
+            if from an <hi rendition="#k">aryan</hi>
+            <hi rendition="#i">mrogh-</hi>, is compared with <hi
+              rendition="#k">gr.</hi>
+            <hi rendition="#i">βρεχμός</hi> ‘forehead’ (for <hi
+              rendition="#i">*μρεχ-</hi>).</p>
+          <p><hi rendition="#b">brake</hi> ‘a thicket’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">bráke</hi>; perh. cogn. w. <hi
+              rendition="#k">lg.</hi>
+            <hi rendition="#i">brâke</hi> ‘tree-trunk’?</p>
+          <cb n="2"/>
+          <p><hi rendition="#b">bramble</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brembel</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brẹ́mel</hi> earlier <hi rendition="#i"
+              >*brǽmil</hi> cogn. w. <hi rendition="#k">g.</hi>
+            <hi rendition="#i">brombeere</hi> ‘brambleberry’ <hi
+              rendition="#k">ohg.</hi>
+            <hi rendition="#i">brâma</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">braam</hi>, perh. ident. w. <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">brọ́m</hi> under <hi rendition="#i #g"
+              >broom</hi>.</p>
+          <p><hi rendition="#b">bran</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bran</hi>: adapt. from<choice>
+              <sic>.</sic>
+              <corr/>
+            </choice>
+            <hi rendition="#k">ir.</hi>
+            <hi rendition="#k">w.</hi>
+            <hi rendition="#i">bran</hi>, <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bren</hi> adapt. from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">bren</hi> points to the same source.</p>
+          <p><hi rendition="#b">branch</hi> ‘a bough of a tree’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">braunche</hi>: borrowed from <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">branche</hi> (= <hi rendition="#k"
+              >span.</hi>
+            <hi rendition="#k">it.</hi>
+            <hi rendition="#i">branca</hi>
+            <hi rendition="#k">lat.</hi> type <hi rendition="#i"
+              >bi-ramica</hi>? deriv. of <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">ramus</hi> ‘branch’?).</p>
+          <p><hi rendition="#b">brand</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brand</hi>
+            <hi rendition="#i">brond</hi> = <hi rendition="#k">odu.</hi>
+            <hi rendition="#k">mlg.</hi>
+            <hi rendition="#i">brand</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">brant</hi> ‘a burning, a brand’, <hi
+              rendition="#k">du.</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">brand</hi> ‘a burning, fuel’, <hi
+              rendition="#k">on.</hi>
+            <hi rendition="#i">brandr</hi> ‘a firebrand’, <hi
+              rendition="#k">sw.</hi>
+            <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">brand</hi> ‘a firebrand, fire’. From <hi
+              rendition="#k">teut.</hi>
+            <hi rendition="#i">brinnan</hi> = <hi rendition="#i #g"
+              >burn</hi>. — <hi rendition="#b">brandish</hi> vb. <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">braundisshe</hi>
+            <hi rendition="#i">braundisse</hi>: loanword from <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">brandiss-</hi> in <hi rendition="#i"
+              >brandir</hi> (= <hi rendition="#k">it.</hi>
+            <hi rendition="#i">brandire</hi>) ‘brandish’. Source a <hi
+              rendition="#k">teut.</hi>
+            <hi rendition="#i">brand</hi> ‘sword’ = <hi rendition="#k"
+              >e.</hi>
+            <hi rendition="#i">brand</hi> ‘sword’ <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">brond</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">brandr</hi>, <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">brant</hi> ‘blade of a sword’. — <hi
+              rendition="#b">brandy</hi> short for <hi rendition="#i"
+              >brandywine</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">brandewijn</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">brantewein</hi> ‘brandy’, lit. ‘burnt
+            wine’.</p>
+          <p><hi rendition="#b">brass</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bras</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bræs</hi>. <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">ferrum</hi>, if for <hi rendition="#i"
+              >ferso-</hi>
+            <hi rendition="#k">aryan</hi>
+            <hi rendition="#i">bherso-</hi>, is considered akin to the <hi
+              rendition="#k">teut.</hi> base <hi rendition="#i">brasa-</hi>
+            in <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bræs</hi>.</p>
+          <p><hi rendition="#b">brat</hi> ‘a child’ perh. ident. with <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bratt</hi> ‘a coarse cloak’: orig. a Celt.
+            word, cp. <hi rendition="#k">gael.</hi>
+            <hi rendition="#k">ir.</hi>
+            <hi rendition="#i">brat</hi> ‘a cloak, mantle’ — <hi
+              rendition="#k">w.</hi>
+            <hi rendition="#i">brat</hi> ‘a rag, a pinafore’.</p>
+          <p><hi rendition="#b">brave</hi> borrowed from <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">brave</hi>, whence also <hi rendition="#k"
+              >du.</hi>
+            <hi rendition="#i">braaf</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">brav</hi>.</p>
+          <pb n="27" facs="#f0033"/>
+          <cb n="1"/>
+          <p><hi rendition="#b">brawn</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">braun</hi>
+            <hi rendition="#i">brawn</hi> ‘muscle, boar’s flesh’; orig. <hi
+              rendition="#i">*braoun</hi>
+            <hi rendition="#i">brahún</hi>: borrowed from <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">braon</hi> ‘a piece of flesh, muscle’.
+            Source a <hi rendition="#k">teut.</hi>
+            <hi rendition="#i">brâdo</hi> acc. <hi rendition="#i"
+              >brâdun</hi> = <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">brâto</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">brâte</hi> ‘a slice of bread’ and also like
+              <hi rendition="#k">g.</hi>
+            <hi rendition="#i">braten</hi> ‘roast meat’, <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">brǽdan</hi> ‘roast meat’, <hi rendition="#k"
+              >g.</hi>
+            <hi rendition="#i">braten</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">braden</hi> ‘roast’; in <hi rendition="#k"
+              >lg.</hi> dial. an <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">brâdo</hi> ‘muscle’ is preserved (e. g. <hi
+              rendition="#k">westphal.</hi>
+            <hi rendition="#i">wadbrâe</hi>); cp. <hi rendition="#k"
+              >mlg.</hi>
+            <hi rendition="#i">brâde</hi>.</p>
+          <p><hi rendition="#b">braze</hi>¹ vb. ‘adom with brass’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">bráse</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brasian</hi> ‘cover with brass’: deriv. of
+              <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bræs</hi>; cp. <hi rendition="#i #g"
+              >brass</hi>.</p>
+          <p><hi rendition="#b">braze</hi>² vb. ‘harden’: loanword from <hi
+              rendition="#k">on.</hi>
+            <hi rendition="#i">brasa</hi> ‘harden by fire’.</p>
+          <p><hi rendition="#b">breach</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brę́che</hi>: adapt. of <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">brèche</hi>. Source the <hi rendition="#k"
+              >teut.</hi> vb. <hi rendition="#i">brëkan</hi> = <hi
+              rendition="#i #g">break</hi>.</p>
+          <p><hi rendition="#b">bread</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brę́d</hi> late <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brę́ad</hi> = <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">brôt</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">brôd</hi>, <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">brôd</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">brood</hi>, late <hi rendition="#k">on.</hi>
+            <hi rendition="#i">brauđ</hi>. The Teut. base <hi
+              rendition="#i">brau-da-</hi> is deriv. fr. the √ <hi
+              rendition="#i">brū̆</hi> in <hi rendition="#k">e.</hi>
+            <hi rendition="#i #g">broth</hi> and <hi rendition="#i #g"
+              >brew</hi>. The orig. <hi rendition="#k">teut.</hi> word for
+              <hi rendition="#i">bread</hi> was <hi rendition="#i #g"
+              >loaf</hi> (= <hi rendition="#k">teut.</hi>
+            <hi rendition="#i">hlaiba-</hi>). In <hi rendition="#k"
+              >oe.</hi> we find <hi rendition="#i">brę́ad</hi> ‘piece of
+            bread’ and <hi rendition="#i">bẹ́obrę́ad</hi> ‘honey-comb’.</p>
+          <p><hi rendition="#b">breadth</hi> formed after <hi
+              rendition="#i">length</hi>
+            <hi rendition="#i">strength</hi> with secondary <hi
+              rendition="#i">th</hi> from <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brę́de</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brǽdo</hi> ‘breadth’: abstract noun formed
+            from <hi rendition="#i #g">broad</hi> with umlaut (<hi
+              rendition="#k">goth.</hi>
+            <hi rendition="#i">braidei</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">breitî</hi>). Cp. <hi rendition="#k"
+              >westphal.</hi>
+            <hi rendition="#i">bredde</hi>, <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">*brêdtha</hi> from <hi rendition="#i"
+              >brêd</hi> ‘broad’.</p>
+          <p><hi rendition="#b">break</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brę́ke</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brëcan</hi> str. vb. = <hi rendition="#k"
+              >du.</hi>
+            <hi rendition="#i">breken</hi>, <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">brëkan</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">brëhhan</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">brechen</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">brikan</hi>. With the <hi rendition="#k"
+              >teut.</hi>
+            <cb n="2"/>√ <hi rendition="#i">brē̆k</hi> ‘break’ (<hi
+              rendition="#k">aryan</hi>
+            <hi rendition="#i">bhrē̆g</hi>) cp. <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">frango</hi> (pret. <hi rendition="#i"
+              >frêgi</hi>) ‘break’.</p>
+          <p><hi rendition="#b">breakfast</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brę́kefaste</hi>: prop. ‘breaking one’s
+            fast, the first meal of the day by which the fast is
+            broken’.</p>
+          <p><hi rendition="#b">bream</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brę́m</hi>: loanword from <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">brême</hi>; source a <hi rendition="#k"
+              >teut.</hi>
+            <hi rendition="#i">braxma</hi> in <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">brahsima</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">braesem</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">brassen</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">bressemo</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">brasem</hi>, <hi rendition="#k">osw.</hi>
+            <hi rendition="#i">braxn</hi>, <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">brasen</hi>.</p>
+          <p><hi rendition="#b">breast</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brest</hi> short for <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">brẹ́st</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brẹ́ost</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">briost</hi>, <hi rendition="#k">ofris.</hi>
+            <hi rendition="#i">briast</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">brjóst</hi> akin to <hi rendition="#k"
+              >goth.</hi>
+            <hi rendition="#i">brusts</hi> plur., <hi rendition="#k"
+              >du.</hi>
+            <hi rendition="#i">borst</hi>, <hi rendition="#k">ofris.</hi>
+            <hi rendition="#i">burst</hi> (and <hi rendition="#i"
+              >briast</hi>), <hi rendition="#k">g.</hi>
+            <hi rendition="#i">brust</hi>: <hi rendition="#k">teut.</hi>
+            bases <hi rendition="#i">breust-</hi>: <hi rendition="#i"
+              >brust-</hi>.</p>
+          <p><hi rendition="#b">breath</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brę́th</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brǽđ</hi> ‘breath, odor’; akin to <hi
+              rendition="#k">ohg.</hi>
+            <hi rendition="#i">brâdam</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">brā̆dem</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">brodem</hi>
+            <hi rendition="#i">broden</hi> ‘steam, vapor, exhalation’.</p>
+          <p><hi rendition="#b">breech</hi> ‘buttocks’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">brẹ́ch</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brẹ́č</hi>. Orig. ident. with <hi
+              rendition="#b">breeches</hi> (»a pair of breeches«) <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">brẹ́ch</hi>
+            <hi rendition="#i">brẹ́che</hi>; the corresp. <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">brẹ́č</hi> plur. points to a sing. <hi
+              rendition="#i">*brọ́c</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">broek</hi>, <hi rendition="#k">ofris.</hi>
+            <hi rendition="#i">brôk</hi> (plur. <hi rendition="#i"
+              >brêk</hi>), <hi rendition="#k">on.</hi>
+            <hi rendition="#i">brók</hi> (plur. <hi rendition="#i"
+              >brœ́kr</hi>), <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">bruoch</hi>. The <hi rendition="#k"
+              >teut.</hi> base <hi rendition="#i">brôk-</hi> plur. <hi
+              rendition="#i">brôkiz</hi>) is seemingly connected with <hi
+              rendition="#k">gall.-lat.</hi>
+            <hi rendition="#i">brâca</hi> ‘clothing for the legs’.</p>
+          <p><hi rendition="#b">breed</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brẹ́de</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brẹ́dan</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">broeden</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">bruoten</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">brüeten</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">brüten</hi> ‘brood, hatch’, <hi
+              rendition="#k">goth.</hi>
+            <hi rendition="#i">*brôdjan</hi>: deriv. of <hi rendition="#k"
+              >teut.</hi>
+            <hi rendition="#i">brôda-</hi> see <hi rendition="#i #g"
+              >brood</hi>.</p>
+          <p><hi rendition="#b">breeze</hi>¹ ‘a strong wind’ = synon. <hi
+              rendition="#k">g.</hi>
+            <hi rendition="#i">brise</hi>, <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">bris</hi> source <pb n="28" facs="#f0034"
+              /><cb n="1"/><hi rendition="#k">fr.</hi>
+            <hi rendition="#i">brise</hi> ‘the north wind’ = <hi
+              rendition="#k">span.</hi>
+            <hi rendition="#i">brisa</hi>.</p>
+          <p><hi rendition="#b">breeze</hi>² ‘gadfly’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">brẹ́se</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brẹ́osa</hi>. Connection with <hi
+              rendition="#k">g.</hi>
+            <hi rendition="#i">bremse</hi> and <hi rendition="#i"
+              >breme</hi> (<hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">brimisa</hi>
+            <hi rendition="#i">brëma</hi>) is doubtful.</p>
+          <p><hi rendition="#b">brew</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brẹ́we</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brẹ́owan</hi> str. vb. = <hi rendition="#k"
+              >du.</hi>
+            <hi rendition="#i">brouwen</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">briuwan</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">brauen</hi>. With the <hi rendition="#k"
+              >teut.</hi> √ <hi rendition="#i">brū̆</hi> (Aryan <hi
+              rendition="#i">bhrū̆</hi>
+            <hi rendition="#i">bhrĕu</hi>) ‘brew’ are related <hi
+              rendition="#k">phryg.-thrac.</hi>
+            <hi rendition="#i">βρῦτον</hi> ‘beer, cider’, which prob.
+            stands for <hi rendition="#k">gr.</hi>
+            <hi rendition="#i">*φρῦτον</hi>, also <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">defrū̆tum</hi> ‘must boiled down’, <hi
+              rendition="#k">oir.</hi>
+            <hi rendition="#i">bruthe</hi> ‘broth’ — <hi rendition="#i"
+              >bruth</hi> ‘live coals, heat’ — <hi rendition="#i"
+              >bruith</hi> ‘cooking’. Cp. <hi rendition="#i #g"
+            >bread</hi>.</p>
+          <p><hi rendition="#b">bridal,</hi> see <hi rendition="#i #g"
+              >bride</hi>.</p>
+          <p><hi rendition="#b">bride</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bríde</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brýd</hi> (from <hi rendition="#i"
+              >*brýdi</hi>
+            <hi rendition="#i">*brûdi</hi>) = <hi rendition="#k">osax.</hi>
+            <hi rendition="#k">odu.</hi>
+            <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">brûd</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bruid</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">brût</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">braut</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">brúđr</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">brûþs</hi> means ‘daughter-in-law’ (but <hi
+              rendition="#i">brûþ-faþs</hi> ‘bridegroom’) ; <hi
+              rendition="#k">osax.</hi>
+            <hi rendition="#i">brûd</hi> is ‘the newly married wife’ as <hi
+              rendition="#k">e.</hi>
+            <hi rendition="#i">bride</hi>. — <hi rendition="#b">bridal</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bríd-ā̆le</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brýd-ealo</hi>: lit. ‘bride-ale’ (<hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">bride</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brýd</hi> and <hi rendition="#k">me.</hi>
+            <hi rendition="#i">ále</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">ealo</hi>). In <hi rendition="#k">germ.</hi>
+            dialects, we find <hi rendition="#i">kindelbier</hi> ‘baptism’.
+            — <hi rendition="#b">bridegroom</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brídegome</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brýdguma</hi> = synon. <hi rendition="#k"
+              >osax.</hi>
+            <hi rendition="#i">brûdigumo</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bruidegomo</hi>, <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#i">brûtigomo</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">briutegome</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bräutigam</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">brúđgume</hi> (<hi rendition="#k">goth.</hi>
+            <hi rendition="#i">brûþ-faþs</hi>). The second element of these
+            compounds (<hi rendition="#k">oe.</hi>
+            <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">guma</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">gomo</hi> ‘man’ is related to <hi
+              rendition="#k">lat.</hi>
+            <hi rendition="#i">homo</hi> from <hi rendition="#k"
+              >indo-teut.</hi>
+            <hi rendition="#i">ghomon</hi>). The phonetical development of
+              <cb n="2"/><hi rendition="#k">me.</hi>
+            <hi rendition="#i">brídegome</hi> into <hi rendition="#k"
+              >e.</hi>
+            <hi rendition="#i">bridegroom</hi> is due to the influence of
+              <hi rendition="#i #g">groom</hi>.</p>
+          <p><hi rendition="#b">bridge</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">briǧǧe</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bryčǧ</hi> = <hi rendition="#k">ofris.</hi>
+            <hi rendition="#i">brigge</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">brug</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">brucka</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">brücke</hi> (<hi rendition="#k">goth.</hi>
+            <hi rendition="#i">*brugja</hi>
+            <hi rendition="#i">*brugjô</hi>). The corresp. <hi
+              rendition="#k">on.</hi>
+            <hi rendition="#i">bryggja</hi> (also <hi rendition="#k"
+              >lg.</hi>
+            <hi rendition="#i">brügge</hi>, <hi rendition="#k"
+              >northfris.</hi>
+            <hi rendition="#i">bragh</hi>) and <hi rendition="#k"
+              >germ.</hi> (dial.) <hi rendition="#i">brücke</hi> signify
+            ‘pavement, floor’; and <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brycgian</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brigge</hi> and <hi rendition="#k"
+              >nfris.</hi>
+            <hi rendition="#i">braghin</hi>, <hi rendition="#k">mlg.</hi>
+            <hi rendition="#i">brüggen</hi> signify ‘to pave’.</p>
+          <p><hi rendition="#b">bridle</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brídel</hi> older <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">briᵹdel</hi>
+            <hi rendition="#i">briᵹdil</hi> = <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">brittil</hi> for <hi rendition="#i"
+              >*brictil</hi>: deriv. from the <hi rendition="#k">teut.</hi>
+            vb. <hi rendition="#i">brëgdan</hi> ‘pull’ under <hi
+              rendition="#i #g">braid</hi>. Akin to <hi rendition="#k"
+              >oslov.</hi>
+            <hi rendition="#i">brŭzda</hi> ‘bridle’ (Aryan √ <hi
+              rendition="#i">bhreghdh</hi> also in <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">frênum</hi> ‘bridle’?).</p>
+          <p><hi rendition="#b">brief</hi> adj. ‘short’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">brẹ́f</hi>: borrowed from <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">bref</hi> (<hi rendition="#k">span.</hi>
+            <hi rendition="#k">it.</hi>
+            <hi rendition="#i">breve</hi> = <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">brevis</hi> ‘short’).</p>
+          <p><hi rendition="#b">brief</hi> sb. ‘a commission, document’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">brẹ́f</hi>; cp. <hi rendition="#k">du.</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">brief</hi>
+            <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">briaf</hi> and the corresponding <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">bref</hi> ‘an official document’. Orig.
+            ident. with <hi rendition="#i">brief</hi> adj.</p>
+          <p><hi rendition="#b">brier</hi> ‘a prickly shrub’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">brẹ́re</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brǽr</hi>
+            <hi rendition="#i">brẹ́r</hi> ‘a bramble’.</p>
+          <p><hi rendition="#b">bright</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bright</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">beorht</hi> ‘bright, white, clear’ = <hi
+              rendition="#k">osax.</hi>
+            <hi rendition="#i">bërht</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">bëraht</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">baírhts</hi> ‘bright’. Akin to <hi
+              rendition="#k">mlg.</hi>
+            <hi rendition="#i">brëhen</hi> ‘shine, glisten’; cp. <hi
+              rendition="#k">skr.</hi>
+            <hi rendition="#i">bhargas</hi> ‘brightness’.</p>
+          <p><hi rendition="#b">brim</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brim</hi>; perh. ident. with <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">brim</hi> ‘ocean, surf’ = <hi rendition="#k"
+              >on.</hi>
+            <hi rendition="#i">brim</hi> ‘surf’; cp. the name of the city
+            of <hi rendition="#i">Bremen</hi>.</p>
+          <pb n="29" facs="#f0035"/>
+          <cb n="1"/>
+          <p><hi rendition="#b">brimstone</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brimstǫ́n</hi> earlier <hi rendition="#i"
+              >brenstǫ́n</hi> = <hi rendition="#k">on.</hi>
+            <hi rendition="#i">brennisteinn</hi> ‘brimstone’: deriv. of <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">brenne</hi> = <hi rendition="#i #g"
+              >burn</hi>.</p>
+          <p><hi rendition="#b">brine</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bríne</hi> ‘salt liquor’ = <hi
+              rendition="#k">du.</hi>
+            <hi rendition="#i">brijn</hi>
+            <hi rendition="#i">mdu</hi>. <hi rendition="#i">brîne</hi>.</p>
+          <p><hi rendition="#b">bring</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bringe</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bringan</hi> = <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">bringan</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bringen</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">briggan</hi>; cp. <hi rendition="#k"
+              >du.</hi>
+            <hi rendition="#i">brengen</hi>, <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">brẹngian</hi>, <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brenǧan</hi> ‘bring’: <hi rendition="#k"
+              >teut.</hi> √ <hi rendition="#i">breng</hi>
+            <hi rendition="#i">brang</hi>.</p>
+          <p><hi rendition="#b">brink</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brink</hi> ‘edge’; cp. <hi rendition="#k"
+              >on.</hi>
+            <hi rendition="#i">brekka</hi> from <hi rendition="#i"
+              >*brinkô</hi>, <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">brink</hi>.</p>
+          <p><hi rendition="#b">brisk</hi> a <hi rendition="#k">celt.</hi>
+            loanword; cp. <hi rendition="#k">w.</hi>
+            <hi rendition="#i">brysg</hi>, <hi rendition="#k">gael.</hi>
+            <hi rendition="#i">bri(o)sg</hi> ‘quick, lively’.</p>
+          <p><hi rendition="#b">bristle</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bristle</hi> older <hi rendition="#i"
+              >birstle</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">*byrstel</hi>: dimin. of <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">byrst</hi> = <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">burst</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">borste</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">borste</hi> ‘bristle’; akin to <hi
+              rendition="#k">ohg.</hi>
+            <hi rendition="#i">bursta</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bürste</hi> ‘brush’. The <hi rendition="#k"
+              >teut.</hi> √ <hi rendition="#i">bors</hi>
+            <hi rendition="#i">burs</hi> (whence <hi rendition="#i"
+              >bur</hi> in <hi rendition="#i #g">burdock</hi>) is an Aryan
+            √ <hi rendition="#i">bhṛs</hi> in <hi rendition="#k">skr.</hi>
+            <hi rendition="#i">bhṛšṭi</hi> ‘point, prong’. Cp. <hi
+              rendition="#i #g">brush</hi>.</p>
+          <p><hi rendition="#b">brittle</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">britel</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">*brytel</hi>: formed with suffix <hi
+              rendition="#i">-il</hi> (<hi rendition="#k">oe.</hi>
+            <hi rendition="#i">el</hi> cp. <hi rendition="#i #g"
+              >nimble</hi>) from <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brẹ́otan</hi> ‘break’ = <hi rendition="#k"
+              >on.</hi>
+            <hi rendition="#i">brjóta</hi> ‘break’.</p>
+          <p><hi rendition="#b">broach</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brǫ́che</hi> ‘bore, spur, spit, tap’ (<hi
+              rendition="#i">setten</hi>
+            <hi rendition="#i">on</hi>
+            <hi rendition="#i">broche</hi> ‘set a-broach, tap’ = <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">mettre</hi>
+            <hi rendition="#i">en</hi>
+            <hi rendition="#i">broche</hi> ‘tap a barrel’); <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">brocher</hi> ‘broach, pierce’ and <hi
+              rendition="#i">broche</hi> ‘a broach, spit’.</p>
+          <p><hi rendition="#b">broad</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brǫ́d</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brád</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#k">mlg.</hi>
+            <hi rendition="#i">brêd</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">breed</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">breit</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">breiđr</hi>, <hi rendition="#k">sw.</hi>
+            <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">bred</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">braids</hi> ‘broad’: prob. from a <hi
+              rendition="#k">pre-teut.</hi>
+            <hi rendition="#i">mraitó-</hi>, akin to an Aryan √ <hi
+              rendition="#i">mrit</hi> in <hi rendition="#k">skr.</hi>
+            <hi rendition="#i">mrit</hi> ‘fall to pieces’ (therefore <hi
+              rendition="#i #g">broad</hi> prop. ‘extended’?).</p>
+          <cb n="2"/>
+          <p><hi rendition="#b">brock</hi> ‘a badger’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">brok</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brocc</hi> (= <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">brok</hi>); a <hi rendition="#k">celt.</hi>
+            loanword; cp. <hi rendition="#k">w.</hi>
+            <hi rendition="#k">corn.</hi>
+            <hi rendition="#k">bret.</hi>
+            <hi rendition="#i">broch</hi>, <hi rendition="#k">gael.</hi>
+            <hi rendition="#k">ir.</hi>
+            <hi rendition="#k">manx</hi>
+            <hi rendition="#i">broc</hi> ‘a badger’ (<hi rendition="#k"
+              >celt.</hi> base <hi rendition="#i">brokko-</hi>, perh.
+            ident. w. <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">broccus</hi> adj. ‘having prominent teeth’
+            and <hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">broc</hi> ‘spit, point’).</p>
+          <p><hi rendition="#b">broil</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">broile</hi>; adapt. of <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">bruiller</hi> ‘broil, roast’, <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">bruir</hi> ‘roast’ seems to be ident. with
+              <hi rendition="#k">g.</hi>
+            <hi rendition="#i">brühen</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">brüejen</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">broeijen</hi> ‘foment’; cp. <hi
+              rendition="#i #g">brood</hi>.</p>
+          <p><hi rendition="#b">broker</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brǫ́cour</hi> ‘pedlar, pawnbroker’; loanword
+            from <hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">brocour</hi>
+            <hi rendition="#i">brokeor</hi> ‘tapster who retails wine from
+            the tap’; cp. <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">broche</hi> under <hi rendition="#i #g"
+              >broach</hi>.</p>
+          <p><hi rendition="#b">brooch</hi> ‘broach’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">bróche</hi> ‘a pin, peg, brooch’: borrowed
+            from <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">broche</hi> ‘a spit, point’.</p>
+          <p><hi rendition="#b">brood</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brọ́d</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">broed</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">bruot</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">brut</hi>: appar. formed with dental suffix
+            from the <hi rendition="#k">teut.</hi> √ <hi rendition="#i"
+              >brô</hi> in <hi rendition="#k">g.</hi>
+            <hi rendition="#i">brühen</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">broeien</hi>. Cp. <hi rendition="#i #g"
+              >breed</hi>.</p>
+          <p><hi rendition="#b">brook</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brọ́k</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brọ́c</hi> = <hi rendition="#i">du.</hi>
+            <hi rendition="#i">broek</hi>, <hi rendition="#k">mlg.</hi>
+            <hi rendition="#i">brôk</hi>
+            <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">brook</hi> ‘marsh, pool’, <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#i">bruoh(h)</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">bruoch</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bruch</hi> ‘marsh, bog’; possibly connected
+            with the <hi rendition="#k">teut.</hi> √ <hi rendition="#i"
+              >brē̆k</hi> ‘break’ in <hi rendition="#i #g">break</hi>.</p>
+          <p><hi rendition="#b">brook</hi> vb. ‘put up with’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">bro(o)ke</hi>
+            <hi rendition="#i">brouke</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brúcan</hi> ‘use, enjoy’ = <hi
+              rendition="#k">osax.</hi>
+            <hi rendition="#i">brûkan</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">gebruiken</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">brûhhan</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">brûchen</hi>
+            <hi rendition="#k">g.</hi> brauchen ‘use, need’, <hi
+              rendition="#k">goth.</hi>
+            <hi rendition="#i">brûkjan</hi> ‘use’. The <hi rendition="#k"
+              >pre-teut.</hi> form of the √ <hi rendition="#i">bhrū̆g</hi>
+            accords with <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">fruor</hi> from <pb n="30" facs="#f0036"
+              /><cb n="1"/><hi rendition="#i">*fruvor</hi> for <hi
+              rendition="#i">*frugvor</hi> and cp. <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">fruges</hi>.</p>
+          <p><hi rendition="#b">broom</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brọ́m</hi> ‘the plant of the broom’ = <hi
+              rendition="#k">odu.</hi>
+            <hi rendition="#i">broem</hi> ‘broom’; perh. cogn. w. <hi
+              rendition="#i #g">bramble</hi>.</p>
+          <p><hi rendition="#b">broth</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">broth</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brođ</hi> = <hi rendition="#k">on.</hi>
+            <hi rendition="#i">brođ</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">brod</hi>: deriv. from the √ <hi
+              rendition="#i">brū̆</hi> under <hi rendition="#i #g"
+              >brew</hi>.</p>
+          <p><hi rendition="#b">brother</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brọ́ther</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brọ́đor</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">broeder</hi>, <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">brôthar</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">bruoder</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bruder</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">bróđir</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">brôþar</hi> ‘brother’. The <hi
+              rendition="#k">teut.</hi> base <hi rendition="#i"
+              >brôþer-</hi> (Aryan <hi rendition="#i">bhrâter-</hi>)
+            corresponds to <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">frâter</hi>, <hi rendition="#k">skr.</hi>
+            <hi rendition="#i">bhrâtar-</hi>, <hi rendition="#k"
+              >oslov.</hi>
+            <hi rendition="#i">bratrŭ</hi>; cp. <hi rendition="#k">gr.</hi>
+            <hi rendition="#i">φρατρία</hi>.</p>
+          <p><hi rendition="#b">brow</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">browe</hi>
+            <hi rendition="#i">brúwe</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brú</hi>; cp. <hi rendition="#k">on.</hi>
+            <hi rendition="#i">brún</hi> ‘eyebrow’ and <hi rendition="#k"
+              >skr.</hi>
+            <hi rendition="#i">bhrû</hi>, <hi rendition="#k">gr.</hi>
+            <hi rendition="#i">ὀφρύς</hi>, <hi rendition="#k">oslov.</hi>
+            <hi rendition="#i">brŭvĭ</hi> ‘brow’.</p>
+          <p><hi rendition="#b">brown</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">broun</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">brûn</hi> = <hi rendition="#k">mlg.</hi>
+            <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#k">ofris.</hi>
+            <hi rendition="#i">brûn</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bruin</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">brúnn</hi>. The <hi rendition="#k"
+              >teut.</hi> name of the color passed into <hi rendition="#k"
+              >rom.</hi> (<hi rendition="#k">fr.</hi>
+            <hi rendition="#i">brun</hi> = <hi rendition="#k">span.</hi>
+            <hi rendition="#k">it.</hi>
+            <hi rendition="#i">bruno</hi> ‘brown’) and <hi rendition="#k"
+              >lith.</hi> (<hi rendition="#i">brunas</hi> ‘brown’). The
+            proper stem of Aryan <hi rendition="#i">bhr-ûno-</hi> appears
+            in <hi rendition="#k">lith.</hi>
+            <hi rendition="#i">beras</hi> ‘brown’ (see <hi
+              rendition="#i #g">bear</hi> sb.) and reduplicated in <hi
+              rendition="#k">skr.</hi>
+            <hi rendition="#i">babhrú-s</hi> ‘reddish- brown’ (see <hi
+              rendition="#i #g">beaver</hi>).</p>
+          <p><hi rendition="#b">bruise</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brüse</hi>: loanword from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">bruser</hi> (<hi rendition="#k">fr.</hi>
+            <hi rendition="#i">briser</hi>) ‘break’, whence <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">brýsan</hi> ‘break’.</p>
+          <p><hi rendition="#b">bruit</hi> ‘a rumor’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">brüt</hi>: borrowed from <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">bruit</hi> ‘noise’.</p>
+          <p><hi rendition="#b">brush</hi> sb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">brusshe</hi> ‘a brush’, orig. ‘brush-wood’:
+            borrowed from <hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">broce</hi>
+            <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">brosse</hi> ‘brush-wood, brush’.</p>
+          <cb n="2"/>
+          <p><hi rendition="#b">brute</hi> borrowed from <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">brut</hi> adj. (fem. <hi rendition="#i"
+              >brute</hi>); source <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">brutus</hi>.</p>
+          <p><hi rendition="#b">buck</hi> vb. ‘wash linen, steep clothes in
+            lye’ <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bouke</hi> (<hi rendition="#k">oe.</hi>
+            <hi rendition="#i">*búcian</hi>) = <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">byge</hi>, <hi rendition="#k">sw.</hi>
+            <hi rendition="#i">byka</hi>, <hi rendition="#k">norw.</hi>
+            <hi rendition="#i">bøukja</hi>, <hi rendition="#k">icel.</hi>
+            <hi rendition="#i">bauka</hi>, <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">bûchen</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bauchen</hi>. The <hi rendition="#k"
+              >teut.</hi> vb. <hi rendition="#i">bûkôn</hi> (<hi
+              rendition="#i">bûkjan</hi>) is based on <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">búc</hi>: (cp. <hi rendition="#i #g"
+              >bucket</hi>). The <hi rendition="#k">rom.</hi>
+            <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">buer</hi>, <hi rendition="#k">it.</hi>
+            <hi rendition="#i">bucare</hi> ‘wash’ are borrowed from
+            Teut.</p>
+          <p><hi rendition="#b">buck</hi> sb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bukke</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bucca</hi>; cp. the synon. <hi
+              rendition="#k">osax.</hi>
+            <hi rendition="#i">buck</hi>, <hi rendition="#k">fris.</hi>
+            <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bok</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">boc(ck)</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bock</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">bukkr</hi>
+            <hi rendition="#i">bokkr</hi>, <hi rendition="#k">sw.</hi>
+            <hi rendition="#i">bock</hi>, <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">buk</hi> ‘a he-goat, ram, buck(deer)’, <hi
+              rendition="#k">goth.</hi>
+            <hi rendition="#i">*bukks</hi>
+            <hi rendition="#i">*bukka</hi>: ident w. <hi rendition="#k"
+              >gael.</hi>
+            <hi rendition="#i">boc</hi>, <hi rendition="#k">oir.</hi>
+            <hi rendition="#i">bocc</hi>, <hi rendition="#k">cymr.</hi>
+            <hi rendition="#i">boch</hi> ‘buck’ from a <hi rendition="#k"
+              >celt.</hi> base <hi rendition="#i">bukko-</hi> (whence <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">bouc</hi>
+            <hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">boc</hi>) and w. <hi rendition="#k"
+              >armen.</hi>
+            <hi rendition="#i">buc</hi> ‘lamb’, <hi rendition="#k"
+              >avest.</hi>
+            <hi rendition="#i">bûza</hi> ‘buck’ (<hi rendition="#k"
+              >aryan</hi>
+            <hi rendition="#i">bhū̆g</hi>?). The <hi rendition="#k"
+              >indo-teut.</hi> base <hi rendition="#i">bhûgo-</hi> is perh.
+            connected with the root of <hi rendition="#i">fugio</hi>, <hi
+              rendition="#k">gr.</hi>
+            <hi rendition="#i">φεύγω</hi> ‘flee’; hence <hi rendition="#i"
+              >buck</hi> may have signified orig. ‘fugitive’.</p>
+          <p><hi rendition="#b">bucket</hi> ‘a kind of pail’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">boket</hi>: deriv. from <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">búc</hi> ‘a pitcher’ with the dimin. suffix
+              <hi rendition="#i">-et</hi>.</p>
+          <p><hi rendition="#b">buckle</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bokel</hi>: adapt. of <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">boucle</hi>, whence also <hi rendition="#k"
+              >g.</hi>
+            <hi rendition="#i">buckel</hi>. Source <hi rendition="#k"
+              >med.-lat.</hi>
+            <hi rendition="#i">buc(c)ula</hi> ‘a beaver, shield’.</p>
+          <p><hi rendition="#b">buckler</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bokelẹ́r</hi>: adapt. of <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">bocler</hi>
+            <hi rendition="#i">bucler</hi> = <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">bouclier</hi> (whence also <hi
+              rendition="#k">du.</hi>
+            <hi rendition="#i">beukelaar</hi>, <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">buckeler</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">buklari</hi>). Cp. <hi rendition="#i #g"
+              >buckle</hi>.</p>
+          <p><hi rendition="#b">buckram</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bokeram</hi>
+            <hi rendition="#i">bukeram</hi> = <hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">bouqueran</hi>
+            <hi rendition="#i">boucaran</hi> (<hi rendition="#k">fr.</hi>
+            <pb n="31" facs="#f0037"/><cb n="1"/><hi rendition="#i"
+              >bougran</hi>, <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">buckeram</hi>). Source and history
+            unknown.</p>
+          <p><hi rendition="#b">buckwheat</hi> = <hi rendition="#k"
+              >du.</hi>
+            <hi rendition="#i">boekweit</hi>, <hi rendition="#k">mlg.</hi>
+            <hi rendition="#i">bôkwête</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">buchweizen</hi>, <hi rendition="#k"
+              >dan.</hi>
+            <hi rendition="#i">boghvede</hi>: ‘beech-wheat’ from the
+            resemblance of its seeds to the mast of the beech-tree. The <hi
+              rendition="#k">e.</hi> word is of continental origin. Cp. <hi
+              rendition="#i #g">beech</hi>.</p>
+          <p><hi rendition="#b">bud</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">budde</hi>; perh. akin to <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">bouton</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bot</hi> ‘bud’. History and source
+            uncertain.</p>
+          <p><hi rendition="#b">bugle</hi> ‘a buffalo, a horn’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">bügle</hi>: borrowed from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">bugle</hi> ‘a wild ox’ (lat. <hi
+              rendition="#i">buculus</hi>, dimin. of <hi rendition="#i"
+              >bos</hi> ‘an ox’). The meaning ‘horn’ is short for
+            ‘bugle-horn’.</p>
+          <p><hi rendition="#b">build</hi> vb. short for <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">bílde</hi> (pret. <hi rendition="#i"
+              >bilde</hi>) <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">*býldan</hi> (pret. <hi rendition="#i"
+              >bylde</hi>); deriv. with vowel mutation from <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">bǫ́ld</hi> ‘house’ which goes back, as shown
+            by the older <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">botl</hi>
+            <hi rendition="#i">bođl</hi>, by metathesis to a <hi
+              rendition="#k">teut.</hi>
+            <hi rendition="#i">bo-þla-</hi> (= <hi rendition="#k">on.</hi>
+            <hi rendition="#i">ból</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">boedel</hi>, <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">bodlos</hi> plur., <hi rendition="#k"
+              >ofris.</hi>
+            <hi rendition="#i">bodel</hi>
+            <hi rendition="#i">bold</hi>. <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">byldan</hi> (<hi rendition="#i">bytlan</hi>)
+            is a <hi rendition="#k">teut.</hi>
+            <hi rendition="#i">buþljan</hi>. <hi rendition="#k">teut.</hi>
+            <hi rendition="#i">boþla-</hi> = <hi rendition="#k">aryan</hi>
+            <hi rendition="#i">bhŭ-tlo-</hi> belongs to the <hi
+              rendition="#k">indo-teut.</hi> √ <hi rendition="#i">bhū̆</hi>
+            ‘dwell, reside’ (cp. <hi rendition="#i #g">be</hi>, <hi
+              rendition="#i #g">bower</hi> and <hi rendition="#i #g"
+              >booth</hi>). For the <hi rendition="#k">aryan</hi>
+            <hi rendition="#i">tl-</hi> suffix cp. <hi rendition="#i #g"
+              >needle</hi>.</p>
+          <p><hi rendition="#b">bull</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bule</hi>; <hi rendition="#k">oe.</hi> only
+            in dimin. <hi rendition="#i">bulluc</hi> = <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#k">e.</hi>
+            <hi rendition="#i">bullock</hi>; cp. the synon. <hi
+              rendition="#k">du.</hi>
+            <hi rendition="#i">bul</hi>, <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">bulle</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">boli</hi>, <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">bǫll</hi> ‘a castrated bull’; <hi
+              rendition="#k">lith.</hi>
+            <hi rendition="#i">bullus</hi> is primit. related. Whether the
+              <hi rendition="#k">e.</hi>
+            <hi rendition="#i">bull</hi> is orig. a <hi rendition="#k"
+              >scand.</hi> loanword, is uncertain.</p>
+          <p><hi rendition="#b">burden</hi>¹ ‘a load’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">birthen</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">byrđen</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">burthinnia</hi> ‘burden’; cp. the equival.
+              <hi rendition="#k">ohg.</hi>
+            <cb n="2"/><hi rendition="#i">burdî</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bürde</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">byrđr</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">baurþei</hi>: all deriv. of the <hi
+              rendition="#k">teut.</hi> √ <hi rendition="#i">bē̆r</hi> in
+              <hi rendition="#i #g">bear</hi>; cp. <hi rendition="#k"
+              >skr.</hi>
+            <hi rendition="#i">bhṛti</hi> = <hi rendition="#k">oir.</hi>
+            <hi rendition="#i">brith</hi> ‘the carrying’ and see <hi
+              rendition="#i #g">birth</hi>.</p>
+          <p><hi rendition="#b">burden</hi>² ‘the refrain of a song’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">burdoun</hi>: loanword from <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">bourdon</hi>, orig. ‘a drone-bee’ (= <hi
+              rendition="#k">span.</hi>
+            <hi rendition="#i">bordon</hi>, <hi rendition="#k">it.</hi>
+            <hi rendition="#i">bordone</hi> ‘a drone’ from <hi
+              rendition="#k">lat.</hi>
+            <hi rendition="#i">burdo</hi> ‘a drone’); cp. <hi
+              rendition="#k">mlg.</hi>
+            <hi rendition="#i">bardûn</hi> ‘tenor; a musical
+            instrument’.</p>
+          <p><hi rendition="#b">burgess</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">burgeis</hi>: loanword from <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">burgeis</hi>
+            <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">bourgeois</hi> (<hi rendition="#k">lat.</hi>
+            type <hi rendition="#i">burgensis</hi> from <hi rendition="#i"
+              >burgus</hi> ‘town’). — <hi rendition="#b">burgher</hi>
+            borrowed from <hi rendition="#k">du.</hi>
+            <hi rendition="#i">burger</hi> = <hi rendition="#k">mlg.</hi>
+            <hi rendition="#i">borgere</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">burgâri</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">burgære</hi>
+            <hi rendition="#i">burger</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bürger</hi>: deriv. of <hi rendition="#k"
+              >teut.</hi>
+            <hi rendition="#i">burg-</hi> cp. <hi rendition="#i #g"
+              >borough</hi>.</p>
+          <p><hi rendition="#b">burial</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">buriel</hi>
+            <hi rendition="#i">biriel</hi> prop. <hi rendition="#i"
+              >buriels</hi>
+            <hi rendition="#i">biriels</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">byrᵹels</hi> ‘tomb’ (= <hi rendition="#k"
+              >osax.</hi>
+            <hi rendition="#i">burgisli</hi> ‘tomb’): deriv. from the <hi
+              rendition="#k">oe.</hi> vb. <hi rendition="#i">byrᵹan</hi>
+              (<hi rendition="#k">osax.</hi>
+            <hi rendition="#i">*burgian</hi>); cp. <hi rendition="#i #g"
+              >bury</hi>.</p>
+          <p><hi rendition="#b">burin</hi> ‘an engraver’s tool’: borrowed
+            from <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">burin</hi>; perh. of Teut. origin; cp. <hi
+              rendition="#k">ohg.</hi>
+            <hi rendition="#i">bora</hi> ‘a borer’ (see under <hi
+              rendition="#i #g">bore</hi>).</p>
+          <p><hi rendition="#b">burly</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">burlí</hi>
+            <hi rendition="#i">borli</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">*burlíce</hi>. Akin to <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#i">buro-</hi> ‘very’ in <hi rendition="#i"
+              >burolang</hi>
+            <hi rendition="#i">boralang</hi> ‘very long’ and perh. to <hi
+              rendition="#k">skr.</hi>
+            <hi rendition="#i">bhûri</hi> ‘much’?</p>
+          <p><hi rendition="#b">burn</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">berne</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bærnan</hi>
+            <hi rendition="#i">bernan</hi> tr. (<hi rendition="#i"
+              >byrnan</hi> intr.). Cp. synon. <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">brinnen</hi> intr. and its causative <hi
+              rendition="#i">brennen</hi>; <hi rendition="#k">g.</hi>
+            <hi rendition="#i">brennen</hi> intr. and tr., <hi
+              rendition="#k">goth.</hi>
+            <hi rendition="#i">brinnan</hi> intr. and <hi rendition="#i"
+              >brannjan</hi> tr. Only one <hi rendition="#i">n</hi> belongs
+            to the <hi rendition="#k">teut.</hi> √ <hi rendition="#i"
+              >brën</hi>, as shown by <hi rendition="#i">bryne</hi>
+            ‘conflagration’.</p>
+          <pb n="32" facs="#f0038"/>
+          <cb n="1"/>
+          <p><hi rendition="#b">burnish</hi> vb. <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">burnisshe</hi>
+            <hi rendition="#i">burnisse</hi>: loanword from <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">burniss-</hi>, the stem of certain parts of
+              <hi rendition="#i">burnir</hi>
+            <hi rendition="#i">brunir</hi> = <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">brunir</hi>.</p>
+          <p><hi rendition="#b">burr</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">burre</hi> ‘a bur’; cp. <hi rendition="#k"
+              >sw.</hi>
+            <hi rendition="#i">kardborre</hi> ‘a burdock’, <hi
+              rendition="#k">dan.</hi>
+            <hi rendition="#i">borre</hi>, <hi rendition="#k">n.fris.</hi>
+            <hi rendition="#i">bor</hi>, <hi rendition="#k">helgol.</hi>
+            <hi rendition="#i">borren</hi> ‘burdock’. <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">*burre</hi>, if for <hi rendition="#k"
+              >teut.</hi>
+            <hi rendition="#i">burzon-</hi>, may be deriv. from the <hi
+              rendition="#k">teut.</hi> √ <hi rendition="#i">bors</hi> in
+              <hi rendition="#k">g.</hi>
+            <hi rendition="#i">borste</hi>; cp. <hi rendition="#i #g"
+              >bristle</hi>.</p>
+          <p><hi rendition="#b">burst</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">berste</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">berstan</hi>; cp. synon. <hi rendition="#k"
+              >osax.</hi>
+            <hi rendition="#i">brëstan</hi>, <hi rendition="#k">lg.</hi>
+            <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bersten</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">brëstan</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">brësten</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bersten</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">bresta</hi>. Cp. an Aryan √ <hi
+              rendition="#i">bhrest</hi> in <hi rendition="#k">oir.</hi>
+            <hi rendition="#i">brissim</hi> ‘break’ (<hi rendition="#i"
+              >ss</hi> for <hi rendition="#i">st</hi>).</p>
+          <p><hi rendition="#b">bury</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">burie</hi>
+            <hi rendition="#i">birie</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">byriᵹan</hi>
+            <hi rendition="#i">byrᵹan</hi> wk. vb.; akin to <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">byrᵹen</hi> ‘tomb’ — <hi rendition="#i"
+              >byrᵹels</hi> under <hi rendition="#i #g">burial</hi>, <hi
+              rendition="#k">teut.</hi>
+            <hi rendition="#i">burgjan</hi> belongs perh. with <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">beorg</hi> ‘mound, place of burial’ to the
+              <hi rendition="#k">teut.</hi> √ <hi rendition="#i">bërg</hi>
+            in <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">baírgan</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bergen</hi>, <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">beorgan</hi> ‘protect, shelter, secure’.</p>
+          <p><hi rendition="#b">bury</hi> in place-names see <hi
+              rendition="#i #g">borough</hi>.</p>
+          <p><hi rendition="#b">bush</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bush</hi> older <hi rendition="#i"
+            >busk</hi>; ident. with <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">busk</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">busch</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bosch</hi>
+            <hi rendition="#i">bos</hi> and a <hi rendition="#k">rom.</hi>
+            <hi rendition="#i">bosco</hi> (= <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">bois</hi>, <hi rendition="#k">it.</hi>
+            <hi rendition="#i">bosco</hi>). Uncertain whether of Teut. or
+            of Lat. origin.</p>
+          <p><hi rendition="#b">bush</hi> ‘a thicket’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">busch</hi>
+            <hi rendition="#i">busk</hi> = <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">busc</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">busch</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bosch</hi>; akin to <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">bois</hi>, <hi rendition="#k">it.</hi>
+            <hi rendition="#i">bosco</hi>. Orig. derived as <hi
+              rendition="#k">lat.</hi>
+            <hi rendition="#i">*buxicum</hi> from <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">buxus</hi> = <hi rendition="#i #g"
+            >box</hi>?</p>
+          <p><hi rendition="#b">busk</hi> vb. ‘get one’s self ready’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">buske</hi> ‘prepare one’self’: of Scand.
+            origin; cp. <hi rendition="#k">on.</hi>
+            <hi rendition="#i">búask</hi> ‘prepare’. Cp. <hi
+              rendition="#i #g">bound</hi> adj.</p>
+          <cb n="2"/>
+          <p><hi rendition="#b">busk</hi> ‘a support for a woman’s stays’
+            borrowed from <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">busc</hi>
+            <hi rendition="#i">busque</hi> orig. ‘the whole bodice’, prob.
+            a corruption of <hi rendition="#i #g">bust</hi>.</p>
+          <p><hi rendition="#b">buss</hi>¹ ‘a herring-boat’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">busse</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bútse</hi> (in <hi rendition="#i"
+              >bútsecarlas</hi>) = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">buis</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">bûzo</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">búza</hi>. The Rom. shows similar words: <hi
+              rendition="#k">med.-lat.</hi>
+            <hi rendition="#i">bussa</hi>
+            <hi rendition="#i">buscia</hi> ‘a kind of boat’, <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">busse</hi>
+            <hi rendition="#i">buse</hi>
+            <hi rendition="#i">buce</hi>. Source unknown.</p>
+          <p><hi rendition="#b">buss</hi>² ‘kiss’ = <hi rendition="#k"
+              >g.</hi> dial. <hi rendition="#i">bussen</hi> ‘kiss’; cp.
+            also <hi rendition="#k">span.</hi>
+            <hi rendition="#i">buz</hi> ‘a kiss of reverence’; perh. orig.
+            a childish onomatopoeia.</p>
+          <p><hi rendition="#b">bust</hi> from <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">buste</hi> (= <hi rendition="#k">it.</hi>
+            <hi rendition="#k">span.</hi>
+            <hi rendition="#i">busto</hi>), whence also <hi rendition="#k"
+              >g.</hi>
+            <hi rendition="#i">büste</hi>.</p>
+          <p><hi rendition="#b">bustle</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bustele</hi> ‘wander blindly or stupidly’;
+            perh. akin to <hi rendition="#k">g.</hi> (dial.) <hi
+              rendition="#i">pusseln</hi> ‘bustle’, <hi rendition="#k"
+              >icel.</hi>
+            <hi rendition="#i">bustla</hi> ‘bustle’?</p>
+          <p><hi rendition="#b">busy</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bisy</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bisiᵹ</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bezig</hi>, <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">besig</hi>: <hi rendition="#k">teut.</hi>
+            base <hi rendition="#i">*bisiga-</hi>.</p>
+          <p><hi rendition="#b">but</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bŭte</hi> shortened for <hi rendition="#i"
+              >búten</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bútan</hi> conj. ‘except’ — prep. ‘besides,
+            without’ = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">buiten</hi> ‘except’. Contr. from <hi
+              rendition="#i">be-útan</hi>; cp. <hi rendition="#k">g.</hi>
+            <hi rendition="#i">ausser</hi> and <hi rendition="#k">e.</hi>
+            <hi rendition="#g #i">out</hi>.</p>
+          <p><hi rendition="#b">butcher</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bọ́cher</hi> earlier <hi rendition="#i"
+              >bouchẹ́r</hi>: borrowed from <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">boucher</hi> ‘one who kills he-goats’
+            (deriv. of <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">bouc</hi> = <hi rendition="#i #g"
+            >buck</hi>).</p>
+          <p><hi rendition="#b">butler</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">butelẹ́r</hi>
+            <hi rendition="#i">bot(e)lẹ́r</hi> fr. <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">bouteiller</hi>: deriv. of <hi
+              rendition="#i #g">bottle</hi>.</p>
+          <p><hi rendition="#b">butt</hi> borrowed from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">boute</hi>, <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">botte</hi> (= <hi rendition="#k">span.</hi>
+            <hi rendition="#i">bota</hi>, <hi rendition="#k">it.</hi>
+            <hi rendition="#i">botte</hi>) ‘a butt, cask’. Akin to <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">bytt</hi> ‘hose, a leather bottle’, <hi
+              rendition="#k">ohg.</hi>
+            <hi rendition="#i">butîn</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bütte</hi>.</p>
+          <p><hi rendition="#b">butter</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">butere</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">butere</hi>
+            <hi rendition="#i">butore</hi> = <hi rendition="#k">g.</hi>
+            <hi rendition="#i">butter</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">boter</hi>, <pb n="33" facs="#f0039"/><cb
+              n="1"/><hi rendition="#k">lg.</hi>
+            <hi rendition="#i">botter</hi>: source <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">bûtŷrum</hi> (cp. <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">beurre</hi>, <hi rendition="#k">it.</hi>
+            <hi rendition="#i">burro</hi>) = <hi rendition="#k">gr.</hi>
+            <hi rendition="#i">βούτυρον</hi>, — <hi rendition="#b"
+              >butterfly</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">butter-flíe</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">butor-flẹ́oge</hi> = <hi rendition="#k"
+              >du.</hi>
+            <hi rendition="#i">botervlieg</hi>; cp. <hi rendition="#k"
+              >g.</hi> dial. <hi rendition="#i">buttervogel</hi> ‘a
+            butterfly’ and the <hi rendition="#k">g.</hi> dial. synonyms
+              <hi rendition="#i">milchdieb</hi> and <hi rendition="#i"
+              >molkenstehler</hi>.</p>
+          <p><hi rendition="#b">buttock</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">buttok</hi> with dimin. suffix (cp. <hi
+              rendition="#i #g">hillock</hi>) fr. <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">bot</hi> (<hi rendition="#k">fr.</hi>
+            <hi rendition="#i">bout</hi>) ‘an end’; cp. <hi rendition="#i"
+              >butt-end</hi>.</p>
+          <p><hi rendition="#b">button</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bŭtoun</hi>: borrowed <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">bouton</hi> ‘a bud, a button’.</p>
+          <p><hi rendition="#b">buttress</hi> ‘a support’ (in architecture)
+              <hi rendition="#k">me.</hi>
+            <hi rendition="#i">buteras</hi>
+            <hi rendition="#i">butres</hi>: borrowed from <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">bouterets</hi>, prop. plur. of <hi
+              rendition="#i">bouteret</hi> ‘a buttress’; cp. <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">boter</hi>
+            <hi rendition="#i">bouter</hi> ‘thrust, prop’.</p>
+          <p><hi rendition="#b">buxom</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">buxom</hi> older <hi rendition="#i"
+              >íbúhsum</hi>
+            <cb n="2"/>from <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">búgan</hi> = <hi rendition="#i #g">bow</hi>;
+            the old meaning was ‘obedient, obliging’. Akin to <hi
+              rendition="#k">du.</hi>
+            <hi rendition="#i">buigzaam</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">biegsam</hi> ‘submissive’.</p>
+          <p><hi rendition="#b">buy</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bíe</hi> earlier <hi rendition="#i"
+              >biǧǧe</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">byčǧan</hi> ‘purchase’ = <hi rendition="#k"
+              >osax.</hi>
+            <hi rendition="#i">buggian</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">bugjan</hi> ‘buy’.</p>
+          <p><hi rendition="#b">buzzard</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">bŭsard</hi> short for <hi rendition="#i"
+              >büsard</hi>: loanword from <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">busard</hi> by-form of <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">buse</hi> ‘buzzard’ (= <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">bûteo</hi> ‘buzzard’), whence also <hi
+              rendition="#k">du.</hi>
+            <hi rendition="#i">buizerd</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bushart</hi>.</p>
+          <p><hi rendition="#b">by</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">bí</hi> (but <hi rendition="#i">be-</hi> as
+            prefix) = <hi rendition="#k">osax.</hi>
+            <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">bî</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">bei</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">bij</hi>; <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">bĭ</hi> means ‘round, round about’ and thus
+            connection with <hi rendition="#k">gr.</hi>
+            <hi rendition="#i">ἀμφί</hi>, <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">ambi-</hi> becomes possible.</p>
+          <cb type="end"/>
+        </div>
+        <div xml:id="section-c">
+          <head rendition="#c">C</head>
+          <cb type="start"/>
+          <cb n="1"/>
+          <p><hi rendition="#b">cabbage</hi> earlier <hi rendition="#i"
+              >cabbache</hi> from <hi rendition="#k">fr.</hi> dial. <hi
+              rendition="#i">caboche</hi> = <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">cabus</hi> (<hi rendition="#k">du.</hi>
+            <hi rendition="#i">kabuis</hi>), <hi rendition="#k">it.</hi>
+            <hi rendition="#i">capuccio</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">kappes</hi>
+            <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">kabuʒ</hi>: orig. deriv. of <hi
+              rendition="#k">lat.</hi>
+            <hi rendition="#i">caput</hi> ‘head’.</p>
+          <p><hi rendition="#b">cabin</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">caban</hi>: borrowed from <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">cabane</hi> = <hi rendition="#k">it.</hi>
+            <hi rendition="#k">med.-lat.</hi>
+            <hi rendition="#i">capanna</hi> ‘a cabin’. Source and history
+            unknown.</p>
+          <p><hi rendition="#b">cable</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">cáble</hi> (= <hi rendition="#k">g.</hi>
+            <hi rendition="#k">du.</hi>
+            <hi rendition="#k">sw.</hi>
+            <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">kabel</hi>): adapt. of <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">câble</hi>. Source <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">capulum</hi> ‘a rope’ (<hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">capere</hi> ‘take, hold’).</p>
+          <p><hi rendition="#b">caboose</hi> ident. with <hi rendition="#k"
+              >du.</hi>
+            <hi rendition="#i">kabuis</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">kabüse</hi>, <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">kabys</hi>. Earlier <hi rendition="#k"
+              >e.</hi> form <hi rendition="#i">comboose</hi> ident. with
+              <hi rendition="#k">du.</hi>
+            <cb n="2"/><hi rendition="#i">kombuis</hi>, <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">cambuse</hi>. Prob. akin to <hi
+              rendition="#k">e.</hi>
+            <hi rendition="#i">cabin</hi>.</p>
+          <p><hi rendition="#b">cackle</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">kakle</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">kakelen</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">kakeln</hi>, <hi rendition="#k">sw.</hi>
+            <hi rendition="#i">kackla</hi>, <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">kagle</hi> ‘cackle’. Onomatopoetic
+            formations.</p>
+          <p><hi rendition="#b">cage</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">cáǧe</hi> adapt. of <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">cage</hi> = <hi rendition="#k">it.</hi>
+            <hi rendition="#i">gabbia</hi>
+            <hi rendition="#i">gaggia</hi> dial. <hi rendition="#i"
+              >cabbia</hi>; source <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">căvea</hi>, whence also <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#i">chẹvia</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">käfig</hi> ‘cage’.</p>
+          <p><hi rendition="#b">cairn</hi> borrowed from <hi rendition="#k"
+              >gael.</hi>
+            <hi rendition="#k">ir.</hi>
+            <hi rendition="#k">w.</hi>
+            <hi rendition="#i">carn</hi> ‘a pile, rock’?</p>
+          <p><hi rendition="#b">caitiff</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">caitíf</hi> ‘a captive’: loanword from <hi
+              rendition="#k">onfr.</hi>
+            <hi rendition="#i">caitif</hi> ‘a wretch’ (whence also <hi
+              rendition="#k">du.</hi>
+            <hi rendition="#i">katijvig</hi>
+            <hi rendition="#k">odu.</hi>
+            <hi rendition="#i">catijf</hi>
+            <hi rendition="#i">caitijf</hi>) = <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">chétif</hi>
+            <pb n="34" facs="#f0040"/><cb n="1"/>‘mean, vile’ (<hi
+              rendition="#k">it.</hi>
+            <hi rendition="#i">cattivo</hi> = <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">captîvus</hi> ‘captive’).</p>
+          <cb type="end"/>
         </div>
       </div>
     </body>
-    <back>     
-    </back>
+    <back> </back>
   </text>
 </TEI>
