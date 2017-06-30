@@ -1,7 +1,7 @@
 <?xml-stylesheet type="text/xsl" href="../../share/presentation/retro-dict-view.xsl"?>
-<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+<?xml-model href="../../share/validation/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
 ?>
-<?xml-model href="http://www.deutschestextarchiv.de/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
+<?xml-model href="../../share/validation/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
@@ -21193,8 +21193,7 @@
           der Vollschiffstakelage eines Kriegsschiffes ausgegangen und
           berechnet die Stärke des Windes bei den geringen Graden nach der
           Fahrt <pb facs="#f0516" n="514"/>des Schiffes, bei den höheren
-          nach der Möglichkeit der Segelführung. Darnach ist
-          <table>
+          nach der Möglichkeit der Segelführung. Darnach ist <table>
             <row>
               <cell rendition="#c">Windstärke</cell>
               <cell rendition="#right">0:</cell>
@@ -21203,26 +21202,26 @@
             <row>
               <cell rendition="#c">„</cell>
               <cell rendition="#right">1:</cell>
-              <cell>Leiser Zug, sodaß das Schiff
-          eben steuerfähig ist.</cell>
+              <cell>Leiser Zug, sodaß das Schiff eben steuerfähig
+                ist.</cell>
             </row>
             <row>
               <cell rendition="#c">„</cell>
               <cell rendition="#right">2:</cell>
-              <cell>Leicht. Ein Schiff unter allen
-          Segeln voll und bei macht 1—2 Knoten.</cell>
+              <cell>Leicht. Ein Schiff unter allen Segeln voll und bei
+                macht 1—2 Knoten.</cell>
             </row>
             <row>
               <cell rendition="#c">„</cell>
               <cell rendition="#right">3:</cell>
-              <cell>Schwach. Ein
-          Schiff unter allen Segeln voll u. bei macht 3— 4 Knoten.</cell>
+              <cell>Schwach. Ein Schiff unter allen Segeln voll u. bei
+                macht 3— 4 Knoten.</cell>
             </row>
             <row>
               <cell rendition="#c">„</cell>
               <cell rendition="#right">4:</cell>
-              <cell>Mäßig. Ein Schiff unter allen Segeln voll und bei macht 5—6
-          Knoten.</cell>
+              <cell>Mäßig. Ein Schiff unter allen Segeln voll und bei macht
+                5—6 Knoten.</cell>
             </row>
             <row>
               <cell rendition="#c">„</cell>
@@ -21233,53 +21232,51 @@
               <cell rendition="#c">„</cell>
               <cell rendition="#right">6:</cell>
               <cell>Stark. „ „ „ „ einfach gereefte Mars- <choice>
-            <sic>nnd</sic>
-            <corr type="editorial">und</corr>
-          </choice> Bramsegel.</cell>
+                  <sic>nnd</sic>
+                  <corr type="editorial">und</corr>
+                </choice> Bramsegel.</cell>
             </row>
             <row>
               <cell rendition="#c">„</cell>
               <cell rendition="#right">7:</cell>
-              <cell>Hart. Schiff kann noch führen:
-          doppelt gereefte Marssegel, Klüver.</cell>
+              <cell>Hart. Schiff kann noch führen: doppelt gereefte
+                Marssegel, Klüver.</cell>
             </row>
             <row>
               <cell rendition="#c">„</cell>
               <cell rendition="#right">8:</cell>
-              <cell>Stürmisch. Schiff
-          kann noch führen: dreifach gereefte Marssegel.</cell>
+              <cell>Stürmisch. Schiff kann noch führen: dreifach gereefte
+                Marssegel.</cell>
             </row>
             <row>
               <cell rendition="#c">„</cell>
               <cell rendition="#right">9:</cell>
-              <cell>Sturm.
-          Schiff k. n. führen: dicht ger. Marssegel.</cell>
+              <cell>Sturm. Schiff k. n. führen: dicht ger.
+                Marssegel.</cell>
             </row>
             <row>
               <cell rendition="#c">„</cell>
               <cell rendition="#right">10:</cell>
-              <cell>Starker
-          Sturm. Schiff kann noch führen: dicht gereeftes Großmarssegel und
-          gereefte Fock.</cell>
+              <cell>Starker Sturm. Schiff kann noch führen: dicht gereeftes
+                Großmarssegel und gereefte Fock.</cell>
             </row>
             <row>
               <cell rendition="#c">„</cell>
               <cell rendition="#right">11:</cell>
-              <cell>Harter Sturm. Alle Segel fest bis auf
-          die Sturmsegel.</cell>
+              <cell>Harter Sturm. Alle Segel fest bis auf die
+                Sturmsegel.</cell>
             </row>
             <row>
               <cell rendition="#c">„</cell>
               <cell rendition="#right">12:</cell>
               <cell>Orkan. Kein Segel hält mehr Stand.</cell>
             </row>
-          </table>          
-      </p>
+          </table>
+        </p>
         <p>Im Zeitalter des Dampfes hat sich das Bedürfnis nach einer
           anderen Skala herausgestellt. Dem kommt Borgen entgegen, indem er
           die Windgeschwindigkeiten in Metern pro Stunde berechnet. Nach
-          der Börgen’schen Reduktionsformel ist 
-          <table>
+          der Börgen’schen Reduktionsformel ist <table>
             <row>
               <cell rendition="#c">Windstärke</cell>
               <cell rendition="#right">0</cell>
@@ -21411,7 +21408,7 @@
               <cell rendition="#c">„</cell>
             </row>
           </table>
-          </p>
+        </p>
         <pb facs="#f0517" n="515"/>
         <p><hi rendition="#b">Worthingtonpumpe,</hi> die, s. Pumpe.</p>
         <p><hi rendition="#b">Wrack,</hi> das, ist ein durch Schiffbruch
@@ -21637,141 +21634,140 @@
           leicht verbessern lassen, z. B. Feminium anstatt Femininum,
           Fauenzimmer anstatt Frauenzimmer, Takelake anstatt Takelage, wird
           der geneigte Leser gebeten zu entschuldigen; hier darum nur die
-          Verbesserung einiger sinnstörender:)
-        <table>
-          <row>
-            <cell rendition="#c">Seite</cell>
-            <cell rendition="#right">46</cell>
-            <cell rendition="#c">Zeile</cell>
-            <cell rendition="#right">6</cell>
-            <cell rendition="#c">von</cell>
-            <cell rendition="#c">oben</cell>
-            <cell rendition="#c">anstatt</cell>
-            <cell>bellons: bellows,</cell>
-          </row>
-          <row>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">60</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">6</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">„</cell>
-            <cell>nur: uur,</cell>
-          </row>
-          <row> 
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">67</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">6</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">„</cell>
-            <cell>huhhan: luhhan.</cell>
-          </row>
-          <row>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">80</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">13</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">„</cell>
-            <cell>altmodisch: altnordisch,</cell>
-          </row>
-          <row>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">96</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">19</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">„</cell>
-            <cell>genau: gemein,</cell>
-          </row>
-          <row>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">99</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">1</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">„</cell>
-            <cell>seiner: jener,</cell>
-          </row>
-          <row>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">110</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">4</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">„</cell>
-            <cell>Da: Sa,</cell>
-          </row>
-          <row>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">111</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">18</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">„</cell>
-            <cell>pelit: petit,</cell>
-          </row>
-          <row>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">140</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">11</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">unten</cell>
-            <cell rendition="#c">„</cell>
-            <cell>signeum: signum,</cell>
-          </row>
-          <row>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">142</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">8</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">„</cell>
-            <cell>Fauen: Fanen,</cell>
-          </row>
-          <row>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">206</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">1</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">oben</cell>
-            <cell rendition="#c">„</cell>
-            <cell>näher: höher,</cell>
-          </row>
-          <row>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">235</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">21</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">„</cell>
-            <cell>Dacht: Ducht,</cell>
-          </row>
-          <row>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">455</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#right">6</cell>
-            <cell rendition="#c">„</cell>
-            <cell rendition="#c">unten</cell>
-            <cell rendition="#c">„</cell>
-            <cell>ligh: high.</cell>
-          </row>
-        </table>        
+          Verbesserung einiger sinnstörender:) <table>
+            <row>
+              <cell rendition="#c">Seite</cell>
+              <cell rendition="#right">46</cell>
+              <cell rendition="#c">Zeile</cell>
+              <cell rendition="#right">6</cell>
+              <cell rendition="#c">von</cell>
+              <cell rendition="#c">oben</cell>
+              <cell rendition="#c">anstatt</cell>
+              <cell>bellons: bellows,</cell>
+            </row>
+            <row>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">60</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">6</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">„</cell>
+              <cell>nur: uur,</cell>
+            </row>
+            <row>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">67</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">6</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">„</cell>
+              <cell>huhhan: luhhan.</cell>
+            </row>
+            <row>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">80</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">13</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">„</cell>
+              <cell>altmodisch: altnordisch,</cell>
+            </row>
+            <row>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">96</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">19</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">„</cell>
+              <cell>genau: gemein,</cell>
+            </row>
+            <row>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">99</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">1</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">„</cell>
+              <cell>seiner: jener,</cell>
+            </row>
+            <row>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">110</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">4</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">„</cell>
+              <cell>Da: Sa,</cell>
+            </row>
+            <row>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">111</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">18</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">„</cell>
+              <cell>pelit: petit,</cell>
+            </row>
+            <row>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">140</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">11</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">unten</cell>
+              <cell rendition="#c">„</cell>
+              <cell>signeum: signum,</cell>
+            </row>
+            <row>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">142</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">8</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">„</cell>
+              <cell>Fauen: Fanen,</cell>
+            </row>
+            <row>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">206</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">1</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">oben</cell>
+              <cell rendition="#c">„</cell>
+              <cell>näher: höher,</cell>
+            </row>
+            <row>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">235</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">21</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">„</cell>
+              <cell>Dacht: Ducht,</cell>
+            </row>
+            <row>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">455</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#right">6</cell>
+              <cell rendition="#c">„</cell>
+              <cell rendition="#c">unten</cell>
+              <cell rendition="#c">„</cell>
+              <cell>ligh: high.</cell>
+            </row>
+          </table>
         </p>
-         <milestone rendition="#hr" unit="section"/>
+        <milestone rendition="#hr" unit="section"/>
       </div>
       <div xml:id="advertisments">
         <pb facs="#f0524" n="[522]"/>

@@ -1,14 +1,15 @@
 <?xml-stylesheet type="text/xsl" href="../../share/presentation/retro-dict-view.xsl"?>
-<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+<?xml-model href="../../share/validation/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
 ?>
-<?xml-model href="http://www.deutschestextarchiv.de/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
+<?xml-model href="../../share/validation/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="dtabf">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Etymologisches Wörterbuch der slavischen Sprachen</title>
+        <title type="main">Etymologisches Wörterbuch der slavischen
+          Sprachen</title>
         <author>
           <persName ref="http://d-nb.info/gnd/119065932">
             <surname>Miklosich</surname>
@@ -39,10 +40,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Miklosich, Franz: Etymologisches Wörterbuch der slavischen Sprachen. Wien, 1886.</bibl>
+        <bibl>Miklosich, Franz: Etymologisches Wörterbuch der slavischen
+          Sprachen. Wien, 1886.</bibl>
         <biblFull>
           <titleStmt>
-            <title type="main">Etymologisches Wörterbuch der slavischen Sprachen</title>
+            <title type="main">Etymologisches Wörterbuch der slavischen
+              Sprachen</title>
             <author>
               <persName ref="http://d-nb.info/gnd/119065932">
                 <surname>Miklosich</surname>
@@ -102,14 +105,15 @@
       <pb facs="#f0001" n="[I]"/>
       <titlePage type="main">
         <docTitle>
-          <titlePart type="main">ETYMOLOGISCHES
-            <lb/><hi rendition="#larger">WÖRTERBUCH</hi>
-              <lb/><hi rendition="#smaller">der</hi>
-              <lb/>SLAVISCHEN SPRACHEN</titlePart>         
+          <titlePart type="main">ETYMOLOGISCHES <lb/><hi
+              rendition="#larger">WÖRTERBUCH</hi>
+            <lb/><hi rendition="#smaller">der</hi>
+            <lb/>SLAVISCHEN SPRACHEN</titlePart>
         </docTitle>
         <lb/>
         <byline><hi rendition="#smaller">VON</hi><lb/><docAuthor
-          corresp="http://d-nb.info/gnd/119065932">FRANZ MIKLOSICH</docAuthor>
+            corresp="http://d-nb.info/gnd/119065932">FRANZ
+            MIKLOSICH</docAuthor>
         </byline>
         <lb/>
         <milestone rendition="#hr" unit="section"/>
@@ -122,8 +126,8 @@
       </titlePage>
     </front>
     <body>
-      <div></div>
+      <div/>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

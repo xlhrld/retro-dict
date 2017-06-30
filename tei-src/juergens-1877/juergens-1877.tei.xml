@@ -1,14 +1,15 @@
 <?xml-stylesheet type="text/xsl" href="../../share/presentation/retro-dict-view.xsl"?>
-<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+<?xml-model href="../../share/validation/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
 ?>
-<?xml-model href="http://www.deutschestextarchiv.de/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
+<?xml-model href="../../share/validation/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="dtabf">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Etymologisches Lehnwörterbuch der deutschen Sprache</title>        
+        <title type="main">Etymologisches Lehnwörterbuch der deutschen
+          Sprache</title>
         <author>
           <persName>
             <surname>Jürgens</surname>
@@ -39,11 +40,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Jürgens, Karl: Etymologisches Lehnwörterbuch der deutschen Sprache. 
-          Braunschweig, 1877.</bibl>
+        <bibl>Jürgens, Karl: Etymologisches Lehnwörterbuch der deutschen
+          Sprache. Braunschweig, 1877.</bibl>
         <biblFull>
           <titleStmt>
-            <title type="main">Etymologisches Lehnwörterbuch der deutschen Sprache</title>
+            <title type="main">Etymologisches Lehnwörterbuch der deutschen
+              Sprache</title>
             <author>
               <persName>
                 <surname>Jürgens</surname>
@@ -67,9 +69,9 @@
             <repository>Archive.org (via Univ. of Toronto)</repository>
             <idno>
               <idno type="URLImages"
-                >http://archive.org/details/vergleichendeset00meid</idno>              
-            </idno>            
-          </msIdentifier>          
+                >http://archive.org/details/vergleichendeset00meid</idno>
+            </idno>
+          </msIdentifier>
           <physDesc>
             <typeDesc>
               <p>Antiqua</p>
@@ -101,26 +103,23 @@
         <docTitle>
           <titlePart type="main">Etymologisches<lb/>
             <hi rendition="#larger">Lehnwörterbuch</hi>
-          <lb/><hi rendition="#smaller">der</hi>
-          <lb/>deutschen Sprache</titlePart>
+            <lb/><hi rendition="#smaller">der</hi>
+            <lb/>deutschen Sprache</titlePart>
         </docTitle>
         <lb/>
-        <byline>von
-          <lb/><docAuthor>Karl Jürgens</docAuthor></byline>
+        <byline>von <lb/><docAuthor>Karl Jürgens</docAuthor></byline>
         <lb/>
         <milestone rendition="#hr" unit="section"/>
         <lb/>
         <docImprint>
-          <pubPlace>Braunschweig</pubPlace>,
-          <lb/>
-          <publisher>Verlag von Harald Bruhn</publisher>.
-          <lb/>
-          <docDate>1877</docDate>                     
+          <pubPlace>Braunschweig</pubPlace>, <lb/>
+          <publisher>Verlag von Harald Bruhn</publisher>. <lb/>
+          <docDate>1877</docDate>
         </docImprint>
       </titlePage>
     </front>
     <body>
-      <div></div>      
+      <div/>
     </body>
     <back/>
   </text>

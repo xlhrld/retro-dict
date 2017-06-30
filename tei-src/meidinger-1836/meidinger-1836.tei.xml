@@ -1,14 +1,15 @@
 <?xml-stylesheet type="text/xsl" href="../../share/presentation/retro-dict-view.xsl"?>
-<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+<?xml-model href="../../share/validation/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
 ?>
-<?xml-model href="http://www.deutschestextarchiv.de/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
+<?xml-model href="../../share/validation/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="dtabf">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Vergleichendes etymologisches Wo&#868;rterbuch der gothisch-teutonischen Mundarten.</title>        
+        <title type="main">Vergleichendes etymologisches Wo&#868;rterbuch
+          der gothisch-teutonischen Mundarten.</title>
         <author>
           <persName ref="http://d-nb.info/gnd/117560138">
             <surname>Meidinger</surname>
@@ -39,11 +40,13 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Meidinger, Heinrich: Vergleichendes etymologisches Wo&#868;rterbuch der gothisch-teutonischen Mundarten.
-          Frankfurt am Main, ²1836.</bibl>
+        <bibl>Meidinger, Heinrich: Vergleichendes etymologisches
+          Wo&#868;rterbuch der gothisch-teutonischen Mundarten. Frankfurt
+          am Main, ²1836.</bibl>
         <biblFull>
           <titleStmt>
-            <title type="main">Vergleichendes etymologisches Wo&#868;rterbuch der gothisch-teutonischen Mundarten</title>
+            <title type="main">Vergleichendes etymologisches
+              Wo&#868;rterbuch der gothisch-teutonischen Mundarten</title>
             <author>
               <persName ref="http://d-nb.info/gnd/117560138">
                 <surname>Meidinger</surname>
@@ -64,14 +67,17 @@
         </biblFull>
         <msDesc>
           <msIdentifier>
-            <repository>Archive.org (via Library of Congress, Google Books)</repository>
+            <repository>Archive.org (via Library of Congress, Google
+              Books)</repository>
             <idno>
               <idno type="URLImages"
                 >http://archive.org/details/vergleichendeset00meid</idno>
-              <idno type="URLImages">http://www.archive.org/details/vergleichendese01meidgoog</idno>
-              <idno type="URLImages">http://books.google.com/books?id=FKAFAAAAQAAJ&amp;oe=UTF-8</idno>
-            </idno>            
-          </msIdentifier>          
+              <idno type="URLImages"
+                >http://www.archive.org/details/vergleichendese01meidgoog</idno>
+              <idno type="URLImages"
+                >http://books.google.com/books?id=FKAFAAAAQAAJ&amp;oe=UTF-8</idno>
+            </idno>
+          </msIdentifier>
           <physDesc>
             <typeDesc>
               <p>Antiqua</p>
@@ -102,36 +108,36 @@
       <titlePage type="main">
         <docTitle>
           <titlePart type="main">Vergleichendes<lb/>etymologisches
-            Wo&#868;rterbuch<lb/>der<lb/>gothisch-teutonischen Mundarten.</titlePart>
+            Wo&#868;rterbuch<lb/>der<lb/>gothisch-teutonischen
+            Mundarten.</titlePart>
           <milestone rendition="#hr" unit="section"/>
           <titlePart type="sub">Altgothisch Neuschwedisch
-          <lb/>Althochdeutsch Neudänisch
-          <lb/>Angelsächsisch Neuniederländisch (fläm.-holl.)
-          <lb/>Altsächsisch Neuenglisch
-          <lb/>Altnordisch (Isländisch) Neuhochdeutsch.</titlePart>
+            <lb/>Althochdeutsch Neudänisch <lb/>Angelsächsisch
+            Neuniederländisch (fläm.-holl.) <lb/>Altsächsisch Neuenglisch
+            <lb/>Altnordisch (Isländisch) Neuhochdeutsch.</titlePart>
           <milestone rendition="#hr" unit="section"/>
-          <titlePart type="sub">Nebst<lb/>mehreren slawischen, romanischen und
-          asiatischen Wurzeln, als Beweis<lb/>gemeinschaftlicher Abstammung</titlePart>
+          <titlePart type="sub">Nebst<lb/>mehreren slawischen, romanischen
+            und asiatischen Wurzeln, als Beweis<lb/>gemeinschaftlicher
+            Abstammung</titlePart>
         </docTitle>
         <lb/>
         <byline>von <docAuthor corresp="http://d-nb.info/gnd/117560138"><hi
-          rendition="#larger">Heinrich Meidinger</hi>.</docAuthor>
+              rendition="#larger">Heinrich Meidinger</hi>.</docAuthor>
           <lb/>
-          <milestone rendition="#hr" unit="section"/>         
-          <lb/>Zweite Auflage.
-        </byline>
+          <milestone rendition="#hr" unit="section"/>
+          <lb/>Zweite Auflage. </byline>
         <lb/>
         <milestone rendition="#hr" unit="section"/>
         <lb/>
         <docImprint>
-          <pubPlace>Frankfurt am Main</pubPlace>,
-          <docDate>1836</docDate>
-          <lb/><hi rendition="#g">Bei</hi> <publisher rendition="#g">Johann Valentin Meidinger</publisher>.          
+          <pubPlace>Frankfurt am Main</pubPlace>, <docDate>1836</docDate>
+          <lb/><hi rendition="#g">Bei</hi>
+          <publisher rendition="#g">Johann Valentin Meidinger</publisher>.
         </docImprint>
       </titlePage>
     </front>
     <body>
-      <div></div>      
+      <div/>
     </body>
     <back/>
   </text>

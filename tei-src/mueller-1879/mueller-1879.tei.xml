@@ -1,13 +1,14 @@
 <?xml-stylesheet type="text/xsl" href="../../share/presentation/retro-dict-view.xsl"?>
-<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+<?xml-model href="../../share/validation/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
 ?>
-<?xml-model href="http://www.deutschestextarchiv.de/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
+<?xml-model href="../../share/validation/basisformat.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"
 ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Etymologisches Wörterbuch der englischen Sprache</title>
+        <title type="main">Etymologisches Wörterbuch der englischen
+          Sprache</title>
         <author>
           <persName>
             <surname>Mueller</surname>
@@ -38,10 +39,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Mueller, Eduard: Etymologisches Wörterbuch der englischen Sprache. Bd. 2 (L – Z). Cöthen, ²1879.</bibl>
+        <bibl>Mueller, Eduard: Etymologisches Wörterbuch der englischen
+          Sprache. Bd. 2 (L – Z). Cöthen, ²1879.</bibl>
         <biblFull>
           <titleStmt>
-            <title type="main">Etymologisches Wörterbuch der englischen Sprache. Bd. 2 (L – Z)</title>
+            <title type="main">Etymologisches Wörterbuch der englischen
+              Sprache. Bd. 2 (L – Z)</title>
             <author>
               <persName>
                 <surname>Mueller</surname>
@@ -50,7 +53,8 @@
             </author>
           </titleStmt>
           <editionStmt>
-            <edition n="2">zweite vermehrte und verbesserte Auflage</edition>
+            <edition n="2">zweite vermehrte und verbesserte
+              Auflage</edition>
           </editionStmt>
           <publicationStmt>
             <publisher>
@@ -69,11 +73,11 @@
               <idno type="URLImages"
                 >http://www.archive.org/details/etymologischesw03muelgoog</idno>
               <idno type="URLImages"
-                >http://books.google.com/books?id=HlgSAAAAIAAJ&amp;oe=UTF-8</idno>              
+                >http://books.google.com/books?id=HlgSAAAAIAAJ&amp;oe=UTF-8</idno>
               <idno type="URLImages"
                 >http://www.archive.org/details/etymologischesw00muelgoog</idno>
               <idno type="URLImages"
-                >http://books.google.com/books?id=H-ZXAAAAMAAJ&amp;oe=UTF-8</idno>              
+                >http://books.google.com/books?id=H-ZXAAAAMAAJ&amp;oe=UTF-8</idno>
               <idno type="URLImages"
                 >http://www.archive.org/details/etymologischesw04muelgoog</idno>
             </idno>
@@ -107,25 +111,24 @@
     <front>
       <titlePage type="main">
         <docTitle>
-          <titlePart type="main">ETYMOLOGISCHES <lb/><hi rendition="#larger"
-              >WOERTERBUCH</hi>
+          <titlePart type="main">ETYMOLOGISCHES <lb/><hi
+              rendition="#larger">WOERTERBUCH</hi>
             <lb/><hi rendition="#smaller">DER</hi>
             <lb/>ENGLISCHEN SPRACHE</titlePart>
         </docTitle>
         <lb/>
-        <byline>von <lb/><docAuthor><hi
-              rendition="#larger">EDUARD MUELLER</hi></docAuthor>.          
-        </byline>
+        <byline>von <lb/><docAuthor><hi rendition="#larger">EDUARD
+              MUELLER</hi></docAuthor>. </byline>
         <lb/>
         <milestone rendition="#hr" unit="section"/>
         <lb/>
         <docTitle>
-          <titlePart type="sub">ZWEITER THEIL.
-          <lb/><hi rendition="#smaller">L – Z.</hi></titlePart>
+          <titlePart type="sub">ZWEITER THEIL. <lb/><hi
+              rendition="#smaller">L – Z.</hi></titlePart>
         </docTitle>
         <lb/>
         <milestone rendition="#hr" unit="section"/>
-        <lb/>        
+        <lb/>
         <docEdition>ZWEITE VERMEHRTE UND VERBESSERTE AUFLAGE.</docEdition>
         <lb/>
         <milestone rendition="#hr" unit="section"/>
@@ -135,14 +138,14 @@
           <lb/><publisher>PAUL SCHETTLER'S VERLAG.</publisher>
           <lb/>
           <docDate>1879.</docDate>
-        </docImprint>        
+        </docImprint>
       </titlePage>
-      <pb facs="#f0002" n="[II]"/>      
+      <pb facs="#f0002" n="[II]"/>
     </front>
     <body>
       <pb facs="#f0003" n="[1]"/>
-      <div xml:id="section-l"></div>
+      <div xml:id="section-l"/>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>
