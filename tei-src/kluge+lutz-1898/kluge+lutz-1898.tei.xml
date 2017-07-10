@@ -280,7 +280,7 @@
     <body>
       <div xml:id="dictionary">
         <pb facs="#f0007" n="1"/>
-        <div xml:id="section-a">          
+        <div xml:id="section-a">
           <head rendition="#c">A</head>
           <cb type="start"/>
           <cb n="1"/>
@@ -2033,7 +2033,7 @@
           <cb type="end"/>
         </div>
         <pb facs="#f0016" n="10"/>
-        <div xml:id="section-b">          
+        <div xml:id="section-b">
           <head rendition="#c">B</head>
           <cb type="start"/>
           <cb n="1"/>
@@ -6408,7 +6408,7 @@
             <hi rendition="#i">butore</hi> = <hi rendition="#k">g.</hi>
             <hi rendition="#i">butter</hi>, <hi rendition="#k">du.</hi>
             <hi rendition="#i">boter</hi>, <pb n="33" facs="#f0039"/><cb
-              n="1"/><hi rendition="#k">lg.</hi>
+              n="1" xml:id="f0039-1"/><hi rendition="#k">lg.</hi>
             <hi rendition="#i">botter</hi>: source <hi rendition="#k"
               >lat.</hi>
             <hi rendition="#i">bûtŷrum</hi> (cp. <hi rendition="#k"
@@ -6454,7 +6454,7 @@
             <hi rendition="#k">me.</hi>
             <hi rendition="#i">buxom</hi> older <hi rendition="#i"
               >íbúhsum</hi>
-            <cb n="2"/>from <hi rendition="#k">oe.</hi>
+            <cb n="2" xml:id="f0039-2"/>from <hi rendition="#k">oe.</hi>
             <hi rendition="#i">búgan</hi> = <hi rendition="#i #g">bow</hi>;
             the old meaning was ‘obedient, obliging’. Akin to <hi
               rendition="#k">du.</hi>
@@ -6500,7 +6500,7 @@
         <div xml:id="section-c">
           <head rendition="#c">C</head>
           <cb type="start"/>
-          <cb n="1"/>
+          <cb n="1" corresp="#f0039-1"/>
           <p><hi rendition="#b">cabbage</hi> earlier <hi rendition="#i"
               >cabbache</hi> from <hi rendition="#k">fr.</hi> dial. <hi
               rendition="#i">caboche</hi> = <hi rendition="#k">fr.</hi>
@@ -6540,8 +6540,8 @@
             <hi rendition="#i">kabys</hi>. Earlier <hi rendition="#k"
               >e.</hi> form <hi rendition="#i">comboose</hi> ident. with
               <hi rendition="#k">du.</hi>
-            <cb n="2"/><hi rendition="#i">kombuis</hi>, <hi rendition="#k"
-              >fr.</hi>
+            <cb n="2" corresp="#f0039-2"/><hi rendition="#i">kombuis</hi>,
+              <hi rendition="#k">fr.</hi>
             <hi rendition="#i">cambuse</hi>. Prob. akin to <hi
               rendition="#k">e.</hi>
             <hi rendition="#i">cabin</hi>.</p>
@@ -10210,7 +10210,7 @@
               >fr.</hi>
             <hi rendition="#i">courber</hi> ‘bend’.</p>
           <pb n="53" facs="#f0059"/>
-          <cb n="1"/>
+          <cb n="1" xml:id="f0059-1"/>
           <p><hi rendition="#b">curd</hi> vb. w. metathesis fr. <hi
               rendition="#k">me.</hi>
             <hi rendition="#i">crudde</hi> vb.: a <hi rendition="#k"
@@ -10281,7 +10281,7 @@
               rendition="#k">oir.</hi>
             <hi rendition="#i">cúrsachaim</hi> ‘I curse’. Source and
             history unknown.</p>
-          <cb n="2"/>
+          <cb n="2" xml:id="f059-2"/>
           <p><hi rendition="#b">curtain</hi> sb. <hi rendition="#k"
               >me.</hi>
             <hi rendition="#i">curtín</hi>
@@ -10360,14 +10360,14 @@
         <div xml:id="section-d">
           <head rendition="#c">D</head>
           <cb type="start"/>
-          <cb n="1"/>
+          <cb n="1" corresp="#f0059-1"/>
           <p><hi rendition="#b">dace</hi> from <hi rendition="#k">me.</hi>
             <hi rendition="#i">darce</hi>
             <hi rendition="#i">darse</hi> from <hi rendition="#k">ofr.</hi>
             <hi rendition="#i">dars</hi>, nom. also spelled <hi
               rendition="#i">dart</hi> ‘a dart’, also ‘a fish’ (so <cb
-              n="2"/>called from its swiftness). See <hi rendition="#i #g"
-              >dart</hi>.</p>
+              n="2" corresp="#f059-2"/>called from its swiftness). See <hi
+              rendition="#i #g">dart</hi>.</p>
           <p><hi rendition="#b">dagger</hi>
             <hi rendition="#k">me.</hi>
             <hi rendition="#i">dagger</hi> = <hi rendition="#k">on.</hi>
@@ -10379,6 +10379,2399 @@
             <hi rendition="#i">daigear</hi>; <hi rendition="#k">bret.</hi>
             <hi rendition="#i">dag</hi> = <hi rendition="#k">gael.</hi>
             <hi rendition="#i">daga</hi>: all synon.</p>
+          <p><hi rendition="#b">dainty</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">deintẹ́</hi>: borrowed from <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">deinte</hi> ‘dignity, importance, value’
+            (the <hi rendition="#k">me.</hi> by-form <hi rendition="#i"
+              >daintéth</hi> is an <hi rendition="#k">anglo-norman</hi>
+            <hi rendition="#i">deintẹ́đ</hi> ‘pleasure’). Source <hi
+              rendition="#k">lat.</hi>
+            <hi rendition="#i">dignitatem</hi> (<hi rendition="#i"
+              >dainty</hi> and <hi rendition="#i">dignity</hi> are
+            doublets).</p>
+          <p><hi rendition="#b">dairy</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">deieríe</hi> ‘room for a milk-woman’; <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">deie</hi> ‘milk-woman’ (hence <hi
+              rendition="#g">day-woman</hi> ‘dairy-woman’ Shakesp.) is
+            borrowed from <hi rendition="#k">on.</hi>
+            <hi rendition="#i">deigja</hi> ‘milk- woman’ (<hi
+              rendition="#k">sw.</hi>
+            <hi rendition="#i">deja</hi>), which is supposed to be a deriv.
+            of <hi rendition="#k">teut.</hi>
+            <hi rendition="#i">daiga-</hi> (under <hi rendition="#i #g"
+              >dough</hi>) and to mean prop. ‘the bread-maker, kneader of
+            dough’. Cp. <hi rendition="#i #g">dough</hi> and <hi
+              rendition="#i #g">lady</hi>.</p>
+          <p><hi rendition="#b">dais</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">deis</hi>: borrowed from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">deis</hi> later <hi rendition="#i">dais</hi>
+            ‘a high table in a hall’ = <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">dais</hi> ‘a canopy’ (base <hi
+              rendition="#k">med.-lat.</hi>
+            <hi rendition="#i">discus</hi> ‘a table’ = <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">discus</hi> ‘plate, platter’ see under <hi
+              rendition="#i #g">dish</hi>).</p>
+          <p><hi rendition="#b">daisy</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">daies-íe</hi>
+            <hi rendition="#i">daies-eie</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dæges-ę́age</hi>: prop. ‘the eye of the
+            day’; cp. <hi rendition="#i #g">day</hi> and <hi
+              rendition="#g #i">eye</hi>.</p>
+          <p><hi rendition="#b">dale</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dále</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dæl</hi> plur. <hi rendition="#i">dalu</hi>
+              (<hi rendition="#k">me.</hi>
+            <hi rendition="#k">e.</hi>
+            <hi rendition="#i">e</hi> in <hi rendition="#i">dale</hi> is
+            derived from the <hi rendition="#k">oe.</hi> plur. <hi
+              rendition="#i">dalu</hi> or from the sing. infl. <hi
+              rendition="#i">dæles</hi>, <hi rendition="#i">dæle</hi>). The
+              <hi rendition="#k">teut.</hi> base <hi rendition="#i"
+              >dala-</hi> cp. also in the synon. <hi rendition="#k"
+              >goth.</hi>
+            <hi rendition="#i">dals</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dalr</hi>, <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">dal</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">tal</hi> (mod. <hi rendition="#i"
+            >thal</hi>).</p>
+          <p><hi rendition="#b">dally</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dalye</hi> points to <hi rendition="#k"
+              >goth.</hi>
+            <hi rendition="#i">*dalôn</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">*dalian</hi> (= <hi rendition="#k">g.</hi>
+            <hi rendition="#i">dahlen</hi>). The ending <hi rendition="#i"
+              >y</hi> is a <cb n="2"/>southern continuation of the <hi
+              rendition="#k">oe.</hi> infinit. in <hi rendition="#i"
+              >-ian</hi> (= <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">*talôn</hi>?).</p>
+          <p><hi rendition="#b">dam</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dam(me)</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">*dam(mm)</hi> = <hi rendition="#k">g.</hi>
+            <hi rendition="#i">damm</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">dam</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dammr</hi> (<hi rendition="#k">goth.</hi>
+            <hi rendition="#i">faúrdammjan</hi> = <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">fordemman</hi> ‘dam up’).</p>
+          <p><hi rendition="#b">damage</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">damáǧe</hi>: borrowed from <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">damage</hi>
+            <hi rendition="#i">domage</hi>
+            <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">dommage</hi> ‘harm’ (<hi rendition="#k"
+              >it.</hi>
+            <hi rendition="#i">dannajo</hi>), <hi rendition="#k">lat.</hi>
+            type <hi rendition="#i">damnaticum</hi> ‘harm’ (<hi
+              rendition="#k">lat.</hi>
+            <hi rendition="#i">damnum</hi> ‘loss, injury’ under <hi
+              rendition="#i #g">damn</hi>).</p>
+          <p><hi rendition="#b">dame</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dáme</hi>: borrowed from <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">dame</hi>, whence also <hi rendition="#k"
+              >g.</hi>
+            <hi rendition="#k">du.</hi>
+            <hi rendition="#i">dame</hi>. Source <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">domina</hi> ‘lady’ (= <hi rendition="#k"
+              >it.</hi>
+            <hi rendition="#i">donna</hi>) cp. <hi rendition="#i #g"
+              >damsel</hi>.</p>
+          <p><hi rendition="#b">damn</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dam(p)ne</hi>: borrowed from <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">damner</hi>
+            <hi rendition="#i">dampner</hi>
+            <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">damner</hi> (= <hi rendition="#k">span.</hi>
+            <hi rendition="#i">dañar</hi>, <hi rendition="#k">it.</hi>
+            <hi rendition="#i">dannare</hi>) = <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">damnare</hi> ‘condemn, fine’ (<hi
+              rendition="#k">lat.</hi>
+            <hi rendition="#i">damnum</hi> ‘injury, loss’).</p>
+          <p><hi rendition="#b">damp</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">*damp</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">damp</hi> ‘vapor’, <hi rendition="#k"
+              >g.</hi>
+            <hi rendition="#i">dampf</hi> ‘vapor, steam’.</p>
+          <p><hi rendition="#b">damsel</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">damesele</hi>
+            <hi rendition="#i">damisele</hi>: borrowed from <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">damisele</hi>
+            <hi rendition="#i">dameisele</hi> = <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">demoiselle</hi>. The source is <hi
+              rendition="#k">med.-lat.</hi>
+            <hi rendition="#i">domicella</hi> ‘a young lady’, <hi
+              rendition="#k">lat.</hi> type <hi rendition="#i"
+              >dom(i)nicella</hi>, dimin. of <hi rendition="#i">domina</hi>
+            ‘a lady’.</p>
+          <p><hi rendition="#b">dance</hi> vb. <hi rendition="#k"><choice>
+                <sic>me</sic>
+                <corr>me.</corr>
+              </choice></hi>
+            <hi rendition="#i">daunce</hi>
+            <hi rendition="#i">daunse</hi>: borrowed from <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">danser</hi>, whence also <hi rendition="#k"
+              >du.</hi>
+            <hi rendition="#i">dansen</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">tanzen</hi>, <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">dandse</hi>, <hi rendition="#k">sw.</hi>
+            <hi rendition="#i">dansa</hi>. The <hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">danser</hi> is traced to an <hi
+              rendition="#k">ohg.</hi>
+            <hi rendition="#i">dansôn</hi> ‘draw, trail’.</p>
+          <p><hi rendition="#b">dandelion:</hi> borrowed from <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">dent</hi>
+            <hi rendition="#i">de</hi>
+            <hi rendition="#i">lion</hi> (= <hi rendition="#k">span.</hi>
+            <hi rendition="#i">diente</hi>
+            <hi rendition="#i">de</hi>
+            <hi rendition="#i">leon</hi>, <hi rendition="#k">it.</hi>
+            <hi rendition="#i">dente</hi>
+            <hi rendition="#i">di</hi>
+            <hi rendition="#i">leone</hi>): prop. ‘lion’s tooth’, so called
+            from the jagged <pb n="55" facs="#f0061"/><cb n="1"/>leaves of
+            the plant (<hi rendition="#k">g.</hi>
+            <hi rendition="#i">löwenzahn</hi>).</p>
+          <p><hi rendition="#b">danger</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">daunger</hi>: borrowed from <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">danger</hi> ‘danger’. Source a <hi
+              rendition="#k">lat.</hi> type <hi rendition="#i"
+              >*dominiarium</hi> ‘power’ from <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">dominium</hi> ‘sovereignty’.</p>
+          <p><hi rendition="#b">dank</hi> ‘damp’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">dank</hi>: borrowed from the Scand.? cp. <hi
+              rendition="#k">sw.</hi> dial. <hi rendition="#i">dank</hi> ‘a
+            marshy piece of ground’ = <hi rendition="#k">icel.</hi>
+            <hi rendition="#i">dǫkk</hi> for <hi rendition="#i">*danku</hi>
+            ‘pit, pool’.</p>
+          <p><hi rendition="#b">dapper</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">daper</hi> ‘pretty, neat’; cp. <hi
+              rendition="#k">on.</hi>
+            <hi rendition="#i">dapr</hi> ‘sad, dreary’, <hi rendition="#k"
+              >du.</hi>
+            <hi rendition="#i">dapper</hi> ‘brave’, <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#i">tapfar</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">tapfer</hi> ‘valiant, brave’.</p>
+          <p><hi rendition="#b">dapple</hi> ‘a spot, dot’ ‘a dappled horse’
+              <hi rendition="#k">me.</hi> in <hi rendition="#i"
+              >dappel-gray</hi>, perh. Scand. loanword from <hi
+              rendition="#k">on.</hi>
+            <hi rendition="#i">depill</hi> ‘a spot, dot’ (<hi
+              rendition="#i">dapi</hi> ‘a pool’).</p>
+          <p><hi rendition="#b">dare</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dar</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dear</hi> ‘I dare’ = <hi rendition="#k"
+              >goth.</hi>
+            <hi rendition="#i">dars</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">tar</hi>. The <hi rendition="#k">teut.</hi>
+            √ <hi rendition="#i">dars</hi>
+            <hi rendition="#i">darz</hi> is akin to <hi rendition="#k"
+              >gr.</hi>
+            <hi rendition="#i">ϑρασεῖν</hi> ‘be bold’ — <hi rendition="#i"
+              >ϑρασύς</hi> ‘bold’ and <hi rendition="#k">skr.</hi>
+            <hi rendition="#i">dhṛš</hi> ‘dare’: Aryan √ <hi rendition="#i"
+              >dhers</hi>.</p>
+          <p><hi rendition="#b">dark</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">derk</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">deorc</hi>: perh. akin to <hi rendition="#k"
+              >oir.</hi>
+            <hi rendition="#i">derg</hi> ‘red’: common base <hi
+              rendition="#i">dhergo-</hi> (cp. also <hi rendition="#k"
+              >oir.</hi>
+            <hi rendition="#i">dorche</hi> ‘dark’?).</p>
+          <p><hi rendition="#b">darling</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dĕrling</hi> shortened from <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">dẹ́orling</hi> ‘a favorite’: deriv. of <hi
+              rendition="#i #g">dear</hi> = <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dẹ́ore</hi>.</p>
+          <p><hi rendition="#b">dart</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dart</hi> from <hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">dart</hi>
+            <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">dard</hi> (= <hi rendition="#k">span.</hi>
+            <hi rendition="#k">it.</hi>
+            <hi rendition="#i">dardo</hi>); of <hi rendition="#k"
+              >teut.</hi> origin: <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">darođ</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">darrađr</hi> also shorter <hi rendition="#i"
+              >darr</hi>.</p>
+          <p><hi rendition="#b">dash</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dasshe</hi>; corresponding to <hi
+              rendition="#k">dan.</hi>
+            <hi rendition="#i">daske</hi> (= <hi rendition="#k">sw.</hi>
+            <hi rendition="#i">daska</hi>) ‘slap, strike’. Scand. origin of
+            the <hi rendition="#k">e.</hi> word (<hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">*dascian</hi>
+            <cb n="2"/><hi rendition="#i">*daxian</hi>) is improbable, <hi
+              rendition="#k">e.</hi>
+            <hi rendition="#i">sh</hi> pointing to a hereditary word.</p>
+          <p><hi rendition="#b">date</hi>¹ ‘an epoch, given point of time’
+              <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dáte</hi> from the synon. <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">date</hi> (<hi rendition="#k">med.-lat.</hi>
+            <hi rendition="#i">datum</hi>, whence <hi rendition="#k"
+              >g.</hi>
+            <hi rendition="#i">datum</hi>).</p>
+          <p><hi rendition="#b">date</hi>² ‘fruit of the palm’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">dáte</hi>: borrowed from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">date</hi> = <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">datte</hi>: source <hi rendition="#k"
+              >lat.-gr.</hi>
+            <hi rendition="#i">dactylus</hi>, whence also <hi
+              rendition="#k">g.</hi>
+            <hi rendition="#i">dattel</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">dadel</hi>.</p>
+          <p><hi rendition="#b">daub</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">daube</hi>: borrowed from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">dauber</hi> ‘whiten’ from <hi rendition="#i"
+              >*dalber</hi> = <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">dealbare</hi> ‘whiten, plaster’ (<hi
+              rendition="#k">lat.</hi>
+            <hi rendition="#i">albus</hi> ‘white’).</p>
+          <p><hi rendition="#b">daughter</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">doughter</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dohtor</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">dochter</hi>, <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">dohtar</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">tohter</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">tochter</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dóttir</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">daúhtar</hi>: ident. with the synon. <hi
+              rendition="#k">lith.</hi>
+            <hi rendition="#i">duktí</hi>, <hi rendition="#k">oslov.</hi>
+            <hi rendition="#i">dŭšti</hi>: Aryan base <hi rendition="#i"
+              >dhuktêr</hi>; an Aryan base <hi rendition="#i">dhugatêr</hi>
+            appears in <hi rendition="#k">gr.</hi>
+            <hi rendition="#i">ϑυγάτηρ</hi>, <hi rendition="#k">skr.</hi>
+            <hi rendition="#i">duhitár</hi>, <hi rendition="#k">avest.</hi>
+            <hi rendition="#i">duγdar</hi> ‘daughter’. <hi rendition="#k"
+              >skr.</hi>
+            <hi rendition="#i">duhitar</hi> ‘daughter’ is traced to the <hi
+              rendition="#k">skr.</hi> √ <hi rendition="#i">duh</hi> ‘milk’
+            and is interpreted as ‘the milk maid’.</p>
+          <p><hi rendition="#b">daunt</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">daunte</hi>: borrowed from <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">donter</hi>
+            <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">dompter</hi> = <hi rendition="#k">it.</hi>
+            <hi rendition="#i">domitare</hi> ‘subdue, tame’: the source is
+              <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">domitare</hi> (frequent. of <hi
+              rendition="#i">domare</hi>).</p>
+          <p><hi rendition="#b">day</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">day</hi>
+            <hi rendition="#i">dai</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dæᵹ</hi> = <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">dags</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">tac(g)</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">tag</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">dag</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dagr</hi>; by-forms <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">dógor</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dœ́gr</hi> (fr. <hi rendition="#i"
+              >dôgaz</hi>
+            <hi rendition="#i">dôgiz</hi>): all connected with the <hi
+              rendition="#k">skr.</hi> √ <hi rendition="#i">dah</hi> (for
+            Aryan <hi rendition="#i">dhē̆gh</hi>: <hi rendition="#i"
+              >dhō̆gh</hi>) ‘burn’. This root appears also in <hi
+              rendition="#k">lith.</hi>
+            <hi rendition="#i">dègti</hi> ‘burn’ — <pb n="56" facs="#f0062"
+              /><cb n="1"/><hi rendition="#i">dagas</hi>
+            <hi rendition="#i">daga</hi> ‘harvest’, <hi rendition="#k"
+              >pruss.</hi>
+            <hi rendition="#i">dagas</hi> ‘summer’, <hi rendition="#k"
+              >skr.</hi>
+            <hi rendition="#i">nidâgha-</hi> ‘heat, summer’ (also <hi
+              rendition="#k">skr.</hi>
+            <hi rendition="#i">áhar</hi> ‘day’?). The base <hi
+              rendition="#i">dhógho-s</hi> common to our <hi rendition="#i"
+              >day</hi> and to <hi rendition="#k">lith.</hi>
+            <hi rendition="#i">dágas</hi> signified ‘the time of the
+            burning of the sun, the hot part of the day or year’.</p>
+          <p><hi rendition="#b">dawn</hi> vb. late <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">daune</hi> earlier <hi rendition="#i"
+              >dawe</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dagian</hi> = <hi rendition="#k">on.</hi>
+            <hi rendition="#i">daga</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">tagên</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">tagen</hi> ‘become day’; cp. <hi
+              rendition="#k">e.</hi>
+            <hi rendition="#b">dawning</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dawinge</hi>: deriv. of <hi rendition="#k"
+              >teut.</hi>
+            <hi rendition="#i">daga-</hi> under <hi rendition="#i #g"
+              >day</hi>.</p>
+          <p><hi rendition="#b">daze</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dase</hi> ‘stupefy’ from <hi rendition="#k"
+              >on.</hi>
+            <hi rendition="#i">*dasa</hi>, refl. <hi rendition="#i"
+              >dasask</hi> (<hi rendition="#i">sk</hi> represents the refl.
+            ‘oneself’) ‘daze oneself’ = <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">dase</hi>, <hi rendition="#k">sw.</hi>
+            <hi rendition="#i">dasa</hi> ‘lie idle’. From <hi
+              rendition="#i">daze</hi> is deriv. the dimin. <hi
+              rendition="#i">dazzle</hi> vb. ‘overpower with light’.</p>
+          <p><hi rendition="#b">deacon</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dę́ken</hi> from <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">*dę́acon</hi> for <hi rendition="#i"
+              >diacon</hi> (= <hi rendition="#k">du.</hi>
+            <hi rendition="#i">deken</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">diakon</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">djákn</hi>, <hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">diacne</hi>
+            <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">diacre</hi>, <hi rendition="#k">span.</hi>
+            <hi rendition="#k">it.</hi>
+            <hi rendition="#i">diacono</hi>): source <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">diaconus</hi> (<hi rendition="#k">gr.</hi>
+            <hi rendition="#i">διάϰονος</hi>) ‘a servant, a deacon’.</p>
+          <p><hi rendition="#b">dead</hi> adj. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dę́d</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dę́ad</hi> = <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">dauþs</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">tôt</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">to(d)t</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dauđr</hi>, <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">dôd</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">dood</hi>. The common base <hi
+              rendition="#i">dau-da</hi> is prop. partic. (<hi
+              rendition="#i">dhau-tó-</hi>) belonging to the <hi
+              rendition="#k">teut.</hi> verbal √ <hi rendition="#i"
+              >dau</hi> discussed under <hi rendition="#i #g">die</hi>. Cp.
+              <hi rendition="#i #g">death</hi>.</p>
+          <p><hi rendition="#b">deaf</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dę́f</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dę́af</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">dôf</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">doof</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">toup(b)</hi> ‘hearing or feeling nothing,
+            dull, foolish’ <hi rendition="#k">g.</hi>
+            <hi rendition="#i">taub</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">daufs(b)</hi> ‘deaf’, <hi rendition="#k"
+              >on.</hi>
+            <hi rendition="#i">daufr</hi>. The meanings of <hi
+              rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">toup(b)</hi> bordering on those of <hi
+              rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">tump</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">dumm</hi>, connection of both groups <cb
+              n="2"/>is sure; prob. akin to <hi rendition="#k">gr.</hi>
+            <hi rendition="#i">τυφλός</hi> ‘blind’. Cp. <hi
+              rendition="#i #g">dumb</hi>.</p>
+          <p><hi rendition="#b">deal</hi> vb. ‘divide, distribute,
+            negotiate in’ <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dę́le</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dǽlan</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">dêlian</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">deelen</hi>, <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">dêlen</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">teilen</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">dailjan</hi>: denominatives of <hi
+              rendition="#i">daili-</hi> (cp. <hi rendition="#g #i"
+              >deal</hi>) like <hi rendition="#k">oslov.</hi>
+            <hi rendition="#i">děliti</hi> ‘divide’.</p>
+          <p><hi rendition="#b">deal</hi>¹ sb. ‘part, portion, indefinite
+            quantity, degree or extent, bargain etc.’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">dę́l</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dǽl</hi> (<hi rendition="#i">dál</hi>) = <hi
+              rendition="#k">osax.</hi>
+            <hi rendition="#i">dêl</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">deel</hi>, <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">deel</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">teil</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">dails</hi> m. <hi rendition="#i">daila</hi>
+            f. <hi rendition="#k">teut.</hi>
+            <hi rendition="#i">dai-li(la-)</hi> seems to point to an <hi
+              rendition="#k">aryan</hi> √ <hi rendition="#i">dhai</hi>,
+            proved by <hi rendition="#k">oslov.</hi>
+            <hi rendition="#i">dělŭ</hi>
+            <choice>
+              <sic/>
+              <corr>‘</corr>
+            </choice>part’.</p>
+          <p><hi rendition="#b">deal</hi>² sb. ‘a board, plank’ borrowed
+            from <hi rendition="#k">du.</hi>
+            <hi rendition="#i">deel</hi> ‘a board, threshing floor’ = <hi
+              rendition="#k">mlg.</hi>
+            <hi rendition="#i">dêle</hi> ‘board’ <hi rendition="#k"
+              >lg.</hi>
+            <hi rendition="#i">dele</hi> ‘a board, floor, a room’. The
+            corresponding <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">dili</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">diele</hi> ‘boarded floor’ corresponds to
+              <hi rendition="#k">on.</hi>
+            <hi rendition="#i">þilja</hi>, <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">þël</hi> ‘board’, <hi rendition="#k"
+              >lith.</hi>
+            <hi rendition="#i">tili</hi> ‘plank in the boat’, <hi
+              rendition="#k">oslov.</hi>
+            <hi rendition="#i">tilo</hi> ‘bottom’, <hi rendition="#k"
+              >skr.</hi>
+            <hi rendition="#i">tala-m</hi> ‘surface’ are cognate.</p>
+          <p><hi rendition="#b">dean</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dę́n</hi> (contr. of <hi rendition="#i"
+              >*deię́n</hi>) borrowed from <hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">deien</hi> = <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">doyen</hi>: source <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">dĕcânus</hi> ‘the chief of ten soldiers or
+            monks’ (= <hi rendition="#k">it.</hi>
+            <hi rendition="#i">decano</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">tëchân</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">dechant</hi>).</p>
+          <p><hi rendition="#b">dear</hi>¹ <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dẹ́re</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dẹ́ore</hi> ‘beloved, precious, of great
+            value’ = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">diuri</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">dier</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">tiuri</hi> ‘dear, beloved, esteemed, costly’
+              <hi rendition="#k">g.</hi>
+            <hi rendition="#i">teuer</hi>.</p>
+          <p><hi rendition="#b">dear</hi>² (in Shakesp.) ‘fierce,
+            ferocious’ <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dẹ́r</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dẹ́or</hi> ‘wild’: <pb n="57" facs="#f0063"
+              /><cb n="1"/>different from <hi rendition="#i #g">dear</hi>¹.
+            Ident. with <hi rendition="#k">e.</hi>
+            <hi rendition="#i">deer</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">tier</hi>; cp. <hi rendition="#i #g"
+              >deer</hi>.</p>
+          <p><hi rendition="#b">dearth</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dĕrthe</hi> ‘scarcity, dearness’ (= <hi
+              rendition="#k">osax.</hi>
+            <hi rendition="#i">diurida</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">tiurida</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dýrđ</hi>, <hi rendition="#k">olg.</hi>
+            <hi rendition="#i">diurtha</hi>): deriv. of <hi
+              rendition="#i #g">dear</hi>¹ + <hi rendition="#i">-th</hi>
+            formative of abstract nouns.</p>
+          <p><hi rendition="#b">death</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dę́th</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dę́aþ</hi> = <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">dauþus</hi>, <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">dôth</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">tôd</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">tôt(d)</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">tod</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">dood</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dauđr</hi>: a verbal abstr. noun of a √ <hi
+              rendition="#i">dau</hi> (cp. <hi rendition="#g #i">die</hi>)
+            with the abstract suffix <hi rendition="#k">teut.</hi>
+            <hi rendition="#i">þu</hi> = <hi rendition="#k">lat.</hi>
+            <hi rendition="#k">skr.</hi>
+            <hi rendition="#i">tu-</hi> (Aryan base <hi rendition="#i"
+              >dhau-tu-s</hi>).</p>
+          <p><hi rendition="#b">debate</hi> vb <hi rendition="#k">me.</hi>
+            <hi rendition="#i">debáte</hi>: borrowed from <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">debatre</hi> ‘fight, contend, debate’ <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">débattre</hi> ‘contend, debate’ (= <hi
+              rendition="#k">span.</hi>
+            <hi rendition="#i">debatir</hi>, <hi rendition="#k">it.</hi>
+            <hi rendition="#i">dibattere</hi>).</p>
+          <p><hi rendition="#b">debt</hi> sb. earlier <hi rendition="#i"
+              >det</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dette</hi>: from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">debte</hi>
+            <hi rendition="#i">dette</hi>
+            <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">dette</hi> (<hi rendition="#k">it.</hi>
+            <hi rendition="#i">detta</hi>) = <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">debita</hi> f. sing., orig. neut. plur. of
+              <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">debitum</hi>.</p>
+          <p><hi rendition="#b">debtor</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dettur</hi> from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">detor</hi>
+            <hi rendition="#i">deteur</hi>
+            <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">detteur</hi> (<hi rendition="#k">it.</hi>
+            <hi rendition="#i">debitore</hi>) = <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">debitorem</hi> acc. of <hi rendition="#i"
+              >debitor</hi> ‘debtor’.</p>
+          <p><hi rendition="#b">decay</hi> vb. from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">decaer</hi> (<hi rendition="#k">span.</hi>
+            <hi rendition="#i">decaer</hi>, <hi rendition="#k">it.</hi>
+            <hi rendition="#i">decadere</hi>) = <hi rendition="#k"
+              >lat.</hi> type <hi rendition="#i">*decadere</hi> (instead of
+              <hi rendition="#i">decidere</hi>) ‘fall away, perish’<choice>
+              <sic/>
+              <corr>.</corr>
+            </choice></p>
+          <p><hi rendition="#b">decease</hi> sb. <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">decę́s</hi> borrowed from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">deces</hi>
+            <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">décès</hi> = <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">decessus</hi> prop. ‘departure’.</p>
+          <p><hi rendition="#b">deceit</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">deceit</hi>: borrowed from <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">deceit</hi> = <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">deceptus</hi> ‘deceit’ (<hi rendition="#i"
+              >decipere</hi> ‘deceive’ under <hi rendition="#g #i"
+              >deceive</hi>).</p>
+          <p><hi rendition="#b">deceive</hi> vb. earlier <hi rendition="#i"
+              >deceave</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">deceive</hi>: borrowed from <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">decever</hi>
+            <cb n="2"/><hi rendition="#i">deceveir</hi>
+            <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">décevoir</hi> = <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">decipere</hi> ‘entrap’. Cp. <hi
+              rendition="#i #g">deceit</hi>.</p>
+          <p><hi rendition="#b">deck</hi> vb. borrowed fr. <hi
+              rendition="#k">du.</hi>
+            <hi rendition="#i">dekken</hi> ‘cover’; cp. <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">þeččean</hi> under <hi rendition="#i #g"
+              >thatch</hi>.</p>
+          <p><hi rendition="#b">declension</hi> from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">declinaison</hi> (<hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">déclinaison</hi>) beside <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">déclination</hi>, <hi rendition="#k">e.</hi>
+            <hi rendition="#i">declination</hi> from <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">declinationem</hi>.</p>
+          <p><hi rendition="#b">decrease</hi> vb <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">decrę́se</hi> borrowed from <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">decresser</hi>
+            <hi rendition="#i">decrestre</hi>
+            <hi rendition="#i">decreistre</hi>
+            <hi rendition="#i">decroistre</hi>
+            <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">décroître</hi> (<hi rendition="#k">lat.</hi>
+            <hi rendition="#i">discrescere</hi>) = <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">decrescere</hi> ‘decrease’.</p>
+          <p><hi rendition="#b">decree</hi> sb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">decrẹ́</hi> borrowed from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">decre</hi>
+            <hi rendition="#i">decret</hi>
+            <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">décret</hi> (<hi rendition="#k">span.</hi>
+            <hi rendition="#k">it.</hi>
+            <hi rendition="#i">decreto</hi>) = <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">decretum</hi> ‘a decree’.</p>
+          <p><hi rendition="#b">deed</hi>
+            <hi rendition="#k"><choice>
+                <sic>me</sic>
+                <corr>me.</corr>
+              </choice></hi>
+            <hi rendition="#i">dẹ́d</hi>
+            <hi rendition="#i">dẹ́de</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dẹ́d</hi>
+            <hi rendition="#i">dǽd</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">dâd</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">daad</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">tât</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">t(h)at</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dáđ</hi>, <hi rendition="#k">goth.</hi> in
+              <hi rendition="#i">ga-dêds</hi> ‘deed’. <hi rendition="#k"><choice>
+                <sic>teut</sic>
+                <corr>teut.</corr>
+              </choice></hi> base <hi rendition="#i">dê-di-</hi> from <hi
+              rendition="#i">dhê-tí-</hi> from the <hi rendition="#k"
+              >teut.</hi> √ <hi rendition="#i">dê</hi>: <hi rendition="#i"
+              >dô</hi> from <hi rendition="#k">aryan</hi>
+            <hi rendition="#i">dhê</hi>: <hi rendition="#i">dhô</hi>; cp.
+              <hi rendition="#i #g">do</hi>.</p>
+          <p><hi rendition="#b">deem</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dẹ́me</hi>
+            <hi rendition="#k"><choice>
+                <sic>oe</sic>
+                <corr>oe.</corr>
+              </choice></hi>
+            <hi rendition="#i">dẹ́man</hi> (= <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">dômian</hi> in <hi rendition="#i">â-</hi>,
+              <hi rendition="#k">du.</hi>
+            <hi rendition="#i">doemen</hi>, <hi rendition="#k">mlg.</hi>
+            <hi rendition="#i">dômen</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">tuomen</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">tüemen</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dœ́ma</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">ga-dômjan</hi> ‘judge, deem’): deriv. of <hi
+              rendition="#k">teut.</hi>
+            <hi rendition="#i">dôma-</hi> see <hi rendition="#i #g"
+              >doom</hi>.</p>
+          <p><hi rendition="#b">deep</hi> adj. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dẹ́p</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dẹ́op</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">diop</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">diep</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">tiof</hi>
+            <hi rendition="#i">tiuf</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">tief</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">djúpr</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">diups</hi>. The common <hi rendition="#k"
+              >teut.</hi> adj. <hi rendition="#i">deupa-</hi> belongs to a
+              <hi rendition="#k">teut.</hi> √ <hi rendition="#i">dū̆p</hi>
+            whose by-form <hi rendition="#i">dū̆b</hi> appears in <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">dýfan</hi>
+            <hi rendition="#k">e.</hi>
+            <hi rendition="#i">dive</hi> and in <hi rendition="#k">e.</hi>
+            <hi rendition="#i #g">dub</hi>. Cp. cymr. <hi rendition="#i"
+              >dwfn</hi>, <hi rendition="#k">oir.</hi>
+            <hi rendition="#i">domun</hi>
+            <hi rendition="#i">fu-domain</hi>, <hi rendition="#k"
+              >lith.</hi>
+            <hi rendition="#i">dubùs</hi> ‘deep, hollow’, <hi
+              rendition="#k">oslov.</hi>
+            <hi rendition="#i">dŭplĭ</hi> ‘hollow' from an <hi
+              rendition="#k">aryan</hi> √ <hi rendition="#i">dū̆bh</hi>:
+              <hi rendition="#i">dhū̆p</hi>.</p>
+          <pb n="58" facs="#f0064"/>
+          <cb n="1"/>
+          <p><hi rendition="#b">deer</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dẹ́r</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dẹ́or</hi> ‘wild animal’ = <hi
+              rendition="#k">on.</hi>
+            <hi rendition="#i">dýr</hi> ‘wild animal’, <hi rendition="#k"
+              >osax.</hi>
+            <hi rendition="#i">dior</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">tior</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">tier</hi> ‘animal’ (‘stag, roe’ in the
+            language of hunters), <hi rendition="#k">teut.</hi>
+            <hi rendition="#i">deuza-</hi> is prob. an adj. used as sb.
+            signifying ‘wild animal’; cp. <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dẹ́or</hi> ‘bold, wild’ (cp. <hi
+              rendition="#g #i">dear</hi>).</p>
+          <p><hi rendition="#b">defeat</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">defę́te</hi> from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">defeter</hi> ‘annul’ (<hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">defait</hi>
+            <hi rendition="#i">desfeit</hi> part. of <hi rendition="#i"
+              >defaire</hi>
+            <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">défaire</hi>; <hi rendition="#k"><choice>
+                <sic>med -lat.</sic>
+                <corr>med.-lat.</corr>
+              </choice></hi>
+            <hi rendition="#i">defacere</hi> ‘annul, undo’). See <hi
+              rendition="#g #i">feat</hi>.</p>
+          <p><hi rendition="#b">defile</hi> vb. ‘make unclean, sully’ a
+            fusion of <hi rendition="#k">me.</hi>
+            <hi rendition="#i">fíle</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">áfýlan</hi> ‘defile’ and <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">defoule</hi> ‘defile’: <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">foule</hi> (<hi rendition="#k"><choice>
+                <sic>oe</sic>
+                <corr>oe.</corr>
+              </choice></hi>
+            <hi rendition="#i">fúlian</hi>) wk. <choice>
+              <sic>vb</sic>
+              <corr>vb.</corr>
+            </choice> ‘make foul’ with parallel form <hi rendition="#i"
+              >fíle</hi> (<hi rendition="#k">oe.</hi>
+            <hi rendition="#i">fýlan</hi>) has taken the <hi rendition="#k"
+              >lat.-fr.</hi> prefix <hi rendition="#i">de-</hi>.</p>
+          <p><hi rendition="#b">defy</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">defíe<gap unit="chars" quantity="1"
+                reason="illegible"/></hi> from <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">défier</hi> (= <hi rendition="#k"
+              >med.-lat.</hi>
+            <hi rendition="#k">it.</hi>
+            <hi rendition="#i">disfidare</hi>
+            <hi rendition="#i">diffidare</hi> ‘renounce faith, repudiate’).
+            Cp. <hi rendition="#i #g">faith</hi>.</p>
+          <p><hi rendition="#b">delay</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">delaie</hi>
+            <hi rendition="#i">delaye</hi>: from <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">délayer</hi> (= <hi rendition="#k"
+              >med.-lat.</hi>
+            <hi rendition="#k">it.</hi>
+            <hi rendition="#i">dilatare</hi>).</p>
+          <p><hi rendition="#b">delight</hi> sb. (orig <hi rendition="#i"
+              >delite</hi>) <hi rendition="#k">me.</hi>
+            <hi rendition="#i">delíte</hi>
+            <hi rendition="#i">delít</hi>: from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">delit</hi>. With the vb. <hi rendition="#i"
+              >delight</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">delíte</hi> from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">deliter</hi> (<hi rendition="#k">it.</hi>
+            <hi rendition="#i">delettare</hi>
+            <hi rendition="#i">dilettare</hi>) = <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">delectare</hi> ‘please’.</p>
+          <p><hi rendition="#b">dell</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">delle</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dell</hi> a dimin. derivative of <hi
+              rendition="#k">teut.</hi>
+            <hi rendition="#i">dala-</hi> (under <hi rendition="#i #g"
+              >dale</hi>), pointing to a <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">*dalja</hi> f. and corresponding to <hi
+              rendition="#k">ohg.</hi>
+            <hi rendition="#i">tellia</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">telle</hi> ‘ravine’ <hi rendition="#k"
+              >g.</hi> (dial.) <hi rendition="#i">delle</hi>.</p>
+          <p><hi rendition="#b">deluge</hi> sb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">delüge</hi>: from <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">déluge</hi> (= <hi rendition="#k">span.</hi>
+            <hi rendition="#k">it.</hi>
+            <hi rendition="#i">diluvio</hi>, <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">diluvium</hi> ‘a flood’).</p>
+          <cb n="2"/>
+          <p><hi rendition="#b">delve</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">delve</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dëlfan</hi> str. vb. = <hi rendition="#k"
+              >du.</hi>
+            <hi rendition="#i">delven</hi>, <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">bidëlƀan</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">bi-tëlban</hi> ‘bury’. The <hi
+              rendition="#k">teut.</hi> √ <hi rendition="#i">dëlb</hi>
+            (Aryan <hi rendition="#i">dhelbh</hi>
+            <hi rendition="#i">dhelp</hi>?) is unknown elsewhere.</p>
+          <p><hi rendition="#b">demijohn</hi> from the synon. <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">dame-jeanne</hi> = Arab. <hi rendition="#i"
+              >damagan</hi> (orig. the town <hi rendition="#i">Damghan</hi>
+            in northern Persia, once famous for its glass-works).</p>
+          <p><hi rendition="#b">den</hi> short for <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">dę́ne</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">denu</hi>
+            <hi rendition="#i">dene</hi> ‘valley’; akin to <hi
+              rendition="#k">mdu.</hi>
+            <hi rendition="#i">dan</hi> ‘woods, wilderness’ and <hi
+              rendition="#k">g.</hi>
+            <hi rendition="#i">tann</hi> ‘woods’?</p>
+          <p><hi rendition="#b">denizen</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">deneseyn</hi>
+            <hi rendition="#i">denesein</hi>: source <hi rendition="#k"
+              >anglo-fr.</hi>
+            <hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">densein</hi>
+            <hi rendition="#i">deinsein</hi>: deriv. of <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">deinz</hi> (= <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">dans</hi>) ‘within’ and suffix <hi
+              rendition="#i">-ein</hi> (= <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">-anus</hi>), cp. <hi rendition="#i #g"
+              >citizen</hi>. The <hi rendition="#k">fr.</hi> word means ‘a
+            trader within the privilege of the city-franchise as opposed to
+              <hi rendition="#i">foreign</hi>’.</p>
+          <p><hi rendition="#b">deny</hi> vb. <hi rendition="#k">me.</hi>
+              deni<gap quantity="2" unit="chars" reason="illegible"/> from
+              <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">dénier</hi> (<hi rendition="#k">span.</hi>
+            <hi rendition="#i">denegar</hi>, <hi rendition="#k">it.</hi>
+            <hi rendition="#i">denegare</hi> = <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">denegare</hi> ‘deny’).</p>
+          <p><hi rendition="#b">depaint</hi> vb. <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">depeinte</hi>: from <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">dépeindre</hi>. Cp. <hi rendition="#g #i"
+              >paint</hi>.</p>
+          <p><hi rendition="#b">depict</hi> vb. <hi rendition="#k">me.</hi>
+            only in part. <hi rendition="#i">depict</hi> = <hi
+              rendition="#k">lat.</hi>
+            <hi rendition="#i">depictus</hi>, whence also <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">depicter</hi> ‘depict’.</p>
+          <p><hi rendition="#b">deploy</hi> vb. from <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">déployer</hi> (<hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">despleyer</hi>
+            <hi rendition="#i">despleier</hi>, whence <hi rendition="#k"
+              >e.</hi>
+            <hi rendition="#i #g">display</hi>). Source <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">displicare</hi>.</p>
+          <p><hi rendition="#b">depth</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dĕpthe</hi>: an abstract sb. from the <hi
+              rendition="#k">me.</hi> adj. <hi rendition="#i">dẹ́p</hi>;
+              <hi rendition="#k">du.</hi>
+            <hi rendition="#i">diepte</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dýpt</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">diupiþa</hi> point to an <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">*dýpþ</hi>; cp. <hi rendition="#i #g"
+              >deep</hi>.</p>
+          <p><hi rendition="#b">derrick</hi> ‘a kind of crane’ from <hi
+              rendition="#k">du.</hi>
+            <hi rendition="#i">Dierryk</hi>, short <hi rendition="#i"
+              >Dirk</hi>, also <pb n="59" facs="#f0065"/><cb n="1"/><hi
+              rendition="#i">Diederik</hi> corresp. to <hi rendition="#k"
+              >g.</hi>
+            <hi rendition="#i">Dietrich</hi>, <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">þéodríc</hi> ‘chief of the people’. Orig.
+              <hi rendition="#i">derrick</hi> signified ‘gallows’ named
+            from a Dutch hangman.</p>
+          <p><hi rendition="#b">descry</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">descríe</hi>
+            <hi rendition="#i">discrýe</hi> ‘discern’ from <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">descrier</hi> (<hi rendition="#i"
+              >descrive</hi>
+            <hi rendition="#i">descrivre</hi>
+            <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">décrire</hi>) ‘describe’.</p>
+          <p><hi rendition="#b">desire</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">desíre</hi> from <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">désirer</hi> (<hi rendition="#k">it.</hi>
+            <hi rendition="#i">desirare</hi> = <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">desiderare</hi> ‘long for’).</p>
+          <p><hi rendition="#b">desk</hi> from fr. <hi rendition="#i"
+              >disque</hi> (it. <hi rendition="#i">desco</hi> ‘a table’ =
+              <hi rendition="#k">med.-lat.</hi>
+            <hi rendition="#i">discus</hi> ‘a table’ see under <hi
+              rendition="#i #g">dish</hi>).</p>
+          <p><hi rendition="#b">despair</hi> vb. <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">despeire</hi> from <hi rendition="#k"
+              >ofr.</hi> desperer <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">désespérer</hi> (= <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#k">it.</hi>
+            <hi rendition="#i">desperare</hi>) ‘lose hope’.</p>
+          <p><hi rendition="#b">despatch,</hi>
+            <hi rendition="#b">dispatch</hi> vb. from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">despecher</hi> (fr. <hi rendition="#i"
+              >dépêcher</hi>) ‘discharge, expedite’.</p>
+          <p><hi rendition="#b">despise</hi> vb. <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">despíse</hi> from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">despiser</hi>
+            <hi rendition="#i">despicer</hi> ‘despise’ (<hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">despicere</hi> ‘look down upon,
+            despise’).</p>
+          <p><hi rendition="#b">despite</hi> sb. by apheresis <hi
+              rendition="#g #i">spite</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">despít</hi> from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">despit</hi>
+            <hi rendition="#i">despeit</hi>
+            <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">dépit</hi> (<hi rendition="#k">it.</hi>
+            <hi rendition="#i">dispetto</hi> = <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">despectus</hi> ‘contempt’ see <hi
+              rendition="#g #i">despise</hi>). <hi rendition="#i"
+              >Despite</hi> prep. abbrev. for <hi rendition="#i">in</hi>
+            <hi rendition="#i">despite</hi>
+            <hi rendition="#i">of</hi>.</p>
+          <p><hi rendition="#b">despoil</hi> vb. <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">despoile</hi> from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">despoiller</hi> (<hi rendition="#k">fr.</hi>
+            <hi rendition="#i">dépouiller</hi>, <hi rendition="#k">it.</hi>
+            <hi rendition="#i">despogliare</hi>, <hi rendition="#k"
+              >span.</hi>
+            <hi rendition="#i">despojar</hi> ‘despoil’): source <hi
+              rendition="#k">lat.</hi>
+            <hi rendition="#i">despoliare</hi> ‘plunder, rob’. See <hi
+              rendition="#g #i">spoil</hi>.</p>
+          <p><hi rendition="#b">destiny</hi>
+            <hi rendition="#i">destenýe</hi>
+            <hi rendition="#i">destinẹ́e</hi>: borrowed from <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">destinée</hi> (<hi rendition="#k">it.</hi>
+            <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">destinata</hi>).</p>
+          <p><hi rendition="#b">deuce</hi> ‘a two at cards or dice’ early
+            mod. also <hi rendition="#i">dę́wce</hi>
+            <hi rendition="#i">déus</hi> = <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">deux</hi>.</p>
+          <cb n="2"/>
+          <p><hi rendition="#b">devil</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dẹ́vel</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dẹ́ofol</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">diuƀal</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">duivel</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">tiuval</hi>
+            <hi rendition="#i">tioval</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">tiuvel</hi> (<hi rendition="#i">tievel</hi>)
+              <hi rendition="#k">g.</hi>
+            <hi rendition="#i">teufel</hi>; <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">diabaúlus</hi> points to <hi rendition="#k"
+              >lat.</hi> (<hi rendition="#k">gr.</hi>) <hi rendition="#i"
+              >diabolus</hi>.</p>
+          <p><hi rendition="#b">dew</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dę́w</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dę́aw</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">dau</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">tou</hi> (gen. <hi rendition="#i"
+              >touwes</hi>) <hi rendition="#k">g.</hi>
+            <hi rendition="#i">tau</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">tauw</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dǫgg</hi> (<hi rendition="#k">goth.</hi>
+            <hi rendition="#i">*daggwa-</hi> is wanting). Perh. cogn. with
+            the <hi rendition="#k">skr.</hi> √ <hi rendition="#i">dhav</hi>
+            ‘to flow’.</p>
+          <p><hi rendition="#b">die</hi> sb. (plur. <hi rendition="#i"
+              >dice</hi>); the sing. is developed from the plur. <hi
+              rendition="#i">dice</hi>. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dís</hi> usually <hi rendition="#i"
+              >dẹ́s</hi> ‘dice’ which is borrowed from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">dez</hi> plur. of <hi rendition="#i"
+              >det</hi> ‘die’ <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">dé</hi> (= <hi rendition="#k">span.</hi>
+            <hi rendition="#k">it.</hi>
+            <hi rendition="#i">dado</hi> ‘a die’) from <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">datum</hi> ‘that which is given’ and ‘that
+            which is cast’. See <hi rendition="#g #i">date</hi>.</p>
+          <p><hi rendition="#b">die</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dẹ́ᵹe</hi>
+            <hi rendition="#i">díe</hi>
+            <hi rendition="#i">dýe</hi>, generally considered as a <hi
+              rendition="#k">scand.</hi> loanword from <hi rendition="#k"
+              >on.</hi>
+            <hi rendition="#i">deyja</hi> (= <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">dôian</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">touwen</hi> ‘die’). An <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">dyᵹan</hi>
+            <hi rendition="#i">dẹ́ᵹan</hi> (from <hi rendition="#i"
+              >daujan</hi>) is not recorded before 1000 after Chr., hence
+              <hi rendition="#k">scand.</hi> origin is prob. For the <hi
+              rendition="#k">teut.</hi> √ <hi rendition="#i">dau</hi> cp.
+              <hi rendition="#g #i">dead</hi>, <hi rendition="#g #i"
+              >death</hi>. In other Aryan languages, <hi rendition="#k"
+              >oslov.</hi>
+            <hi rendition="#i">daviti</hi> ‘strangle’ and <hi
+              rendition="#k">lith.</hi>
+            <hi rendition="#i">dovyti</hi> ‘torment’ are compared as
+            related (<hi rendition="#k">indo-eur.</hi> √ <hi rendition="#i"
+              >dhē̆w</hi>
+            <hi rendition="#i">dhō̆w</hi>).</p>
+          <p><hi rendition="#b">diet</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dï&#769;ete</hi>
+            <hi rendition="#i">dïéte</hi>: from <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">diète</hi> (<hi rendition="#k">span.</hi>
+            <hi rendition="#k">it.</hi>
+            <hi rendition="#i">dieta</hi> = <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">diæta</hi>).</p>
+          <p><hi rendition="#b">dig</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">digge</hi> earlier <hi rendition="#i"
+              >dikie</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">díčian</hi> ‘dig’: derivative of <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">díč</hi> ‘a ditch’. See <hi
+              rendition="#g #i">dike</hi> and <hi rendition="#g #i"
+              >ditch</hi>.</p>
+          <p><hi rendition="#b">dike</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dík(e)</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">díc</hi> ‘a ditch, channel, dike, wall’ =
+              <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">tîch</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">teich</hi> ‘fishpond, pond’. <pb n="60"
+              facs="#f0066"/><cb n="1"/><hi rendition="#k">e.</hi>
+            <hi rendition="#g #i">dike</hi> and <hi rendition="#g #i"
+              >ditch</hi> are doublets.</p>
+          <p><hi rendition="#b">dill</hi> ‘the two-seeded tare’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">dille</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dile</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">dille</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">tilli</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">tille</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">dill</hi>. Of obscure origin.</p>
+          <p><hi rendition="#b">dim</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dim</hi> (<hi rendition="#i">mm</hi>) = <hi
+              rendition="#k">ofris.</hi>
+            <hi rendition="#i">dim</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dimmr</hi>: perh. by-form of the synon. <hi
+              rendition="#k">osax.</hi>
+            <hi rendition="#i">thim</hi> (<hi rendition="#i">mm</hi>). A
+              <hi rendition="#k">teut.</hi> √ <hi rendition="#i">þem</hi>
+            (whence <hi rendition="#k">g.</hi>
+            <hi rendition="#i">dämmern</hi>) corresponds to <hi
+              rendition="#k">skr.</hi>
+            <hi rendition="#i">tamas</hi> ‘gloom’, <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">tenebrae</hi> (for <hi rendition="#i"
+              >temesra</hi>) ‘darkness’. For the initial gram. change from
+              <hi rendition="#i">th</hi> — <hi rendition="#i">d</hi> see
+              <hi rendition="#g #i">doughty</hi>. A <hi rendition="#k"
+              >pre-teut.</hi> √ <hi rendition="#i">dhem</hi> may be found
+            in <hi rendition="#k">oir.</hi>
+            <hi rendition="#i">deme</hi> ‘darkness’.</p>
+          <p><hi rendition="#b">dime</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">díme</hi> ‘tithe’ from <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">dîme</hi> (= <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">decima</hi> ‘tenth’).</p>
+          <p><hi rendition="#b">dimple</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dimpel</hi> = <hi rendition="#k">g.</hi>
+            <hi rendition="#i">tümpel</hi>
+            <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">tumfilo</hi> m. ‘whirlpool’: deriv. with
+            nasalization from the <hi rendition="#k">teut.</hi> √ <hi
+              rendition="#i">dup</hi> ‘be depressed’ in <hi
+              rendition="#g #i">deep</hi> and <hi rendition="#g #i"
+              >dip</hi>; cp. <hi rendition="#k">lith.</hi>
+            <hi rendition="#i">dumbu</hi> ‘become hollow’.</p>
+          <p><hi rendition="#b">din</hi> sb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dine</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dyne</hi> (= <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dynr</hi>) ‘a din’. Cp. <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">dynnan</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">deunen</hi>, <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">dunnian</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dynja</hi> and the <hi rendition="#k"
+              >skr.</hi> √ <hi rendition="#i">dhvan</hi>
+            <hi rendition="#i">dhun</hi> ‘rush’.</p>
+          <p><hi rendition="#b">dine</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">díne</hi>: from <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">dîner</hi> (= <hi rendition="#k">it.</hi>
+            <hi rendition="#i">disinare</hi>) ‘dine’. See <hi
+              rendition="#g #i">dinner</hi>.</p>
+          <p><hi rendition="#b">dinner</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">díner</hi>: from <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">dîner</hi>; ident. with <hi rendition="#i"
+              >dine</hi>: the infinitive is used as sb. See <hi
+              rendition="#g #i">dine</hi>.</p>
+          <p><hi rendition="#b">dint</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dint</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dynt</hi> ‘a blow’ = <hi rendition="#k"
+              >on.</hi>
+            <hi rendition="#i">dyntr</hi>
+            <hi rendition="#i">dyttr</hi> ‘a dint, stroke’.</p>
+          <p><hi rendition="#b">dip</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dippe</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dyppan</hi>; cp. <hi rendition="#k">g.</hi>
+            <hi rendition="#i">taufen</hi>
+            <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">touffan</hi> (from <hi rendition="#i"
+              >*toufjan</hi>) ‘baptize’ and <hi rendition="#g #i"
+            >deep</hi>.</p>
+          <cb n="2"/>
+          <p><hi rendition="#b">dirge</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">diriǧe</hi>
+            <hi rendition="#k">oe.</hi> (11ᵗʰ cent.) <hi rendition="#i"
+              >diriǧe</hi> ‘watches’ (cp. »dirige for forđ-farenum« =
+            vigilia pro defunctis). »dirige, Dominus meus, in conspectu tuo
+            vitam meam« Psalm 5⁸ was used in the office for the dead in
+            medieval service.</p>
+          <p><hi rendition="#b">dirt</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">drit</hi> ‘excrement’ fr. <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">ᵹedrítan</hi> str. vb. = <hi rendition="#k"
+              >on.</hi>
+            <hi rendition="#i">dríta</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">drijten</hi> ‘to void excrement’: <hi
+              rendition="#k">teut.</hi> √ <hi rendition="#i"
+            >drī̆t</hi>.</p>
+          <p><hi rendition="#b">dish</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dish</hi>
+            <hi rendition="#i">disch</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">disč</hi> ‘a dish, plate’ = <hi
+              rendition="#k">osax.</hi>
+            <hi rendition="#i">disk</hi> ‘table’, <hi rendition="#k"
+              >du.</hi>
+            <hi rendition="#i">disch</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">tisc</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">tisch</hi> ‘table’. <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">discus</hi>, the source of <hi
+              rendition="#k">teut.</hi>
+            <hi rendition="#i">diskuz</hi>, has the meaning ‘dish’ only
+            post-class. (prop. ‘disk’); cp. also <hi rendition="#k"
+              >it.</hi>
+            <hi rendition="#i">desco</hi>, <hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">dois</hi> ‘table’ (<hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">dais</hi> ‘a canopy, dais’ see under <hi
+              rendition="#g #i">dais</hi> and <hi rendition="#g #i"
+              >desk</hi>).</p>
+          <p><hi rendition="#b">dismay</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dismaie</hi>
+            <hi rendition="#i">desmaie</hi> (<hi rendition="#i">demaie</hi>
+            <hi rendition="#i">esmaie</hi> ‘dishearten, lose courage’):
+            from <hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">desmayer</hi>
+            <hi rendition="#i">esmayer</hi> (<hi rendition="#k">it.</hi>
+            <hi rendition="#i">smagare</hi> from <hi rendition="#i"
+              >dismagare</hi> points to <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">magan</hi>; see <hi rendition="#g #i"
+              >may</hi>).</p>
+          <p><hi rendition="#b">dispense</hi> vb. <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">dispense</hi>: from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">despenser</hi>
+            <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">dispenser</hi> (= <hi rendition="#k"
+              >it.</hi>
+            <hi rendition="#i">spensare</hi> = <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">dispensare</hi> ‘weigh out,
+            distribute’).</p>
+          <p><hi rendition="#b">display</hi> vb. <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">displeie</hi>: from <hi rendition="#k"><choice>
+                <sic>afr.</sic>
+                <corr>ofr.</corr>
+              </choice></hi>
+            <hi rendition="#i">despleier</hi> = <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">déployer</hi> ‘deploy’ (= <hi rendition="#k"
+              >it.</hi>
+            <hi rendition="#i">spiegare</hi>, <hi rendition="#k"
+              >med.-lat.</hi>
+            <hi rendition="#i">displicare</hi> ‘unfold’, whence also <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">déployer</hi> = <hi rendition="#k">e.</hi>
+            <hi rendition="#g #i">deploy</hi>).</p>
+          <p><hi rendition="#b">dispute</hi> vb. <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">dispüte</hi>: from <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">disputer</hi> (= <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#k">it.</hi>
+            <hi rendition="#i">disputare</hi>).</p>
+          <p><hi rendition="#b">dissever</hi> vb. <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">dissevere</hi>
+            <hi rendition="#i">desevere</hi>: from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">dessevrer</hi> (<hi rendition="#k">it.</hi>
+            <hi rendition="#i">disceverare</hi> fr. a <hi rendition="#k"
+              >lat.</hi> type <hi rendition="#i">disseparare</hi>
+            ‘sever’).</p>
+          <pb n="61" facs="#f0067"/>
+          <cb n="1"/>
+          <p><hi rendition="#b">distaff</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">distaf</hi> orig. <hi rendition="#i"
+              >dís-staf</hi>; <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">*díS-stæf</hi> ‘staff bedizened with flax’
+            points to a <hi rendition="#k">teut.</hi>
+            <hi rendition="#i">dîsô-</hi> in <hi rendition="#k">mlg.</hi>
+            <hi rendition="#i">dîse</hi> f. ‘distaff, the bunch of flax on
+            the distaff’. Cp. <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">fûsus</hi> ‘spindle’ for an Aryan √ <hi
+              rendition="#i">dhī̆s</hi> pointing to a <hi rendition="#k"
+              >pre-lat.</hi>
+            <hi rendition="#i">dhoiso-</hi>.</p>
+          <p><hi rendition="#b">distinguish</hi> vb. <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">distingwe</hi>
+            <hi rendition="#i">distinge</hi>: borrowed from <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">distinguer</hi> (<hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">distinguere</hi>).</p>
+          <p><hi rendition="#b">distrain</hi> vb. <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">distreine</hi> ‘compel, constrain’: borrowed
+            from <hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">destraindre</hi> (<hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">distringere</hi> ‘pull asunder’).</p>
+          <p><hi rendition="#b">distress</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">distresse</hi>
+            <hi rendition="#i">destresse</hi>: from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">destrece</hi> ‘distress’ = <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">détresse</hi>.</p>
+          <p><hi rendition="#b">disturb</hi> vb. <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">disturbe</hi>
+            <hi rendition="#i">desturbe</hi>: from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">destourber</hi> (<hi rendition="#k"
+              >span.</hi>
+            <hi rendition="#i">disturbar</hi>, <hi rendition="#k">it.</hi>
+            <hi rendition="#i">disturbare</hi> = <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">disturbare</hi> ‘disturb’).</p>
+          <p><hi rendition="#b">ditch</hi> ‘a dike’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">dī̆che</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">díč</hi>: equiv. to <hi rendition="#k"
+              >osax.</hi>
+            <hi rendition="#i">dîk</hi> ‘dam’, whence <hi rendition="#k"
+              >g.</hi>
+            <hi rendition="#i">deich</hi>: related to <hi rendition="#k"
+              >gr.</hi>
+            <hi rendition="#i">τεῖχος</hi> ‘wall’?</p>
+          <p><hi rendition="#b">ditty</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dité</hi>; borrowed from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">dité</hi> ‘a story, poem’ (<hi
+              rendition="#k">lat.</hi>
+            <hi rendition="#i">dictatum</hi>).</p>
+          <p><hi rendition="#b">dive</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">díve</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dýfan</hi> = <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dýfa</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">beduiven</hi>, <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">bedûven</hi>: <hi rendition="#k">teut.</hi>
+            √ <hi rendition="#i">dū̆b</hi> (a by-form of the <hi
+              rendition="#k">teut.</hi> √ <hi rendition="#i">dū̆p</hi>)
+            under <hi rendition="#g #i">deep</hi>.</p>
+          <p><hi rendition="#b">dizzy</hi> adj. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">disy</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dysiᵹ</hi> ‘foolish, stupid’ = <hi
+              rendition="#k">ohg.</hi>
+            <hi rendition="#i">tûsig</hi>, <hi rendition="#k">mdu.</hi>
+            <hi rendition="#i">duysigh</hi>: √ <hi rendition="#i">dū̆s</hi>
+              (<hi rendition="#i">dhū̆s</hi>). Another form of the √ <hi
+              rendition="#i">dus</hi> appears in <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">dwǽs</hi> (= <hi rendition="#k">mdu.</hi>
+            <hi rendition="#i">dwaes</hi>
+            <hi rendition="#k">du.</hi>
+            <hi rendition="#i">dwaas</hi>) ‘foolish’ and in <hi
+              rendition="#k">g.</hi>
+            <hi rendition="#i">tor</hi>
+            <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">tôro</hi> (<hi rendition="#k">teut.</hi>
+            base <hi rendition="#i">dauza-</hi>).</p>
+          <cb n="2"/>
+          <p><hi rendition="#b">do</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dọ́n</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">doen</hi>, <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">dûan</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">tuon</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">thun</hi>. For the teut. √ <hi
+              rendition="#i">dô</hi>: <hi rendition="#i">dê</hi> cp. also
+              <hi rendition="#g #i">deed</hi> and the suffix <hi
+              rendition="#g #i">-dom</hi>. The <hi rendition="#k"
+              >pre-teut.</hi> √ <hi rendition="#i">dhô</hi>: <hi
+              rendition="#i">dhê</hi> has a wide ramification within the
+            other Aryan languages; cp. the <hi rendition="#k">gr.</hi> √
+              <hi rendition="#i">ϑη</hi>: <hi rendition="#i">ϑε</hi> in <hi
+              rendition="#i">τίϑημι</hi> ‘place, put’, <hi rendition="#k"
+              >skr.</hi> √ <hi rendition="#i">dhâ</hi> (<hi rendition="#i"
+              >dadhâmi</hi> and <hi rendition="#i">dhâmi</hi>) ‘place, put,
+            do’ (<hi rendition="#i">dhâtṛ</hi> ‘creator’), <hi
+              rendition="#k">oslov.</hi>
+            <hi rendition="#i">děją</hi> (and <hi rendition="#i"
+            >deždą</hi>) ‘do, make’, <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">facio</hi>. The meaning ‘place, put’ seems
+            to be the original one and the <hi rendition="#k">teut.</hi>
+            meaning secondary.</p>
+          <p><hi rendition="#b">dock</hi> sb. origin uncertain; from the
+              <hi rendition="#k">e.</hi> word are borrowed <hi
+              rendition="#k">g.</hi>
+            <hi rendition="#i">dock</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">dok,</hi>
+            <hi rendition="#k">sw.</hi>
+            <hi rendition="#i">docka</hi>, <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">dok(ke)</hi>, <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">dock</hi>.</p>
+          <p><hi rendition="#b">doe</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dǫ́</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dá</hi>; cp. <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">daa</hi>. The <hi rendition="#k">oe.</hi>
+            word — generally considered a loanword from <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">dâma</hi> — points to a weak stem <hi
+              rendition="#i">dán</hi> nom. sing. <hi rendition="#i">dá</hi>
+            from a <hi rendition="#k">teut.</hi> base <hi rendition="#i"
+              >dain</hi>, which is evidently connected with <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">dain</hi> m. <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">daine</hi> f. Perh. a <hi rendition="#k"
+              >lat.</hi> base <hi rendition="#i">*dânus</hi> (assimilated
+            for <hi rendition="#i">*dâmus</hi>) may be assumed. The
+            phonology of the Engl. word may have been affected by <hi
+              rendition="#g #i">roe</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">rá</hi>.</p>
+          <p><hi rendition="#b">doff</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">doffe</hi>, orig. imper. <hi rendition="#i"
+              >dof</hi> contr. of <hi rendition="#i">do</hi>
+            <hi rendition="#i">of</hi> ‘put off’; cp. <hi rendition="#g #i"
+              >don</hi> contr. of <hi rendition="#i">do</hi>
+            <hi rendition="#i">on</hi> ‘put on’.</p>
+          <p><hi rendition="#b">dog</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dogge</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dogga</hi>, whence <hi rendition="#k"
+              >du.</hi>
+            <hi rendition="#i">dog</hi>, <hi rendition="#k">sw.</hi>
+            <hi rendition="#i">dogg</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">dogge</hi>, <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">dogue</hi>. <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dogga</hi> (recorded about 1050) is a <hi
+              rendition="#k">west-teut.</hi>
+            <hi rendition="#i">duggan-</hi>.</p>
+          <p><hi rendition="#b">dole</hi> ‘portion, share, lot, fortune’
+              <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dǫ́l(e)</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dál</hi>: equiv. w. <hi rendition="#g #i"
+              >dea</hi> (<hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dǽl</hi>).</p>
+          <pb n="62" facs="#f0068"/>
+          <cb n="1"/>
+          <p><hi rendition="#b">dollar</hi> sb. a modern loanword from the
+            continent: <hi rendition="#k">du.</hi>
+            <hi rendition="#i">daalder</hi>; the source is <hi
+              rendition="#k">g.</hi>
+            <hi rendition="#i">thaler</hi> which is short for <hi
+              rendition="#i">Joachimsthaler</hi> ‘gulden from <hi
+              rendition="#i">Joachimsthal</hi>’ (Bohemia) where the coin
+            was first struck in 1519.</p>
+          <p><hi rendition="#i">-dom</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">-dom</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">-dọ́m</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">-dôm</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">-dom</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">-tuom</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">-tum</hi>: an abstract noun suffix, orig. a
+            sb. meaning ‘jurisdiction’ preserved in <hi rendition="#g #i"
+              >doom</hi> (and its deriv. <hi rendition="#g #i"
+            >deem</hi>).</p>
+          <p><hi rendition="#b">domain</hi> (poet. by-form <hi
+              rendition="#i">demain</hi>) from <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">domaine</hi> (<hi rendition="#k">lat.</hi>
+            <hi rendition="#i">dominium</hi>), whence also <hi
+              rendition="#k">du.</hi>
+            <hi rendition="#i">domein</hi>.</p>
+          <p><hi rendition="#b">don</hi> see <hi rendition="#g #i"
+              >doff</hi>.</p>
+          <p><hi rendition="#b">donkey</hi> not found in <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#k">oe.</hi>, appar. a deriv. of <hi
+              rendition="#g #i">dun</hi>. Suffix <hi rendition="#i"
+              >key</hi> of <hi rendition="#i">donkey</hi> is dimin. as in
+              <hi rendition="#g #i">monkey</hi>. The orig. meaning of <hi
+              rendition="#i">donkey</hi> is ‘the little gray one’ (Shakesp.
+            uses <hi rendition="#i">dun</hi> ‘a gray horse’).</p>
+          <p><hi rendition="#b">doom</hi> sb. ‘judgment, sentence, decree,
+            law’ <hi rendition="#k">me.</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dọ́m</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">dôm</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">tuom</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dómr</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">dôms</hi> ‘judgment’; derived from the <hi
+              rendition="#k">teut.</hi> √ <hi rendition="#i">dô</hi> in <hi
+              rendition="#i">do</hi>; for the <hi rendition="#i"
+            >m</hi>-suffix cp. <hi rendition="#k">skr.</hi>
+            <hi rendition="#i">dhâman</hi> ‘sacred custom’ and <hi
+              rendition="#k">gr.</hi>
+            <hi rendition="#i">ϑέμις</hi>.</p>
+          <p><hi rendition="#b">door</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dǫ́re</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dor</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">dor</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">tor</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">daúr</hi> ‘gate’; ident. with <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">duru</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">dura</hi>; <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dyrr</hi> plur. corresponds to <hi
+              rendition="#k">osax.</hi>
+            <hi rendition="#i">duri</hi> plur., <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#i">turi</hi> plur. ‘door’ <hi rendition="#k"
+              >g.</hi>
+            <hi rendition="#i">tür</hi>. The <hi rendition="#k">teut.</hi>
+            bases <hi rendition="#i">dora-</hi> and <hi rendition="#i"
+              >dur-</hi> (cons. stem) cp. also in <hi rendition="#k"
+              >goth.</hi>
+            <hi rendition="#i">daúrôns</hi> ‘door’. To the Aryan base <hi
+              rendition="#i">dhur</hi> belong also <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">fores</hi>, <hi rendition="#k">gr.</hi>
+            <hi rendition="#i">ϑύρα</hi>, <hi rendition="#k">lith.</hi>
+            <hi rendition="#i">dùrys</hi> and <hi rendition="#k">skr.</hi>
+            <hi rendition="#i">dur</hi> (for <hi rendition="#i">dhur</hi>)
+            ‘door, gate’.</p>
+          <cb n="2"/>
+          <p><hi rendition="#b">dot</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dott</hi> ‘speck’ = <hi rendition="#k"
+              >du.</hi>
+            <hi rendition="#k">fris.</hi>
+            <hi rendition="#i">dot</hi>; cp. <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">dott</hi>
+            <hi rendition="#i">dötte</hi> ‘the yellow of the egg’ and <hi
+              rendition="#k">osax.</hi>
+            <hi rendition="#i">dôdro</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">dooier</hi>, <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dydring</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">totoro</hi>
+            <hi rendition="#i">tutar-ei</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">dotter</hi>: prim. term for ‘the yellow of
+            the egg’; the orig. meaning of dydring is prob. ‘spot, point in
+            the egg’.</p>
+          <p><hi rendition="#b">dote</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dǫ́te</hi>
+            <hi rendition="#i">dǫ́tie</hi> = <hi rendition="#k">odu.</hi>
+            <hi rendition="#i">doten</hi> ‘mope’; perh. akin to <hi
+              rendition="#k">mhg.</hi>
+            <hi rendition="#i">tûz(e)</hi> ‘quiet’ — <hi rendition="#i"
+              >tûzen</hi> ‘be quiet’ from a <hi rendition="#k">teut.</hi> √
+              <hi rendition="#i">dū̆t</hi>.</p>
+          <p><hi rendition="#b">double</hi> adj. <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">duble</hi>: borrowed from <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">double</hi> (<hi rendition="#k">it.</hi>
+            <hi rendition="#i">doppio</hi> = <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">duplus</hi>); from the <hi rendition="#k"
+              >fr.</hi> source also <hi rendition="#k">g.</hi>
+            <hi rendition="#i">doppelt</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">dubbel</hi>.</p>
+          <p><hi rendition="#b">doubt</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">doute</hi>: borrowed from <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">doute</hi> (<hi rendition="#k">it.</hi>
+            <hi rendition="#i">dotta</hi> = <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">dubitum</hi>).</p>
+          <p><hi rendition="#b">dough</hi> sb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dǫ́ugh</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dáh(g)</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">deeg</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">teic(g)</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">teig</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">deig</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">daigs</hi> ‘dough’: deriv. from a <hi
+              rendition="#k">teut.</hi>
+            <hi rendition="#i">dī̆g</hi> ‘knead’ in <hi rendition="#k"
+              >goth.</hi>
+            <hi rendition="#i">deigan</hi> ‘mould, form’; an Aryan √ <hi
+              rendition="#i">dhī̆gh</hi> cp. in <hi rendition="#k"
+              >skr.</hi>
+            <hi rendition="#i">dih</hi> ‘stroke, smear’, <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">fingere</hi> ‘shape, form’ (<hi
+              rendition="#i">figura</hi> ‘form’) and <hi rendition="#k"
+              >gr.</hi>
+            <hi rendition="#i">τεῖχος</hi>
+            <hi rendition="#i">τοῖχος</hi> ‘wall’. Cp. <hi
+              rendition="#g #i">lady</hi>.</p>
+          <p><hi rendition="#b">doughty</hi> adj. <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">dou(g)hty</hi>
+            <hi rendition="#i">dohtí</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dohtiᵹ</hi>; the by-form <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">dyhtiᵹ</hi> corresponds to <hi
+              rendition="#k">mhg.</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">tüchtig</hi> deriv. from <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">tuht</hi> an abstract noun of the verb
+            represented by <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">tugan</hi> = <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dugan</hi>. The <hi rendition="#k">oe.</hi>
+            by-form <hi rendition="#i">þyhtiᵹ</hi> (cp. <hi
+              rendition="#g #i">dim</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">thimm</hi>) points to a primitive <hi
+              rendition="#k">teut.</hi> √ <hi rendition="#i">þug</hi>.</p>
+          <p><hi rendition="#b">dove</hi> short for <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">douve</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dúfe</hi>; corresponding to <hi
+              rendition="#k">goth.</hi>
+            <hi rendition="#i">dûbô</hi>, <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">dûƀa</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">tûba</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">taube</hi>. <pb n="63" facs="#f0069"/><cb
+              n="1"/>Thei <hi rendition="#k">teut.</hi>
+            <hi rendition="#i">dûbôn-</hi> ‘dove’ is based on a pre-<hi
+              rendition="#k">teut.</hi> adj. <hi rendition="#i"
+              >dhū̆bho-</hi> ‘black’ in <hi rendition="#k">oir.</hi>
+            <hi rendition="#i">dub</hi> ‘black’.</p>
+          <p><hi rendition="#b">down</hi> sb. ‘soft plumage’: a Scand.
+            loanword of the <hi rendition="#k">me.</hi> period (<hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">doun</hi>), borrowed from <hi rendition="#k"
+              >on.</hi>
+            <hi rendition="#i">dúnn</hi> = <hi rendition="#k">sw.</hi>
+            <hi rendition="#i">dun</hi>, <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">dunn</hi>, whence also <hi rendition="#k"
+              >g.</hi>
+            <hi rendition="#i">daune</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">dons</hi>.</p>
+          <p><hi rendition="#b">down</hi> prep. and adv., orig. <hi
+              rendition="#i">adown</hi> (cp. <hi rendition="#g #i"
+              >back</hi> for <hi rendition="#i">aback</hi>): shortened for
+              <hi rendition="#k">me.</hi>
+            <hi rendition="#i">adoune</hi>
+            <hi rendition="#i">adoun</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">ofdúne</hi>: <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dún</hi> is ‘hill’ and <hi rendition="#i"
+              >ofdúne</hi> ‘off the hill, downwards’. A <hi rendition="#k"
+              >teut.</hi>
+            <hi rendition="#i">dûna-</hi> ‘hill’ (in mod. <hi
+              rendition="#k">lg.</hi>
+            <hi rendition="#i">dâl</hi> is ‘dale’ and ‘down’), <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">dún</hi> survives in the Kentish <hi
+              rendition="#i">downs</hi>; cp. <hi rendition="#k">du.</hi>
+            <hi rendition="#i">duin</hi>. Perh. the word is a Celt.
+            loanword, cp. <hi rendition="#k">ir.</hi>
+            <hi rendition="#i">dún</hi> ‘a fortified hill’, <hi
+              rendition="#k">gael.</hi>
+            <hi rendition="#i">dun</hi>, <hi rendition="#k">w.</hi>
+            <hi rendition="#i">din</hi> and the Celt. place-names such as
+              <hi rendition="#i">Tarodunum</hi>, for which cp. also <hi
+              rendition="#g #i">town</hi>.</p>
+          <p><hi rendition="#b">doze</hi> vb. prob. borrowed from <hi
+              rendition="#k">on.</hi>
+            <hi rendition="#i">dúsa</hi> ‘doze’.</p>
+          <p><hi rendition="#b">dozen</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dozeine</hi>
+            <hi rendition="#i">dusain</hi> = <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">douzaine</hi> (<hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">dosaine</hi>), whence also <hi
+              rendition="#k">g.</hi>
+            <hi rendition="#i">dutzend</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">dozijn</hi>. The Fr. word is deriv. from <hi
+              rendition="#i">douze</hi> (<hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">doze</hi> = <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">duodecim</hi>).</p>
+          <p><hi rendition="#b">draff</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">draf</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dræf</hi>; cp. <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">*trab</hi> in the plur. <hi rendition="#i"
+              >trẹbir</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">träber</hi> ‘grains, husks’ and <hi
+              rendition="#k">du.</hi>
+            <hi rendition="#k">on.</hi>
+            <hi rendition="#k">sw.</hi>
+            <hi rendition="#i">draf</hi>. Cogn. w. <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">fraces</hi>: <hi rendition="#k">aryan</hi> √
+              <hi rendition="#i">dhrak</hi>; cp. also <hi rendition="#g #i"
+              >dregs</hi>.</p>
+          <p><hi rendition="#b">dragon</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dragon</hi>
+            <hi rendition="#i">drago(u)n</hi> from <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">dragon</hi> ‘dragon, standard’ = <hi
+              rendition="#k">it.</hi>
+            <hi rendition="#i">dragone</hi>, <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">draco(n-)</hi> ‘dragon’. See <hi
+              rendition="#g #i">drake</hi>.</p>
+          <p><hi rendition="#b">drain</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dreine</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">drę́agnian</hi>; a <hi rendition="#k"
+              >teut.</hi> √ <hi rendition="#i">draug</hi> appears in <hi
+              rendition="#k">north-fris.</hi>
+            <hi rendition="#i">druughe</hi> ‘sieve, <cb n="2"/>strainer’
+            and <hi rendition="#i">druugin</hi> vb. ‘strain, sieve’ (<hi
+              rendition="#k">nfris.</hi>
+            <hi rendition="#i">û</hi> from <hi rendition="#k">teut.</hi>
+            <hi rendition="#i">au</hi>) and in <hi rendition="#k"
+              >ditmarsh</hi>
+            <hi rendition="#i">dorchdroven</hi> ‘drain’, <hi rendition="#k"
+              >hess.</hi>
+            <hi rendition="#i">drauen</hi> ‘drain’.</p>
+          <p><hi rendition="#b">drake</hi>¹ in <hi rendition="#i"
+              >drakefly</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">draca</hi> ‘dragon’; cp. synon. <hi
+              rendition="#k">ohg.</hi>
+            <hi rendition="#i">trahho</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">drache</hi> = <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">draca</hi> borrowed fr. <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">draco</hi>. Cp. <hi rendition="#g #i"
+              >dragon</hi>.</p>
+          <p><hi rendition="#b">drake</hi>² ‘male of the duck’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">dráke</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">*draca</hi> = <hi rendition="#k">lg.</hi>
+            (dial.) <hi rendition="#i">drâke</hi>
+            <hi rendition="#k">mlg.</hi>
+            <hi rendition="#i">ant-drâke</hi>, which points to identity
+            with <hi rendition="#k">icel.</hi>
+            <hi rendition="#i">andriki</hi>, <hi rendition="#k">germ.</hi>
+            <hi rendition="#i">enterich</hi>
+            <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">antrëhho</hi>
+            <hi rendition="#i">antrahho</hi> (orig. <hi rendition="#i"
+              >*anut</hi> + <hi rendition="#i">trahho</hi>). The <hi
+              rendition="#k">teut.</hi>
+            <hi rendition="#i">drakon-</hi> occurs only in this compound
+            and in the substituted simple form (the Teut. word for ‘duck’
+            was <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">æned</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">anut</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">ente</hi>).</p>
+          <p><hi rendition="#b">draw</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">drawe</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dragan</hi> = <hi rendition="#k">on.</hi>
+            <hi rendition="#i">draga</hi>; perh. ident. with <hi
+              rendition="#k">goth.</hi>
+            <hi rendition="#i">dragan</hi> ‘bear, carry’, <hi
+              rendition="#k">osax.</hi>
+            <hi rendition="#i">dragan</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">dragen</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">tragan</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">tragen</hi> ‘carry, bear’. The <hi
+              rendition="#k">teut.</hi> √ <hi rendition="#i">drag</hi>
+            ‘bear’ (<hi rendition="#k">aryan</hi>
+            <hi rendition="#i">dhragh</hi>) has been compared with <hi
+              rendition="#k">oslov.</hi>
+            <hi rendition="#i">drŭžati</hi> ‘hold’.</p>
+          <p><hi rendition="#b">dream</hi> ‘vision’ <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">drę́m</hi>; an equiv. <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">drę́am</hi> is not recorded (the synonym is
+              <hi rendition="#i">swefn</hi>), but is to be inferred from
+              <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">drôm</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">droom</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">draumr</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">troum</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">traum</hi> ‘dream’. The meaning ‘dream,
+            vision’ attaching to these forms may be deduced from
+            ‘deception, vision’ so that <hi rendition="#k">teut.</hi>
+            <hi rendition="#i">drauma-</hi> (for <hi rendition="#i"
+              >*draugma-</hi> or <hi rendition="#i">*dhroughwmó-</hi>?)
+            would belong to the <hi rendition="#k">teut.</hi> √ <hi
+              rendition="#i">drug</hi>, seen in <hi rendition="#k"
+              >osax.</hi>
+            <hi rendition="#i">bidriogan</hi> = <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#i">triogan</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">trügen</hi> ‘deceive’.</p>
+          <pb n="64" facs="#f0070"/>
+          <cb n="1"/>
+          <p><hi rendition="#b">dreary</hi> adj. <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">drẹ́ri</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">drẹ́oriᵹ</hi> ‘sad’: corresponding to <hi
+              rendition="#k">mhg.</hi>
+            <hi rendition="#i">trûrec</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">traurig</hi>; <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">trûrên</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">trauern</hi> ‘mourn’ belongs perh. to <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">drúsian</hi>
+            <hi rendition="#k">e.</hi>
+            <hi rendition="#g #i">drowse</hi>
+            <hi rendition="#g #i">drowze</hi> ‘be sluggish’.</p>
+          <p><hi rendition="#b">dregs</hi> ‘lees’ a Scand. loanword of the
+              <hi rendition="#k">me.</hi> period (<hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">dregges</hi>) borrowed with the plur. form
+            fr. the equiv. <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dregg</hi>. The <hi rendition="#k"
+              >teut.</hi> base <hi rendition="#i">dragjô-</hi> may be a
+              pre-<hi rendition="#k">teut.</hi>
+            <hi rendition="#i">dhrakí-</hi> which is also possible of <hi
+              rendition="#k">lat.</hi>
+            <hi rendition="#i">fraces</hi> ‘dregs’ (<hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">f</hi> = <hi rendition="#k">aryan</hi>
+            <hi rendition="#i">dh</hi> as under <hi rendition="#g #i"
+              >distaff</hi>); cp. also <hi rendition="#k">pruss.</hi>
+            <hi rendition="#i">dragios</hi> ‘dregs’ (perh. Teut.
+            loanword?).</p>
+          <p><hi rendition="#b">dress</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dresse</hi> borrowed from <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">dresser</hi> (<hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">drescer</hi>
+            <hi rendition="#i">drecier</hi>; <hi rendition="#k">lat.</hi>
+            type <hi rendition="#i">directiare</hi>).</p>
+          <p><hi rendition="#b">drift</hi> sb. ‘driving, impulse’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">drift</hi> ‘act of driving, drove, impulse’:
+            deriv. from <hi rendition="#i">drive</hi> with <hi
+              rendition="#i">t</hi>-suffix; cp. <hi rendition="#k">du.</hi>
+            <hi rendition="#i">drift</hi> ‘drove, flock, course, current,
+            ardorr’, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">trift</hi> ‘pasture’, <hi rendition="#k"
+              >on.</hi>
+            <hi rendition="#i">drift</hi>
+            <hi rendition="#i">dript</hi> ‘snow-drift’. See <hi
+              rendition="#g #i">drive</hi>, <hi rendition="#g #i"
+              >drove</hi>.</p>
+          <p><hi rendition="#b">drink</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">drinke</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">drincan</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">drinkan</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">drinken</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">trinchan</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">trinken</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">drekka</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">drigkan</hi>: a common <hi rendition="#k"
+              >teut.</hi> str. vb. From <hi rendition="#k">teut.</hi> comes
+            the Roman group <hi rendition="#k">it.</hi>
+            <hi rendition="#i">trincare</hi>, <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">trinquer</hi> ‘hobnob’. The <hi
+              rendition="#k">teut.</hi> √ <hi rendition="#i">drënk</hi>
+            (Aryan <hi rendition="#i">dhreng</hi>) does not appear outside
+            of Teut.</p>
+          <p><hi rendition="#b">drip</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">drippe</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dryppan</hi>: associated with <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">*drẹ́opan</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">drẹ́pe</hi> ‘drop, fall’ = <hi
+              rendition="#k">osax.</hi>
+            <hi rendition="#i">driopan</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">druipen</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">triufan</hi>
+            <cb n="2"/><hi rendition="#k">mhg.</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">triefen</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">drjúpa</hi> ‘drop, drip’.</p>
+          <p><hi rendition="#b">drive</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dríve</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">drífan</hi> str. vb. = <hi rendition="#k"
+              >osax.</hi>
+            <hi rendition="#i">drîƀan</hi> ‘drive, banish, perform’, <hi
+              rendition="#k">du.</hi>
+            <hi rendition="#i">drijven</hi> ‘drive, do, fly, swim’, <hi
+              rendition="#k">on.</hi>
+            <hi rendition="#i">drífa</hi> ‘hasten’, <hi rendition="#k"
+              >goth.</hi>
+            <hi rendition="#i">dreiban</hi> ‘drive’, <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#i">trîban</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">trîben</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">treiben</hi>. For the <hi rendition="#k"
+              >teut.</hi> √ <hi rendition="#i">drī̆b</hi> (<hi
+              rendition="#k">aryan</hi>
+            <hi rendition="#i">dhrī̆bh</hi>? <hi rendition="#i"
+            >dhrī̆p</hi>?) cp. also <hi rendition="#g #i">drift</hi>.</p>
+          <p><hi rendition="#b">droll</hi> adj. perh. borrowed fr. <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">drôle</hi> ‘odd, queer, funny’. Cp. <hi
+              rendition="#k">g.</hi>
+            <hi rendition="#i">drollig</hi> from <hi rendition="#k"
+              >lg.</hi>
+            <hi rendition="#i">drullig</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">drollig</hi>; not found in the older
+            languages.</p>
+          <p><hi rendition="#b">drone</hi> sb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">drǫ́n</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">drán</hi> (plur. <hi rendition="#i"
+              >ḍrǽn</hi>). The synon. <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">trëno</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">trëne</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">drohne</hi>, <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">drân</hi> plur. <hi rendition="#i">drâm</hi>
+              (<hi rendition="#k">dan.</hi>
+            <hi rendition="#i">drone</hi> is a continental loanword) are
+            evidently related, but not phonetically identical; <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">drán</hi> points to <hi rendition="#k"
+              >goth.</hi>
+            <hi rendition="#i">*drainus</hi>, while <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#i">trëno</hi> points to <hi rendition="#k"
+              >goth.</hi>
+            <hi rendition="#i">*drina</hi>. An Aryan √ <hi rendition="#i"
+              >dhrē̆n</hi> cp. in <hi rendition="#k">gr.</hi>
+            <hi rendition="#i">τενϑρήνη</hi> ‘a species of wasp’ — also <hi
+              rendition="#i">ὐνϑρήνη</hi> ‘woodbee’ — Laconian <hi
+              rendition="#i">ϑρῶναξ</hi> ‘drone’.</p>
+          <p><hi rendition="#b">drop</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">droppe</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">droppian</hi> also <hi rendition="#i"
+              >dropian</hi> and <hi rendition="#i">droppetian</hi> (= <hi
+              rendition="#k">du.</hi>
+            <hi rendition="#i">droppen</hi>, <hi rendition="#k">g.</hi>
+            <hi rendition="#i">tropfen</hi>): a frequent. deriv. of the
+            orig. str. vb. <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">drẹ́opan</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">drẹ́pe</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">driopan</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">druipen</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">triufan</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">triefen</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">drjúpa</hi> ‘drop’. See <hi
+              rendition="#g #i">drip</hi> and <hi rendition="#g #i"
+              >drop</hi>.</p>
+          <p><hi rendition="#b">drop</hi> sb. ‘a globule’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">drǫ́pe</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dropa</hi> = <hi rendition="#k">osax.</hi>
+            <hi rendition="#i">dropo</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">drop</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">drope</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">troffo</hi>; the <hi rendition="#k"
+              >ohg.</hi> by-form <hi rendition="#i">tropfo</hi> (<hi
+              rendition="#k">g.</hi><hi rendition="#i">tropfen</hi>) points
+            to a <hi rendition="#k">teut.</hi> base <hi rendition="#i"
+              >druppon-</hi>. <pb n="65" facs="#f0071"/><cb n="1"/>All
+            derivatives of the <hi rendition="#k">teut.</hi> √ <hi
+              rendition="#i">drup</hi>. See <hi rendition="#g #i"
+            >drop</hi>¹.</p>
+          <p><hi rendition="#b">dropsy</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dropsy</hi>
+            <hi rendition="#i">dropesíe</hi> short for <hi rendition="#i"
+              >idropsíe</hi>
+            <hi rendition="#i">hydropsíe</hi>: borrowed from <hi
+              rendition="#k">fr.</hi>
+            <hi rendition="#i">hydropisie</hi> (<hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">hydropisis</hi>).</p>
+          <p><hi rendition="#b">drought</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">drought</hi> older <hi rendition="#i"
+              >drougth</hi>
+            <hi rendition="#i">drught</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">drúgođ</hi> ‘dryness’: deriv. from <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">drúgian</hi> ‘become dry’ and <hi
+              rendition="#k">teut.</hi> adj. <hi rendition="#i">drûgi</hi>
+            in <hi rendition="#g #i">dry</hi>.</p>
+          <p><hi rendition="#b">drouse</hi> (<hi rendition="#i"
+            >drowze</hi>) vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">*drouse</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">drús(i)an</hi> ‘become slow or sluggish’ =
+              <hi rendition="#k">mdu.</hi>
+            <hi rendition="#i">droosen</hi> ‘doze’; cp. <hi rendition="#k"
+              >lg.</hi>
+            <hi rendition="#i">drünse(l)n</hi> ‘slumber’ <hi rendition="#i"
+              >drunsen</hi> ‘low’ (of cattle); akin to <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">drẹ́osan</hi> = <hi rendition="#k"
+              >goth.</hi>
+            <hi rendition="#i">driusan</hi> ‘fall’. See <hi
+              rendition="#g #i">dreary</hi>.</p>
+          <p><hi rendition="#b">drove</hi> sb. ‘herd, road for sheep or
+            cattle in droves' <hi rendition="#k">me.</hi>
+            <hi rendition="#i">drǫ́ve</hi> earlier <hi rendition="#i"
+              >drǫ́f</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dráf</hi> ‘drove’: deriv. from the √ <hi
+              rendition="#i">drī̆b</hi> in <hi rendition="#g #i"
+            >drive</hi>.</p>
+          <p><hi rendition="#b">drown</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">droune</hi>; short for <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">druncne</hi> (also dissimil. <hi
+              rendition="#i">drunkle</hi>) <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">druncnian</hi> ‘sink’: a passive formation
+            of the <hi rendition="#k">teut.</hi> verb <hi rendition="#g #i"
+              >drink</hi>.</p>
+          <p><hi rendition="#b">dry</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dríe</hi>
+            <hi rendition="#i">drýe</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">drýᵹe</hi> from <hi rendition="#k"
+              >teut.</hi>
+            <hi rendition="#i">drûgi-</hi>, as shown by <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">drúgođ</hi> = mod. <hi rendition="#k"
+              >e.</hi>
+            <hi rendition="#g #i">drought</hi>. A <hi rendition="#k"
+              >teut.</hi> by-form <hi rendition="#i">draugi-</hi> (or <hi
+              rendition="#i">draugu-</hi>) is seen in <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">dréᵹe</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dreie</hi> and in <hi rendition="#k"
+              >du.</hi>
+            <hi rendition="#i">droog</hi>, <hi rendition="#k">lg.</hi>
+            <hi rendition="#i">drœ̂ge</hi> (by the side of <hi
+              rendition="#k">lg.</hi>
+            <hi rendition="#i">drŷge</hi>, <hi rendition="#k"
+              >north-fris.</hi>
+            <hi rendition="#i">drüügh</hi>). All with the same meaning,
+            which appears also in the related <hi rendition="#k">g.</hi>
+            <hi rendition="#i">trocken</hi> (<hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">truckan</hi>). Cp. <hi rendition="#k"
+              >on.</hi>
+            <hi rendition="#i">draugr</hi> ‘a dry log’; <hi rendition="#k"
+              >ohg.</hi> proper nouns e. g. <hi rendition="#i"
+              >Drûhi-klinga</hi> prove a <hi rendition="#k">teut.</hi>
+            <hi rendition="#i">drûhi</hi> ‘dry’. An Aryan <cb n="2"/>√ <hi
+              rendition="#i">dhrū̆k</hi> is probable and <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#i">truckan</hi> would point to a by-form Aryan
+              <hi rendition="#i">dhrū̆g</hi>.</p>
+          <p><hi rendition="#b">duck</hi> sb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">douke</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dúce</hi>: akin to <hi rendition="#k"
+              >oe.</hi>
+            <hi rendition="#i">*dúcan</hi> under <hi rendition="#g #i"
+              >duck</hi> vb.; hence <hi rendition="#i">duck</hi> prop. ‘the
+            diving one, diver’; cp. <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">dukand</hi> ‘sea-duck’, <hi rendition="#k"
+              >g.</hi>
+            <hi rendition="#i">tauchente</hi>.</p>
+          <p><hi rendition="#b">duck</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">douke</hi>; an <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">*dúcan</hi> may be inferred fr. <hi
+              rendition="#k">du.</hi>
+            <hi rendition="#i">duiken</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">tûhhan</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">tûchen</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">tauchen</hi>.</p>
+          <p><hi rendition="#b">due</hi> adj. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">düe</hi> from <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">dû</hi> m. <hi rendition="#i">due</hi> f.
+              <hi rendition="#k">ofr.</hi>
+            <hi rendition="#i">deu</hi> m. <hi rendition="#i">deue</hi> f.
+            (= <hi rendition="#k">it.</hi>
+            <hi rendition="#i">debuto</hi>); cp. <hi rendition="#k"
+              >med.-lat.</hi>
+            <hi rendition="#i">*debutum</hi>
+            <hi rendition="#i">debuta</hi> for <hi rendition="#i"
+              >debitum</hi>.</p>
+          <p><hi rendition="#b">duke</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">düke</hi> from <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">duc</hi>; with the deriv. <hi rendition="#b"
+              >duchess</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dŭchesse</hi> short for <hi rendition="#i"
+              >düchesse</hi> = <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">duchesse</hi>. — <hi rendition="#b"
+              >duchy</hi> (cp. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">ducheríe</hi> instead of <hi rendition="#i"
+              >*duchíe</hi>) from <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">duché</hi>.</p>
+          <p><hi rendition="#b">dumb</hi> adj. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">domb</hi>
+            <hi rendition="#i">dumb</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dumb</hi>; <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">dumbs</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dumbr</hi> have essentially the same meaning
+            while the corresponding <hi rendition="#k">g.</hi>
+            <hi rendition="#i">dumm</hi> (<hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">tump</hi>) signifies ‘stupid, foolish’.
+            Perh. <hi rendition="#g #i">deaf</hi> without nasal (= <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">dę́af</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">daufs</hi>) belongs to the same Aryan √ <hi
+              rendition="#i">dhū̆bh</hi>, which may be found also in <hi
+              rendition="#k">gr.</hi>
+            <hi rendition="#i">τυφλός</hi> ‘blind’.</p>
+          <p><hi rendition="#b">dun</hi> adj. ‘dark, swarthy’ <hi
+              rendition="#k">me.</hi>
+            <hi rendition="#i">don</hi>
+            <hi rendition="#i">donne</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dun</hi> (<hi rendition="#i">nn</hi>): an
+            early Celtic loanword (<hi rendition="#k">oir.</hi>
+            <hi rendition="#k">gael.</hi>
+            <hi rendition="#i">donn</hi>, <hi rendition="#k">gall.</hi>
+            <hi rendition="#i">donnos</hi>); therefore not found in other
+              <hi rendition="#k">teut.</hi> languages.</p>
+          <p><hi rendition="#b">dung</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dung</hi>
+            <hi rendition="#i">dong</hi>; cp. <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">tunga</hi> ‘dung’ <hi rendition="#k">g.</hi>
+            <hi rendition="#i">dung</hi>. <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">tunc</hi> ‘subterranean weaving <pb n="66"
+              facs="#f0072"/><cb xml:id="f0072-1" n="1"/>room’. If ‘cave,
+            underground room’ is the orig. meaning, <hi rendition="#k"
+              >gr.</hi>
+            <hi rendition="#i">τάφος</hi> from an Aryan <hi rendition="#i"
+              >dhnghwos</hi> may be allied.</p>
+          <p><hi rendition="#b">dungeon</hi> sb. <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">donǧeon</hi>
+            <hi rendition="#i">donjoun</hi>; loanword from <hi
+              rendition="#k">ofr.</hi>
+            <hi rendition="#i">dongeon</hi>
+            <hi rendition="#i">dongon</hi>
+            <hi rendition="#i">donjon</hi>
+            <hi rendition="#k">fr.</hi>
+            <hi rendition="#i">donjon</hi> (<hi rendition="#k"
+              >med.-lat.</hi>
+            <hi rendition="#i">domnionem</hi> ‘a commanding tower’ fr. a
+              <hi rendition="#k">lat.</hi> type <hi rendition="#i"
+              >dominionem</hi>; cp. <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">dominium</hi> under <hi rendition="#g #i"
+              >domain</hi>).</p>
+          <p><hi rendition="#b">dusk</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dosk</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dosc</hi> (of rare occurrence, but also seen
+            in the deriv. vb. <hi rendition="#i">duscian</hi>). Akin to the
+              <hi rendition="#k">sw.</hi> dial. <hi rendition="#i"
+              >duskug</hi> ‘misty’. A <hi rendition="#k">teut.</hi> base
+              <hi rendition="#i">dū̆ska-</hi> admits of relation to <hi
+              rendition="#k">lat.</hi>
+            <hi rendition="#i">fuscus</hi> ‘blackish, dark’ (base <hi
+              rendition="#i">dhusko-</hi>?).</p>
+          <p><hi rendition="#b">Dutch</hi> orig. meant German including <hi
+              rendition="#i">Dutch</hi> for down to 1600, <hi
+              rendition="#i">Dutch</hi> was considered <cb xml:id="f0072-2"
+              n="2"/>a dialect of Germany. <hi rendition="#i">Dutch</hi>
+            corresponds to <hi rendition="#k">g.</hi>
+            <hi rendition="#i">deutsch</hi> = <hi rendition="#k">mlg.</hi>
+            <hi rendition="#i">düdesch</hi>, <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">diutsch</hi>
+            <hi rendition="#i">tiutsch</hi>
+            <hi rendition="#i">tiusch</hi>
+            <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">diutisk</hi> (<hi rendition="#k">osax.</hi>
+            <hi rendition="#i">thiudisce</hi>
+            <hi rendition="#i">liudi</hi> ‘Germania’).</p>
+          <p><hi rendition="#b">dwarf</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dwergh</hi>
+            <hi rendition="#i">dwerugh</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dweorh(g)</hi> = <hi rendition="#k">du.</hi>
+            <hi rendition="#i">dwerg</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">twërc(g)</hi>
+            <hi rendition="#i">getwërc</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">zwerg</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dwergr</hi> m., <hi rendition="#k">sw.</hi>
+            <hi rendition="#k">dan.</hi>
+            <hi rendition="#i">dverg</hi>. <hi rendition="#k">teut.</hi>
+            base <hi rendition="#i">dwërga-</hi> belongs prob. to the <hi
+              rendition="#k">teut.</hi> √ <hi rendition="#i">drug</hi>
+            ‘deceive’, hence <hi rendition="#i">dwarf</hi> prop.
+            ‘deception, vision’.</p>
+          <p><hi rendition="#b">dwell</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">dwelle</hi> late <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dwelian</hi>: <hi rendition="#k">scand.</hi>
+            loanword from <hi rendition="#k">on.</hi>
+            <hi rendition="#i">dvelja</hi> ‘delay, stay’ = <hi
+              rendition="#k">ohg.</hi>
+            <hi rendition="#i">twellan</hi> (and <hi rendition="#i"
+              >twâlên</hi>) ‘linger’.</p>
+          <p><hi rendition="#b">dye</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">díe</hi>
+            <hi rendition="#i">deie</hi>
+            <hi rendition="#i">dẹ́ᵹe</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">dę́agian</hi>: derived from <hi
+              rendition="#k">oe.</hi>
+            <hi rendition="#i">dę́ah(g)</hi>; a <hi rendition="#k"
+              >teut.</hi>
+            <hi rendition="#i">dauga</hi> is not found elsewhere.</p>
+          <cb type="end"/>
+        </div>
+        <div xml:id="section-e">
+          <head rendition="#c">E</head>
+          <cb type="start"/>
+          <cb corresp="#f0072-1" n="1"/>
+          <p><hi rendition="#b">each</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">ę́ch</hi> earlier <hi rendition="#i"
+              >ę́lch</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">ǽlč</hi> orig. <hi rendition="#i"
+              >á-gilíč</hi> = <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">iogilîh</hi>
+            <hi rendition="#k">mhg.</hi>
+            <hi rendition="#i">iegelîch</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">jeglich</hi>; cp. <hi rendition="#k"
+              >ohg.</hi>
+            <hi rendition="#i">manno-gilîh</hi> ‘every man’ — <hi
+              rendition="#i">wîbogilîh</hi> ‘every woman’ etc.</p>
+          <p><hi rendition="#b">eager</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">ę́gre</hi>: adapted from <hi rendition="#k"
+              >ofr.</hi>
+            <hi rendition="#i">eigre</hi> ‘keen, sharp’. Source <hi
+              rendition="#k">lat.</hi>
+            <hi rendition="#i">acre</hi> (<hi rendition="#i"
+            >acer</hi>).</p>
+          <p><hi rendition="#b">eagle</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">ę́gle</hi>: loanword from <hi rendition="#k"
+              >fr.</hi>
+            <hi rendition="#i">aigle</hi>: source <hi rendition="#k"
+              >lat.</hi>
+            <hi rendition="#i">aquila</hi>.</p>
+          <p><hi rendition="#b">eanling</hi> ‘lamb’ (Shakesp.) points to an
+              <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">ę́an</hi> ‘lamb’; cp. <hi rendition="#g #i"
+              >yean</hi>.</p>
+          <p><hi rendition="#b">ear</hi>¹ sb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">ę́re</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">ę́are</hi> = <hi rendition="#k">teut.</hi>
+            <cb corresp="#f0072-2" n="2"/>base <hi rendition="#i"
+              >auzôn-</hi> in <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">ausô</hi>, <hi rendition="#k">osax.</hi>
+            <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">ôra</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">ohr</hi>, <hi rendition="#k">du.</hi>
+            <hi rendition="#i">oor</hi>. An Aryan base <hi rendition="#i"
+              >aus-</hi> cp. in <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">auris</hi>, <hi rendition="#k">gr.</hi>
+            <hi rendition="#i">οὖς</hi>, <hi rendition="#k">russ.</hi>
+            <hi rendition="#k">slov.</hi>
+            <hi rendition="#i">ucho</hi> ‘ear’; perh. cogn. with <hi
+              rendition="#g #i">hear</hi>. — Hence <hi rendition="#b"
+              >earwig</hi>
+            <hi rendition="#k">me.</hi>
+            <hi rendition="#i">ę́r-wigge</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">ę́ar-wigga</hi>.</p>
+          <p><hi rendition="#b">ear</hi>² sb. (of corn) <hi rendition="#k"
+              >me.</hi>
+            <hi rendition="#i">ę́r</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">ę́ar</hi> contr. from <hi rendition="#i"
+              >*eahor</hi> (Northumbr. <hi rendition="#i">ehher</hi>) = <hi
+              rendition="#k">teut.</hi> base <hi rendition="#i">ahaz-</hi>;
+            ident. w. <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">ahir</hi>
+            <hi rendition="#k">g.</hi>
+            <hi rendition="#i">ähre</hi>, <hi rendition="#k">goth.</hi>
+            <hi rendition="#i">ahs</hi>, <hi rendition="#k">on.</hi>
+            <hi rendition="#i">ax</hi>, Perh. akin to <hi rendition="#g #i"
+              >awns</hi>.</p>
+          <p><hi rendition="#b">ear</hi> vb. <hi rendition="#k">me.</hi>
+            <hi rendition="#i">ę́re</hi>
+            <hi rendition="#k">oe.</hi>
+            <hi rendition="#i">erian</hi> = <pb n="67" facs="#f0073"/><cb
+              n="1"/><hi rendition="#k">goth.</hi>
+            <hi rendition="#i">arjan</hi>, <hi rendition="#k">ohg.</hi>
+            <hi rendition="#i">ẹrian</hi> ‘plough’; cogn. with <hi
+              rendition="#k">lat.</hi>
+            <hi rendition="#i">arare</hi>, <hi rendition="#k">gr.</hi>
+            <hi rendition="#i">ἀρόειν</hi>, <hi rendition="#k">oir.</hi>
+            <hi rendition="#i">araim</hi> ‘I plough’: Aryan √ <hi
+              rendition="#i">ar</hi> in <hi rendition="#k">lat.</hi>
+            <hi rendition="#i">arvum</hi> ‘field’ and in <hi
+              rendition="#g #i">earth</hi>.</p>
+          <cb type="end"/>
         </div>
         <cb type="end"/>
       </div>
