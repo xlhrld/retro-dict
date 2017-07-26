@@ -1,4 +1,4 @@
-# retro-dict
+# Overview
 `retro-dict` is a collection of historical etymological dictionaries.
 
 Transcription and typographical markup follow the guidelines
@@ -8,5 +8,6 @@ TEI P5 guidelines (Text Encoding Initiative, https://www.tei-c.org).
 You can find the upstream version of the DTA base format
 (schema and documentation in ODD) at
 https://github.com/deutschestextarchiv/dtabf. `retro-dict` keeps
-an unmodified set schemas (Relax NG and Schematron, under `share/validation`)
+an unmodified set of schemas
+(Relax NG and Schematron, under `share/validation`)
 for convenience and easier off-line use of the collection's data.
