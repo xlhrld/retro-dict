@@ -30,7 +30,7 @@
           <orgName ref="https://github.com/xlhrld/retro-dict"
             >retro-dict</orgName>
         </publisher>
-        <date type="publication">2017-05-31</date>
+        <date type="publication">2017-08-04</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">
             <p>This work is licensed under a Creative Commons Attribution
@@ -367,6 +367,439 @@
       <pb n="XI" facs="#f0010"/>
       <div xml:id="introduction">
         <head rendition="#c">Zur Einführung.</head>
+        <milestone rendition="#hr" unit="section"/>
+        <p>Wenn wir den wahren Sinn eines Wortes bestimmen wollen — und
+          dies ist die Aufgabe der Etymologie im strengsten Sinne — , so
+          heißt dies eigentlich nichts anderes, als anzugeben, welche von
+          den meist sehr zahlreichen Teilvorstellungen, deren Summe den
+          durch das Wort ausgedrückten Begriff bildet, derart die
+          Aufmerksamkeit des ersten Bildners dieses Wortes fesselte, daß er
+          den Begriff gerade nach diesem Merkmal benannte. Im Augenblicke
+          der Entstehung ist daher jedes Wort etymologisch vollkommen klar
+          und durchsichtig; erst die weitere Entwicklung der Sprache hat,
+          sei es durch lautliche Vorgänge oder durch
+          Bedeutungsverschiebungen oder durch Verlust des Stammwortes, in
+          vielen Fällen jene etymologische Durchsichtigkeit verdunkelt oder
+          ganz aufgehoben, so daß nur mehr die wissenschaftliche Forschung
+          die verlorengegangenen Zusammenhänge aufzuweisen vermag. Und zwar
+          zum Teile innerhalb derselben Sprache; so ergibt sich für <hi
+            rendition="#i">lūna</hi> „Mond“ aus dem Zusammenhange mit <hi
+            rendition="#i">lūceo</hi> „leuchte“ die ursprüngliche Bedeutung
+          „leuchtender (Himmelskörper)“. Zum Teile aber beim Fehlen von
+          Verwandten innerhalb der betreffenden Sprache nur mittelst
+          Heranziehung von Worten verwandter Sprachen. Aber gerade hier
+          zeigt es sich besonders häufig, daß der Nachweis verwandter Worte
+          durchaus nicht identisch ist mit der Feststellung der
+          ursprünglichen Bedeutung des zu etymologisierenden Wortes, wie
+          umgekehrt im Falle von <hi rendition="#i">lūna</hi> die
+          Heranziehung von apr. <hi rendition="#i">lauxnos</hi> „Gestirne“,
+          av. <hi rendition="#i">raoxšna-</hi> „glänzend“ usw., so wertvoll
+          sie zum Nachweise des Alters der Bildung auch sein mag, für die
+          Bestimmung <pb n="XII" facs="#f0011"/>des eigentlichen Sinnes von
+            <hi rendition="#i">lūna</hi> überflüssig war. Wollen wir lat.
+            <hi rendition="#i">lumbus</hi> etymologisieren, so bietet sich
+          zwar nhd. <hi rendition="#i">Lende</hi>, ab. <hi rendition="#i"
+            >lędvija</hi> „Lende, Niere“ zum Vergleiche, an sich gewiß ein
+          Gewinn; aber darüber, auf Grund welchen Merkmals die Lende mit
+          diesem idg. Wort <hi rendition="#i">*londhu&#815;os</hi> (u.
+          dgl.) benannt worden sei, sagt diese Wortgleichung noch nichts
+          aus; erst wenn die weitere Heranziehung auch von ai. <hi
+            rendition="#i">rándhram</hi> „Öffnung, Höhle“ u.dgl. zutrifft,
+          gewinnen wir die Erkenntnis, daß die Lende als Einbuchtung
+          aufgefaßt worden war. Gar oft aber stehen wir heute — und in sehr
+          vielen Fällen wohl für immer — trotz reichlicher
+          Wortverwandtschaft innerhalb der Einzelsprache sowie der
+          Schwestersprachen beim Versuche, die zur Benennung führende
+          Anschauung zu ermitteln, an dem Punkte, wo wir uns zum Verzicht
+          auf weiteres Vordringen bequemen müssen, indem kein
+          Vergleichungsmaterial vorliegt, das noch ältere
+          Bedeutungsverhältnisse durchblicken ließe. So ist lat. <hi
+            rendition="#i">heluos</hi> „honiggelb, isabellfarben“ nicht
+          bloß offenbar mit <hi rendition="#i">helus</hi>, <hi
+            rendition="#i">holus</hi> „Grünzeug, Gemüse, Kohl“ verwandt,
+          sondern auch genau identisch mit ahd. <hi rendition="#i"
+            >gelo</hi> „gelb“, lit. <hi rendition="#i">želvas</hi>
+          „grünlich“, und endlich reiht sich eine große Anzahl
+          außerlateinischer Wörter an, die dieselbe Lautgruppe <hi
+            rendition="#i">g&#785;hel-</hi> „grün, gelb, grüne Kräuter“
+          enthalten; aber was jenes <hi rendition="#i">g&#785;hel-</hi> für
+          eine Bedeutungsvorgeschichte hat, bleibt uns verschlossen; es ist
+          nicht einmal ausgemacht, daß es von Anfang an eine
+          Farbenbezeichnung gewesen sei, da vielleicht „Gras“ oder
+          dergleichen bei der Bezeichnung aller grünen Farbentöne ebenso
+          Gevatter gestanden haben könnte, wie unsere Farbenbezeichnung
+          „rosa“ von einer bestimmten Blume genommen ist; vielleicht ist es
+          aber auch aus einer ganz andern Anschauung erwachsen, z. B. wie
+          unser „brennend“ für „rot“. Und vor demselben „Non liquet“ stehn
+          wir, wenn wir etwa nach der Bedeutungsvorgeschichte jenes <hi
+            rendition="#i">leuq-</hi> „leuchten“ oder <hi rendition="#i"
+            >lendh-</hi> „Einhöhlung“ fragen wollten. Darüber, wie sich die
+          ältesten von uns zu erreichenden, sich an gewisse Lautgebilde
+          knüpfenden Bedeutungen, die wir ohnehin häufig genug <pb n="XIII"
+            facs="#f0012"/>nur wenig scharf zu fassen vermögen, ihrerseits
+          entwickelt haben, breitet sich daher wohl für immer der Nebel der
+          Urgeschichte; ausnehmen dürfen wir nur Schallnachahmungsworte.
+          Entgeht nun auch in einer großen Zahl von Fällen jene eingangs
+          vertretene Auffassung vom Wesen der Etymologie der erwähnten
+          Schwierigkeit dadurch, daß sie bloß das unmittelbar einem
+          neugebildeten Worte zugrunde liegende Stammwort, aber nicht
+          dessen ganze Ahnenreihe aufzuweisen hat, daß sie also z. B. mit
+          der Beziehung von <hi rendition="#i">lūna</hi> auf <hi
+            rendition="#i">leuq-</hi> „leuchten“ genug getan hat, ohne daß
+          sie nach der Bedeutungsgeschichte dieses <hi rendition="#i"
+            >leuq-</hi> zu fragen hätte (was sie allerdings bei der
+          Erklärung von <hi rendition="#i">lūceo</hi> nicht mehr umgehen
+          könnte), so ist es doch angesichts der anderen Fälle, in denen
+          nicht mehr anzugeben ist, auf Grund welches Merkmals ein Wort
+          oder eine ganze Wortsippe zur Benennung der dadurch bezeichneten
+          Begriffe geworden ist, ganz gerechtfertigt, wenn mit jener
+          ursprünglichen Auffassung der Etymologie eine andere in
+          Wettbewerb getreten ist, die ein einzelsprachliches Wort dann als
+          erklärt betrachtet, wenn sich durch verwandte Worte der
+          Schwestersprachen der Nachweis erbringen läßt, daß es seinen
+          Ursprung im Wortschatze der indogermanischen Grundsprache hat.
+          Diese Auffassung, die freilich mit der erstgenannten nie die
+          Fühlung verlieren darf, setzt sich hiermit die Feststellung der
+          Wortverwandtschaften innerhalb unseres Sprachstammes zum
+          Ziele.</p>
+        <p>Dabei ist es von vornherein klar, daß solche vollständige
+          Wortgleichungen wie lat. <hi rendition="#i">heluos</hi>, ahd. <hi
+            rendition="#i">gelo</hi>, lit. <hi rendition="#i">želvas</hi>
+          den wertvollsten Bestand unserer etymologischen Feststellungen
+          ausmachen. Aber sie sind in der Minderzahl; meist zeigen sich
+          innerhalb offenbar verwandter Worte Abweichungen der Bildung, wie
+          neben obigem idg. <hi rendition="#i">g̑helu̯os</hi> „grün, gelb“
+          z. B. lit. <hi rendition="#i">želiù</hi> „grüne“, <hi
+            rendition="#i">žãlias</hi> „grün“ steht. Diese Abweichungen
+          beruhen teils im Vokale der — hier — ersten Silbe, teils in dem
+          verschiedenen Lautbestande der folgenden Silben. Da nun die
+          Lautgruppen, die die letzteren ausmachen, auch in <pb n="XIV"
+            facs="#f0013"/>anderen Worten von etymologisch ganz
+          verschiedener Zugehörigkeit wiederkehren, offenbaren sie sich als
+          Elemente, die dem Begriffskern der sie enthaltenden Worte fremd
+          sind, wobei wir uns freilich darüber des Urteils enthalten
+          müssen, ob das auch in jenen Wörtern der Fall gewesen sei, die
+          als erste jene Elemente enthielten und möglicherweise erst das
+          Muster für die übrigen gleichartigen Bildungen abgegeben haben.
+          Indem wir nun diese den Begriffskern höchstens modifizierenden,
+          nicht aber wesentlich bestimmenden Elemente als Suffixe oder —
+          wie neuerdings auch gesagt wird — Formantien vom ganzen
+          Wortkörper in Abzug bringen, gelangen wir dazu, den dabei übrig
+          bleibenden, den Begriff wesentlich bestimmenden Wortteil jenen
+          Suffixen entgegenzustellen, und bezeichnen ihn als Wurzel, als
+          welche sich im angeführten Beispiele also idg. <hi rendition="#i"
+            >g̑hel-</hi> (mit den Ablautstufen <hi rendition="#i"
+            >g̑hol-</hi> usw.) ergibt. In dem überwiegenden Teile unserer
+          etymologischen Erkenntnisse werden wir uns damit begnügen müssen,
+          das Vorhandensein eines solchen wurzelhaften Bestandteiles in
+          mehreren idg. Worten von suffixal verschiedener Bildung
+          nachzuweißen. Gerade dadurch, daß die Sprechenden den
+          wurzelhaften Wortteil als Begriffskern gegenüber den Suffixen
+          empfanden, war auch die Möglichkeit reicher Neuschöpfung von
+          Worten gegeben, da von demselben wurzelhaften Bestandteile aus
+          mittels verschiedener Bildungsmittel neue Worte gebildet werden
+          konnten, die vielfach ältere verdrängten. Es ist aber nicht
+          überflüssig, zu bemerken, daß das, was die Sprechenden als
+          Wurzel, d. h. als Begriffskern, empfanden, durchaus nicht zu
+          allen Zeiten der Sprache dasselbe gewesen zu sein braucht. Uns
+          liegt es allerdings gewohnheitsmäßig am nächsten, die Wurzeln als
+          einsilbig anzusetzen, was sich freilich schon auf Grund von
+          Fällen wie gr. ἀϝέξω : iat. <hi rendition="#i">augeo</hi> (Wurzel
+            <hi rendition="#i">*au̯eg-</hi>) nicht als allgemein
+          durchführbar herausstellt. Aber — was wichtiger ist — auch bei
+          der Trennung von Wurzel und Suffix können wir in keinem einzelnen
+          Falle sicher sein, ob der von uns <pb n="XV" facs="#f0014"
+          />geführte Schnitt geschichtlich berechtigt ist. Wir haben oben
+            <hi rendition="#i">g̑hel-</hi> als Wurzel angesetzt und so
+          haben auch sicher die Indogermanen zu jener Zeit gefühlt, als
+          schon <hi rendition="#i">*g̑helu̯os</hi>, <hi rendition="#i"
+            >*g̑heliō</hi>, <hi rendition="#i">*g̑holi&#815;os</hi> usw.
+          nebeneinander bestanden. Wenn aber jemand die Vermutung äußern
+          würde, daß die Indogermanen einer noch älteren Zeit nicht <hi
+            rendition="#i">g̑hel-</hi>, sondern <hi rendition="#i"
+            >g̑helou-</hi> oder <hi rendition="#i">g̑helou̯o-</hi> als
+          Wurzel empfunden hätten, so würde er schwerlich zu widerlegen
+          sein. Denn es könnte tatsächlich <hi rendition="#i"
+            >*g̑hélou̯os</hi> (woraus <hi rendition="#i">*g̑helu̯os</hi>)
+          und <hi rendition="#i">*g̑helóu̯os</hi> (woraus <hi
+            rendition="#i">*g̑hlou̯os</hi>, gr. χλόος) der älteste Bestand,
+          der Grundstock der Sippe gewesen sein; es wäre dann weiter
+          anzunehmen, daß die Lautgruppe <hi rendition="#i">-(o)u̯o-</hi>
+          durch Nachahmung dieses und vielleicht auch einiger anderer
+          Muster auch in andere Farbenbezeichnungen Eingang gefunden habe,
+          also produktiv geworden sei, womit es aber auch aufhörte, für den
+          durch <hi rendition="#i">*g̑helou̯o-</hi> bezeichneten Begriff
+          „grün, gelb“ charakteristisch zu sein. Damit war aber von selbst
+          die Auffassung bloß von <hi rendition="#i">*g̑hel-</hi> als
+          wurzelhaften, d. h. den Begriffskern ausmachenden Wortteiles
+          gegeben und weiter auch die Bahn frei für Bildungen ohne dieses
+          nun als suffixal empfundene <hi rendition="#i">-ou̯o-</hi>, wie
+            <hi rendition="#i">*g̑elos</hi>, <hi rendition="#i"
+            >*g̑holi̯os</hi> usw. Da derartige Erwägungen in jedem
+          einzelnen Falle als grundsätzlich möglich anerkannt werden
+          müssen, werden wir, um festen Boden unter den Füßen zu behalten,
+          die Wurzeln in jener Gestalt anzusetzen bestrebt sein, in der sie
+          sich auch den Indogermanen gegen den Ausgang der Urgemeinschaft
+          zu — auf welche Periode wir ohnehin alle unsere sprachlichen
+          Rückschlüsse zunächst zu projizieren haben — im Gegensatze zu den
+          als formantisch empfundenen Elementen dargestellt haben werden;
+          das bedeutet aber keinen grundsätzlichen Verzicht auf den
+          Versuch, durch Berücksichtigung der Ablautsmöglichkeiten im
+          einzelnen Falle noch ältere Gestaltungen zu erschließen. Eine
+          davon ganz verschiedene Frage ist es, ob die von den Indogermanen
+          der erwähnten oder einer früheren Zeit als Wurzel empfundenen
+          Lautgruppen einmal für sich als Worte verwendet waren oder nur in
+          Verbindung mit Formantien. <pb n="XVI" facs="#f0015"/>Und da
+          verbietet nichts die Annahme, daß, um mit Brugmanns Worten zu
+          reden, die Wurzeln in der von historischen Sprachphasen aus zu
+          erschließenden oder in einer ähnlichen älteren Gestalt teilweise
+          einmal „Wörter“ gewesen seien, wie man ja allzeit nur Wörter,
+          nicht Wurzeln geschaffen hat; aber im einzelnen Falle können wir
+          die Statthaftigkeit dieser Annahme nie erweisen. Wir verzichten
+          daher, wenn wir eine bestimmte Wurzel erschließen, im einzelnen
+          Falle ausdrücklich darauf, damit gleichzeitig auszusagen, daß sie
+          für sich, d. h. außer Verbindung mit formantischen Elementen,
+          einst in einer viel älteren Periode der indogermanischen
+          Grundsprache ein selbständiges Dasein als „Urwort“ geführt
+          habe.</p>
+        <p>Schon aus den im vorstehenden gebrachten Beispielen ist
+          ersichtlich, daß das wurzelhafte Wortstück, auch abgesehen von
+          seiner Abgrenzung gegen die als suffixal empfundenen Elemente,
+          nichts in sich starr Unveränderliches ist, sondern daß es
+          mehrfacher Vokalisierung fähig ist, eine Erscheinung, die man
+          bekanntlich als Ablaut bezeichnet und die man als die Wirkung von
+          Betonungsverschiedenheiten erkannt hat. Eine gedrängte
+          Darstellung unserer heutigen Anschauungen vom Ablaut hier zu
+          geben, darf ich mir um so eher versagen, als auch der
+          sprachwissenschaftlichen Studien fernerstehende Benutzer dieses
+          Buches in der klar orientierenden Skizze Hirts: „Der
+          indogermanische Ablaut“ in den Neuen Jahrbüchern für das
+          klassische Altertum, Bd. XV, S. 465—475, vollkommen ausreichende
+          Belehrung findet. Nur zwei Punkte seien hier herausgegriffen, um
+          für im vorliegenden Buche öfters wiederkehrende Lautzeichen die
+          Aufklärung zu geben. Der erste betrifft tiefgestellte Vokale, <hi
+            rendition="#i">ₑ</hi>, <hi rendition="#i">ₒ</hi>, <hi
+            rendition="#i">ₐ</hi>. Aus Beispielen wie gr. λείπειν :
+          λιπει&#785;ν wissen wir, daß Unbetontheit von Silben den Schwund
+          eines kurzen Vokals, hier <hi rendition="#i">e</hi>, zur Folge
+          hat, wobei das früher mit <hi rendition="#i">e</hi> zum Diphthong
+          verbundene <hi rendition="#i">i</hi> die Rolle als Vokal
+          übernimmt; ebenso führt unbetontes <hi rendition="#i">eu</hi>,
+            <hi rendition="#i">er</hi>, <hi rendition="#i">el</hi>, <hi
+            rendition="#i">em</hi>, <hi rendition="#i">en</hi> durch
+          Schwund des <hi rendition="#i">e</hi> zu <hi rendition="#i"
+            >u</hi>, <hi rendition="#i">r̥</hi>, <hi rendition="#i"
+          >l̥</hi>, <hi rendition="#i">m̥</hi>, <hi rendition="#i">n̥</hi>,
+          wobei wir in den vier letzteren Lautzeichen <pb n="XVII"
+            facs="#f0016"/>durch den untergesetzten Kreis ausdrücken, daß
+            <hi rendition="#i">r</hi>, <hi rendition="#i">l</hi>, <hi
+            rendition="#i">m</hi>, <hi rendition="#i">n</hi> als Vokale, d.
+          h. silbenbildend, fungieren wie z. B. in der deutschen Aussprache
+            <hi rendition="#i">fātr̥</hi>, <hi rendition="#i">handl̥n</hi>,
+            <hi rendition="#i">gebm̥</hi>, <hi rendition="#i">wettn̥</hi>
+          für geschriebenes <hi rendition="#i">Vater</hi>, <hi
+            rendition="#i">handeln</hi>, <hi rendition="#i">geben</hi>, <hi
+            rendition="#i">wetten</hi>. Steht nun aber der der Unbetontheit
+          ausgesetzte kurze Vokal in anderer Nachbarschaft als der der
+          angeführten Laute <hi rendition="#i">i</hi>, <hi rendition="#i"
+            >u</hi>, <hi rendition="#i">r</hi>, <hi rendition="#i">l</hi>,
+            <hi rendition="#i">m</hi>, <hi rendition="#i">n</hi> oder
+          gehören letztere schon zur nächsten Silbe, so erwarten wir
+          infolge des Vokalschwundes vokallose Silbe; diese treffen wir z.
+          B. in Fällen wie σχ-ει&#785;ν gegenüber ἔχ-ειν (aus *σέχ-ειν),
+          oder wie βέ-βλ-ηκα neben βέλ-εμνον. Aber in anderen Fällen ist es
+          nicht zum vollen Schwunde des kurzen Vokals gekommen, sondern
+          letzterer ist unter gewissen, bei Hirt dargelegten
+          Stellungsbedingungen bloß zum undeutlichen Murmelvokale
+          herabgesunken, der auch in den Fällen der ersten Art als die
+          Vorstufe des gänzlichen Schwundes betrachtet werden muß. Diese
+          bei Hirt durch untergesetzten Punkt (z. B. <hi rendition="#i"
+            >ẹ</hi>) bezeichneten Murmelvokale, deren Klangfarbe in den
+          einzelnen Sprachen je nach der Natur der folgenden Laute in
+          verschiedener Weise entwickelt erscheint, sind im vorliegenden
+          Buche durch Tiefstellung kenntlich gemacht, z. B. ing. <hi
+            rendition="#i">*pₑqᵘ&#815;tós</hi> „gekocht“ (gr. πεπτός, lat.
+            <hi rendition="#i">coctus</hi>), <hi rendition="#i"
+            >*gᵘ̯ₑlé-</hi> (gr. βαλει̑ν). Der andere Punkt betrifft das
+          Zeichen <hi rendition="#i">āˣ</hi>. Der Ablaut wirkt im ganzen
+          Worte; er betrifft also nicht bloß die erste Silbe, sondern alle
+          im urindogermanischen Worte vereinten Silben. Für die Praxis
+          empfiehlt es sich allerdings vielfach, dabei von Flexionsendungen
+          und produktivem Stammbildungssuffixen abzusehen, da letztere
+          durch Ausbreitung über ganze Wortkategorien die ursprünglichen
+          Verhältnisse nur selten durchblicken lassen, und in bezug auf den
+          Ablaut nur die ihnen vorangehenden Wortstücke zu betrachten, für
+          die man den Namen Ablautbasen eingeführt hat. Diejenigen — zwei-
+          oder mehrsilbigen — Ablautbasen, die auf langen Vokal endigen,
+          schwächen ihn, wenn er in unbetonte Stellung gerät; während z. B.
+          βέ-βλη-κα den auslautenden langen Vokal der Basis <hi
+            rendition="#i">*gᵘ̯elē-</hi> unversehrt zeigt, hat βέλε-μνον
+          ihn <pb n="XVIII" facs="#f0017"/>zur Kürze geschwächt. Da nun das
+          Schwächungsergebnis sowohl von <hi rendition="#i">ā</hi>, als von
+            <hi rendition="#i">ē</hi> und <hi rendition="#i">ō</hi> in den
+          meisten Sprachen, zum Teil auch im Griechischen, in denselben
+          Vokal zusammengefallen ist, nämlich europäisch <hi rendition="#i"
+            >a</hi>, arisch <hi rendition="#i">i</hi>, die wir unter der
+          Formel <hi rendition="#i">ə</hi>, „Schwa indogermanicum“,
+          zusammenfassen, gestattet der Schwächungsvokal meist nicht die
+          Feststellung der Klangfarbe der ursprünglichen Länge; ist also
+          letztere nicht selbst in einer oder der anderen etymologisch
+          verwandten Wortform noch nachzuweisen, so können wir aus der
+          Reduktionsstufe <hi rendition="#i">ə</hi> nur mehr erschließen,
+          daß die Ablautbase auf einen der Vokale <hi rendition="#i"
+          >ā</hi>, <hi rendition="#i">ē</hi>, <hi rendition="#i">ō</hi>
+          endigte, ohne aber zwischen den dreien eine Entscheidung treffen
+          zu können; dies ist durch <hi rendition="#i">āˣ</hi>
+          bezeichnet.</p>
+        <p>Es folgt hier zur wenigstens beiläufigen Übersicht über die
+          wichtigeren in Betracht kommenden Ablautsmöglichkeiten eine
+          Auswahl von Beispielen für ein- und zweisilbige Ablautbasen,
+          wobei V. die Vollstufe, D. die Dehnstufe, R. die Reduktionsstufe
+          und S. die Schwundstufe bezeichne. Für genauere Auskunft sei auf
+          Hirts erwähnte Darstellung und auf den einschlägigen Abschnitt in
+          Brugmanns kurzer vergleichender Grammatik verwiesen.</p>
+        <list>
+          <item>Wz. <hi rendition="#i">*ped-</hi> „Fuß“: <lb/><list>
+              <item>V. <hi rendition="#i">*ped-</hi> (z. B. acc. sg. <hi
+                  rendition="#i">*pédm̥</hi>, lat. <hi rendition="#i"
+                  >pedem</hi>); mit Abtönung: <lb/><hi rendition="#i"
+                  >*pod-</hi> (gr. πόδα);</item>
+              <item>D. <hi rendition="#i">*pēd-</hi> (z. B. nom. sg. <hi
+                  rendition="#i">*pḗds</hi>, lat. <hi rendition="#i"
+                  >pēs</hi>); mit Abtönung: <lb/><hi rendition="#i"
+                  >*pōd-</hi> (z. B. dor. πώς);</item>
+              <item>R. (nachträglich bei kurzem Vokale durchaus mit der
+                Vollstufe zusammengefallen) <hi rendition="#i">*pₑd</hi>,
+                  <hi rendition="#i">*pₒd-</hi> (z. B. gen. sg. <hi
+                  rendition="#i">*pₑdés</hi>, lat. <hi rendition="#i"
+                  >pedis</hi>, gr. ποδός);</item>
+              <item>S. <hi rendition="#i">*pd-</hi> (z. B. ai. <hi
+                  rendition="#i">upa-bdá-</hi> „Getrampel“).</item>
+            </list>
+          </item>
+          <item>Wz. <hi rendition="#i">*leiqᵘ̯-</hi> „lassen“: <lb/><list>
+              <item>V. <hi rendition="#i">*leiqᵘ̯-</hi> (z. B. Präs. <hi
+                  rendition="#i">*léiqᵘ̯ō</hi>, gr. λείπω); mit Abtönung:
+                  <lb/><hi rendition="#i">*loiqᵘ̯-</hi> (z. B. gr.
+                λέλοιπα);</item>
+              <item>D. <hi rendition="#i">*lēiqᵘ̯-</hi>, <hi rendition="#i"
+                  >*lōiqᵘ̯-</hi> (z. B. Aorist ai. <hi rendition="#i"
+                  >árāikšam</hi>);</item>
+              <item>S. <hi rendition="#i">*liqᵘ̯-</hi> (z. B. Aoristpräsens
+                  <hi rendition="#i">*liqᵘ̯ṓ-</hi>, gr. Aorist
+                λιπει&#785;ν).</item>
+            </list></item>
+          <item>Wz. <hi rendition="#i">*bheudh-</hi> „geistig rege“: <lb/><list>
+              <item>V. <hi rendition="#i">*bheudh-</hi> (z. B. Präs. <hi
+                  rendition="#i">*bhéudhō</hi>, gr. πεύϑομαι); mit
+                Abtönung: <lb/><hi rendition="#i">*bhoudh-</hi> (z. B.
+                Perf. got. <hi rendition="#i">-bauþ</hi>);</item>
+              <item>D. <hi rendition="#i">*bhēudh-</hi>, <hi rendition="#i"
+                  >*bhōudh-</hi> (z. B. Aorist ai. <hi rendition="#i"
+                  >ábhāutsam</hi>);</item>
+              <item>S. <hi rendition="#i">*bhudh-</hi> (z. B. Aoristpräsens
+                  <hi rendition="#i">*bhudhṓ</hi>, gr. πυϑέσϑαι).</item>
+            </list></item>
+          <pb n="XIX" facs="#f0018"/>
+          <item>Wz. <hi rendition="#i">*bher-</hi> „tragen“: <lb/><list>
+              <item>V. <hi rendition="#i">*bher-</hi> (z. B. Präs. <hi
+                  rendition="#i">*bhérō</hi>, gr. φέρω); mit Abtönung:
+                  <lb/><hi rendition="#i">*bhor-</hi> (z. B. gr.
+                φορά);</item>
+              <item>D. <hi rendition="#i">*bhēr-</hi> (z. B. Aorist ai. <hi
+                  rendition="#i">ábhāršam</hi>); mit Abtönung: <lb/><hi
+                  rendition="#i">*bhōr-</hi> (z. B. gr. φώρ);</item>
+              <item>R. <hi rendition="#i">*bhₑr-</hi> (nur vor Vokal; z. B.
+                idg. <hi rendition="#i">*bhₑrós</hi>, got. <hi
+                  rendition="#i">baúr</hi> „Sohn“);</item>
+              <item>S. <hi rendition="#i">*bhr-</hi> (vor Vokal, z. B. gr.
+                δί-φρ-ος), <hi rendition="#i">*bhr̥-</hi> (vor Kons., z. B.
+                ai. <hi rendition="#i">bhr̥tíḥ</hi> „das Tragen“).</item>
+            </list></item>
+          <item>Wz. <hi rendition="#i">*k&#785;el-</hi> „hehlen“: <lb/><list>
+              <item>V. <hi rendition="#i">*kel-</hi> (z. B. Präs. <hi
+                  rendition="#i">*k&#785;élō</hi>, ir. <hi rendition="#i"
+                  >celim</hi>); mit Abtönung: <lb/><hi rendition="#i"
+                  >*k&#785;ol-</hi> (z. B. ahd. <hi rendition="#i"
+                  >halla</hi> „Halle“);</item>
+              <item>D. <hi rendition="#i">*kēl-</hi> (z. B. lat. <hi
+                  rendition="#i">cēlo</hi>); mit Abtönung <hi
+                  rendition="#i">*kōl-</hi> (unbelegt);</item>
+              <item>R. <hi rendition="#i">*kₑl-</hi> (nur vor Vokal, z. B.
+                gr. καλύπτω);</item>
+              <item>S. <hi rendition="#i">*kl-</hi> (vor Vokal, z. B. lat.
+                  <hi rendition="#i">clam</hi>), <hi rendition="#i"
+                  >*k&#785;l̥-</hi> (vor Kons.; unbelegt).</item>
+            </list></item>
+          <item>Wz. <hi rendition="#i">*ten-</hi> „dehnen“: <lb/><list>
+              <item>V. <hi rendition="#i">*ten-</hi> (<choice>
+                  <sic>z.B.</sic>
+                  <corr>z. B.</corr>
+                </choice> Präs. <hi rendition="#i">*teni&#815;ō</hi>, gr.
+                τείνω); mit Abtönung: <lb/><hi rendition="#i">*ton-</hi>
+                (z. B. gr. τόνος);</item>
+              <item>D. <hi rendition="#i">*tēn-</hi> (z. B. Aorist ai. <hi
+                  rendition="#i">átą&#772;sam</hi> aus <hi rendition="#i"
+                  >*é-tēnsm̥</hi>);</item>
+              <item>R. <hi rendition="#i">*tₑn-</hi> (nur vor Vokal; z. B.
+                  <hi rendition="#i">*tₑnu-</hi> „gedehnt“, gr.
+                τανυ-);</item>
+              <item>S. <hi rendition="#i">*tn-</hi> (vor Vokal; z. B. ai.
+                Perf. Med. <hi rendition="#i">ta-tn-ḗ</hi>), <hi
+                  rendition="#i">*tn̥-</hi> (vor Kons.; z. B. gr.
+                τατός).</item>
+            </list></item>
+        </list>
+        <p>Analog Wurzeln mit Vokal a (Abtönung o, selten belegt) oder o
+          (ohne Abtönung) statt e.</p>
+        <list>
+          <head rendition="#g #c">Wurzeln mit langen Vokalen.</head>
+          <item>Wz. <hi rendition="#i">*dhē-</hi> „setzen“: <lb/><list>
+              <item>V. <hi rendition="#i">*dhē-</hi> (z. B. gr. τίϑημι);
+                mit Abtönung <hi rendition="#i">*dhō-</hi> (gr.
+                ϑωμός);</item>
+              <item>R. <hi rendition="#i">*dhə-</hi> (z. B. ptc. <hi
+                  rendition="#i">*dhə-tós</hi>, ai. <hi rendition="#i"
+                  >dhitáḥ</hi>; vgl. auch lat. <hi rendition="#i"
+                  >fă-c-io</hi>; gr. ϑετός, nicht *ϑατός, scheint eine
+                Vermittlung zwischen <hi rendition="#i">ē</hi> und <hi
+                  rendition="#i">ə</hi> darzustellen);</item>
+              <item>S. <hi rendition="#i">dh-</hi> (z. B. ai. 1. pl. <hi
+                  rendition="#i">da-dh-máḥ</hi>).</item>
+            </list></item>
+          <item>Wz. <hi rendition="#i">*dō-</hi> „geben“: <lb/><list>
+              <item>V. <hi rendition="#i">*dō-</hi> (z. B. gr.
+                δίδωμι);</item>
+              <item>R. <hi rendition="#i">*də-</hi> (z. B. ptc. <hi
+                  rendition="#i">*dətós</hi>, ai. <hi rendition="#i"
+                  >ditáḥ</hi>, lat. <hi rendition="#i">datus</hi>; gr.
+                δοτός, nicht *δατός, wie ϑετός);</item>
+              <item>S. <hi rendition="#i">*d-</hi> (z. B. ai. 1. pl. <hi
+                  rendition="#i">da-d-máḥ</hi>).</item>
+            </list></item>
+          <item>Wz. <hi rendition="#i">*pāk̑-</hi> „befestigen“: <lb/><list>
+              <item>V. <hi rendition="#i">*pāk̑-</hi> (z. B. lat. <hi
+                  rendition="#i">pāx</hi>);</item>
+              <item>R. <hi rendition="#i">*pək-</hi> (z. B. lat. <hi
+                  rendition="#i">păciscor</hi>).</item>
+            </list></item>
+          <item>Wz. <hi rendition="#i">*g̑hēi-</hi> „verlassen“: <lb/><list>
+              <item>V. a) mit bewahrtem 2. Teile des Langdiphthongs <hi
+                  rendition="#i">*g̑hēi-</hi> (z. B. ai. aor. <hi
+                  rendition="#i">a-hāyi</hi>); <lb/>b) mit geschwundenem 2.
+                Teile des Langdiphthongs <hi rendition="#i">*g̑hē-</hi>
+                (nur vor Kons.; z. B. ai. <hi rendition="#i">ja-hā-ti</hi>
+                „er verläßt“, lat. <hi rendition="#i">hērēs</hi>);</item>
+              <pb n="XX" facs="#f0019"/>
+              <item>R. <hi rendition="#i">*g̑həi-</hi> (<hi rendition="#i"
+                  >*g̑hai-</hi>; z. B. got. <hi rendition="#i">gaidw</hi>
+                „Mangel“ aus <hi rendition="#i">*g̑haitu̯óm</hi>);</item>
+              <item>S. <hi rendition="#i">*ghī-</hi> (z. B. ai. ptc. <hi
+                  rendition="#i">hīnáḥ</hi> „verlassen“) und mit noch
+                stärkerer Reduktion <hi rendition="#i">*ghĭ-</hi> (z. B.
+                ai. <hi rendition="#i">jahimaḥ</hi>).</item>
+            </list></item>
+        </list>
       </div>
     </front>
     <body>
