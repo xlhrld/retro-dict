@@ -37,6 +37,17 @@
             margin-bottom: 0em;
             margin-top: 0em;
         }
+	ul{
+	    text-indent: 1.5em;
+	    padding-left: 4em;
+	    list-style: none;
+	    list-style-type: none;
+	}
+	li{
+	    padding: 0px;
+	    margin: 0px;
+	    text-indent:0px;
+	}
 	table {text-indent: 0px;}
 	td {vertical-align:top;}
 	.title_page{
@@ -169,6 +180,13 @@
   
   <xsl:template match="tei:cell">
 	  <td class="{translate(./@rendition, '#', '')}"><xsl:apply-templates/></td>
+  </xsl:template>
+
+  <xsl:template match="tei:list">
+	  <ul><xsl:apply-templates/></ul>
+  </xsl:template>
+  <xsl:template match="tei:item">
+	  <li><xsl:apply-templates/></li>
   </xsl:template>
 
 </xsl:stylesheet>
