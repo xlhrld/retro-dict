@@ -117,10 +117,16 @@
     </div>
   </xsl:template>
 
-  <xsl:template match="tei:head">
+  <xsl:template match="tei:div/tei:head">
     <h1 class="{translate(./@rendition, '#', '')}">
       <xsl:apply-templates/>
     </h1>
+  </xsl:template>
+
+  <xsl:template match="tei:list/tei:head">
+    <p class="{translate(./@rendition, '#', '')}">
+      <xsl:apply-templates/>
+    </p>
   </xsl:template>
 
   <xsl:template match="tei:p">
