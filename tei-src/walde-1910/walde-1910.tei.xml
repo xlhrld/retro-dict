@@ -30,7 +30,7 @@
           <orgName ref="https://github.com/xlhrld/retro-dict"
             >retro-dict</orgName>
         </publisher>
-        <date type="publication">2017-08-04</date>
+        <date type="publication">2017-08-07</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">
             <p>This work is licensed under a Creative Commons Attribution
@@ -799,7 +799,683 @@
                 stärkerer Reduktion <hi rendition="#i">*ghĭ-</hi> (z. B.
                 ai. <hi rendition="#i">jahimaḥ</hi>).</item>
             </list></item>
+          <item>Wz. <hi rendition="#i">*pōit-</hi> „ernähren“: <lb/><list>
+              <item>V. <hi rendition="#i">*pōit-</hi> (z. B. lit. <hi
+                  rendition="#i">pë́tus</hi> „Mittagessen“) und <hi
+                  rendition="#i">*pōt</hi> (z. B. got. <hi rendition="#i"
+                  >fōdjan</hi> „füttern“);</item>
+              <item>R. <hi rendition="#i">*pəit-</hi> (<hi rendition="#i"
+                  >*pait-</hi>; unbelegt);</item>
+              <item>S. <hi rendition="#i">*pīt-</hi> (z. B. ab. <hi
+                  rendition="#i">pītati</hi> „nähren“) und mit äußerster
+                Reduktion: <lb/><hi rendition="#i">*pĭt-</hi> (z. B. ai.
+                  <hi rendition="#i">pitúḥ</hi> „Nahrung“).</item>
+            </list></item>
+          <item>Anm.: <hi rendition="#i">*pōt-</hi> zog <hi rendition="#i"
+              >*pət-</hi> nach sich, z. B. gr. πατέομαι.</item>
+          <item>Wz. <hi rendition="#i">*stēur-</hi> „massig, stark“: <lb/><list>
+              <item>V. <hi rendition="#i">*stēur-</hi> (ahd. <hi
+                  rendition="#i">stiuri</hi> „stark“); bzw. mit Abtönung:
+                  <hi rendition="#i">*stōur-</hi> (nicht belegbar), woraus
+                  <hi rendition="#i">*stōr-</hi> (lit. <hi rendition="#i"
+                  >stóras</hi> „dick“);</item>
+              <item>R. <hi rendition="#i">*stəur-</hi> (<hi rendition="#i"
+                  >*staur-</hi>; z. B. gr. σταυρός, lat. <hi rendition="#i"
+                  >restauro</hi>);</item>
+              <item>S. <hi rendition="#i">*stūr-</hi> (z. B. ai. <hi
+                  rendition="#i">sthūráḥ</hi> „massiv, stark“), und mit
+                äußerster Reduktion: <lb/><hi rendition="#i">*stŭr-</hi>
+                (unbelegt).</item>
+            </list>
+          </item>
         </list>
+        <list>
+          <head rendition="#c #g">Zweisilbige Basen mit langem Vokal der
+            zweiten Silbe.</head>
+          <item>Basis <hi rendition="#i">*gerō-</hi> „Kranich“ (z. T. auch
+              <hi rendition="#i">*gerōu-</hi>)<choice>
+              <sic/>
+              <corr>:</corr>
+            </choice>
+            <lb/><list>
+              <item>V. der 1. Silbe <hi rendition="#i">*gére-</hi> (bzw.
+                  <hi rendition="#i">*gérəu-</hi>; vgl. gr, γέρα-νος, bzw.
+                lit. <hi rendition="#i">gérv-ė</hi>);</item>
+              <item>V. der 2. Silbe <hi rendition="#i">*gₑrṓ(u)-</hi>
+                (urslavisch <hi rendition="#i">žъrav-ъ</hi>, serb. <hi
+                  rendition="#i">ždrȁo</hi>) und <lb/><hi rendition="#i"
+                  >*grō(u)-</hi> (lat. <hi rendition="#i">grūs</hi> aus <hi
+                  rendition="#i">*grōus</hi>);</item>
+              <item>R. beider Silben <hi rendition="#i">*gₑrə(u)-</hi>
+                (gall. <hi rendition="#i">garanus</hi>);</item>
+              <item>S. der 1., R. der 2. Silbe <hi rendition="#i"
+                  >*grə-</hi> (ahd. <hi rendition="#i"
+                >cra-nuh</hi>).</item>
+            </list></item>
+          <item>Basis <hi rendition="#i">*telē-</hi> „tragen“: <lb/><list>
+              <item>V. der 1. Silbe <hi rendition="#i">*télə-</hi> (gr.
+                ἐτέλασσα, ai. <hi rendition="#i">tali-man-</hi>);</item>
+              <item>V. der 2. Silbe <hi rendition="#i">*tₑlḗ-</hi> (lit.
+                  <hi rendition="#i">tylė́ti</hi> aus älterem <hi
+                  rendition="#i">*tilė́ti</hi>) und <hi rendition="#i"
+                  >*tlē</hi>- (lat. <hi rendition="#i">clēmens</hi>, wenn
+                aus <hi rendition="#i">*tlē-mens</hi>);</item>
+              <item>R. beider Silben <hi rendition="#i">*tₑlə-</hi> (gr.
+                τάλαντον; gewöhnlich — als sog. <hi rendition="#i"
+                  >l̥&#772;</hi> — einsilbig vertreten, z. B. gr. τλᾱτός,
+                woraus att.-jon. τλητός);</item>
+              <item>S. der 1., R. der 2. Silbe <hi rendition="#i"
+                  >*tlə-</hi> (gr. τέτλαμεν).</item>
+            </list></item>
+          <item>Basis <hi rendition="#i">*delāˣgh-</hi> „lang“: <lb/><list>
+              <item>V. der 1. Silbe <hi rendition="#i">*deləgh-</hi>
+                (ἐν-δελεχής aus -δελαχης);</item>
+              <item>V. der 2. Silbe <hi rendition="#i">*dₑlāˣgh-</hi>
+                (unbelegt) und <hi rendition="#i">*dlāˣgh-</hi> (ai. <hi
+                  rendition="#i">drā́ghīyas-</hi>);</item>
+              <item>R. beider Silben <hi rendition="#i">*dₑləgh-</hi> (ai.
+                  <hi rendition="#i">dīrgháḥ</hi>, sog. <hi rendition="#i"
+                  >l̥&#772;</hi>);</item>
+              <item>S. beider Silben <hi rendition="#i">*dl̥gh-</hi> (lat.
+                  <hi rendition="#i">indulgeo</hi>).</item>
+            </list></item>
+          <item>Basis <hi rendition="#i">*g̑enē-</hi>, <hi rendition="#i"
+              >*g̑enō-</hi> „erzeugen“: <lb/><list>
+              <item>V. der 1. Silbe <hi rendition="#i">*g̑enə-</hi> (z. B.
+                ai. <hi rendition="#i">janiman-</hi> „Geburt“, gr.
+                γένεσις);</item>
+              <item>V. der 2. Silbe <hi rendition="#i">*gₑnḗ-</hi>, <hi
+                  rendition="#i">*gₑnṓ-</hi> (unbelegt; vgl. von <hi
+                  rendition="#i">*g̑enē-</hi>, <hi rendition="#i"
+                  >*g̑enō-</hi> „wissen“, das lit. <hi rendition="#i"
+                  >žinóti</hi> „wissen“) und <pb n="XXI" facs="#f0020"/><hi
+                  rendition="#i">*g̑nē-</hi>, <hi rendition="#i"
+                  >*g̑nō-</hi> (ai. <hi rendition="#i">jñātíḥ</hi>
+                „Verwandter“, gr. γνωτός „Bruder“, kypr.
+                κασί-γνητος);</item>
+              <item>R. beider Silben <hi rendition="#i">*gₑnə-</hi> (ai.
+                  <hi rendition="#i">jātáḥ</hi> „Sohn“, lat. <hi
+                  rendition="#i">nātus</hi>; sog. <hi rendition="#i"
+                  >n̥&#772;</hi>);</item>
+              <item>S. der 1., R. der 2. Silbe <hi rendition="#i"
+                  >*g̑nə-</hi> (ai. <hi rendition="#i">ja-jni-ḥ</hi>, ahd.
+                  <hi rendition="#i">knabo</hi>).</item>
+            </list></item>
+          <item>Basis <hi rendition="#i">*u̯ei̯e-</hi> „winden“: <lb/><list>
+              <item>V. der 1. Silbe <hi rendition="#i">*u̯ei̯ə-</hi> (ai.
+                  <hi rendition="#i">vḗtman-</hi> „Webstuhl“ aus <hi
+                  rendition="#i">*vayiman-</hi>); mit Abtönung: <lb/><hi
+                  rendition="#i">*u̯oiə-</hi> (gr. οἰ&#785;σος
+                „Weide“);</item>
+              <item>V. der 2. Silbe <hi rendition="#i">*u̯ₑi̯ḗ-</hi>,
+                woraus uridg. <hi rendition="#i">*u̯ii̯ḗ-</hi> (lat. <hi
+                  rendition="#i">viēre</hi>), bzw.: <lb/><hi rendition="#i"
+                  >*u̯i̯ē-</hi> (ai. <hi rendition="#i">vyā-nam</hi> „das
+                Winden“);</item>
+              <item>R. beider Silben <hi rendition="#i">*u̯ₑiə</hi>, woraus
+                uridg. <hi rendition="#i">*u̯ĩ-</hi> (ai. <hi
+                  rendition="#i">vītáḥ</hi> „gewunden“);</item>
+              <item>S. der 1., R. der 2. Silbe <hi rendition="#i"
+                  >*u̯i̯ə-</hi> (ai. <hi rendition="#i">vyá-yati</hi> „er
+                windet“);</item>
+              <item>S. beider Silben <hi rendition="#i">*u̯i-</hi> (gr.
+                ἴτυς „Radfelge“).</item>
+            </list></item>
+          <item>Basen <hi rendition="#i">*bheu̯ā-</hi> und <hi
+              rendition="#i">*bheu̯ē-</hi> (zugleich Beispiel für das
+            Vorhandensein mehrerer Basenformen von derselben Wz., hier <hi
+              rendition="#i">*bheu-</hi>) „werden, sein“: <lb/><list>
+              <item>V. der 1. Silbe <hi rendition="#i">*bheu̯ə-</hi> (ai.
+                  <hi rendition="#i">bhávitum</hi>);</item>
+              <item>V. der 2. Silbe <hi rendition="#i">*bhₑu̯ā-</hi>, <hi
+                  rendition="#i">*bhₑu̯ē-</hi>, woraus uridg. <hi
+                  rendition="#i">*bhuu̯ā-</hi> (lat. <hi rendition="#i"
+                  >fuam</hi>), <hi rendition="#i">*bhuu̯ē-</hi> (unbelegt),
+                und <lb/><hi rendition="#i">*bhu̯ā-</hi> (lat. <hi
+                  rendition="#i">-bām</hi> in <hi rendition="#i"
+                  >amā-bam</hi> usw.), <hi rendition="#i"><choice>
+                    <sic>*bhuē-</sic>
+                    <corr>*bhu̯ē-</corr>
+                  </choice></hi> (ab. <hi rendition="#i">bĕ</hi> „war“ aus
+                  <hi rendition="#i">*bhu̯ē-s-t</hi>);</item>
+              <item>R. beider Silben <hi rendition="#i">*bhₑuə-</hi>,
+                woraus uridg. <hi rendition="#i">*bhū-</hi> (z. B. gr.
+                ἔφῡ);</item>
+              <item>S. der 1., R. der 2. Silbe <hi rendition="#i"
+                  >*bhu̯ə-</hi> (liegt dem ai. <hi rendition="#i"
+                  >á-bhva-</hi> zugrunde);</item>
+              <item>S. beider Silben <hi rendition="#i">*bhu-</hi> (z. B.
+                gr. φύσις).</item>
+            </list></item>
+        </list>
+        <p>Die folgende Lauttabelle soll einen gedrängten Überblick darüber
+          bieten, von welchen idg. Lauten die einzelnen lateinischen
+          abstammen. Für die Beurteilung von Worten aus den übrigen in
+          Vergleich gezogenen Sprachen muß auch hier wieder auf Brugmanns
+          systematische Werke, fürs Lateinische außerdem auf Sommers in
+          dieser Sammlung erschienenes Handbuch der lateinischen Laut- und
+          Formenlehre verwiesen werden.</p>
+      </div>
+      <div xml:id="latin-sounds">
+        <pb n="XXII" facs="#f0021"/>
+        <head rendition="#c">Die Entstehung der lateinischen Laute ans
+          denen der indogermanischen Grundsprache.</head>
+        <list>
+          <item><hi rendition="#b">ă</hi> = idg.<list>
+              <item><hi rendition="#i">a</hi> (<hi rendition="#i">ago</hi>:
+                ἄγω, ai. <hi rendition="#i">ájati</hi>).</item>
+              <item><hi rendition="#i">ə</hi> (<hi rendition="#i"
+                  >pater</hi>: πατήρ, ai. <hi rendition="#i"
+                >pitár-</hi>).</item>
+              <item><hi rendition="#i">ₑ</hi> vor <hi rendition="#i"
+                >r</hi>, <hi rendition="#i">l</hi> (<hi rendition="#i"
+                  >varus</hi>: lit. <hi rendition="#i">vìras</hi>).</item>
+              <item><hi rendition="#i">o</hi> vor dem lat. Ton (<hi
+                  rendition="#i">cavḗre</hi>: κοέω).</item>
+            </list></item>
+          <item><hi rendition="#b">ĕ</hi> = idg. <list>
+              <item><hi rendition="#i">e</hi> (<hi rendition="#i"
+                >fero</hi>: φέρω).</item>
+              <item><hi rendition="#i">i</hi> vor aus <hi rendition="#i"
+                  >s</hi> entstandenem <hi rendition="#i">r</hi> (<hi
+                  rendition="#i">sero</hi> aus <hi rendition="#i"
+                  >*si-sō</hi>).</item>
+              <item>in der Verbindung <hi rendition="#i">en</hi>, <hi
+                  rendition="#i">em</hi> aus idg. <hi rendition="#i"
+                  >n̥</hi>, <hi rendition="#i">m̥</hi> (<hi rendition="#i"
+                  >tentus</hi>: τατός, ai. <hi rendition="#i">tatáḥ</hi>;
+                  <hi rendition="#i">pedem</hi>: πόδα).</item>
+              <item><hi rendition="#i">o</hi>, seit dem 2. Jh. v. Chr. vor
+                  <hi rendition="#i">r</hi>, <hi rendition="#i">s</hi>, <hi
+                  rendition="#i">t</hi> nach <hi rendition="#i">v-</hi>
+                  (<hi rendition="#i">versus</hi> aus <hi rendition="#i"
+                  >vorsus</hi>, <hi rendition="#i">vester</hi> aus <hi
+                  rendition="#i">voster</hi>, <hi rendition="#i">veto</hi>
+                aus <hi rendition="#i">voto</hi>).</item>
+            </list></item>
+          <item><hi rendition="#b">ĭ</hi> = idg. <list>
+              <item><hi rendition="#i">i</hi> (<hi rendition="#i"
+                >quis</hi>: τίς).</item>
+              <item><hi rendition="#i">e</hi> vor <hi rendition="#i">n</hi>
+                  (<hi rendition="#i">quinque</hi>: πέντε), und durch
+                Assimilation an ein <hi rendition="#i">i</hi> der nächsten
+                Silbe (<hi rendition="#i">milium</hi>: μελίνη).</item>
+            </list></item>
+          <item><hi rendition="#b">ŏ</hi> = idg. <list>
+              <item><hi rendition="#i">o</hi> (<hi rendition="#i"
+                >octo</hi>: ὀκτώ).</item>
+              <item>in der Verbindung <hi rendition="#i">or</hi>, <hi
+                  rendition="#i">ol</hi> aus idg. <hi rendition="#i"
+                  >r̥</hi>, <hi rendition="#i">l̥</hi> (<hi rendition="#i"
+                  >mors</hi>: ai. <hi rendition="#i">mr̥tiḥ</hi>; <hi
+                  rendition="#i">mollis</hi>: ai. <hi rendition="#i"
+                  >mr̥dúḥ</hi>).</item>
+              <item><hi rendition="#i">e</hi> vor <hi rendition="#i"
+                  >u̯</hi> (<hi rendition="#i">novus</hi>: νέ(ϝ)ος).</item>
+              <item><hi rendition="#i">e</hi> vor <hi rendition="#i">ɫ</hi>
+                  (<hi rendition="#i">volvo</hi>: ἐλύω).</item>
+              <item><hi rendition="#i">u</hi> vor aus <hi rendition="#i"
+                  >s</hi> entstandenem <hi rendition="#i">r</hi> (<hi
+                  rendition="#i">foret</hi>: o. <hi rendition="#i"
+                  >fusíd</hi>).</item>
+              <item><hi rendition="#i">u̯e</hi> nach <hi rendition="#i"
+                  >s-</hi> und <hi rendition="#i">c-</hi> (<hi
+                  rendition="#i">soror</hi>: ahd. <hi rendition="#i"
+                  >swestar</hi>; <hi rendition="#i">coquo</hi> aus <hi
+                  rendition="#i">*quequō</hi>).</item>
+              <item><hi rendition="#i">u̯o</hi> (<hi rendition="#i"
+                  >sūdor</hi> aus <hi rendition="#i">*su̯oidos</hi>: ahd.
+                  <hi rendition="#i">sweiʒ</hi>).</item>
+            </list></item>
+          <item><hi rendition="#b">ŭ</hi> = idg. <list>
+              <item><hi rendition="#i">u</hi> (<hi rendition="#i"
+                  >jugum</hi>: ai. <hi rendition="#i">yugám</hi>, gr.
+                ζυγόν).</item>
+              <item><hi rendition="#i">e</hi> vor <hi rendition="#i">ɫ</hi>
+                + Kons. (<hi rendition="#i">pulmentum</hi>: u. <hi
+                  rendition="#i">pelmner</hi>).</item>
+              <item><hi rendition="#i">o</hi> vor <hi rendition="#i">n</hi>
+                  (<hi rendition="#i">uncus</hi>: ὄγκος), vor <hi
+                  rendition="#i">ɫ</hi> + Kons. (<hi rendition="#i"
+                  >multa</hi>, alat. <hi rendition="#i">molta</hi>), vor
+                  <hi rendition="#i">m</hi> (<hi rendition="#i">umbo</hi>:
+                ὀμφαλός; <hi rendition="#i">umerus</hi>: got. <hi
+                  rendition="#i">ams</hi>), teilweise vor <hi
+                  rendition="#i">r</hi> + Kons. (<hi rendition="#i"
+                  >furnus</hi>: <hi rendition="#i">fornax</hi>).</item>
+            </list></item>
+          <item><hi rendition="#b">ā</hi> = idg. <list>
+              <item><hi rendition="#i">ā</hi> (<hi rendition="#i"
+                  >frāter</hi>: φρᾱ&#769;τωρ).</item>
+              <item>in den Verbindungen <hi rendition="#i">rā</hi>, <hi
+                  rendition="#i">lā</hi>, <hi rendition="#i">nā</hi> aus
+                idg. sogenanntem <hi rendition="#i">r̥&#772;</hi>; <hi
+                  rendition="#i">l̥&#772;</hi>, <hi rendition="#i"
+                  >n̥&#772;</hi> (richtiger zweisilbigen
+                Schwächungsprodukten von zweisilbigen Basen auf langen
+                Vokal): <hi rendition="#i">grātus</hi>: ai. <hi
+                  rendition="#i">gūrtáḥ</hi>; <hi rendition="#i">lāna</hi>:
+                ai. <hi rendition="#i">ūrṇā</hi>; (<hi rendition="#i"
+                  >g</hi>)<hi rendition="#i">nātus</hi>: ai. <hi
+                  rendition="#i">jātáḥ</hi>.</item>
+            </list></item>
+          <item><hi rendition="#b">ē</hi> = idg. <list>
+              <item><hi rendition="#i">ē</hi> (<hi rendition="#i">rēx</hi>:
+                ai. <hi rendition="#i">rāj-</hi>).</item>
+              <item><hi rendition="#i">ā</hi> vortonig nach <hi
+                  rendition="#i">j-</hi> (<hi rendition="#i">jējū́nus</hi>
+                neben <hi rendition="#i">jājū́nus</hi>).</item>
+            </list></item>
+          <item><hi rendition="#b">ī</hi> = idg. <list>
+              <item><hi rendition="#i">ī</hi> (<hi rendition="#i"
+                  >vīvus</hi>: ai. <hi rendition="#i">jīváḥ</hi>).</item>
+              <item><hi rendition="#i">ei</hi> (<hi rendition="#i"
+                  >dīco</hi>: δείκνυμι).</item>
+              <item><hi rendition="#i">oi</hi> nach <hi rendition="#i"
+                  >v-</hi> (<hi rendition="#i">vīcus</hi>: (ϝ)οἰ&#785;κος),
+                oder nach <hi rendition="#i">l</hi> vor Labial (<hi
+                  rendition="#i">clīvus</hi>: got. <hi rendition="#i"
+                  >hlaiw</hi>).</item>
+            </list></item>
+          <pb n="XXIII" facs="#f0022"/>
+          <item><hi rendition="#b">ō</hi> = idg. <list>
+              <item><hi rendition="#i">ō</hi> (<hi rendition="#i"
+                  >nōtus</hi>: γνωτός).</item>
+            </list></item>
+          <item><hi rendition="#b">ū</hi> = idg. <list>
+              <item><hi rendition="#i">ū</hi> (<hi rendition="#i"
+                  >fūmus</hi>: ϑῡμός).</item>
+              <item><hi rendition="#i">oi</hi> (<hi rendition="#i"
+                  >ūnus</hi>: οἰνή, got. <hi rendition="#i"
+                >ains</hi>).</item>
+              <item><hi rendition="#i">eu</hi> (<hi rendition="#i"
+                >ūro</hi>: εὕω).</item>
+              <item><hi rendition="#i">ou</hi> (<hi rendition="#i"
+                  >clūnis</hi>: aisl. <hi rendition="#i"
+                >hlaun</hi>).</item>
+            </list></item>
+          <item><hi rendition="#b">ü</hi> (durch <hi rendition="#i">i</hi>
+            oder <hi rendition="#i">u</hi> bezeichnet) = idg. <list>
+              <item><hi rendition="#i">ŭ</hi> nach <hi rendition="#i"
+                  >l</hi> vor Labial (<hi rendition="#i">lubet</hi>, <hi
+                  rendition="#i">libet</hi>: ai. <hi rendition="#i"
+                  >lúbhyati</hi>).</item>
+            </list></item>
+          <item><hi rendition="#b">ae</hi> = idg. <list>
+              <item><hi rendition="#i">ai</hi> (<hi rendition="#i"
+                  >aedēs</hi>: αἴϑω).</item>
+            </list></item>
+          <item><hi rendition="#b">oe</hi> = idg. <list>
+              <item><hi rendition="#i">oi</hi> nach <hi rendition="#i"
+                  >p-</hi>, <hi rendition="#i">f-</hi>, <hi rendition="#i"
+                  >qu-</hi>(<hi rendition="#i">c-</hi>) (<hi rendition="#i"
+                  >poena</hi> aus ποινή).</item>
+            </list></item>
+          <item><hi rendition="#b">au</hi> = idg. <list>
+              <item><hi rendition="#i">au</hi> (<hi rendition="#i"
+                  >augeo</hi>: αὔξω).</item>
+            </list></item>
+          <item><hi rendition="#b">j</hi> = idg. <list>
+              <item><hi rendition="#i">i̯-</hi> (<hi rendition="#i"
+                  >jugum</hi>: ai. <hi rendition="#i">yugám</hi>).</item>
+              <item><hi rendition="#i">dj-</hi> (<hi rendition="#i"
+                  >Jovem</hi>: ai. <hi rendition="#i">dyāuḥ</hi>).</item>
+              <item>inlautend (Geltung <hi rendition="#i">i̯i̯</hi>) = <hi
+                  rendition="#i">gi̯</hi> (<hi rendition="#i">ajo</hi> zu
+                  <hi rendition="#i">adagium</hi>), = <hi rendition="#i"
+                  >di̯</hi> (<hi rendition="#i">cāja</hi> aus <hi
+                  rendition="#i">*caidi̯ā</hi> zu <hi rendition="#i"
+                  >caedo</hi>.</item>
+            </list></item>
+          <item><hi rendition="#b">v</hi> = idg. <list>
+              <item><hi rendition="#i">u̯</hi> (<hi rendition="#i"
+                  >vīcus</hi>: ϝοι&#785;κος).</item>
+              <item><hi rendition="#i">gᵘ̯</hi> (<hi rendition="#i"
+                  >vīvus</hi>: ai. <hi rendition="#i">jīváḥ</hi>, lit. <hi
+                  rendition="#i">gývas</hi>) außer nach <hi rendition="#i"
+                  >n</hi> (<hi rendition="#i">inguen</hi>: ἀδήν).</item>
+              <item><hi rendition="#i">gᵘ̯h</hi> im Inlaut (<hi
+                  rendition="#i">nivem</hi>: νίφα) außer nach <hi
+                  rendition="#i">n</hi> (<hi rendition="#i"
+                >ninguit</hi>).</item>
+              <item><hi rendition="#i">qu̯-</hi> (nicht <hi rendition="#i"
+                  >qᵘ̯</hi>!) (<hi rendition="#i">vapor</hi>: καπνός, lit.
+                  <hi rendition="#i">kvãpas</hi>).</item>
+              <item><hi rendition="#i">du̯</hi> inlautend (<hi
+                  rendition="#i">svāvis</hi>: ai. fem. <hi rendition="#i"
+                  >svādvī́</hi>).</item>
+            </list></item>
+          <item><hi rendition="#b">r</hi> = idg. <list>
+              <item><hi rendition="#i">r</hi> (<hi rendition="#i"
+                >fero</hi>: φέρω).</item>
+              <item><hi rendition="#i">s</hi> zwischen Vokalen (<hi
+                  rendition="#i">generis</hi>: <hi rendition="#i"
+                  >genus</hi>).</item>
+              <item><hi rendition="#i">z</hi> vor <hi rendition="#i">g</hi>
+                  (<hi rendition="#i">mergo</hi>: lit. <hi rendition="#i"
+                  >mazgóti</hi>).</item>
+              <item><hi rendition="#i">u̯r-</hi> anlautend (<hi
+                  rendition="#i">rica</hi>: ags. <hi rendition="#i"
+                  >wrigels</hi>).</item>
+            </list></item>
+          <item><hi rendition="#b">l</hi> = idg. <list>
+              <item><hi rendition="#i">l</hi> (<hi rendition="#i"
+                  >lūcēre</hi>: λευκός).</item>
+              <item><hi rendition="#i">d</hi> in ursprünglich dialektischen
+                (sabinischen) Worten (<hi rendition="#i">lacrima</hi>:
+                altlat. <hi rendition="#i">dacruma</hi>, gr. δάκρυ).</item>
+              <item><hi rendition="#i">u̯l-</hi> anlautend (<hi
+                  rendition="#i">lāna</hi> zunächst aus <hi rendition="#i"
+                  >*u̯lānā</hi>: lit. <hi rendition="#i"
+                >vílna</hi>).</item>
+              <item><hi rendition="#i">tl-</hi> anlautend (<hi
+                  rendition="#i">lātus</hi> aus <hi rendition="#i"
+                  >*tlātos</hi>: <hi rendition="#i">tuli</hi>).</item>
+              <item><hi rendition="#i">sl-</hi> anlautend (<hi
+                  rendition="#i">laxus</hi>: ahd. <hi rendition="#i"
+                  >slach</hi>).</item>
+            </list></item>
+          <item><hi rendition="#b">m</hi> = idg. <list>
+              <item><hi rendition="#i">m</hi> (<hi rendition="#i"
+                  >māter</hi>: μήτηρ).</item>
+              <item><hi rendition="#i">p</hi>, <hi rendition="#i"
+                  >b</hi>(<hi rendition="#i">h</hi>) vor <hi rendition="#i"
+                  >n</hi> (<hi rendition="#i">somnus</hi>: ὕπνος).</item>
+              <item><hi rendition="#i">sm</hi> (<hi rendition="#i"
+                >psm</hi>, <hi rendition="#i">tsm</hi>, <hi rendition="#i"
+                  >ksm</hi>) (<hi rendition="#i">cōmis</hi>, älter <hi
+                  rendition="#i">cosmis</hi>, u. dgl.).</item>
+            </list></item>
+          <item><hi rendition="#b">n</hi> = idg. <list>
+              <item><hi rendition="#i">n</hi> (<hi rendition="#i"
+                  >novus</hi>: νέος).</item>
+              <item>= vielen, besonders Guttural oder <hi rendition="#i"
+                  >s</hi> enthaltenden Konsonantengruppen (z. B. <hi
+                  rendition="#i">nātus</hi>, älter <hi rendition="#i"
+                  >gnātus</hi>; <hi rendition="#i">nurus</hi>: ai. <hi
+                  rendition="#i">snušā</hi>; <hi rendition="#i">lūna</hi>:
+                apr. <hi rendition="#i">lauxnos</hi>).</item>
+            </list></item>
+          <item><hi rendition="#b">p</hi> = idg. <list>
+              <item><hi rendition="#i">p</hi> (<hi rendition="#i"
+                  >pater</hi>: πατήρ).</item>
+              <item><hi rendition="#i">pu̯</hi> (<hi rendition="#i"
+                  >aperio</hi>, wenn aus <hi rendition="#i"
+                >*apu̯eriō</hi>).</item>
+              <item><hi rendition="#i">tu̯</hi> anlautend (<hi
+                  rendition="#i">paries</hi>: lit. <hi rendition="#i"
+                  >tveriù</hi>).</item>
+            </list></item>
+          <item><hi rendition="#b">b</hi> = idg. <list>
+              <item><hi rendition="#i">b</hi> (<hi rendition="#i"
+                  >dē-bilis</hi>: ai. <hi rendition="#i"
+                >bálam</hi>).</item>
+              <item><hi rendition="#i">m</hi> vor <hi rendition="#i">r</hi>
+                im Inlaut (<hi rendition="#i">hībernus</hi> aus <hi
+                  rendition="#i">*heimrinos</hi>: χειμερινός).</item>
+              <item><hi rendition="#i">bh</hi> im Inlaut (<hi
+                  rendition="#i">nebula</hi>: νεφέλη).</item>
+              <item><hi rendition="#i">dh</hi> im Inlaut nach <hi
+                  rendition="#i">r</hi>, vor <hi rendition="#i">r</hi>; vor
+                  <hi rendition="#i">l</hi>, nach <hi rendition="#i">u</hi>
+                  (<hi rendition="#i">verbum</hi>: got. <hi rendition="#i"
+                  >waúrd</hi>; <hi rendition="#i">glabro-</hi>: ahd. <hi
+                  rendition="#i">glat</hi>; <hi rendition="#i"
+                  >stabulum</hi> aus <hi rendition="#i">*stədhlom</hi>:
+                čech. <hi rendition="#i">stadlo</hi>; ūber:
+                οὐ&#785;ϑαρ).</item>
+              <item><hi rendition="#i">gᵘ̯h</hi> vor <hi rendition="#i"
+                  >r</hi> im Inlaut (<hi rendition="#i">nebrundines</hi>:
+                νεφρός, ahd. <hi rendition="#i">nioro</hi>).</item>
+              <item><hi rendition="#i">s</hi> vor <hi rendition="#i">r</hi>
+                im Inlaut (<hi rendition="#i">sobrīnus</hi> aus <hi
+                  rendition="#i">*su̯esrīnos</hi>).</item>
+              <pb n="XXIV" facs="#f0023"/>
+              <item><hi rendition="#i">bhu̯</hi> im Inlaut (<hi
+                  rendition="#i">superbus</hi> aus <hi rendition="#i"
+                  >-bhu̯os</hi>).</item>
+              <item><hi rendition="#i">du̯</hi> im Anlaut (<hi
+                  rendition="#i">bonus</hi>, älter <hi rendition="#i"
+                  >duonus</hi>).</item>
+            </list></item>
+          <item><hi rendition="#b">t</hi> = idg. <list>
+              <item><hi rendition="#i">t</hi> (<hi rendition="#i"
+                  >pater</hi>: πατήρ).</item>
+              <item><hi rendition="#i">d</hi> vor <hi rendition="#i">r</hi>
+                  (<hi rendition="#i">taeter</hi> aus <hi rendition="#i"
+                  >*taidros</hi>: <hi rendition="#i">taedet</hi>).</item>
+            </list></item>
+          <item><hi rendition="#b">d</hi> = idg. <list>
+              <item><hi rendition="#i">d</hi> (<hi rendition="#i"
+                >dico</hi>: δείκνυμι).</item>
+              <item><hi rendition="#i">dh</hi> im Inlaut (<hi
+                  rendition="#i">medius</hi>: ai. <hi rendition="#i"
+                  >madhyaḥ</hi>).</item>
+              <item><hi rendition="#i">zd</hi> (<hi rendition="#i"
+                  >nīdus</hi>: ahd. <hi rendition="#i">nest</hi>).</item>
+            </list></item>
+          <item><hi rendition="#b">c</hi> = idg. <list>
+              <item><hi rendition="#i">k̑</hi> (<hi rendition="#i"
+                  >centum</hi>: ἑκατόν, ai. <hi rendition="#i"
+                >çatám</hi>).</item>
+              <item><hi rendition="#i">q</hi> (<hi rendition="#i"
+                  >cruor</hi>: κρέας, ai. <hi rendition="#i"
+                >kravíḥ</hi>).</item>
+              <item><hi rendition="#i">qᵘ̯</hi> vor Kons. (<hi
+                  rendition="#i">coctus</hi>: πεπτός, ai. <hi
+                  rendition="#i">paktáḥ</hi>).</item>
+              <item><hi rendition="#i">qᵘ̯</hi> vor <hi rendition="#i"
+                  >i̯</hi> (<hi rendition="#i">socius</hi> aus <hi
+                  rendition="#i">*soqᵘ̯i̯os</hi>: <hi rendition="#i"
+                  >sequor</hi>).</item>
+              <item><hi rendition="#i">qᵘ̯</hi> vor <hi rendition="#i"
+                  >u</hi> (<hi rendition="#i">relicuos</hi> zu <hi
+                  rendition="#i">relinquo</hi>).</item>
+              <item><hi rendition="#i">qᵘ̯</hi> vor <hi rendition="#i"
+                  >ŏ</hi> (<hi rendition="#i">cottidie</hi> aus <hi
+                  rendition="#i">*quotitei</hi>
+                <hi rendition="#i">diē</hi>)<choice>
+                  <sic/>
+                  <corr>.</corr>
+                </choice></item>
+              <item><hi rendition="#i">t</hi> vor <hi rendition="#i">l</hi>
+                  (<hi rendition="#i">pōc</hi>[<hi rendition="#i"
+                  >u</hi>]<hi rendition="#i">lum</hi> aus <hi
+                  rendition="#i">*pō-tlom</hi>).</item>
+            </list></item>
+          <item><hi rendition="#b">qu</hi> = idg. <list>
+              <item><hi rendition="#i">qᵘ̯</hi> (<hi rendition="#i"
+                  >sequor</hi>: ἕπομαι, ai. <hi rendition="#i"
+                >sácatē</hi>).</item>
+              <item><hi rendition="#i">p</hi> durch Assimilation an ein die
+                nächste Silbe anlautendes <hi rendition="#i">qᵘ̯</hi> (<hi
+                  rendition="#i">quinque</hi>: πέντε, ai. <hi
+                  rendition="#i">páñca</hi>).</item>
+              <item><hi rendition="#i">k̑u̯</hi> (<hi rendition="#i"
+                  >equus</hi>: ai. <hi rendition="#i">açvaḥ</hi>).</item>
+            </list></item>
+          <item><hi rendition="#b">g</hi> = idg. <list>
+              <item><hi rendition="#i">g̑</hi> (<hi rendition="#i"
+                  >ager</hi>: ἀγρός, ai. <hi rendition="#i"
+                >ájraḥ</hi>).</item>
+              <item><hi rendition="#i">g</hi> (<hi rendition="#i"
+                  >gratus</hi>: γέρας, ai. <hi rendition="#i"
+                >gūrtáḥ</hi>).</item>
+              <item><hi rendition="#i">g̑h</hi>, <hi rendition="#i">gh</hi>
+                nach Kons. (<hi rendition="#i">ango</hi>: ἄγχω, ab. <hi
+                  rendition="#i">ązъkъ</hi>).</item>
+              <item><hi rendition="#i">gᵘ̯</hi> vor Kons. (<hi
+                  rendition="#i">glans</hi>: βάλανος, ab. <hi
+                  rendition="#i">želądъ</hi>).</item>
+              <item><hi rendition="#i">gᵘ̯</hi> vor <hi rendition="#i"
+                  >u</hi> (<hi rendition="#i">gurdus</hi>: βραδύς).</item>
+              <item>lat. <hi rendition="#i">c</hi> vor <hi rendition="#i"
+                  >m</hi> (<hi rendition="#i">segmentum</hi>: <hi
+                  rendition="#i">seco</hi>), <hi rendition="#i">n</hi> (<hi
+                  rendition="#i">agna</hi>: <hi rendition="#i"
+                >acus</hi>).</item>
+            </list></item>
+          <item><hi rendition="#b">gu̯</hi> = idg. <list>
+              <item><hi rendition="#i">gᵘ̯</hi>, <hi rendition="#i"
+                  >gᵘ̯h</hi> nach <hi rendition="#i">n</hi> (<hi
+                  rendition="#i">unguen</hi>: ai. <hi rendition="#i"
+                  >añjiḥ</hi>; <hi rendition="#i">ninguit</hi>: <hi
+                  rendition="#i">nivem</hi>, νίφα).</item>
+            </list></item>
+          <item><hi rendition="#b">s</hi> = idg. <list>
+              <item><hi rendition="#i">s</hi> (<hi rendition="#i"
+                  >sequor</hi>: ai. <hi rendition="#i">sacatē</hi>).</item>
+              <item><hi rendition="#i">ps-</hi> (<hi rendition="#i"
+                  >sabulum</hi>: ψάμμος), <hi rendition="#i">ks-</hi> (<hi
+                  rendition="#i">sentis</hi>: ξαίνω).</item>
+              <item><hi rendition="#i">t</hi> in den Verbindungen <hi
+                  rendition="#i">ss</hi> = idg. <hi rendition="#i">tt</hi>
+                  (<hi rendition="#i">versus</hi>: ai. <hi rendition="#i"
+                  >vr̥ttáḥ</hi>) und <hi rendition="#i">str</hi> = idg. <hi
+                  rendition="#i">ttr</hi> (<hi rendition="#i"
+                  >assestrix</hi>: <hi rendition="#i">assessor</hi>, idg.
+                  <hi rendition="#i">*sed-trī</hi>, <hi rendition="#i"
+                  >-tōr</hi>).</item>
+            </list></item>
+          <item><hi rendition="#b">f</hi> = idg. <list>
+              <item><hi rendition="#i">bh-</hi> (<hi rendition="#i"
+                  >fero</hi>: φέρω, ai. <hi rendition="#i"
+                >bharati</hi>).</item>
+              <item><hi rendition="#i">dh-</hi> (<hi rendition="#i"
+                  >facio</hi>: ἔϑηκα).</item>
+              <item><hi rendition="#i">gᵘ̯h-</hi> (<hi rendition="#i"
+                  >formus</hi>: ϑερμός, ai. <hi rendition="#i"
+                >gharmáḥ</hi>).</item>
+              <item><hi rendition="#i">g̑hu̯-</hi> (<hi rendition="#i"
+                  >ferus</hi>: ϑήρ, lit. <hi rendition="#i"
+                >žvėrìs</hi>).</item>
+              <item><hi rendition="#i">g̑h-</hi> vor <hi rendition="#i"
+                  >u</hi> (<hi rendition="#i">furca</hi>: lit. <hi
+                  rendition="#i">žírklės</hi>).</item>
+              <item><hi rendition="#i">m-</hi> vor <hi rendition="#i"
+                  >r</hi> (<hi rendition="#i">fracēs</hi>: ir. <hi
+                  rendition="#i">mraich</hi>).</item>
+              <item><hi rendition="#i">s-</hi> vor <hi rendition="#i"
+                  >r</hi> (<hi rendition="#i">frīgus</hi>: sloven. <hi
+                  rendition="#i">srěž</hi>).</item>
+              <item><hi rendition="#i">bhu̯-</hi> (<hi rendition="#i"
+                  >fio</hi> aus <hi rendition="#i">*bhu̯-ii̯ō</hi>).</item>
+              <item><hi rendition="#i">dhu̯-</hi> (<hi rendition="#i"
+                  >forēs</hi>: ab. <hi rendition="#i">dvъrъ</hi>, gr.
+                ϑύρα).</item>
+            </list></item>
+          <item><hi rendition="#b">h</hi> = idg. <list>
+              <item><hi rendition="#i">g̑h</hi>, <hi rendition="#i">gh</hi>
+                  (<hi rendition="#i">humus</hi>: χαμαί, lit. <hi
+                  rendition="#i">žẽmė</hi>; <hi rendition="#i"
+                >hostis</hi>: ab. <hi rendition="#i">gostъ</hi>, got. <hi
+                  rendition="#i">gasts</hi>).</item>
+            </list></item>
+        </list>
+        <milestone rendition="#hr" unit="section"/>
+      </div>
+      <pb n="XXV" facs="#f0024"/>
+      <div xml:id="bibliography">
+        <head rendition="#c">Alphabetisches Verzeichnis stärkerer
+          Abkürzungen bei Literaturangaben.</head>
+        <p>Ait. St(ud). = Altitalische Studien, hg. v. C. Pauli. Hannover
+          1883—87. 5 Bände.</p>
+        <p>AfceltLex. = Archiv für keltische Lexikographie, hg. v. W.
+          Stokes und Kuno Meyer. Halle a. S. 1898-1907.</p>
+        <p>AflL. = Archiv für lateinische Lexikographie, hg. v. Wölfflin.
+          Leipzig 1884 ff. 15 Bände.</p>
+        <p>A. f. neuere Spr. = Archiv f. d. Studium der neueren Sprachen,
+          hg. v. Herrig. Elberfeld u. Braunschweig 1846 ff.</p>
+        <p>AfslPh. = Archiv für slavische Philologie, hg. v. Jagić. Berlin
+          1875 ff.</p>
+        <p>Am. Journ. Phil. = The American Journal of Philology, edited by
+          Gildersleeve. Baltimore 1880 ff.</p>
+        <p>AfRelW. = Archiv für Religionswissenschaft, hg. v. Achelis.
+          Freiburg i. B. 1898 ff.</p>
+        <p>Arch. glott. = Archivio glottologico italiano, dir. da Ascoli.
+          Roma 1873 ff.</p>
+        <p>Ark. (f. n. fil.) = Arkiv for nordisk filologi, udgivet af
+          Storm. Christiania 1883 ff.</p>
+        <p>Bartholomae Air(an). Wb. = Altiranisches Wörterbuch. Straßburg
+          1905.</p>
+        <p>Bartholomae Ar. Fo.= Arische Forschungen. Halle 1882—87. 3
+          Hefte.</p>
+        <p>Bartholomae Grdr. = Bartholomae im Grundriß der iranischen
+          Philologie. Bd. I. Straßburg 1895.</p>
+        <p>Bartholomae Stud. = Studien zur indogermanischen
+          Sprachgeschichte. Halle 1890—91. 2 Hefte.</p>
+        <p>BB. = Beiträge zur Kunde der indogermanischen Sprachen, hg. v.
+          Bezzenberger. Göttingen 1877 ff. 30 Bde.</p>
+        <p>Bechtel Hauptprobl. = Die Hauptprobleme der indogermanischen
+          Lautlehre seit Schleicher. Göttingen 1892.</p>
+        <p>Benfey Wzl. Lex. = Griechisches Wurzellexikon. Berlin 1839,
+          1842.</p>
+        <p>Ber. d. sächs. (bayr. böhm.) Ges. (d. W.) = Berichte der
+          philolog.-historischen Klasse der Königl. sächs. (bayr. böhm.)
+          Gesellschaft der Wissenschaften.</p>
+        <p>Berl. Phil. Woch(enschr.) = Berliner philologische
+          Wochenschrift, hg. v. Chr. Belger und O. Seyffert. 1880 ff.</p>
+        <p>Berneker Pr. Spr. = Die preußische Sprache. Straßburg 1896.</p>
+        <pb n="XXVI" facs="#f0025"/>
+        <p>Berneker Sl. Wb. oder Wb. = Slavisches Etymologisches
+          Wörterbuch. Heidelberg 1908 ff.</p>
+        <p>Bersu Gutt. = Die Gutturalen und ihre Verbindung mit v im
+          Lateinischen. Berlin 1885.</p>
+        <p>Boisacq = B., Dictionnaire étymologique de la langue grecque.
+          Heidelberg u. Paris 1907 ff.</p>
+        <p>Bopp Gloss. = Glossarium comparativum linguae sanscritae. Ed.
+          III. Berolini 1866—67.</p>
+        <p>Bréal Tab. Eug. = Les Tables Eugubines. Paris 1875.</p>
+        <p>Bréal-Bailly = Dictionnaire étymologique latin par M. Bréal et
+          A. Bailly. Paris 1885.</p>
+        <p>Brugmann = Brugmann Grundriß der vergleichenden Grammatik der
+          indogermanischen Sprachen. 2. Aufl., Bd. I—II/II/1. Straßburg
+          1897 ff.; Bd. II (1. Aufl.). 1889—92.</p>
+        <p>Brugmann Dem. = Die Demonstrativpronomina der indogermanischen
+          Sprachen. Leipzig 1904.</p>
+        <p>Brugmann Gr. Gr.³ = Griechische Grammatik. 3. Aufl. München
+          1900. In: Handbuch der klassischen Altertumswissenschaft. Bd.
+          II.</p>
+        <p>Brugmann KG. = Kurze vergleichende Grammatik der
+          indogermanischen Sprachen. Straßburg 1904.</p>
+        <p>Brugmann Tot. = Die Ausdrücke für den Begriff der Totalität in
+          den indogermanischen Sprachen. Leipzig 1904.</p>
+        <p>Buck Gramm. = A Grammar of Oscan and Umbrian. Boston 1904.</p>
+        <p>Buck Vok. = Der Vokalismus der oskischen Sprache. Leipzig
+          1892.</p>
+        <p>Bücheler Lex. it. = Lexicon Italicum. Bonn 1881.</p>
+        <p>Bücheler Umbr. = Umbrica. Bonn 1883.</p>
+        <p>Bugge A(lt)it. Stud. = Altitalische Studien. Christiania
+          1878.</p>
+        <p>Bugge Beitr. (z. Erl. d. arm. Spr.) = Beiträge zur
+          etymologischen Erläuterung der armenischen Sprache. I.
+          Christiania 1889.</p>
+        <p>C. Gl. L. = Corpus glossariorum latinorum. Lipsiae 1888 ff.</p>
+        <p>C I. L. = Corpus inscriptionum latinarum. Berolini 1862 ff.</p>
+        <p>Cl. Rev. = The classical review. London 1887 ff.</p>
+        <p>Conway It. dial. = The Italic dialects. Cambridge 1897.</p>
+        <p>Corssen = Über Aussprache, Vokalismus und Betonung der
+          lateinischen Sprache. 2. Aufl. Leipzig 1868—70.</p>
+        <p>Corssen Beitr. = Beiträge zur italischen Sprachkunde. Leipzig
+          1876.</p>
+        <p>Corssen Krit. Beitr. = Kritische Beiträge zur lateinischen
+          Formenlehre. Leipzig 1863.</p>
+        <p>Corssen Nachtr. = Kritische Nachträge zur lateinischen
+          Formenlehre. Leipzig 1866.</p>
+        <p>C. St.: s. Curt. Stud.</p>
+        <p>Curtius = Grundzüge der griechischen Etymologie von Georg
+          Gurtius. 5. Aufl. Leipzig 1879.</p>
+        <p>Curt. St(ud). = Studien zur griechischen und lateinischen
+          Grammatik, hg. von Georg Curtius. Leipzig 1868—78. 10 Bände.</p>
+        <p>Delbrück Grdr. I—III = Vergleichende Syntax der indogermanischen
+          Sprachen von Berthold Delbrück; bildet Bd. 3—5 von Brugmanns
+          Grdr.</p>
+        <p>Delbrück Verw. = Die indogermanischen Verwandtschaftsnamen
+          Leipzig 1889.</p>
+        <pb n="XXVII" facs="#f0026"/>
+        <p>Diefenbach Or. eur. = Origines europaeae. Frankfurt 1861.</p>
+        <p>Dt. L(it)Z. = Deutsche Literaturzeitung, hg. v. Rödiger. Berlin
+          1880 ff.</p>
       </div>
     </front>
     <body>
