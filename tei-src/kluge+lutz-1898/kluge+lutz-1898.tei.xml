@@ -37,7 +37,7 @@
           <orgName ref="https://github.com/xlhrld/retro-dict"
             >retro-dict</orgName>
         </publisher>
-        <date type="publication">2017-09-04</date>
+        <date type="publication">2017-09-05</date>
         <availability>
           <licence
             target="https://creativecommons.org/licenses/by/4.0/">
@@ -110,7 +110,7 @@
         <p>TEI markup according to the DTA base format (<ref
             target="http://www.deutschestextarchiv.de/doku/basisformat/"
             >DTABf</ref>), a TEI customization for historical
-          texts)</p>
+          texts</p>
       </editorialDecl>
     </encodingDesc>
     <profileDesc>
@@ -34517,6 +34517,220 @@
           <hi rendition="#i">questioun</hi> fr. <hi rendition="#k"
             >fr.</hi>
           <hi rendition="#i">question</hi>.</p>
+        <p><hi rendition="#b">quick</hi> adj. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">quick</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">cwicu</hi> ‘living, alive’ = <hi
+            rendition="#k">osax.</hi>
+          <hi rendition="#k">du.</hi>
+          <hi rendition="#i">quik</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#k">mhg.</hi>
+          <hi rendition="#i">quëc</hi> (<hi rendition="#k">g.</hi>
+          <hi rendition="#i">quecksilber</hi> ‘quicksilver’ and <hi
+            rendition="#i">erquicken</hi> vb. ‘quicken, refresh’) <hi
+            rendition="#k">g.</hi>
+          <hi rendition="#k">keck </hi>(for <hi rendition="#i"
+            >queck</hi>) ‘pert’, <hi rendition="#k">on.</hi>
+          <hi rendition="#i">kvikr</hi>
+          <hi rendition="#i">kykr</hi>: <hi rendition="#k">teut.</hi>
+          √ <hi rendition="#i">qiq</hi> fr. <hi rendition="#k"
+            >aryan</hi> √ <hi rendition="#i">gī̆g</hi> in <hi
+            rendition="#k">lat.</hi>
+          <hi rendition="#i">vivo</hi> (<hi rendition="#i"><choice>
+              <sic>vixi-victum-vivere</sic>
+              <corr>vixi — victum — vivere</corr>
+            </choice></hi>). There exists an <hi rendition="#k"
+            >aryan</hi> doublet <hi rendition="#i">gī̆w</hi> in <hi
+            rendition="#k">goth.</hi>
+          <hi rendition="#i">qius</hi> (stem <hi rendition="#i"
+            >qiwa-</hi>) adj. ‘alive’ = <hi rendition="#k">skr.</hi>
+          <hi rendition="#i">jîva</hi>, <hi rendition="#k">lith.</hi>
+          <hi rendition="#i">gywas</hi>, <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">vivus</hi> ‘living, alive’ (cp. <hi
+            rendition="#k">gr.</hi>
+          <hi rendition="#i">βίος</hi> ‘life’). See <hi
+            rendition="#g #i">quitch-grass</hi>.</p>
+        <p><hi rendition="#b">quill</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">quille</hi> = <hi rendition="#k"
+            >westphal.</hi>
+          <hi rendition="#i">quiele</hi> ‘quill’: <hi rendition="#k"
+            >teut.</hi> base <hi rendition="#i">qili-</hi>, perh.
+          ident. w. <hi rendition="#k">mhg.</hi>
+          <hi rendition="#i">kil</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">kiel</hi> ‘quill’.</p>
+        <p><hi rendition="#b">quilt</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">quilte</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">cuilte</hi> = <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">culcita</hi> ‘cushion, pillow’.</p>
+        <p><hi rendition="#b">quince</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">coíne</hi>
+          <hi rendition="#i">quíne</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">coin</hi> = <hi rendition="#k">fr.</hi>
+          <hi rendition="#i">coing</hi> ‘a quince’ (the <hi
+            rendition="#i">ce</hi> of modern <hi rendition="#k"
+            >e.</hi>
+          <hi rendition="#i">quince</hi> belongs prop. to the plural).
+          Source <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">cydonia</hi> = <hi rendition="#k"
+            >it.</hi>
+          <hi rendition="#i">cotogna</hi>, <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">kutina</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">quitte</hi>, <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">godæppel</hi>; <hi rendition="#k"
+            >du.</hi>
+          <hi rendition="#i">kwee</hi>
+          <hi rendition="#k">odu.</hi>
+          <hi rendition="#i">quêde</hi> corresponds to <hi
+            rendition="#k">mhg.</hi>
+          <hi rendition="#i">quiten</hi> = <hi rendition="#k">g.</hi>
+          <hi rendition="#i">quitte</hi>.</p>
+        <p><hi rendition="#b">quire</hi> (of paper) sb. <hi
+            rendition="#k">me.</hi>
+          <hi rendition="#i">quaér</hi>
+          <hi rendition="#i">quaíer</hi> ‘book’ fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">quaier</hi> (<hi rendition="#k">du.</hi>
+          <cb n="2"/><hi rendition="#i">kohier</hi>) = <hi
+            rendition="#k">fr.</hi>
+          <hi rendition="#i">cahier</hi> ‘copy book’. Source a late
+          Latin <hi rendition="#i">quaternum</hi> ‘collection of four
+          leaves’ (= <hi rendition="#k">it.</hi>
+          <hi rendition="#i">quaderno</hi> ‘a quire of paper’, <hi
+            rendition="#k">oe.</hi>
+          <hi rendition="#i">cwátern</hi>).</p>
+        <p><hi rendition="#b">quitch-grass</hi> (also <hi
+            rendition="#i">quick-grass</hi>
+          <hi rendition="#i">couch-grass</hi>) <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">*quicche</hi>; <hi rendition="#k"
+            >oe.</hi>
+          <hi rendition="#i">cwiče</hi> ‘quitch-grass’ answers to <hi
+            rendition="#k">du.</hi>
+          <hi rendition="#i">kweek</hi>, <hi rendition="#k">lg.</hi>
+          <hi rendition="#i">quêke</hi>, <hi rendition="#k">g.</hi>
+          <hi rendition="#i">quëcke</hi> ‘quitch-grass’. The name
+          derives fr. <hi rendition="#k">teut.</hi>
+          <hi rendition="#i">quiku-</hi> ‘alive’ (under <hi
+            rendition="#g #i">quick</hi>), because the weed seems not
+          clearable.</p>
+        <p><hi rendition="#b">quite</hi> adv. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">quíte</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">quit</hi>.</p>
+        <p><hi rendition="#b">quiver</hi> vb. derived fr. the adj. <hi
+            rendition="#k">me.</hi>
+          <hi rendition="#i">quiver</hi>, late <hi rendition="#k"
+            >oe.</hi>
+          <hi rendition="#i">cwifor</hi> ‘lively, brisk, eagerly’; cp.
+            <hi rendition="#k">ofr.</hi>
+          <hi rendition="#i">quivrer</hi> vb. ‘awaken, encourage’.</p>
+        <p><hi rendition="#b">quiver</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">quiver</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">cuivre</hi>; ident. w. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">coivre</hi>
+          <hi rendition="#i">cuivre</hi>: late Latin base <hi
+            rendition="#i">cucurum</hi>, whence also <hi
+            rendition="#k">oe.</hi>
+          <hi rendition="#i">cocor</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">kohhar</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">köcher</hi> ‘quiver’, <hi rendition="#k"
+            >du.</hi>
+          <hi rendition="#i">koker</hi>.</p>
+        <p><hi rendition="#b">quoth</hi> (<hi rendition="#i"
+            >quoth</hi>
+          <hi rendition="#i">he</hi> ‘he said’) 3ᵈ sing. pret. = <hi
+            rendition="#k">me.</hi>
+          <hi rendition="#i">quoth</hi> earlier <hi rendition="#i"
+            >quath</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">cwæđ</hi> pret. of <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">quę́the</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">cwëđan</hi> str. vb. ‘say, speak’ = <hi
+            rendition="#k">goth.</hi>
+          <hi rendition="#i">qiþan</hi>, <hi rendition="#k">on.</hi>
+          <hi rendition="#i">kveđa</hi>, <hi rendition="#k">osax.</hi>
+          <hi rendition="#i">quëđan</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">quëdan</hi> ‘say’: <hi rendition="#k"
+            >aryan</hi> √ <hi rendition="#i">get</hi> (by-form <hi
+            rendition="#i">ged</hi> in <hi rendition="#k">skr.</hi>
+          <hi rendition="#i">gad</hi> ‘speak’?). Cp. <hi
+            rendition="#g #i">bequeath</hi> and <hi rendition="#g #i"
+            >bequest</hi>.</p>
+        <cb type="end"/>
+      </div>
+      <pb n="171" facs="#f0177"/>
+      <div xml:id="section-r">
+        <head rendition="#c">R</head>
+        <cb type="start"/>
+        <cb n="1"/>
+        <p><hi rendition="#b">rabbit</hi> cogn. w. <hi rendition="#k"
+            >odu.</hi>
+          <hi rendition="#i">robbe</hi>
+          <hi rendition="#i">robbeken</hi> ‘rabbit’; perh. identical
+          w. <hi rendition="#k">du.</hi>
+          <hi rendition="#i">rob</hi>, <hi rendition="#k">g.</hi>
+          <hi rendition="#i">robbe</hi> ‘phoca’?</p>
+        <p><hi rendition="#b">race</hi>¹ <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rę́s</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rǽs</hi>? or borrowed from <hi
+            rendition="#k">on.</hi>
+          <hi rendition="#i">rás</hi> ‘a running’: <hi rendition="#k"
+            >teut.</hi> base <hi rendition="#i">rêsa-</hi>.</p>
+        <p><hi rendition="#b">race</hi>² ‘family’ fr. <hi
+            rendition="#k">fr.</hi>
+          <hi rendition="#i">race</hi> = <hi rendition="#k">span.</hi>
+          <hi rendition="#k">port.</hi>
+          <hi rendition="#i">raza</hi>; source <hi rendition="#k"
+            >arab.</hi>
+          <hi rendition="#i">râs</hi> ‘origin’.</p>
+        <p><hi rendition="#b">race</hi>³ ‘root’ fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">raïs</hi> = <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">radix</hi>. — From the same source also
+            <hi rendition="#g #i">radish</hi> = <hi rendition="#k"
+            >du.</hi>
+          <hi rendition="#i">radijs</hi> (<hi rendition="#k">fr.</hi>
+          <hi rendition="#i">radis</hi>).</p>
+        <p><hi rendition="#b">rafter</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rafter</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">ræfter</hi>; formed by suffix <hi
+            rendition="#i">-tra-</hi> from the same root as <hi
+            rendition="#k">on.</hi>
+          <hi rendition="#i">ráf</hi> ‘roof’ and <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">râvo</hi> ‘rafter’. Cp. the <hi
+            rendition="#k">aryan</hi> √ <hi rendition="#i">rē̆ph</hi>
+          in <hi rendition="#k">gr.</hi>
+          <hi rendition="#i">ἐρέφω</hi> — <hi rendition="#i"
+            >ὄροφος</hi>.</p>
+        <p><hi rendition="#b">rag</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">ragge</hi> (late <hi rendition="#k"
+            >oe.</hi>
+          <hi rendition="#i">*ragg</hi> inferred from the adj. <hi
+            rendition="#i">raggiᵹ</hi> ‘shaggy’): borrowed fr. <hi
+            rendition="#k">on.</hi>
+          <hi rendition="#i">rǫgg</hi> ‘shagginess’.</p>
         <cb type="end"/>
       </div>
     </body>
