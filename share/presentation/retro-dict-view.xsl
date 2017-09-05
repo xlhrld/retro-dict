@@ -101,6 +101,19 @@
         .s{text-decoration: line-through;}
 	.antiqua{text-decoration:underline;}
 	.hr{width:50%;}
+
+	@media print {
+		* {
+			background-color: none;
+            		font-family: serif;
+		}
+	}
+	@media print { body { max-width: 20cm; } }
+	@media print {
+		.page_number {
+			display: block;
+			page-break-before: always; }
+	}
       </style>
     </head>
   </xsl:template>
