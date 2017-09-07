@@ -32,7 +32,7 @@
           <orgName ref="https://github.com/xlhrld/retro-dict"
             >retro-dict</orgName>
         </publisher>
-        <date type="publication">2017-09-06</date>
+        <date type="publication">2017-09-07</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">
             <p>This work is licensed under a Creative Commons Attribution
@@ -91,7 +91,7 @@
           not preserved (words reconstructed)</p>
         <p>TEI markup according to the DTA base format (<ref
             target="http://www.deutschestextarchiv.de/doku/basisformat/"
-            >DTABf</ref>), a TEI customization for historical texts)</p>
+            >DTABf</ref>), a TEI customization for historical texts</p>
       </editorialDecl>
     </encodingDesc>
     <profileDesc>
@@ -14854,6 +14854,578 @@
           ‛Fleck’, Vb. <hi rendition="#i">zaličawam</hi> ‛beschmutzen’,
           serb. <hi rendition="#i">lece</hi> ‛Sommersprosse’. [Mikl SlEtWb
           164 a.</p>
+        <p>1293. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">laḳḳāṭ:</hi>
+          <lb/>‛Zange’ [vom Vb. <hi rendition="#i">laḳaṭ</hi> ‛fassen,
+          aufheben’]; hieraus mit ar. Art. sp. <hi rendition="#i"
+            >alicates</hi>, <hi rendition="#i">alicantes</hi> ‛Biegzange’,
+          frz. <hi rendition="#i">alicate</hi> ‛kleine Zange, deren sich
+          die Klempner bedienen’. [DEFRÉMERY in JAs 1862, I, 92. DE 140.
+          Devic DEt 22. Lammens Rem 14/15.</p>
+        <p>1294. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">laḳlaḳ:</hi>
+          <lb/>‛Storch’ [onomatopoetische Bildung nach dem Klappern des
+          Schnabels, ebenso wie ass. <hi rendition="#i">laḳalaḳa</hi> Del
+          HWB 385 a], ebenso tk. <hi rendition="#i">leklek</hi>, vulg. <hi
+            rendition="#i">lejlek</hi> [mit Erweichung des Gutturals wie in
+            <hi rendition="#i">Beg</hi> &gt; <hi rendition="#i">bej</hi>,
+          s. hier Nr. 282] ‛Storch, Kranich’; hieraus rum. <hi
+            rendition="#i">liliac</hi> ‛Fledermaus’; serb. <hi
+            rendition="#i">lelek</hi>, <hi rendition="#i">lilak</hi>, čech.
+            <hi rendition="#i">lelek</hi>, klruss. <hi rendition="#i"
+            >lelek</hi>, russ. <hi rendition="#i">leklek</hi> ‛Storch’.
+          [Gorjajew 184.</p>
+        <p>1295. <hi rendition="#b">Sskr.</hi>
+          <hi rendition="#b">lāksā:</hi>
+          <lb/>‛Marke, Fleck; hunderttausend’, [und nach den 100000, d. h.
+          unzähligen Insekten Cocca ilicis, welche durch ihren Stich auf
+          quercus coccifera die harzige Absonderung bewirken] ‛Lack’;
+          hieraus in der ursprünglichen Bedeutung hind. <hi rendition="#i"
+            >lākh</hi> ‛100000’, engl. <hi rendition="#i">lack</hi> ‛dass.,
+          bes. 100000 Rupien’ und ferner: sp. pg. <hi rendition="#i"
+            >laca</hi> ‛Lack’, <hi rendition="#i">lacre</hi> ‛Siegellack’,
+          frz. <hi rendition="#i">laque</hi> ‛Lack’, it. <hi rendition="#i"
+            >lacca</hi> ‛Lack, Siegellack’, rum. <hi rendition="#i"
+            >lac</hi>; engl. <hi rendition="#i">lac</hi>, ndl. <hi
+            rendition="#i">lak</hi>, dtsch. <hi rendition="#i">Lack</hi>
+          und engl. <hi rendition="#i">shellac</hi> [eigentlich
+          ‛Schalenlack’, da er zu kleinen, dünnen Täfelchen geformt wird],
+          ndl. <hi rendition="#i">schellak</hi>, dtsch. <hi rendition="#i"
+            >Schellack</hi>; russ. <hi rendition="#i">lak</hi>, Vb. <hi
+            rendition="#i">lakirowat'</hi>, bulg. serb. <hi rendition="#i"
+            >lak</hi>, Vb. serb. <hi rendition="#i">lakowati</hi>, čech.
+            <hi rendition="#i">lak</hi>, Vb. <hi rendition="#i"
+            >lakovati</hi>, poln. <hi rendition="#i">lakier</hi>, Vb. <hi
+            rendition="#i">lakierować</hi>. [Hobson-Jobson 499/501. Dozy
+          Oost 57/59. Kluge 274. DE 295/296. Devic DEt 150/151. Gorjajew
+          180.</p>
+        <p>1296. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">laḳša:</hi>
+          <lb/>‛Nudeln, kleine Teigstücke, die in Brühe gekocht werden’
+          [nicht osm., nordtk.]; hieraus russ. <hi rendition="#i"
+            >lapša</hi> ‛Nudeln, Fadennudeln’, klruss. <hi rendition="#i"
+            >l̃apša</hi>, <hi rendition="#i">l̃okša</hi> ‛dass.’. [Mikl
+          SlEtWb 160 b. Bern SlEtWb 690/691.</p>
+        <p>1297. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">laḳyrdy:</hi>
+          <lb/>‛Gespräch, Plauderei, Wort’ [ob verwandt mit lat. <hi
+            rendition="#i">loquor</hi>, nach Walde, Lateinisches
+          Etymologisches Wörterbuch. Heidelberg 1906/10. S. 348 aus <hi
+            rendition="#i">laquor</hi>?]; hieraus bulg. <hi rendition="#i"
+            >lakъrdija</hi> ‛Wort, Unterhaltung’, serb. <hi rendition="#i"
+            >lakrdija</hi> ‛Wort, Tändelei, Scherz’. [Mikl SlEtWb 160 a.
+          Bern SlEtWb 687.</p>
+        <p>1298. <hi rendition="#b">Pers.</hi>
+          <hi rendition="#b">lāl:</hi>
+          <lb/>‛Hochrot’, dazu tat. <hi rendition="#i">lalä</hi> ‛Rubin’;
+          hieraus <cb n="2"/>serb. <hi rendition="#i">lal</hi> ‛rot’, russ.
+            <hi rendition="#i">lal</hi> ‛Rubin’. [Gorjajew 180. Mikl SlEtWb
+          160 a. Bern SlEtWb 687.</p>
+        <p>1299. <hi rendition="#b">Pers.</hi>
+          <hi rendition="#b">lālā:</hi>
+          <lb/>‛Haus- und Hofmeister’, tk. ebenso <hi rendition="#i"
+            >lala</hi> ‛Diener, Hofmeister’ [Kélékian Ḳāmūs 1072]; hieraus
+          rum. (dial.) <hi rendition="#i">lală</hi> ‛Onkel’; serb. <hi
+            rendition="#i">lala</hi> ‛tk. Würdenträger, Hofmann’, bulg. <hi
+            rendition="#i">lala</hi> ‛Gouverneur’, <hi rendition="#i"
+            >lalo</hi> ‛älterer Bruder’. [Mikl SlEtWb 160 a. Bern SlEtWb
+          688.</p>
+        <p>1300. <hi rendition="#b">Pers.</hi>
+          <hi rendition="#b">lālä:</hi>
+          <lb/>‛Tulpe, Tulipa persica’ [s. auch hier Nr. 544], ebenso tk.
+            <hi rendition="#i">lale</hi>; hieraus rum. <hi rendition="#i"
+            >lalea</hi> ‛dass.’; serb. <hi rendition="#i">lale</hi>
+          ‛dass.’, bulg. <hi rendition="#i">lale</hi> ‛dass., Mohn’. [Mikl
+          SlEtWb 160 a. Bern SlEtWb 688.</p>
+        <p>1301. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">lalanġa:</hi>
+          <lb/>‛Backwerk aus geschlagenen Eiern und Mehl’ [Kélékian Ḳāmūs
+          1072]; hieraus rum. <hi rendition="#i">lalanghiţă</hi>
+          ‛dass.’.</p>
+        <p>1302. <hi rendition="#b">Tibet.</hi>
+          <hi rendition="#b">lama:</hi>
+          <lb/>‛Buddhistischer Mönch’ [eigentlich <hi rendition="#i"
+            >bLama</hi>, jedoch mit stummem <hi rendition="#i">b</hi>];
+          hieraus engl. <hi rendition="#i">lama</hi> und ebenso in anderen
+          europäischen Sprachen [Hobson-Jobson 502]; mit mong. <hi
+            rendition="#i">dalai</hi> ‛Gott’, eigentlich: ‛Meer’ ergibt
+          sich <hi rendition="#i">dalai-lama</hi>, Bezeichnung eines der
+          beiden höchsten Lamas in Tibet und der Mongolei [‛Meer-Lama’
+          genannt, weil seine Macht so unendlich ist wie das Meer]. [MWiD
+          127.</p>
+        <p>1303. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">lamba:</hi>
+          <lb/>‛Gezähntes Gesims um die Zimmerdecke herum’ [Kélékian Ḳāmūs
+          1073 a]; hieraus rum. <hi rendition="#i">lambă</hi> ‛Strick an
+          der Wagenachse; Einschnitt, Falz’.</p>
+        <p>1304. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">lāmī:</hi>
+          <lb/>‛Art Weihrauch aus Amyris Zeylanica’ [spätes Wort der
+          Vulgärsprache]; hieraus mit Imāla [<hi rendition="#i">ā</hi> &gt;
+            <hi rendition="#i">ē</hi>] sp. <hi rendition="#i">elemí</hi>,
+          pg. <hi rendition="#i">gumi</hi>
+          <hi rendition="#i">leme</hi>, frz. <hi rendition="#i">élémi</hi>,
+          dtsch. <hi rendition="#i">Elemi</hi>harz oder -gummi [darüber
+          vgl. die Konversationslexika]. [DE 259. Devic DEt 108, Lammens
+          Rem 263.</p>
+        <p>1305. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">lamṭ:</hi>
+          <lb/>Einheitsnomen <hi rendition="#i">lamṭa</hi> ‛Art Antilope’
+          in den afrikanischen Wüsten; hieraus sp. <hi rendition="#i"
+            >ante</hi> [mit Verkennung des anlautenden <hi rendition="#i"
+            >l</hi> als Artikel und Weglassung desselben], <hi
+            rendition="#i">dante</hi> [aus einem Ausdrucke wie <hi
+            rendition="#i">pelle</hi>
+          <hi rendition="#i">d’ante</hi> oder dergl. entstanden]
+          ‛Wildleder’, pg. <hi rendition="#i">anta</hi>, <hi rendition="#i"
+            >dante</hi> ‛dass.’ [jedoch in Brasilien auch ‛Tapir’,
+          Constancio Dicc 82 c], it. <hi rendition="#i">dante</hi>
+          ‛Damhirsch’; Ableitung sp. <hi rendition="#i">anteado</hi>
+          ‛blaßgelb’ [in ähnlicher Bedeutung wird der it. Eigenname <hi
+            rendition="#i">Dante</hi> entstanden sein]. [DE 195. Caix Studi
+          di etimologia italiana e romanza. Firenze 1878. S. 303. ML
+          4874.</p>
+        <p>1306. <hi rendition="#b">Pers.</hi>
+          <hi rendition="#b">läš:</hi>
+          <lb/>‛Leichnam’, ebenso tk. <hi rendition="#i">leš</hi> ‛Leiche,
+          Aas’; <pb n="104" facs="#f0126"/><cb n="1"/>hieraus rum. <hi
+            rendition="#i">leş</hi> ‛dass.’, <hi rendition="#i">leşin</hi>
+          ‛Ohnmacht’, <hi rendition="#i">leşina</hi> ‛ohnmäclitig werden’;
+          bulg. serb. <hi rendition="#i">leš</hi> ‛Leiche, Aas’, serb. <hi
+            rendition="#i">lešinar</hi> ‛Aasgeier’. [Mikl SlEtWb 166 a.
+          Bern SlEtWb 702.</p>
+        <p>1307. <hi rendition="#b">Pers.</hi>
+          <hi rendition="#b">läškär:</hi>
+          <lb/>‛Heer, Feldlager’ [verwandt mit ar. <hi rendition="#i"
+            >‛askar</hi>, byzantinisch-gr. ἐξέρκητον, lat. <hi
+            rendition="#i">exercitus</hi>, von denen das lat. Wort wohl das
+          ursprüngliche Grundwort ist; doch sind die
+          Entlehnungsverhältnisse der übrigen Formen noch ungeklärt, vgl.
+          z. B. VOLLERS in ZDMG L, 646, der das ar. Wort aus dem Pers.
+          entlehnen will; neuerdings wird ar. <hi rendition="#i"
+            >‛askar</hi> auf gr. ἀσκάριος ‛Schlauch-, Wasserträger’
+          zurückgeführt, vgl. Streitberg-Festgabe. Leipzig 1924. S. 233];
+          hieraus engl. angloind. <hi rendition="#i">lascar</hi> ‛Seemann’,
+          der zu Fahrten auf den tropischen Meeren angeheuert wird, da
+          Europäer in der doppelten Gluthitze der Tropensonne und des
+          Kesselraums nicht arbeiten könnten. Man unterscheidet den <hi
+            rendition="#i">sea-lascar</hi> ‛Matrose’ vom <hi rendition="#i"
+            >gun-lascar</hi> ‛Hilfsmann bei der Artillerie’ und dem <hi
+            rendition="#i">tent-lascar</hi> ‛Zeltaufschläger’. Ebenso frz.
+            <hi rendition="#i">lascar</hi>; dtsch. <hi rendition="#i"
+            >Laskare</hi>; pg. <hi rendition="#i">lascar</hi>, <hi
+            rendition="#i">lascarim</hi>, <hi rendition="#i">liscarim</hi>
+          [Constancio Dicc 648 c]. [Hobson-Jobson 507/509. Devic DEt 151.
+          Lammens Rem 145. Eguilaz 436.</p>
+        <p>1308. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">la‛ūḳ:</hi>
+          <lb/>Medizinischer Fachausdruck, eigentlich ‛was man aufleckt’,
+          d. h. in kleiner Dosis nimmt [vom Vb. <hi rendition="#i"
+            >la‛aḳa</hi> ‛lecken’], synonym zu mlat. <hi rendition="#i"
+            >eclegma</hi> und <hi rendition="#i">linctus</hi>; hieraus pg.
+            <hi rendition="#i">looch</hi> [mit <hi rendition="#i">k</hi>
+          gesprochen, Constancio Dicc 662 b], <hi rendition="#i">lohoc</hi>
+          ‛Julep, Latwerge’, afrz. <hi rendition="#i">lohoc</hi>, frz. <hi
+            rendition="#i">looch</hi>, <hi rendition="#i">lok</hi>,
+          pharmazeutischer Ausdruck für eine Art Latwerge. [SANGUINETTI in
+          JAs 1866. I, 323. DE 298. Devic DEt 152. Lammens Rem 147/148.
+          Eguilaz 439<choice>
+            <sic>,</sic>
+            <corr>.</corr>
+          </choice></p>
+        <p>1309. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">lauza:</hi>
+          <lb/>‛Mandel’, vulg. <hi rendition="#i">lōza</hi>; hieraus mit
+          ar. Art. sp. <hi rendition="#i">alloza</hi> ‛wilder Mandelbaum’
+          [Dicc Cast 144 b], pg. <hi rendition="#i">arzolla</hi> ‛grüne
+          Mandel’ [Constancio Dicc 122 b]. [DE 147.</p>
+        <p>1310. <hi rendition="#b">Lazarus:</hi>
+          <lb/>N. pr., jedenfalls aram. Name, im NT in der Parabel vom
+          reichen Prasser Luc XVI, 20 und der vom Tode auferweckte Bruder
+          der Maria und Martha von Bethanien Joh XI, 1 sq., XII, 1 sq.
+          [gleich hebr. <hi rendition="#i">Ęlī‛ę&#772;zęr</hi> Gen XV, 2
+          ‛Gott ist Hilfe’]. Hieraus it. <hi rendition="#i">lazzarone</hi>
+          ‛Bettler’, <hi rendition="#i">lazzaretto</hi> ‛Krankenhaus’
+          [ursprünglich ‛Pestspital, Leproserie’; nach SPITZER in WuS VI,
+          201/204 aus dem Namen einer solchen Anstalt <hi rendition="#i"
+            >Santa</hi>
+          <hi rendition="#i">Maria</hi>
+          <hi rendition="#i">di</hi>
+          <hi rendition="#i">Nazaret</hi> entstanden, wobei erst eine
+          sekundäre Einmischung von <hi rendition="#i">Lazarus</hi> oder
+            <hi rendition="#i">S.</hi>
+          <hi rendition="#i">Lazaro</hi>
+          <cb n="2"/>stattfand und aus <hi rendition="#i">*Nazaretum</hi>
+          dann <hi rendition="#i">lazzaretto</hi> wurde; vgl. auch Herrigs
+          Archiv CXXXVII, 225]; prov. frz. <hi rendition="#i">ladre</hi>
+          ‛aussätzig’, dial. (Picardie) <hi rendition="#i">lasaire</hi>
+          ‛arm, elend’, <hi rendition="#i">lazaret</hi> ‛Krankenhaus’, sp.
+            <hi rendition="#i">lázaro</hi> ‛Bettler, aussätzig’, pg. <hi
+            rendition="#i">lazarino</hi> ‛aussätzig’, sp. <hi
+            rendition="#i">laceria</hi>, pg. <hi rendition="#i"
+            >lazeira</hi> ‛Armut’, Vb. sp. <hi rendition="#i">lazdrar</hi>
+          ‛Mühsal und Elend erleiden’, sp. pg. <hi rendition="#i"
+            >lazareto</hi> ‛Krankenhaus’; dtsch. <hi rendition="#i"
+            >Lazarett</hi>, engl. <hi rendition="#i">lazaret</hi>, <hi
+            rendition="#i">lazaretto</hi> ‛Krankenhaus’, <hi rendition="#i"
+            >lazar-house</hi> ‛dass.’, <hi rendition="#i">lazarly</hi>, <hi
+            rendition="#i">lazarlike</hi> ‛elend, aussätzig’, ndl. <hi
+            rendition="#i">lazarus</hi> ‛aussätzig’, <hi rendition="#i"
+            >lazarij</hi> ‛Aussatz’, <hi rendition="#i">lazarushuis</hi>
+          ‛Leproserie’, <hi rendition="#i">lazaret</hi> ‛Krankenhaus’,
+          schwed. <hi rendition="#i">lasarett</hi> ‛Hospital’, dän. <hi
+            rendition="#i">lazaret</hi> ‛dass.’; russ. <hi rendition="#i"
+            >lazar'</hi> ‛Bettler’, Vb. <hi rendition="#i">lazarit'</hi>
+          ‛betteln’, čech. <hi rendition="#i">lazar</hi> ‛Aussätziger’,
+          poln. <hi rendition="#i">l̃azarz</hi> ‛Kranker, Armseliger,
+          Bettler’. [ML 4958. Kluge 277. Bern SlEtWb 696.</p>
+        <p>1311 <hi rendition="#b">Pers.</hi>
+          <hi rendition="#b">läžwärd:</hi>
+          <lb/>‛Lasurstein, lasurfarben’, also ‛blau’ [vielleicht aus sskr.
+            <hi rendition="#i">rāǧāvarta</hi>, aus <hi rendition="#i"
+            >rāǧā</hi> ‛König’, s. hier Nr. 1692, und <hi rendition="#i"
+            >āvarta</hi> ‛Locke, gekräuseltes Haar’, also ‛Königslocke’, d.
+          h. Haarschmuck des Königs; doch wird das Wort auch als
+          ‛Quirledelstein’ gedeutet], ar. <hi rendition="#i">lāzwardī</hi>
+          ‛lazurähnlich’; hieraus mit Abfall des als Artikel betrachteten
+            <hi rendition="#i">l</hi> it. <hi rendition="#i">azzurro</hi>,
+            <hi rendition="#i">azzuolo</hi> ‛dunkelblau’, <hi
+            rendition="#i">lapis</hi>
+          <hi rendition="#i">lazzuli</hi> ‛Lasurstein’, prov. frz. <hi
+            rendition="#i">azur</hi>, kat. sp. pg. <hi rendition="#i"
+            >azul</hi>, rum. <hi rendition="#i">azur</hi> ‛blau’, <hi
+            rendition="#i">azuriŭ</hi> ‛himmelblau’, mlat. <hi
+            rendition="#i">lazulum</hi> [woraus mgr. λαζούριον, λάζαρος];
+          dtsch. <hi rendition="#i">azur</hi>, <hi rendition="#i"
+            >Lasur</hi>, <hi rendition="#i">lasurblau</hi>, ndl. <hi
+            rendition="#i">azuur</hi>, <hi rendition="#i">lazuur</hi>,
+          engl. <hi rendition="#i">azure</hi>; russ. <hi rendition="#i"
+            >lazur'</hi>, bulg. <hi rendition="#i">lazur</hi>, poln. čech.
+            <hi rendition="#i">lazur</hi> ‛das Himmelblau’. [DE 229.
+          Eguilaz 326. ML 4959. Gorjajew 180.</p>
+        <p>1312. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">lēβ:</hi>
+          <lb/>‛Herz’; hieraus <hi rendition="#i">Leben</hi> in jüd.-dtsch.
+          Zusammensetzungen wie <hi rendition="#i">Vaterleben</hi>, <hi
+            rendition="#i">Sarahleben</hi> oder in der jüd. Koseform <hi
+            rendition="#i">mein</hi>
+          <hi rendition="#i">Leben</hi> ‛Herzchen!’.</p>
+        <p>1313. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">lebek:</hi>
+          <lb/>Vulg. [Aus gr. λίψ, λιβός ‛der regnerische Südostwind’, z.
+          B. Herod. II, 25] ‛Südwind’; hieraus it. <hi rendition="#i"
+            >libeccio</hi>, afrz. <hi rendition="#i">lebeche</hi>, prov.
+            <hi rendition="#i">labech</hi>, kat. <hi rendition="#i"
+            >llebeig</hi>, sp. <hi rendition="#i">lebeche</hi>
+          ‛Südwestwind’ [Dicc Cast 1248 a]. — ML 5016.</p>
+        <p>1314. <hi rendition="#b">Mal.</hi>
+          <hi rendition="#b">lĕmpūjang:</hi>
+          <lb/>‛Zingiber cassumunar’ [Pijn 210 a; vielleicht aus <hi
+            rendition="#i">lampū</hi> ‛übermäßig’ mit Hinweis auf die
+          Stärke des Gewürzes]; hieraus frz. <hi rendition="#i"
+            >lampoujane</hi> ‛Art Ingwer’. [Devic DEt 150.</p>
+        <p>1315. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">lewai:</hi>
+          <lb/>Interjektion des Wunsches, utinam! Da die Juden, wenn sie
+          mit ihrer gewohnten Lebhaftigkeit und ihrem Eifer sprachen,
+          dieses Wort häufig im Munde hatten, entstand hieraus ndl. <hi
+            rendition="#i">lawaai</hi> ‛Lärm, Gerausch’ <pb n="105"
+            facs="#f0127"/><cb n="1"/>in den Ausdrücken: <hi rendition="#i"
+            >er</hi>
+          <hi rendition="#i">is</hi>
+          <hi rendition="#i">groot</hi>
+          <hi rendition="#i">lawaai</hi> und <hi rendition="#i">hij</hi>
+          <hi rendition="#i">maakt</hi>
+          <hi rendition="#i">veel</hi>
+          <hi rendition="#i">lawaai</hi>.</p>
+        <p>1316. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">lewand:</hi>
+          <lb/>‛Freiwillig sich stellender Soldat, kühn’ [aus it. <hi
+            rendition="#i">levantino</hi>, vgl. Oriente 1, 195]; hieraus
+          rum. <hi rendition="#i">levent</hi> ‛tapfer’, sp. <hi
+            rendition="#i">levante</hi> ‛Soldat’ [in Verbindung mit <hi
+            rendition="#i">genízaro</hi> bei Cervantes, Don Quijote I.
+          Teil. Kap. 39, in Colección de autores españoles III. Leipzig
+          1891. S. 274, Z. 2 v. u.]; bulg. <hi rendition="#i">lewen</hi>,
+            <hi rendition="#i">lewent</hi> ‛junger starker Mann’, serb. <hi
+            rendition="#i">lewenta</hi> ‛tk. Seemann, Stutzer, Held’,
+          klruss. <hi rendition="#i">l̃eveneć</hi> ‛hochgewachsener
+          rüstiger Mann’, <hi rendition="#i">l̃égiń</hi> ‛wackerer Bursche,
+          Jüngling’, russ. (dial.) <hi rendition="#i">lewenec</hi> ‛dass.’.
+          [Eguilaz 438. Mikl SlEtWb 166 a. Bern SlEtWb 704.</p>
+        <p>1317. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">libade:</hi>
+          <lb/>‛Kurze wattierte Weste, Wollmanter’ [Kélékian Ḳāmūs 1074 b];
+          hieraus rum. <hi rendition="#i">libadea</hi> ‛Rock’.</p>
+        <p>1318. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">līf:</hi>
+          <lb/>Einheitsnomen <hi rendition="#i">līfa</hi> ‛Palmenbast’ und
+          ‛Seil daraus’; hieraus siz. <hi rendition="#i">leffa</hi> ‛foglia
+          delicata del ciafaglione’, sp. <hi rendition="#i">lefe</hi> ‛Art
+          Fangseil’ [Dicc Cast 1280 a]. [GrSVociSic 239. Eguilaz 437 [mit
+          anderer Erklärung].</p>
+        <p>1319. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">līlak:</hi>
+          <lb/>Auch <hi rendition="#i">lailak</hi> [aus pers. <hi
+            rendition="#i">līläǧ</hi>, <hi rendition="#i">nīläǧ</hi>, s.
+          hier Nr. 1568] ‛Syringa vulgaris, spanischer Flieder’, dessen
+          lilafarbene Blütensträuße zwar keinen Farbstoff liefern, aber
+          einem bestimmten Blau seinen Namen gegeben haben; daher hieraus
+          rum. <hi rendition="#i">liliac</hi> ‛Flieder’, <hi rendition="#i"
+            >liliachiŭ</hi> ‛lila’, <hi rendition="#i">lulachiŭ</hi>
+          ‛Indigo’, it. sp. <hi rendition="#i">lilac</hi>, frz. <hi
+            rendition="#i">lilas</hi>; bulg. <hi rendition="#i"
+          >lil'ak</hi>, <hi rendition="#i">lulak</hi> ‛Flieder’, čech.
+          poln. <hi rendition="#i">lilak</hi> ‛dass.’; dtsch. <hi
+            rendition="#i">lila</hi> ‛bläulich’, engl. <hi rendition="#i"
+            >lilac</hi> ‛Flieder’. [Ngr. λουλάκι ‛bläuliche Farbe oder
+          Tinte’.] [DE 297. Eguilaz 439. Mikl SlEtWb 169 b.</p>
+        <p>1320. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">līm:</hi>
+          <lb/>Einheitsnonien <hi rendition="#i">līma</hi> ‛kleine Zitrone
+          von sehr süßem Geschmack’; hieraus sp. pg. <hi rendition="#i"
+            >lima</hi>, frz. <hi rendition="#i">lime</hi>, <hi
+            rendition="#i">lime</hi>
+          <hi rendition="#i">bergamote</hi> ‛Citrus bergamia vulgaris
+          Risso’. [DE 297/298. Eguilaz 439. Devic DEt 152.</p>
+        <p>1321. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">liman:</hi>
+          <lb/>‛Hafen’ [aus gr. λιμήν; ngr. λιμάνι]; hieraus rum. <hi
+            rendition="#i">liman</hi> ‛Hafen, Zufluchtsort’; russ. <hi
+            rendition="#i">liman</hi> ‛Meerbusen’, klruss. <hi
+            rendition="#i">l̃yman</hi>, <hi rendition="#i">l̃ymen</hi>,
+          poln. bulg. <hi rendition="#i">liman</hi> ‛Hafen’.</p>
+        <p>1322. <hi rendition="#b">Pers.</hi>
+          <hi rendition="#b">līmūn:</hi>
+          <lb/>‛Zitrone, Citrus limonum’, ebenso ar. <hi rendition="#i"
+            >laimūn</hi> und tk. <hi rendition="#i">limon</hi> ‛Zitrone’
+          und ‛Zitronenbaum’; hieraus it. <hi rendition="#i">limone</hi>,
+          siz. <hi rendition="#i">limuni</hi>, prov. <hi rendition="#i"
+            >limon</hi>, frz. <hi rendition="#i">limon</hi>, <hi
+            rendition="#i">limonier</hi>, kat. <hi rendition="#i"
+            >llimó</hi>, sp. <hi rendition="#i">limón</hi>, pg. <hi
+            rendition="#i">limão</hi>, <hi rendition="#i">limoeiro</hi>,
+          rum. <hi rendition="#i">lămîe</hi> ‛Zitrone’, <hi rendition="#i"
+            >lamîĭŭ</hi> ‛Zitronenbaum’; engl. <hi rendition="#i"
+            >lemon</hi>, ndl. <hi rendition="#i">lemoen</hi>, <hi
+            rendition="#i">lamoen</hi>, dtsch. <hi rendition="#i"
+            >Limone</hi> (selten), hieraus <hi rendition="#i">Limonade</hi>
+          ‛süßes Getränk’; russ. <hi rendition="#i">limon</hi>, klruss. <hi
+            rendition="#i">l̃ymon</hi>, bulg. čech. <hi rendition="#i"
+            >limon</hi>, serb. <hi rendition="#i">limun</hi>, <cb n="2"
+          />poln. <hi rendition="#i">limona</hi>. [DE 298. Eguilaz 439 ML
+          5057. Kluge 287. MWiD 81. 83. Mikl SlEtWb 170 a. Bern SlEtWb
+          721/722.</p>
+        <p>1323. <hi rendition="#b">Sskr.</hi>
+          <hi rendition="#b">linga:</hi>
+          <lb/>Ebenso tamul. <hi rendition="#i">lingam</hi> ‛membrum
+          virile’, das buddhistische Emblem des Mahā Dēva (Siva), das sich
+          als Kegel aus schwarzem Stein in den Pagoden dieser Gottheit
+          findet. In den Reisebeschreibungen über Indien häufig als <hi
+            rendition="#i">Lingam</hi>, engl. <hi rendition="#i"
+            >lingam</hi> erwähnt.</p>
+        <p>1324. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">lipḳan:</hi>
+          <lb/>‛Name eines Kosakenstammes’; hieraus rum. <hi rendition="#i"
+            >lipcan</hi> ‛Tatare, Ritter’.</p>
+        <p>1325. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">liwjāϑān:</hi>
+          <lb/>Eigentlich ‛gewundenes oder windungsreiches Tier’, nämlich
+          ‛Walfisch’ Psalm CIV, 20 oder ‛Krokodil’ Hiob XL. Hieraus frz.
+            <hi rendition="#i">léviathan</hi> ‛Ungeheuer’, engl. <hi
+            rendition="#i">leviathan</hi> ‛Seeungeheuer’, dtsch. <hi
+            rendition="#i">Leviathan</hi> ‛dass.’, sp. <hi rendition="#i"
+            >leviátan</hi>. [MWiD 29. Eguilaz 438.</p>
+        <p>1326. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">lizma:</hi>
+          <lb/>‛Tribut, Steuer’ [vom Vb. <hi rendition="#i">lazima</hi>
+          ‛müssen, obligatorisch sein’]; hieraus frz. <hi rendition="#i"
+            >lisme</hi> ‛Gebühr für die Korallenfischerei’, die an die
+          Barbareskenstaaten zu zahlen war. [Devic DEt 152. Lammens Rem
+          147.</p>
+        <p>1327. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">lobuṭ:</hi>
+          <lb/>‛Kurzer, dicker Stock’ [Kélékian Ḳāmūs 1082 b]; hieraus
+          serb. <hi rendition="#i">lobud</hi> ‛Keule’, bulg. <hi
+            rendition="#i">lobut</hi>, <hi rendition="#i">labut</hi>
+          ‛Prügel, Schläge’. [Bern SlEtWb 726.</p>
+        <p>1328. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">lökün:</hi>
+          <lb/>‛Art Zement zum Brunnenbau’ [Kélékian Ḳāmūs 1084 a]; hieraus
+          rurn. <hi rendition="#i">lichium</hi>, <hi rendition="#i"
+            >luchium</hi>, serb. <hi rendition="#i">lucum</hi> ‛dass.’.
+          [Mikl SlEtWb 175.</p>
+        <p>1329. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">lonǧa:</hi>
+          <lb/>‛Vereinigung ehrbarer Spießbürger’ [Kélékian Ḳāmūs 1084 b;
+          aus it. <hi rendition="#i">loggia</hi> &lt; ahd. <hi
+            rendition="#i">loubja</hi> ‛Laube’]; hieraus serb. <hi
+            rendition="#i">londža</hi> ‛Terrasse’. [Mikl SlEtWb 173 b.</p>
+        <p>1330. <hi rendition="#b">Mal.</hi>
+          <hi rendition="#b">lontar:</hi>
+          <lb/>‛Palmyrapalme, Borassus flabelliformis’ [Pijn 210 b];
+          hieraus frz. <hi rendition="#i">lantard</hi> ‛ein Baum, aus dem
+          man den <hi rendition="#i">toddi</hi> genannten Palmwein zieht’.
+          [Devic DEt 150.</p>
+        <p>1331. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">lubān:</hi>
+          <lb/>‛Weihrauch’ [hebr. <hi rendition="#i">leβōnā</hi>, woraus
+          gr. λίβανος]; hieraus mit ar. Art. mlat. <hi rendition="#i"
+            >olibanum</hi>, frz. <hi rendition="#i">oliban</hi>, <hi
+            rendition="#i">olibane</hi>, it. sp. pg. <hi rendition="#i"
+            >olibano</hi>, pharmazeutischer Ausdruck für ‛Weihrauch’.
+          Ferner russ. bulg. serb. <hi rendition="#i">liwan</hi> ‛dass.’.
+          Nach FAUSTO LASINIO, Di alcune voci italiane credute di origine
+          orientale. In GSAI III, 145/6 direkt aus dem gr. δ λίβανος, für
+          die slavischen Formen freilich das Wahrscheinlichste. [Devic DEt
+          179. Lammens Rem 185/186. Eguilaz 466. Gorjajew 186.</p>
+        <pb n="106" facs="#f0128"/>
+        <cb n="1"/>
+        <p>1332. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">lubān</hi>
+          <hi rendition="#b">ǧāwī:</hi>
+          <lb/>‛Javanischer Weihrauch’ [s. hier Nr. 1331; obwohl er aus
+          Sumatra stammt], mit Imāla [<hi rendition="#i">ā</hi> &gt; <hi
+            rendition="#i">ē</hi>] <hi rendition="#i">lubēn</hi>
+          <hi rendition="#i">ǧāwī</hi>; hieraus mit Abfall der ersten Silbe
+          it. <hi rendition="#i">benjuì</hi>, <hi rendition="#i"
+            >belgiuì</hi>, gebräuchlicher: <hi rendition="#i"
+            >belgioina</hi>, <hi rendition="#i">benzoino</hi>, frz. <hi
+            rendition="#i">benjoin</hi>, kat. <hi rendition="#i"
+            >benjugí</hi>, sp. <hi rendition="#i">benjuí</hi>, <hi
+            rendition="#i">menjuí</hi>, pg. <hi rendition="#i"
+          >beijoim</hi>, <hi rendition="#i">beijuim</hi> ‛Benzoëgummi’;
+          engl. <hi rendition="#i">benjamin</hi>, <hi rendition="#i"
+            >benjoin</hi>, chemischer Fachausdruck, und dtsch. <hi
+            rendition="#i">Benzoë</hi>; russ. <hi rendition="#i"
+            >benzoi</hi>, poln. <hi rendition="#i">benzoes</hi>. Hieraus
+          weiter it. <hi rendition="#i">belzuino</hi>, frz. <hi
+            rendition="#i">benzin</hi>, dtsch. <hi rendition="#i"
+            >Benzin</hi>, <hi rendition="#i">Benzol</hi>, russ. <hi
+            rendition="#i">benzin</hi>, poln. (dial.) <hi rendition="#i"
+            >będźwim</hi> usw. [Hobson-Jobson 86/87. DE 239. Eguilaz 344.
+          Devic DEt 66. Lammens Rem 186/187. Gorjajew 15. MWiD 86.</p>
+        <p>1333. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">lūbijā’:</hi>
+          <lb/>‛Bohne, Phaseolus vulgaris’ [durch das Aram. aus gr. λόβος,
+          ZDMG LI, 303]; hieraus val. <hi rendition="#i">llubí</hi>, mit
+          ar. Art. sp. <hi rendition="#i">alubia</hi> ‛dass.‘. [DE 187.
+          Eguilaz 252.</p>
+        <p>1333 a. <hi rendition="#b">Arab.</hi>
+          <hi rendition="#b">lūf:</hi>
+          <lb/>‛Eine Arumart, Arum arisarum’, Einheitsnomen <hi
+            rendition="#i">lūfa</hi>; hieraus mit Übertragung auf eine
+          ähnliche Pflanze sp. <hi rendition="#i">lufa</hi> [Dicc Cast 1284
+          a] zur Bezeichnung einer den Cucurbitaceen zugehörigen Pflanze,
+          Luffa cylindrica, aus deren trockenem Fasergewebe der Früchte der
+          sog. vegetabilische Schwamm hergestellt wird, welcher als
+          Schwamm, Einlegesohle oder zu ähnlichen Zwecken benutzt wird.
+          Engl. <hi rendition="#i">loofah</hi>, dtsch. <hi rendition="#i"
+            >Luffa</hi>(kürbis und -schwamm). — [Ableitung aus ar. <hi
+            rendition="#i">luffāḥ</hi> ‛eine Art Eierpflanze’ scheint
+          weniger zu passen, auch existiert das in MWiD 84 angeführte pg.
+            <hi rendition="#i">lufa</hi> wohl nicht.]</p>
+        <p>1334. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">luḳāṭ:</hi>
+          <lb/>‛Nachlese, Abfälle, Wertloses’, mit Imāla [<hi
+            rendition="#i">ā</hi> &gt; <hi rendition="#i">ē</hi>] <hi
+            rendition="#i">luḳēṭ</hi>; hieraus sp. <hi rendition="#i"
+            >luquete</hi> ‛Stück Zitronen- oder Apfelsinenschale, das man
+          in den Wein tut, um ihm diesen Geschmack zu geben’ [Dicc Cast
+          1286 a; DE 298].</p>
+        <p>1335. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">luḳma:</hi>
+          <lb/>‛Bissen, Fetzen’, tk. <hi rendition="#i">loḳma</hi>; hieraus
+          rum. <hi rendition="#i">locma</hi> ‛Leckerbissen’; serb. <hi
+            rendition="#i">lokma</hi>, <hi rendition="#i">lokwa</hi>
+          ‛Bissen, Stück (Fleisch)’, russ. <hi rendition="#i">lohmoty</hi>
+          (veraltet) ‛Lumpen, Fetzen’. [Gorjajew 192. Mikl SlEtWb 173 a.
+          Bern SlEtWb 729.</p>
+        <p>1336. <hi rendition="#b">Pers.</hi>
+          <hi rendition="#b">lūlä:</hi>
+          <lb/>‛Pfeife, Pfeifenrohr’, ebenso tk. <hi rendition="#i"
+            >lüle</hi>; hieraus rum. <hi rendition="#i">lulea</hi>
+          ‛Tabakspfeife’, bulg. <hi rendition="#i">lula</hi> ‛Tabakspfeife,
+          Pfeifenkopf’, serb. <hi rendition="#i">lula</hi> ‛Pfeife,
+          Pfeifenröhre’, poln. čech. <hi rendition="#i">lulka</hi>, klruss.
+            <hi rendition="#i">l'ul'ka</hi>, russ. <hi rendition="#i"
+            >ljul'ka</hi> ‛Pfeife’. [Gorjajew 198. Mikl SlEtWb 176 a. <choice>
+            <sic>‛</sic>
+            <corr/>
+          </choice>Bern SlEtWb 745.</p>
+        <p>1337. <hi rendition="#b">Mal.</hi>
+          <hi rendition="#b">lūrī:</hi>
+          <lb/>‛Art Papagei’, bes. auf den Molukken, seit dem XIV.
+          Jahrhundert in Südindien <cb n="2"/>und seit dem XVI. Jahrhundert
+          in Europa eingeführt, auch <hi rendition="#i">nūrī</hi> [Pijn
+          212]; hieraus frz. <hi rendition="#i">lauri</hi>, <hi
+            rendition="#i">loury</hi>, sp. <hi rendition="#i">loro</hi>,
+          pg. <hi rendition="#i">louro</hi>, <hi rendition="#i">nore</hi>,
+          it. <hi rendition="#i">nuro</hi>; engl. <hi rendition="#i"
+            >lory</hi>, <hi rendition="#i">loory</hi>, (alt) <hi
+            rendition="#i">nory</hi>, <hi rendition="#i">nury</hi>, ndl.
+            <hi rendition="#i">noeri</hi>, dtsch. <hi rendition="#i"
+            >Lori</hi> [und hiernach häufig <hi rendition="#i">Lora</hi>].
+          [MMM 23. Devic DEt 152. JAOS XVIII, 71/72 und 84/86 MWiD 28.</p>
+        <p>1338. <hi rendition="#b">Hind.</hi>
+          <hi rendition="#b">lūṭ:</hi>
+          <lb/>‛Raub, Plünderung’ [aus sskr. <hi rendition="#i"
+          >lotra</hi>]; hieraus angloind. engl. <hi rendition="#i"
+            >loot</hi> ‛dass.’ [vgl. Jesperson, Growth and structure of the
+          English language. ⁴. Leipzig 1923. S. 150], dazu <hi
+            rendition="#i">looty</hi> ‛Plünderer, Räuber’ [pers. <hi
+            rendition="#i">lūtī</hi>, vgl. Brugsch, Reise nach Persien I,
+          224/225]. [Hobson-Jobson 519/521.</p>
+      </div>
+      <div xml:id="section-m">
+        <p>1338 a. <hi rendition="#b">Chin.</hi>
+          <hi rendition="#b">ma:</hi>
+          <lb/>‛Sperling’ [Rüdenberg, Chinesisch-deutsches Wörterbuch S.
+          377 c, Nr. 3771]; mit chin. <hi rendition="#i">djung</hi> ‛Spiel’
+          verbunden, ergibt sich der Name für ein chinesisches, dem Domino
+          ähnliches Spiel mit verwickelten Spielregeln, das seit kurzem in
+          Amerika und weniger in Europa Eingang gefunden hat; also
+          eigentlich ‛Spatzenspiel’, engl. <hi rendition="#i"
+            >mah-djong</hi>, dtsch. <hi rendition="#i">Mah-Jong</hi>.</p>
+        <p>1339. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">mabrūm:</hi>
+          <lb/>‛Seil’ [Part. pass. von <hi rendition="#i">barama</hi> ‛ein
+          Seil drehen’, also ‛gedreht’]; hieraus sp. pg. kat. <hi
+            rendition="#i">maroma</hi> ‛Seil, dicker Hanfstrick’, val. plr.
+            <hi rendition="#i">varomes</hi> ‛dass.’. [DE 304. Eguilaz 446
+          (wo als Grundwort fälschlich ar. <hi rendition="#i">barīm</hi>
+          ‛Schnur, Seil’ angegeben wird).</p>
+        <p>1340. <hi rendition="#b">Ind.</hi>
+          <hi rendition="#b">macao:</hi>
+          <lb/>‛Art Papagei’; hieraus frz. <hi rendition="#i">macao</hi>
+          ‛dass.’, Ableitung <hi rendition="#i">macareux</hi>
+          ‛Papageitaucher, Mormon arctica Ill.’ [nach ML 5195 mit Berufung
+          auf Behrens, Beitr 372].</p>
+        <p>1341. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ma‛dan:</hi>
+          <lb/>‛Bergwerk’; hieraus sp. <hi rendition="#i">almadén</hi>
+          ‛Bergwerk, Metallmine’; über tk. <hi rendition="#i">maden</hi>
+          wurde rum. <hi rendition="#i">madem</hi> ‛Bergwerk, Metall’;
+          bulg. <hi rendition="#i">madem</hi> ‛Bergwerk’. [DE 148. Eguilaz
+          207. M5215. Löbel ElTAP 59. Mikl SlEtWb 179.</p>
+        <p>1342. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">mādda:</hi>
+          <lb/>‛Materie, Stoff, Gegenstand’ [vgl. auch Dozy Suppl II, 574];
+          hieraus siz. <hi rendition="#i">maddu</hi>, <hi rendition="#i"
+            >maddiu</hi> ‛Haarwulst’. [GrSVociSic 240.</p>
+        <p>1342 a. <hi rendition="#b">Telugu</hi>
+          <hi rendition="#b">Mādhavayya-pālemu:</hi>
+          <lb/>‛Befestigter Ort von Mādhava’, schon indisch zu <hi
+            rendition="#i">Mādhavapalam</hi> verkürzt, N. pr., Name eines
+          Ortes am südlichen Deltaufer des Godavery an der Ostküste
+          Vorderindiens. Hieraus ist die Bezeichnung eines besonderen
+          Baumwollstoffes entstanden: angloind. engl. <hi rendition="#i"
+            >madapollam</hi> ‛ein Mittelding zwischen Kaliko und
+          Musseline’, frz. <hi rendition="#i">madapolam</hi>, <hi
+            rendition="#i">madapolame</hi> ‛geköperter Kattun, starker
+          Kaliko’, dtsch. <pb n="107" facs="#f0129"/><cb n="1"/><hi
+            rendition="#i">Madapolam</hi>. [Hobson-Jobson 531/532. MWiD
+          125.</p>
       </div>
       <cb type="end"/>
     </body>
