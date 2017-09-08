@@ -227,9 +227,11 @@
             >goth.</hi> = Gothic <lb/><hi rendition="#k">gr.</hi> =
           Greek <lb/>Icel. = Icelandic <lb/>inf. = infinitive mood
           <lb/>infl. = inflected <lb/>interj. = interjection <lb/><hi
-            rendition="#k">ir.</hi> = Irish <lb/><hi rendition="#k"
-            >ital.</hi> = Italian <lb/><hi rendition="#k">lat.</hi> =
-          Latin <lb/><hi rendition="#k">lg.</hi> = Low German <cb
+            rendition="#k">ir.</hi> = Irish <lb/><hi rendition="#k"><choice>
+              <sic>ital.</sic>
+              <corr>it.</corr>
+            </choice></hi> = Italian <lb/><hi rendition="#k">lat.</hi>
+          = Latin <lb/><hi rendition="#k">lg.</hi> = Low German <cb
             n="2"/><lb/>lit. = literally <lb/><hi rendition="#k"><choice>
               <sic>lith</sic>
               <corr>lith.</corr>
@@ -599,8 +601,10 @@
             rendition="#k">fr.</hi>
           <hi rendition="#i">avancer</hi> ‘go before’ (deriv. of <hi
             rendition="#k">fr.</hi>
-          <hi rendition="#i">avant</hi> = <hi rendition="#k"
-            >ital.</hi>
+          <hi rendition="#i">avant</hi> = <hi rendition="#k"><choice>
+              <sic>ital.</sic>
+              <corr>it.</corr>
+            </choice></hi>
           <hi rendition="#i">avante</hi>, <hi rendition="#k">lat.</hi>
           <hi rendition="#i">ab</hi> + <hi rendition="#i"
           >ante</hi>).</p>
@@ -34731,9 +34735,1529 @@
             rendition="#i">raggiᵹ</hi> ‘shaggy’): borrowed fr. <hi
             rendition="#k">on.</hi>
           <hi rendition="#i">rǫgg</hi> ‘shagginess’.</p>
+        <p><hi rendition="#b">rage</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">ráǧe</hi> fr. <hi rendition="#k">fr.</hi>
+          <hi rendition="#i">rage</hi> = <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">rabies</hi>.</p>
+        <p><hi rendition="#b">rail</hi>¹ <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rail</hi>
+          <hi rendition="#i">reil</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">reille</hi>; source <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">rêgula</hi>, whence also <hi
+            rendition="#k">g.</hi>
+          <hi rendition="#i">riegel</hi>
+          <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">rigil</hi>, <hi rendition="#k">odu.</hi>
+          <hi rendition="#i">rijchel</hi> ‘bar, rail’.</p>
+        <p><hi rendition="#b">rail</hi>² <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rail</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hræᵹl</hi> ‘a garment’; ident. w. <hi
+            rendition="#k">ohg.</hi>
+          <hi rendition="#i">hrẹgil</hi> ‘a garment’: <hi
+            rendition="#k">teut.</hi> base <hi rendition="#i"
+            >hrag(i)la-</hi>.</p>
+        <p><hi rendition="#b">rain</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rain</hi>
+          <hi rendition="#i">rein</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rëᵹn</hi> = <hi rendition="#k">ohg.</hi>
+          <hi rendition="#k">olg.</hi>
+          <hi rendition="#i">rëgan</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#k">du.</hi>
+          <hi rendition="#i">regen</hi>, <hi rendition="#k">on.</hi>
+          <hi rendition="#i">regn</hi>, <hi rendition="#k">goth.</hi>
+          <hi rendition="#i">rigns</hi>: <hi rendition="#k">teut.</hi>
+          base <hi rendition="#i">rëgna-</hi>. Cp. Lith. <hi
+            rendition="#i">rokė</hi> ‘drizzling rain’.</p>
+        <p><hi rendition="#b">raise</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">reis<gap unit="chars" quantity="1"
+              reason="illegible"/></hi> borrowed fr. <hi
+            rendition="#k">on.</hi>
+          <hi rendition="#i">reisa</hi> ‘raise’: causal of <hi
+            rendition="#k">on.</hi>
+          <hi rendition="#i">rísa</hi> = <hi rendition="#k">goth.</hi>
+          <hi rendition="#i">reisan</hi>; cp. <hi rendition="#g #i"
+            >rise</hi>.</p>
+        <cb n="2"/>
+        <p><hi rendition="#b">raisin</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">reisín</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">raisin</hi> ‘a grape’, whence also <hi
+            rendition="#k">du.</hi>
+          <hi rendition="#i">rozijn</hi>, <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rosine</hi>. Source <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">racêmus</hi> ‘a bunch of grapes’.</p>
+        <p><hi rendition="#b">rake</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rák<gap reason="illegible" quantity="1"
+              unit="chars"/></hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">răca</hi> = <hi rendition="#k">du.</hi>
+          <hi rendition="#i">raak</hi>; ident. w. <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">rëhho</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rechen</hi>, <hi rendition="#k">on.</hi>
+          <hi rendition="#i">reka</hi>: <hi rendition="#k">teut.</hi>
+          base <hi rendition="#i">rakon-</hi>
+          <hi rendition="#i">rëkon-</hi>, derived fr. the str. vb. <hi
+            rendition="#k">goth.</hi>
+          <hi rendition="#i">rikan</hi> ‘gather’.</p>
+        <p><hi rendition="#b">ram</hi> sb. <hi rendition="#k">me.</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">ram</hi>
+          <hi rendition="#i">(mm)</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rǫm</hi>
+          <hi rendition="#i">(mm)</hi> = <hi rendition="#k">ohg.</hi>
+          <hi rendition="#k">mhg.</hi>
+          <hi rendition="#k">du.</hi>
+          <hi rendition="#i">ram</hi>: <hi rendition="#k">teut.</hi>
+          base <hi rendition="#i">ramma-</hi>; perh. cogn. w. <hi
+            rendition="#k">on.</hi>
+          <hi rendition="#i">ramr</hi> ‘strong’.</p>
+        <p><hi rendition="#b">ramsons</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">ramsen</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hramsan</hi> plur.: <hi rendition="#k"
+            >teut.</hi> base <hi rendition="#i">hramusan-</hi> also in
+            <hi rendition="#k">g.</hi> (dial.) <hi rendition="#i"
+            >ramsen</hi>, <hi rendition="#k">swed.</hi>
+          <hi rendition="#i">ramslök</hi> ‘bear-garlick’; further
+          allied to <hi rendition="#k">gr.</hi>
+          <hi rendition="#i">ϰρ<gap unit="chars" quantity="1"
+              reason="illegible"/>μνον</hi> ‘onion’, <hi
+            rendition="#k">ir.</hi>
+          <hi rendition="#i">crem</hi> — <hi rendition="#k">cymr.</hi>
+          <hi rendition="#i">craf</hi> ‘garlick', <hi rendition="#k"
+            >lith.</hi>
+          <hi rendition="#i">kermusze</hi> ‘wild garlick’.</p>
+        <p><hi rendition="#b">range</hi> vb. fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">ranger</hi>.</p>
+        <p><hi rendition="#b">ransack</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">ransake</hi> fr. <hi rendition="#k"
+            >on.</hi>
+          <hi rendition="#i">rannsaka</hi> prop. ‘search the house’:
+            <hi rendition="#k">on.</hi>
+          <hi rendition="#i">rann</hi> ‘house’ (= <hi rendition="#k"
+            >goth.</hi>
+          <hi rendition="#i">razn</hi>, <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">ræsn</hi>
+          <hi rendition="#i">ræn</hi>
+          <hi rendition="#i">ærn</hi> ‘house’); for <hi rendition="#k"
+            >on.</hi>
+          <hi rendition="#i">saka</hi> see <hi rendition="#g #i"
+            >seek</hi>.</p>
+        <p><hi rendition="#b">ransom</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">raunçoun</hi> (<hi rendition="#k"
+            >du.</hi>
+          <hi rendition="#i">rantsoen</hi>) fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">rançon</hi> (= <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">redemptio-nem</hi>).</p>
+        <p><hi rendition="#b">rap</hi> vb. <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rápe</hi> ‘rush, hasten’ = <hi
+            rendition="#k">on.</hi>
+          <hi rendition="#i">hrapa</hi> vb. ‘hasten’; cp. <hi
+            rendition="#k">du.</hi>
+          <hi rendition="#i">rapen</hi>, <hi rendition="#k">mhg.</hi>
+          <hi rendition="#i">raffen</hi> ‘seize’: <hi rendition="#k"
+            >teut.</hi> base <hi rendition="#i">hrapôn</hi>.</p>
+        <p><hi rendition="#b">rape</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rápe</hi> (= <hi rendition="#k">du.</hi>
+          <hi rendition="#i">raap</hi>) fr. <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">rapa</hi> ‘turnip’.</p>
+        <p><hi rendition="#b">rat</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rat</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">ræt</hi> (<hi rendition="#i">tt</hi>) =
+            <hi rendition="#k">g.</hi>
+          <hi rendition="#i">ratte</hi>
+          <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">ratta</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">rat</hi>
+          <hi rendition="#i">rot</hi>; <pb n="172" facs="#f0178"/><cb
+            n="1"/>ident. w. fr. <hi rendition="#i">rat</hi>, <hi
+            rendition="#k">it.</hi>
+          <hi rendition="#i">ratto</hi>. History of the group
+          unknown.</p>
+        <p><hi rendition="#b">rate</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">rate</hi> = <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">ratum</hi>.</p>
+        <p><hi rendition="#b">rather</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rather</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hrađor</hi> prop. ‘quicker, sooner’:
+          comparative form of <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hrađe</hi> ‘quickly’; cp. the adj. <hi
+            rendition="#k">oe.</hi>
+          <hi rendition="#i">hræđ</hi>, <hi rendition="#k">on.</hi>
+          <hi rendition="#i">hrađr</hi> ‘swift’, <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">hrad</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">rad</hi> ‘quick’ fr. a <hi rendition="#k"
+            >teut.</hi> base <hi rendition="#i">hraþa-</hi>. Akin to
+            <hi rendition="#k">oir.</hi>
+          <hi rendition="#i">crothim</hi> ‘I shake’.</p>
+        <p><hi rendition="#b">rattle</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">ratele</hi> vb.; cp. <hi rendition="#k"
+            >oe.</hi>
+          <hi rendition="#i">hrætele</hi> sb. ‘rattle wort’ and <hi
+            rendition="#k">lg.</hi>
+          <hi rendition="#i">ratelen</hi> vb. ‘rattle’, <hi
+            rendition="#k">mhg.</hi>
+          <hi rendition="#i">raʒʒeln</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rasseln</hi> vb. ‘rattle’: <hi
+            rendition="#k">teut.</hi> √ <hi rendition="#i">hrat</hi> =
+            <hi rendition="#k">aryan</hi> √ <hi rendition="#i"
+            >krad</hi> in <hi rendition="#k">gr.</hi>
+          <hi rendition="#i">ϰραδαίνω</hi> (√ <hi rendition="#i"
+            >krot</hi> in <hi rendition="#k">gr.</hi>
+          <hi rendition="#i">ϰροταλίζειν</hi> vb. ‘rattle’?).</p>
+        <p><hi rendition="#b">raven</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">ráven</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hræfn</hi> = <hi rendition="#k">on.</hi>
+          <hi rendition="#i">hrafn</hi>; cp. <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">hraban</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rabe</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">raaf</hi>: <hi rendition="#k">teut.</hi>
+          base <hi rendition="#i">hrabna-</hi>
+          <hi rendition="#i">hrabn-</hi>; perh. fr. an aryan √ <hi
+            rendition="#i">kro</hi>: <hi rendition="#i">kor</hi> in
+            <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">corvus</hi>, <hi rendition="#k">gr.</hi>
+          <hi rendition="#i">ϰόραξ</hi> ‘raven’.</p>
+        <p><hi rendition="#b">ravish</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">ravisshe</hi> vb. fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">raviss-</hi> in <hi rendition="#i"
+            >ravir</hi> ‘to ravish’.</p>
+        <p><hi rendition="#b">raw</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">raw</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hreaw</hi> = <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">hrao</hi>
+          <hi rendition="#i">hrô</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">roh</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">rauw</hi>, <hi rendition="#k">on.</hi>
+          <hi rendition="#i">hrár</hi>: <hi rendition="#k">teut.</hi>
+          base <hi rendition="#i">hrā̆wa-</hi>; perh. cogn. w. <hi
+            rendition="#k">skr.</hi>
+          <hi rendition="#i">krûra</hi> ‘sore’ and <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">cruor</hi> ‘blood’.</p>
+        <p><hi rendition="#b">ray</hi> see <hi rendition="#g #i"
+            >roach</hi>.</p>
+        <p><hi rendition="#b">reach</hi>¹ vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rę́che</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rǽčean</hi> fr. a <hi rendition="#k"
+            >teut.</hi> type <hi rendition="#i">raikjan</hi> in <hi
+            rendition="#k">ohg.</hi>
+          <hi rendition="#i">reihhan</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">reichen</hi> vb. ‘reach’, <hi
+            rendition="#k">du.</hi>
+          <hi rendition="#i">reiken</hi>.</p>
+        <p><hi rendition="#b">reach</hi>², <hi rendition="#g #i"
+            >retch</hi> vb. <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rę́che</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hrǽčean</hi>; <hi rendition="#k"
+            >teut.</hi> √ <hi rendition="#i">hrâk</hi> in <hi
+            rendition="#k">oe.</hi>
+          <hi rendition="#i">hráca</hi> = <hi rendition="#k">on.</hi>
+          <hi rendition="#i">hráki</hi> ‘spittle’ and <hi
+            rendition="#k">ohg.</hi>
+          <hi rendition="#i">râhhisôn</hi> ‘to try to vomit’.</p>
+        <p><hi rendition="#b">read</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rę́de</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rǽdan</hi> vb. = <hi rendition="#k"
+            >on.</hi>
+          <hi rendition="#i">ráđa</hi> ‘read’; prop. <cb n="2"/>ident.
+          w. <hi rendition="#k">goth.</hi>
+          <hi rendition="#i">rêdan</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">râtan</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">raten</hi> vb. ‘advise’, <hi
+            rendition="#k">on.</hi>
+          <hi rendition="#i">ráđa</hi> ‘counsel, consult’. <hi
+            rendition="#g #i">read</hi> meant orig. ‘to read a riddle’
+          (cp. <hi rendition="#g #i">riddle</hi>), then ‘to interprete
+          the runes’ (<hi rendition="#k">on.</hi>
+          <hi rendition="#i">ráđa</hi>
+          <hi rendition="#i">gátu</hi> ‘read a riddle’ — <hi
+            rendition="#i">ráda</hi>
+          <hi rendition="#i">draum</hi> ‘read a dream’ — <hi
+            rendition="#i">ráđa</hi>
+          <hi rendition="#i">rúnar</hi> ‘read runes’), <hi
+            rendition="#k">skr.</hi> has a corresponding √ <hi
+            rendition="#i">râdh</hi> ‘perform’; cp. also <hi
+            rendition="#k">oslov.</hi>
+          <hi rendition="#i">raditi</hi>.</p>
+        <p><hi rendition="#b">ready</hi> adj. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rę́dí</hi> (<hi rendition="#k">oe.</hi>
+          <hi rendition="#i">*rǽdiᵹ</hi> extended fr.) <hi
+            rendition="#k">oe.</hi>
+          <hi rendition="#i">rǽde</hi> ‘ready’ = <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">reiti</hi> ‘ready’; cp. <hi
+            rendition="#k">goth.</hi>
+          <hi rendition="#i">garaids</hi> = <hi rendition="#k"
+            >on.</hi>
+          <hi rendition="#i">greiđr</hi> ‘ready’. As <hi
+            rendition="#k">g.</hi>
+          <hi rendition="#i">fertig</hi> prop. meant ‘ready for a
+          journey’ (<hi rendition="#k">g.</hi>
+          <hi rendition="#i">fahrt</hi>), perh. a <hi rendition="#k"
+            >teut.</hi> base <hi rendition="#i">raida-</hi> ‘journey’
+          may be the source of the group; cp. <hi rendition="#k"
+            >ir.</hi>
+          <hi rendition="#i">réid</hi> ‘passable’ and see <hi
+            rendition="#g #i">ride</hi> and <hi rendition="#g #i"
+            >road</hi>.</p>
+        <p><hi rendition="#b">realm</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">réalme</hi> (<hi rendition="#i"
+            >ríalme</hi>) fr. <hi rendition="#k">ofr.</hi>
+          <hi rendition="#i">realme</hi> (<hi rendition="#k">fr.</hi>
+          <hi rendition="#i">royaume</hi>).</p>
+        <p><hi rendition="#b">ream</hi> late <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rę́me</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">raime</hi>
+          <hi rendition="#k">fr.</hi>
+          <hi rendition="#i">rame</hi>; cp. <hi rendition="#k"
+            >span.</hi>
+          <hi rendition="#i">resma</hi>, <hi rendition="#k"><choice>
+              <sic>ital.</sic>
+              <corr>it.</corr>
+            </choice></hi>
+          <hi rendition="#i">risma</hi> (<hi rendition="#k">g.</hi>
+          <hi rendition="#i">ries</hi>) ‘ream of paper’. Source <hi
+            rendition="#k">arab.</hi>
+          <hi rendition="#i">rizma</hi> ‘a bundle’.</p>
+        <p><hi rendition="#b">reap</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">répe</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">riopan</hi> vb. fr. a <hi rendition="#k"
+            >teut.</hi> √ <hi rendition="#i">rī̆p</hi> ‘cut’ in <hi
+            rendition="#g #i">ripe</hi>; cp. <hi rendition="#k"
+            >oe.</hi>
+          <hi rendition="#i">rífter</hi> ‘sickle’ and see <hi
+            rendition="#g #i">ripe</hi>.</p>
+        <p><hi rendition="#b">rear</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rére</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rǽran</hi> vb. = <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">rêran</hi> vb. ‘raise’ fr. a <hi
+            rendition="#k">teut.</hi> base <hi rendition="#i"
+            >raizjan</hi>; cp. <hi rendition="#g #i">rise</hi> and <hi
+            rendition="#g #i">raise</hi> for √ <hi rendition="#i"
+            >rī̆s</hi>.</p>
+        <p><hi rendition="#b">rear</hi> adj. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rę́re</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hrër</hi>.</p>
+        <p><hi rendition="#b">reason</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rę́soun</hi> earlier <hi rendition="#i"
+            >reisoun</hi> fr. <hi rendition="#k">fr.</hi>
+          <hi rendition="#i">raison</hi> = <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">ratio-nem</hi>.</p>
+        <p><hi rendition="#b">reave</hi> (<hi rendition="#g #i"
+            >bereave</hi>) vb. <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rę́ve</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rę́afian</hi> vb. = <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">raubôn</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rauben</hi>, <hi rendition="#k"
+            >goth.</hi>
+          <hi rendition="#i">(bi)raubôn</hi> ‘despoil’, <pb n="173"
+            facs="#f0179"/><cb n="1"/>
+          <hi rendition="#k">on.</hi>
+          <hi rendition="#i">raufa</hi> (see also <hi
+            rendition="#g #i">robe</hi>): derived fr. a primitive str.
+          vb. <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">berẹ́ofan</hi>, <hi rendition="#k"
+            >on.</hi>
+          <hi rendition="#i">rjúfa</hi> ‘to break’. Cp. <hi
+            rendition="#k">skr.</hi> √ <hi rendition="#i"
+          >lup</hi>.</p>
+        <p><hi rendition="#b">receive</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">receive</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">recever</hi> = <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">recevoir</hi>.</p>
+        <p><hi rendition="#b">reck</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">recke</hi> (<hi rendition="#i"
+            >recche</hi>) short for <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rẹ́čean</hi> earlier <hi rendition="#i"
+            >rœ́čean</hi>: <hi rendition="#k">teut.</hi> base <hi
+            rendition="#i">rôkjan</hi> in <hi rendition="#k">on.</hi>
+          <hi rendition="#i">rœ́kja</hi>, <hi rendition="#k"
+            >osax.</hi>
+          <hi rendition="#i">rôkian</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">ruohhan</hi> ‘have a care for’.</p>
+        <p><hi rendition="#b">reckon</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rekne</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">ᵹerëcenian</hi> vb. = <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">rëhhanôn</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rechnen</hi> ‘reckon’, <hi rendition="#k"
+            >du.</hi>
+          <hi rendition="#i">rekenen</hi>; cp. the <hi rendition="#k"
+            >teut.</hi> √ <hi rendition="#i">rëk</hi> in <hi
+            rendition="#k">ohg.</hi>
+          <hi rendition="#i">rahha</hi> ‘subject, thing’.</p>
+        <p><hi rendition="#b">-red</hi> suffix in <hi rendition="#i"
+            >hatred</hi>; cp. <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">fẹ́ondrǽden</hi>
+          <hi rendition="#i">frẹ́ondrǽden</hi> ‘friendship’ (<hi
+            rendition="#i">híwrǽden</hi> under <hi rendition="#g #i"
+            >hind</hi>); orig. <hi rendition="#i">-raidîn</hi> in <hi
+            rendition="#k">goth.</hi>
+          <hi rendition="#i">ga-raideins</hi>.</p>
+        <p><hi rendition="#b">red</hi> adj. short for <hi
+            rendition="#k">me.</hi>
+          <hi rendition="#i">rę́d</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rę́ad</hi> = <hi rendition="#k"
+            >teut.</hi>
+          <hi rendition="#i">rauda-</hi> in <hi rendition="#k"
+            >goth.</hi>
+          <hi rendition="#i">rauds</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">rôt</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rot</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">rood</hi>, <hi rendition="#k">on.</hi>
+          <hi rendition="#i">rauđr</hi> ‘red’; cp. <hi rendition="#k"
+            >oe.</hi>
+          <hi rendition="#i">rẹ́odan</hi> = <hi rendition="#k"
+            >on.</hi>
+          <hi rendition="#i">rjóđa</hi> vb. ‘redden’ and <hi
+            rendition="#g #i">ruddock</hi> (<hi rendition="#g #i"
+            >rust</hi>). There is a corresponding <hi rendition="#k"
+            >aryan</hi> √ <hi rendition="#i">rū̆dh</hi>
+          <hi rendition="#i">reudh</hi> in <hi rendition="#k">gr.</hi>
+          <hi rendition="#i">ἐρυϑρός</hi>, <hi rendition="#k"
+            >skr.</hi>
+          <hi rendition="#i">rudhirá</hi>, <hi rendition="#k"
+            >oslov.</hi>
+          <hi rendition="#i">rŭdrŭ</hi>, <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">ruber</hi> ‘red’, <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">rûfus</hi>, <hi rendition="#k">ir.</hi>
+          <hi rendition="#i">ruad</hi>.</p>
+        <p><hi rendition="#b">reed</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rẹ́d</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hrẹ́od</hi> = <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">hriot</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#k">du.</hi>
+          <hi rendition="#i">riet</hi>: <hi rendition="#k">teut.</hi>
+          base <hi rendition="#i">hreuda-</hi>.</p>
+        <p><hi rendition="#b">reek</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rẹ́k</hi> sb.fr. the vb. <hi
+            rendition="#k">oe.</hi>
+          <hi rendition="#i">rẹ́ocan</hi> ‘reek, smoke’ = <hi
+            rendition="#k">on.</hi>
+          <hi rendition="#i">rjúka</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">riohhan</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">riechen</hi>; cp. <hi rendition="#k"
+            >oe.</hi>
+          <hi rendition="#i">réč</hi>
+          <hi rendition="#i">rýč</hi>, <hi rendition="#k">on.</hi>
+          <hi rendition="#i">reykr</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">rouh</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rauch</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">rook</hi> ‘smoke’ fr. a <hi
+            rendition="#k">teut.</hi> base <hi rendition="#i"
+            >rauki-</hi>.</p>
+        <p><hi rendition="#b">reel</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rẹ́le</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hrẹ́ol</hi>; prop. <hi rendition="#i"
+            >*hrœ́hil</hi> fr. a <hi rendition="#k">teut.</hi> base
+            <hi rendition="#i">*hranhil</hi>
+          <cb n="2"/>in <hi rendition="#k">on.</hi>
+          <hi rendition="#i">hrǽll</hi> ‘a weaver’s rod’, <hi
+            rendition="#i">north-fries.</hi>
+          <hi rendition="#i">raial</hi>.</p>
+        <p><hi rendition="#b">rehearse</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rehérçe</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">reherçer</hi>.</p>
+        <p><hi rendition="#b">rein</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">reine</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">reine</hi> = <hi rendition="#k">fr.</hi>
+          <hi rendition="#i">rêne</hi> (cp. <hi rendition="#i"><choice>
+              <sic>ital.</sic>
+              <corr>it.</corr>
+            </choice></hi>
+          <hi rendition="#i">redina</hi>; source <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">retinere</hi> ‘restrain’).</p>
+        <p><hi rendition="#b">relieve</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">relẹ́ve</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">relever</hi> = <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">relevare</hi>.</p>
+        <p><hi rendition="#b">rely</hi> vb. from <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">re</hi> (as in <hi rendition="#g #i"
+            >recall</hi>, <hi rendition="#g #i">remind</hi>, <hi
+            rendition="#g #i">renew</hi>) and <hi rendition="#k"
+            >e.</hi>
+          <hi rendition="#i">lie</hi> ‘to rest’.</p>
+        <p><hi rendition="#b">remnant</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">remenaunt</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">remenant</hi> ‘remnant’.</p>
+        <p><hi rendition="#b">rend</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rende</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rendan</hi> vb. ‘tear, lacerate’ = <hi
+            rendition="#k">ofris.</hi>
+          <hi rendition="#i">renda</hi> vb. ‘tear, break’.</p>
+        <p><hi rendition="#b">rennet</hi>¹ sb. fr. the vb. <hi
+            rendition="#k">me.</hi>
+          <hi rendition="#i">renne</hi> ‘run, make to run’; cp. under
+            <hi rendition="#g #i">run</hi>.</p>
+        <p><hi rendition="#b">rennet</hi>² sb. fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">reinette</hi>.</p>
+        <p><hi rendition="#b">renounce</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">renounçe</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">renoncer</hi>. — <hi rendition="#b"
+            >renown</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">renoun</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">renom</hi>.</p>
+        <p><hi rendition="#b">rest</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">reste</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rest</hi>: <hi rendition="#k">teut.</hi>
+          base <hi rendition="#i">rasti-</hi>, cp. <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">rasta</hi> ‘rest, a measure of distance’,
+            <hi rendition="#k">goth.</hi>
+          <hi rendition="#i">rasta</hi> ‘a mile’, <hi rendition="#k"
+            >on.</hi>
+          <hi rendition="#i">rǫst</hi> ‘a mile’. There is a <hi
+            rendition="#k">teut.</hi> √ <hi rendition="#i">ras</hi> in
+            <hi rendition="#k">goth.</hi>
+          <hi rendition="#i">razn</hi> ‘house’, <hi rendition="#k"
+            >on.</hi>
+          <hi rendition="#i">rann</hi> (cp. <hi rendition="#g #i"
+            >ransack</hi>).</p>
+        <p><hi rendition="#b">retch</hi> vb. see <hi rendition="#g #i"
+            >reach</hi>².</p>
+        <p><hi rendition="#b">ribb</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">ribbe</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">ribb</hi> = <hi rendition="#k">teut.</hi>
+          <hi rendition="#i">ribja-</hi> in <hi rendition="#k"
+            >on.</hi>
+          <hi rendition="#i">rif</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">rippi</hi>; <hi rendition="#k">aryan</hi>
+          √ <hi rendition="#i">rëbh</hi> in <hi rendition="#k"
+            >oslov.</hi>
+          <hi rendition="#k">russ.</hi>
+          <hi rendition="#i">rebro</hi> ‘rib’.</p>
+        <p><hi rendition="#b">rhythm</hi> see <hi rendition="#g #i"
+            >rime</hi>.</p>
+        <p><hi rendition="#b">-ric</hi> in <hi rendition="#g #i"
+            >bishopric</hi> = <hi rendition="#k">me.</hi>
+          <hi rendition="#i">bisshopriche</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">bisceopríče</hi>; cp. <hi rendition="#k"
+            >oe.</hi>
+          <hi rendition="#i">ríče</hi> ‘reign’ = <hi rendition="#k"
+            >goth.</hi>
+          <hi rendition="#i">reiki</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">rîhhi</hi>
+          <pb n="174" facs="#f0180"/><cb n="1"/><hi rendition="#k"
+            >g.</hi>
+          <hi rendition="#i">reich</hi>: fr. <hi rendition="#k"
+            >teut.</hi>
+          <hi rendition="#i">rîk-</hi> = <hi rendition="#k">goth.</hi>
+          <hi rendition="#i">reiks</hi> ‘king’.</p>
+        <p><hi rendition="#b">rice</hi> sb. fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">riz</hi> (<hi rendition="#k">du.</hi>
+          <hi rendition="#i">rijst</hi>) = <hi rendition="#i"><choice>
+              <sic>ital.</sic>
+              <corr>it.</corr>
+            </choice></hi>
+          <hi rendition="#i">riso</hi>, <hi rendition="#k">g.</hi>
+          <hi rendition="#i">reis</hi>: source <hi rendition="#k"
+            >gr.</hi>
+          <hi rendition="#i">ὄρυζα</hi> ‘rice’.</p>
+        <p><hi rendition="#b">rich</hi> adj. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">riche</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">riche</hi>; ident. w. <hi rendition="#k"
+            >oe.</hi>
+          <hi rendition="#i">ríče</hi> ‘powerful’, <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">rîhhi</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">reich</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">rijk</hi>, <hi rendition="#k">on.</hi>
+          <hi rendition="#i">ríkr</hi>, <hi rendition="#k">goth.</hi>
+          <hi rendition="#i">reiks</hi>. Originally a derivative of
+            <hi rendition="#k">goth.</hi>
+          <hi rendition="#i">reiks</hi> ‘king’ under <hi
+            rendition="#g #i">ric</hi>. — <hi rendition="#b"
+            >riches</hi> sb. <hi rendition="#k">me.</hi>
+          <hi rendition="#i">richesse</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">richesse</hi>: derived fr. <hi
+            rendition="#k">fr.</hi>
+          <hi rendition="#i">riche</hi> = <hi rendition="#k"
+            >teut.</hi>
+          <hi rendition="#i">rîki</hi> ‘powerful’.</p>
+        <p><hi rendition="#b">rick</hi> sb. short for <hi
+            rendition="#k">me.</hi>
+          <hi rendition="#i">rẹ́k</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hrę́ac</hi> ‘a heap’ = <hi rendition="#k"
+            >du.</hi>
+          <hi rendition="#i">rook</hi>, <hi rendition="#k">on.</hi>
+          <hi rendition="#i">hraukr</hi> (<hi rendition="#i"
+            >hroki</hi>) ‘a heap’: <hi rendition="#k">teut.</hi> base
+            <hi rendition="#i">hrauka-</hi>, akin to <hi
+            rendition="#k">on.</hi>
+          <hi rendition="#i">hrúga</hi> ‘a heap’ and <hi
+            rendition="#k">ir.</hi>
+          <hi rendition="#i">cruach</hi> ‘heap’.</p>
+        <p><hi rendition="#b">rid</hi> vb. <hi rendition="#k">me.</hi>
+          <hi rendition="#i">ridde</hi> prop. <hi rendition="#i"
+            >redde</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hreddan</hi> = <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">hrẹttan</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">retten</hi>: <hi rendition="#k"
+            >teut.</hi> base <hi rendition="#i">hradjan</hi> from an
+            <hi rendition="#k">aryan</hi> √ <hi rendition="#i"
+            >krath</hi> in <hi rendition="#k">skr.</hi>
+          <hi rendition="#i">çrathay</hi><choice>
+            <sic>.</sic>
+            <corr/>
+          </choice> ‘loosen’.</p>
+        <p><hi rendition="#b">riddle</hi><choice>
+            <sic/>
+            <corr>¹</corr>
+          </choice> sb. <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rẹ́dles</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rẹ́dels</hi>
+          <hi rendition="#i">rǽdelse</hi> = <hi rendition="#k"
+            >du.</hi>
+          <hi rendition="#i">raadsel</hi>, <hi rendition="#k"
+            >osax.</hi>
+          <hi rendition="#i">râdisli</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rätsel</hi> ‘riddle’; cp. <hi
+            rendition="#k">ohg.</hi>
+          <hi rendition="#i">râtisca</hi>
+          <hi rendition="#i">râtussa</hi> ‘riddle’: <hi rendition="#k"
+            >teut.</hi> √ <hi rendition="#i">râd</hi>
+          <hi rendition="#i">rêd</hi> under <hi rendition="#g #i"
+            >read</hi>.</p>
+        <p><hi rendition="#b">riddle</hi>² sb. ‘sieve’ <hi
+            rendition="#k">me.</hi>
+          <hi rendition="#i">riddel</hi> for <hi rendition="#k"
+            >oe.</hi>
+          <hi rendition="#i">hrídder</hi> = <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">hrîtara</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">reiter</hi> ‘sieve’: <hi rendition="#k"
+            >aryan</hi> √ <hi rendition="#i">krī̆</hi> in <hi
+            rendition="#k">lat.</hi>
+          <hi rendition="#i">crîbrum</hi> ‘sieve’, <hi rendition="#k"
+            >gr.</hi>
+          <hi rendition="#i">ϰρίνω</hi> and in <hi rendition="#k"
+            >goth.</hi>
+          <hi rendition="#i">hrai-ns</hi>, <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">reini</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rein</hi> ‘clean’ (prop. ‘sifted’?).</p>
+        <p><hi rendition="#b">ride</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">ríde</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rídan</hi> str. vb = <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">rîtan</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">reiten</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">rijden</hi>, <hi rendition="#k">on.</hi>
+          <hi rendition="#i">ríđa</hi>: <hi rendition="#k">teut.</hi>
+          √ <hi rendition="#i">rī̆d</hi> = pre-<hi rendition="#k"
+            >teut.</hi>
+          <hi rendition="#i">reidh</hi> in <hi rendition="#k"
+            >gallo-lat.</hi>
+          <hi rendition="#i">rêda</hi> ‘carriage’ — <hi rendition="#i"
+            >verêdus</hi> ‘horse’ (under <hi rendition="#g #i"
+            >palfrey</hi>) and <hi rendition="#k">ir.</hi>
+          <hi rendition="#i">ríadaim</hi> ‘I go’; see <hi
+            rendition="#g #i">ready</hi>.</p>
+        <cb n="2"/>
+        <p><hi rendition="#b">ridge</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">riǧǧe</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hryčǧ</hi> (genit. <hi rendition="#i"
+            >hryčǧes</hi>) = <hi rendition="#k">teut.</hi>
+          <hi rendition="#i">hrugja-</hi> in <hi rendition="#k"
+            >osax.</hi>
+          <hi rendition="#i">hruggi</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">rug</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">hrucki</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rücken</hi> ‘back’, <hi rendition="#k"
+            >on.</hi>
+          <hi rendition="#i">hryggr</hi>: pre-<hi rendition="#k"
+            >teut.</hi>
+          <hi rendition="#i">krukjo-</hi>, cogn. w. <hi rendition="#k"
+            >ir.</hi>
+          <hi rendition="#i">crocenn</hi> sb. ‘back’.</p>
+        <p><hi rendition="#b">rife</hi> adj. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">oe</hi>. <hi rendition="#i">ríf</hi>
+          ‘abundant, frequent’ = <hi rendition="#k">on.</hi>
+          <hi rendition="#i">rífr</hi> ‘munificent, abundant’, <hi
+            rendition="#k">odu.</hi>
+          <hi rendition="#i">rijf</hi> ‘copious’, <hi rendition="#k"
+            >lg.</hi>
+          <hi rendition="#i">rîve</hi> ‘abundant’.</p>
+        <p><hi rendition="#b">right</hi> adj. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">right</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">riht</hi> earlier <hi rendition="#i"
+            >*rëht</hi> = <hi rendition="#k">ohg.</hi>
+          <hi rendition="#k">osax.</hi>
+          <hi rendition="#i">rëht</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#k">du.</hi>
+          <hi rendition="#i">recht</hi>, <hi rendition="#k">on.</hi>
+          <hi rendition="#i">réttr</hi>, <hi rendition="#k">goth.</hi>
+          <hi rendition="#i">raíhts</hi> ‘right, straight’: <hi
+            rendition="#k">teut.</hi>
+          <hi rendition="#i">rëhta-</hi> fr. an <hi rendition="#k"
+            >aryan</hi>
+          <hi rendition="#i">rëkto-</hi> (= <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">rectus</hi> ‘right, straight’), prop.
+          participle fr. a verbal √ <hi rendition="#i">rëg</hi> in <hi
+            rendition="#k">lat.</hi>
+          <hi rendition="#i">regere</hi> ‘to rule’; cp. <hi
+            rendition="#k">skr.</hi>
+          <hi rendition="#i">ṛjú</hi> ‘right, straight’.</p>
+        <p><hi rendition="#b">righteous</hi> transformed fr. <hi
+            rendition="#k">me.</hi>
+          <hi rendition="#i">rightwís</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rihtwís</hi> = <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">rëhtwîs</hi> ‘knowing the right’; see <hi
+            rendition="#g #i">wise</hi>.</p>
+        <p><hi rendition="#b">rim</hi> sb. <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rime</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rima</hi>
+          <hi rendition="#i">rioma</hi> ‘border, margin’; probably
+          cogn. w. <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rand</hi>, <hi rendition="#k">on.</hi>
+          <hi rendition="#i">rǫnd</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">rant</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#k">du.</hi>
+          <hi rendition="#i">rand</hi> ‘border, margin’: <hi
+            rendition="#k">teut.</hi>
+          <hi rendition="#i">ran-dô-</hi> for <hi rendition="#i"
+            >ram-dô-</hi> (as <hi rendition="#g #i">sand</hi> for <hi
+            rendition="#k">aryan</hi>
+          <hi rendition="#i">samdho-</hi>). Perh. <hi
+            rendition="#g #i">rind</hi> belongs to the same <hi
+            rendition="#k">aryan</hi> √ <hi rendition="#i"
+          >rëm</hi>.</p>
+        <p><hi rendition="#b">rime</hi>¹ sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rím</hi> ‘verse, song’ borrowed about
+          1200 fr. <hi rendition="#k">ofr.</hi>
+          <hi rendition="#i">rime</hi>, whence also <hi rendition="#k"
+            >mhg.</hi>
+          <hi rendition="#i">rîm</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">reim</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">rijm</hi> (properly ‘verse’). Source <hi
+            rendition="#k">lat.</hi>
+          <hi rendition="#i">rhythmus</hi>.</p>
+        <p><hi rendition="#b">rime</hi>² sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">ríme</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hrím</hi> = <hi rendition="#k">du.</hi>
+          <hi rendition="#i">rijm</hi>, <hi rendition="#k">on.</hi>
+          <hi rendition="#i">hrím</hi> ‘hoarfrost’; doubtful, whether
+            <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">hrîfo</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">reif</hi>, <hi rendition="#k">osax.</hi>
+          <hi rendition="#i">hrîpo</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">rijp</hi> ‘hoarfrost’ are cognate.</p>
+        <pb n="175" facs="#f0181"/>
+        <cb n="1"/>
+        <p><hi rendition="#b">rind</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rínde</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rínd</hi> ‘bark of a tree’ fr. a <hi
+            rendition="#k">teut.</hi> base <hi rendition="#i"
+            >rindô-</hi> (<hi rendition="#i">rëndô-</hi>) = <hi
+            rendition="#k">ohg.</hi>
+          <hi rendition="#i">rinta</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rinde</hi> ‘rind’; perh. cogn. w. <hi
+            rendition="#k">ohg.</hi>
+          <hi rendition="#i">rant</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rand</hi> and <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rand</hi> ‘border, margin’ under <hi
+            rendition="#g #i">rim</hi>.</p>
+        <p><hi rendition="#b">ring</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">ring</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hring</hi> = <hi rendition="#k">on.</hi>
+          <hi rendition="#i">hringr</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">hring</hi>
+          <hi rendition="#i">ring</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#k">du.</hi>
+          <hi rendition="#i">ring</hi>: <hi rendition="#k">teut.</hi>
+          base <hi rendition="#i">hringa-</hi> (<hi rendition="#i"
+            >hrënga-</hi>) fr. a pre-<hi rendition="#k">teut.</hi> √
+            <hi rendition="#i">krëngh</hi> in <hi rendition="#k"
+            >oslov.</hi>
+          <hi rendition="#i">krągŭ</hi> ‘circle’ and <hi
+            rendition="#i">kraglŭ</hi> ‘round’.</p>
+        <p><hi rendition="#b">ring</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">ringe</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hringan</hi> = <hi rendition="#k"
+            >on.</hi>
+          <hi rendition="#i">hringja</hi> ‘ring the bells’.</p>
+        <p><hi rendition="#b">rip</hi> vb. <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rippe</hi> (<hi rendition="#i"
+          >ruppe</hi>) <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">ryppan</hi> = <hi rendition="#k"><choice>
+              <sic>hg.</sic>
+              <corr>g.</corr>
+            </choice></hi>
+          <hi rendition="#i">rupfen</hi> ‘to tear’: <hi rendition="#k"
+            >teut.</hi> base <hi rendition="#i">ruppjan</hi>; cogn. w.
+            <hi rendition="#k">goth.</hi>
+          <hi rendition="#i">raupjan</hi>, <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">rouffen</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">raufen</hi>, <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rýpan</hi>
+          <hi rendition="#i">répan</hi> and perh. allied to <hi
+            rendition="#k">skr.</hi> √ <hi rendition="#i">rup</hi>
+          ‘break’.</p>
+        <p><hi rendition="#b">ripe</hi> adj. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rípe</hi> ‘mature, ripe’ = <hi
+            rendition="#k">west-teut.</hi>
+          <hi rendition="#i">rîpi-</hi> in <hi rendition="#k"
+            >osax.</hi>
+          <hi rendition="#i">rîpi</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">rijp</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">rîffi</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">reif</hi> ‘mature, ripe’; derived fr. the
+            <hi rendition="#k">teut.</hi> verbal √ <hi rendition="#i"
+            >rī̆p</hi> ‘cut’ in <hi rendition="#k">e.</hi>
+          <hi rendition="#g #i">reap</hi> and <hi rendition="#k"
+            >oe.</hi>
+          <hi rendition="#i">rífter</hi> sb. ‘sickle’. Therefore <hi
+            rendition="#g #i">ripe</hi> orig. meant ‘cuttable, fit for
+          reaping’.</p>
+        <p><hi rendition="#b">rise</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">ríse</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rísan</hi> str. vb. = <hi rendition="#k"
+            >on.</hi>
+          <hi rendition="#i">rísa</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">rîsan</hi> str. vb. ‘to move up, rise’:
+            <hi rendition="#k">teut.</hi> verbal √ <hi rendition="#i"
+            >rī̆s</hi>, whence also <hi rendition="#g #i">rear</hi>
+          and <hi rendition="#g #i">raise</hi>.</p>
+        <p><hi rendition="#b">risk</hi> sb. fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">risque</hi> = <hi rendition="#k"><choice>
+              <sic>ital.</sic>
+              <corr>it.</corr>
+            </choice></hi>
+          <hi rendition="#k"><choice>
+              <sic>germ.</sic>
+              <corr>g.</corr>
+            </choice></hi>
+          <hi rendition="#i">risico</hi>.</p>
+        <p><hi rendition="#b">rive</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">ríve</hi> fr. <hi rendition="#k">on.</hi>
+          <hi rendition="#i">rífa</hi> ‘tear’ = <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">rîban</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">reiben</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">rijven</hi> ‘grate, rub’: <hi
+            rendition="#k">teut.</hi> verbal √ <hi rendition="#i"
+            >wrī̆b</hi> in <hi rendition="#k">odu.</hi>
+          <hi rendition="#k">mlg.</hi>
+          <hi rendition="#i">wrîven</hi> ‘rub’.</p>
+        <p><hi rendition="#b">river</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rivẹ́r</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">rivière</hi> ‘river, stream’; ident. w.
+            <hi rendition="#k"><choice>
+              <sic>ital.</sic>
+              <corr>it.</corr>
+            </choice></hi>
+          <cb n="2"/><hi rendition="#i">riviera</hi>
+          <choice>
+            <sic/>
+            <corr>‘</corr>
+          </choice>sea-shore<choice>
+            <sic/>
+            <corr>’</corr>
+          </choice>: deriv. from <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">rîpa</hi> ‘bank’.</p>
+        <p><hi rendition="#b">roach</hi> late <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rǫ́che</hi> points to a <hi
+            rendition="#k">fr.</hi> source (cp. <hi rendition="#k"
+            >swed.</hi>
+          <hi rendition="#i">rokka</hi>, <hi rendition="#k">dan.</hi>
+          <hi rendition="#i">rocke</hi> ‘roach’); the synon. <hi
+            rendition="#g #i">ray</hi> goes back to <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">raie</hi> = <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">raia</hi> ‘roach’.</p>
+        <p><hi rendition="#b">road</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rǫ́de</hi> ‘journey, road’ <hi
+            rendition="#k">oe.</hi>
+          <hi rendition="#i">rád</hi> ‘journey, road’ = <hi
+            rendition="#k">teut.</hi> base <hi rendition="#i"
+            >raidô-</hi> (<hi rendition="#k">on.</hi>
+          <hi rendition="#i">reiđ</hi> ‘riding’) fr. the verbal √ <hi
+            rendition="#i">rī̆d</hi> in <hi rendition="#g #i"
+            >ride</hi>.</p>
+        <p><hi rendition="#b">roar</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rǫ́re</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rárian</hi> vb. = <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">rêrên</hi>
+          <hi rendition="#k">mhg.</hi>
+          <hi rendition="#i">rêren</hi> vb. ‘low, bellow’: <hi
+            rendition="#k">teut.</hi> base <hi rendition="#i"
+            >rairan</hi>? or <hi rendition="#i">raizan</hi>?</p>
+        <p><hi rendition="#b">roast</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rǫ́ste</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">rostir</hi> = <hi rendition="#k">fr.</hi>
+          <hi rendition="#i">rôtir</hi> ‘roast’. Source a <hi
+            rendition="#k">teut.</hi> vb. <hi rendition="#i"
+            >raustjan</hi> = <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">rôsten</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rösten</hi> ‘roast’; cp. <hi
+            rendition="#k">ohg.</hi>
+          <hi rendition="#k">mhg.</hi>
+          <hi rendition="#i">rôst</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rost</hi> ‘gridiron, grate’.</p>
+        <p><hi rendition="#b">rob</hi> vb. <hi rendition="#k">me.</hi>
+          <hi rendition="#i">robbe</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">rober</hi>.</p>
+        <p><hi rendition="#b">robe</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rǫ́be</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">robe</hi>. Source a <hi rendition="#k"
+            >teut.</hi> sb. <hi rendition="#i">rauba-</hi> = <hi
+            rendition="#k">oe.</hi>
+          <hi rendition="#i">rę́af</hi> ‘spoil, clothing’, <hi
+            rendition="#k">ohg.</hi>
+          <hi rendition="#k">mhg.</hi>
+          <hi rendition="#i">roup(b)</hi> ‘booty, spoil’. Cogn. w. <hi
+            rendition="#g #i">reave</hi>.</p>
+        <p><hi rendition="#b">robin</hi> = fr. <hi rendition="#i"
+            >Robin</hi> the name Robert.</p>
+        <p><hi rendition="#b">rock</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rock</hi> late oe. <hi rendition="#i"
+            >rocc</hi> (<hi rendition="#i">stánrocc</hi>): borrowed
+          about 1000 fr. <hi rendition="#k">onfr.</hi>
+          <hi rendition="#i">roc</hi> (<hi rendition="#k">fr.</hi>
+          <hi rendition="#i">roche</hi>) = <hi rendition="#k"><choice>
+              <sic>ital.</sic>
+              <corr>it.</corr>
+            </choice></hi>
+          <hi rendition="#i">rocca</hi>. Source <hi rendition="#k"
+            >celt.</hi>
+          <hi rendition="#i">rokka-</hi>?</p>
+        <p><hi rendition="#b">rock</hi><choice>
+            <sic>²</sic>
+            <corr/>
+          </choice> vb. <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rocke</hi> late <hi rendition="#k"
+            >oe.</hi>
+          <hi rendition="#i">roccian</hi> ‘shake, swing, rock’; cogn.
+          w. <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">ruckan</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rücken</hi>, <hi rendition="#k">on.</hi>
+          <hi rendition="#i">rykkja</hi> ‘to pull roughly and
+          hastily’: <hi rendition="#k">teut.</hi> √ <hi rendition="#i"
+            >rukk</hi>.</p>
+        <p><hi rendition="#b">rod</hi> ident. w. <hi rendition="#g #i"
+            >rood</hi>.</p>
+        <p><hi rendition="#b">roe</hi>¹ sb. ‘a female deer’ <hi
+            rendition="#k">me.</hi>
+          <hi rendition="#i">rǫ́</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rá</hi> earliest form <hi rendition="#i"
+            >ráha</hi> = <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">rêho</hi>: <hi rendition="#k">teut.</hi>
+          base <hi rendition="#i">raihan-</hi>; <pb n="176"
+            facs="#f0182"/><cb n="1"/>ident. w. <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">rêh</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">reh</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">ree</hi>, <hi rendition="#k">on.</hi>
+          <hi rendition="#i">rá</hi> fr. a <hi rendition="#k"
+            >teut.</hi> base <hi rendition="#i">raiha-</hi>.</p>
+        <p><hi rendition="#b">roe</hi>² sb. ‘the spawn of fishes’
+          short for late <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rǫ́une</hi>; properly <hi rendition="#k"
+            >oe.</hi>
+          <hi rendition="#i">*hrogen</hi> = <hi rendition="#k"
+            >on.</hi>
+          <hi rendition="#i">hrogn</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">rogan</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rogen</hi> with the by-form <hi
+            rendition="#k">ohg.</hi>
+          <hi rendition="#i">rogo</hi>: <hi rendition="#k">teut.</hi>
+          base <hi rendition="#i">hrogna-</hi> (<hi rendition="#i"
+            >hrogan-</hi>).</p>
+        <p><hi rendition="#b">rogue</hi> sb. fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">rogue</hi>.</p>
+        <p><hi rendition="#b">roll</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rolle</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">rôler</hi> = <hi rendition="#k">fr.</hi>
+          <hi rendition="#i">rouler</hi>: source <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">rotulare</hi>.</p>
+        <p><hi rendition="#b">rood</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rọ́de</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rọ́d</hi> (obl. <hi rendition="#i"
+            >rọ́de</hi>) ‘cross’, original meaning ‘a rod or pole’.
+          Ident. w. <hi rendition="#k">osax.</hi>
+          <hi rendition="#i">rôda</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">roede</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">ruota</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rute</hi> and w. <hi rendition="#k"
+            >e.</hi>
+          <hi rendition="#g #i">rod</hi>. <hi rendition="#k"
+            >teut.</hi> base <hi rendition="#i">rôdô-</hi>, pre-<hi
+            rendition="#k">teut.</hi>
+          <hi rendition="#i">râdhâ-</hi> or <hi rendition="#i"
+            >râtā́-</hi>.</p>
+        <p><hi rendition="#b">roof</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rọ́f</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hrọ́f</hi>: <hi rendition="#k">teut.</hi>
+          base <hi rendition="#i">hrôfa-</hi> in <hi rendition="#k"
+            >on.</hi>
+          <hi rendition="#i">hróf</hi> ‘shed’, <hi rendition="#k"
+            >ofries.</hi>
+          <hi rendition="#i">hrôf</hi> ‘roof’, <hi rendition="#k"
+            >du.</hi>
+          <hi rendition="#i">roef</hi> ‘cabin’. Perh. allied to <hi
+            rendition="#g #i">roost</hi>. <hi rendition="#k">ir.</hi>
+          <hi rendition="#i">cro</hi> ‘roof’ points to a pre-<hi
+            rendition="#k">teut.</hi> form <hi rendition="#i"
+            >krâpo-</hi>.</p>
+        <p><hi rendition="#b">rook</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rọ́k</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hrọ́c</hi> = <hi rendition="#k">on.</hi>
+          <hi rendition="#i">hrókr</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">hruoh</hi>: <hi rendition="#k">teut.</hi>
+          base <hi rendition="#i">hrôka-</hi>, pre-<hi rendition="#k"
+            >teut.</hi>
+          <hi rendition="#i">krâgo-</hi>.</p>
+        <p><hi rendition="#b">room</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">roum</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rúm</hi> = <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">rûm</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">raum</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">ruim</hi>, <hi rendition="#k">on.</hi>
+          <hi rendition="#i">rúm</hi>, <hi rendition="#k">goth.</hi>
+          <hi rendition="#i">rûms</hi> ‘room’: <hi rendition="#k"
+            >teut.</hi>
+          <hi rendition="#i">rû-ma-</hi> fr. an <hi rendition="#k"
+            >aryan</hi> √ <hi rendition="#i">rû</hi> in <hi
+            rendition="#k">lat.</hi>
+          <hi rendition="#i">rûs</hi> (<hi rendition="#i">rûris</hi>)
+          ‘open country’.</p>
+        <p><hi rendition="#b">roost</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rọ́st</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hrọ́st</hi> = <hi rendition="#k">du.</hi>
+          <hi rendition="#i">roest</hi> ‘hen-roost’, <hi
+            rendition="#k">osax.</hi>
+          <hi rendition="#i">hrôst</hi> ‘roof’; prop. <hi
+            rendition="#i">hrôfsta-</hi> and cogn. w. <hi
+            rendition="#g #i">roof</hi>?</p>
+        <p><hi rendition="#b">root</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rọ́te</hi> late <hi rendition="#k"
+            >oe.</hi>
+          <hi rendition="#i">rọ́t</hi> borrowed fr. the equival. <hi
+            rendition="#k">on.</hi>
+          <hi rendition="#i">rót</hi>: <hi rendition="#k">teut.</hi>
+          base <hi rendition="#i">wrôtâ-</hi>, cogn. w. <hi
+            rendition="#k">e.</hi>
+          <hi rendition="#b">root</hi> vb. <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">wrọ́tan</hi> ‘grub up’ <cb n="2"/>= <hi
+            rendition="#k">on.</hi>
+          <hi rendition="#i">róta</hi> ‘grub up’; cp. <hi
+            rendition="#k">mhg.</hi>
+          <hi rendition="#i">rüeʒʒel</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rüssel</hi>.</p>
+        <p><hi rendition="#b">rope</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rǫ́p</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">ráp</hi> = <hi rendition="#k">teut.</hi>
+          base <hi rendition="#i">raipa-</hi> in <hi rendition="#k"
+            >on.</hi>
+          <hi rendition="#i">reip</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">reep</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">reif</hi> ‘hoop, ring, rope’; perh. cogn.
+          w. <hi rendition="#k">gr.</hi>
+          <hi rendition="#i">ῥαιβός</hi> ‘bent’.</p>
+        <p><hi rendition="#b">rose</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rǫ́se</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rŏse</hi> (by-form <hi rendition="#i"
+            >rọ́se</hi>) borrowed fr. <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">rosa</hi>, whence also <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rose</hi>
+          <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">rôsa</hi>.</p>
+        <p><hi rendition="#b">rosemary</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rosmaríne</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">rosmarin</hi> (<hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">romarin</hi>) = <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">ros</hi>
+          <hi rendition="#i">marinus</hi> (prop. ‘marin dew’); cp. <hi
+            rendition="#k">g.</hi>
+          <hi rendition="#i">rosmarin</hi>.</p>
+        <p><hi rendition="#b">rotten</hi> adj. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">roten</hi> = <hi rendition="#k">on.</hi>
+          <hi rendition="#i">rotinn</hi>: partic. of a verbal √ <hi
+            rendition="#i">rut</hi>
+          <hi rendition="#i">reut</hi> in <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rotian</hi>, <hi rendition="#k"
+            >osax.</hi>
+          <hi rendition="#i">rotôn</hi>, <hi rendition="#k">mhg.</hi>
+          <hi rendition="#i">roʒʒen</hi> vb. ‘putrify’.</p>
+        <p><hi rendition="#b">rough</hi> adj. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rough</hi> (<hi rendition="#i">row</hi>)
+            <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rúh</hi> = <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">rûh</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rauh</hi> ‘rough’ (<hi rendition="#k"
+            >du.</hi>
+          <hi rendition="#i">ruig</hi> ‘rough’): <hi rendition="#k"
+            >teut.</hi> base <hi rendition="#i">rûha-</hi>, pre-<hi
+            rendition="#k">teut.</hi>
+          <hi rendition="#i">rûko-</hi>, cogn. w. <hi rendition="#k"
+            >lith.</hi>
+          <hi rendition="#i">raukas</hi> ‘wrinkle’?</p>
+        <p><hi rendition="#b">round</hi> vb. ‘whisper’ <hi
+            rendition="#k">me.</hi>
+          <hi rendition="#i">roune</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rúnian</hi> = <hi rendition="#k"
+            >osax.</hi>
+          <hi rendition="#i">rûnian</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">rûnên</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">raunen</hi> ‘whisper’: derivative of <hi
+            rendition="#k">teut.</hi>
+          <hi rendition="#i">rûnô-</hi> ‘secret, mystery’ under <hi
+            rendition="#g #i">rune</hi>.</p>
+        <p><hi rendition="#b">round</hi> adj. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">round</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">rond</hi> (<hi rendition="#k">ofr.</hi>
+          <hi rendition="#i">roond</hi> = <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">rotundus</hi>), whence also <hi
+            rendition="#k">g.</hi>
+          <hi rendition="#i">rund</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">rond</hi> ‘round’.</p>
+        <p><hi rendition="#b">row</hi> sb. <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rǫ́we</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">ráw</hi> ‘row’ fr. a <hi rendition="#k"
+            >teut.</hi> base <hi rendition="#i">raiwô-</hi> orig. <hi
+            rendition="#i">raigwô-</hi>; cogn. w. <hi rendition="#k"
+            >mhg.</hi>
+          <hi rendition="#i">rîhe</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">reihe</hi> ‘rowr’and the str. vb. <hi
+            rendition="#k">ohg.</hi>
+          <hi rendition="#i">rîhan</hi> ‘rank, string’: pre-<hi
+            rendition="#k">teut.</hi> √ <hi rendition="#i">rikh</hi>
+          <hi rendition="#i">reikh</hi> in <hi rendition="#k"
+            >skr.</hi>
+          <hi rendition="#i">rêkhâ</hi> ‘line’.</p>
+        <p><hi rendition="#b">row</hi> vb. <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rọ́we</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rọ́wan</hi> = <hi rendition="#k">on.</hi>
+          <hi rendition="#i">róa</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">roeijen</hi>, <hi rendition="#k"
+            >mhg.</hi>
+          <pb n="177" facs="#f0183"/><cb n="1"/><hi rendition="#i"
+            >rüejen</hi> ‘to row’: common base a strong verbal √ <hi
+            rendition="#i">rô</hi> in <hi rendition="#b">rudder</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rọ́ther</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rọ́đor</hi> = <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">ruodar</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">ruder</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">roer</hi> ‘rudder’: <hi rendition="#k"
+            >teut.</hi> base <hi rendition="#i">rô-þra-</hi>, <hi
+            rendition="#k">lat.</hi>
+          <hi rendition="#i">rê-mus</hi> ‘rudder’ and <hi
+            rendition="#k">gr.</hi>
+          <hi rendition="#i">ἐ-ρε-τμός</hi> belong to the same <hi
+            rendition="#k">aryan</hi> √ <hi rendition="#i">rô</hi>:
+            <hi rendition="#i">rê</hi>.</p>
+        <p><hi rendition="#b">rowlock</hi>
+          <hi rendition="#g">rollock</hi> sb. prop. ‘hole for rowing’;
+          cp. <hi rendition="#k">g.</hi>
+          <hi rendition="#i">loch</hi> and <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">árloc</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">ǫ́rlock</hi> ‘hole of oars’.</p>
+        <p><hi rendition="#b">ruddock</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">ruddok</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rudduc</hi> ‘red-breast’; cogn. w. <hi
+            rendition="#b">ruddy</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rodí</hi>
+          <hi rendition="#i">rudý</hi> (<hi rendition="#k">oe.</hi>
+          <hi rendition="#i">*rudiᵹ</hi>) ‘reddish’ and <hi
+            rendition="#k">oe.</hi>
+          <hi rendition="#i">rudu</hi> ‘red color’; cp. the adj. <hi
+            rendition="#g #i">red</hi>.</p>
+        <p><hi rendition="#b">rude</hi> adj. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rüde</hi> fr. <hi rendition="#k">fr.</hi>
+          <hi rendition="#i">rude</hi> = <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">rudis</hi> ‘rude’.</p>
+        <p><hi rendition="#b">rue</hi> vb. <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rẹ́we</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hrẹ́owan</hi> str. vb. = <hi
+            rendition="#k">osax.</hi>
+          <hi rendition="#i">hreuwan</hi>, <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">riuwan</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">reuen</hi>, <hi rendition="#k">on.</hi>
+          <hi rendition="#i">hryggva</hi> vb. ‘distress, grieve’: base
+          a strong verbal √ <hi rendition="#i">hreuw</hi>. Cp. <hi
+            rendition="#g #i">ruth</hi>.</p>
+        <p><hi rendition="#b">rue</hi> sb. (a plant) <hi
+            rendition="#k">me.</hi>
+          <hi rendition="#i">rüe</hi> fr. <hi rendition="#k">fr.</hi>
+          <hi rendition="#i">rue</hi> = <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">ruta</hi> ‘rue’.</p>
+        <p><hi rendition="#b">rule</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rẹ́ule</hi> earlier <hi rendition="#i"
+            >riule</hi> fr. <hi rendition="#k">ofr.</hi>
+          <hi rendition="#i">reule</hi>
+          <hi rendition="#i">riule</hi>: source <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">rêgula</hi>, whence also <hi
+            rendition="#k">oe.</hi>
+          <hi rendition="#i">rëgol</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">rëgala</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">regel</hi>, <hi rendition="#k">fr.</hi>
+          <hi rendition="#i">règle</hi>.</p>
+        <p><hi rendition="#b">rump</hi> late <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rumpe</hi>; ident. w. <hi rendition="#k"
+            >mhg.</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rumpf</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">romp</hi> ‘trunk, body’.</p>
+        <p><hi rendition="#b">rumple</hi> parallel form to <hi
+            rendition="#k">me.</hi>
+          <hi rendition="#i">rimple</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hrympele</hi> and ident. w. <hi
+            rendition="#k">odu.</hi>
+          <hi rendition="#i">rompel</hi> ‘ripple’: derived fr. the <hi
+            rendition="#k">teut.</hi> verbal √ <hi rendition="#i"
+            >hrëmp</hi> in <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">gehrumpen</hi> ‘wrinkled’ and <hi
+            rendition="#k">ohg.</hi>
+          <hi rendition="#i">rimpfan</hi> str. vb. ‘wrinkle’,</p>
+        <p><hi rendition="#b">run</hi> vb. <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rinne</hi> (part. <hi rendition="#i"
+            >íronne</hi>) <hi rendition="#k">oe.</hi> (rare) <hi
+            rendition="#i">rinnan</hi> (mostly <hi rendition="#i"
+            >yrnan</hi>) = <hi rendition="#k">on.</hi>
+          <hi rendition="#i">rinna</hi>, <hi rendition="#k">goth.</hi>
+          <hi rendition="#i">rinnan</hi> ‘run’; <cb n="2"/><hi
+            rendition="#k">ohg.</hi>
+          <hi rendition="#i">rinnan</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rinnen</hi> str. vb. ‘run’.</p>
+        <p><hi rendition="#b">rune</hi> the <hi rendition="#k"
+            >teut.</hi> word for the old characters in writing: <hi
+            rendition="#k">oe.</hi>
+          <hi rendition="#k">on.</hi>
+          <hi rendition="#i">rún</hi> with the orig. meaning ‘mystery,
+          secret’ (<hi rendition="#k">goth.</hi>
+          <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">rûna</hi>); ident. w. <hi rendition="#k"
+            >oir.</hi>
+          <hi rendition="#i">rún</hi> ‘secret’. Cp. <hi
+            rendition="#g #i">round</hi> vb. for the root.</p>
+        <p><hi rendition="#b">rung</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">runge</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hrung</hi> (obl. <hi rendition="#i"
+            >hrunge</hi>) <hi rendition="#k">goth.</hi>
+          <hi rendition="#i">hrugga</hi> ‘staff’, <hi rendition="#k"
+            >hg.</hi>
+          <hi rendition="#k">lg.</hi>
+          <hi rendition="#i">runge</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">rong</hi> ‘spar, bolt’: <hi
+            rendition="#k">teut.</hi> base <hi rendition="#i"
+            >hrungô-</hi>.</p>
+        <p><hi rendition="#b">rust</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">rust</hi>
+          <hi rendition="#i">roust</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rúst</hi> fr. a <hi rendition="#k"
+            >teut.</hi> base <hi rendition="#i">rûsta-</hi>; ident. w.
+            <hi rendition="#k">hg.</hi>
+          <hi rendition="#k">lg.</hi>
+          <hi rendition="#i">rost</hi> fr. a <hi rendition="#k"
+            >teut.</hi> base <hi rendition="#i">rŭsta-</hi>: derived
+          with <hi rendition="#i">st-</hi> formative from the <hi
+            rendition="#k">aryan</hi> √ <hi rendition="#i">rū̆dh</hi>
+          (in <hi rendition="#k">e.</hi>
+          <hi rendition="#g">red</hi> and <hi rendition="#g"
+            >ruddy</hi>), whence also <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">robigo</hi> ‘rust’ and <hi rendition="#k"
+            >oslov.</hi>
+          <hi rendition="#i">rŭzda</hi> (for <hi rendition="#i"
+            >*rudja</hi>) ‘rust’.</p>
+        <p><hi rendition="#b">rush</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">russhe</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">rýsče</hi> ident. w. <hi rendition="#k"
+            >lg.</hi>
+          <hi rendition="#k">du.</hi>
+          <hi rendition="#i">rusch</hi> ‘rush, reed’.</p>
+        <p><hi rendition="#b">rush</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rousche</hi> = <hi rendition="#k">g.</hi>
+          <hi rendition="#i">rauschen</hi>, <hi rendition="#k"
+            >mhg.</hi>
+          <hi rendition="#i">rûschen</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">ruischen</hi>
+          <hi rendition="#k">odu.</hi>
+          <hi rendition="#i">ruuschen</hi>, <hi rendition="#k"
+            >oswed.</hi>
+          <hi rendition="#i">ruska</hi> ‘rush’: <hi rendition="#k"
+            >teut.</hi> base <hi rendition="#i">hrûskôn</hi>? There
+          occurs also <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hrýscan</hi>.</p>
+        <p><hi rendition="#b">ruth</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">rẹ́uthe</hi>: extended fr. a more
+          primitive sb. <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">hrẹ́ow</hi>; cp. <hi rendition="#k"
+            >oe.</hi>
+          <hi rendition="#i">hrẹ́owan</hi> str. vb. ‘rue’ under <hi
+            rendition="#g #i">rue</hi>.</p>
+        <p><hi rendition="#b">rye</hi> sb. <hi rendition="#k">me.</hi>
+          <hi rendition="#i">ríe</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">ryᵹe</hi>: <hi rendition="#k">teut.</hi>
+          base <hi rendition="#i">rugi-</hi> in <hi rendition="#k"
+            >on.</hi>
+          <hi rendition="#i">rugr</hi> ‘rye’; <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">rocko</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">roggen</hi> and <hi rendition="#k"
+            >osax.</hi>
+          <hi rendition="#i">roggo</hi> ‘rye’ point to a <hi
+            rendition="#k">teut.</hi> parallel base <hi rendition="#i"
+            >ruggan-</hi>. Outside of <hi rendition="#k">teut.</hi>,
+            <hi rendition="#k">oslov.</hi>
+          <hi rendition="#i">rŭžĭ</hi> ‘rye’ (base <hi rendition="#i"
+            >rugi-</hi>) and <hi rendition="#k">lith.</hi>
+          <hi rendition="#i">rugiaĩ</hi> ‘rye’ show the same base as
+            <hi rendition="#k">oe.</hi> ryᵹe and <hi rendition="#k"
+            >on.</hi>
+          <hi rendition="#i">rugr</hi> = <hi rendition="#k">teut.</hi>
+          base <hi rendition="#i">rugi-</hi>.</p>
+        <cb type="end"/>
+      </div>
+      <pb n="178" facs="#f0184"/>
+      <div xml:id="section-s">
+        <head rendition="#c">S</head>
+        <cb type="start"/>
+        <cb n="1"/>
         <cb type="end"/>
       </div>
     </body>
-    <back> </back>
   </text>
 </TEI>
