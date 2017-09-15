@@ -104,15 +104,25 @@
 
 	@media print {
 		* {
+			font-size: 10pt;
+			line-height: 160%;
 			background-color: none;
-            		font-family: serif;
+            		font-family: "DejaVu serif",serif;
 		}
 	}
-	@media print { body { max-width: 20cm; } }
+	@media print {
+		body {
+			padding: 0pt;
+			margin: 20mm 10mm 20mm 10mm;
+			max-width: unset;
+			padding: 0px;
+		}
+	}
 	@media print {
 		.page_number {
 			display: block;
-			page-break-before: always; }
+			page-break-before: always;
+		}
 	}
       </style>
     </head>
