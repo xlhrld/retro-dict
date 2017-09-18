@@ -95,7 +95,7 @@
 		color: White;
 		padding: 2px;
 		margin: 2px;
-		max-width: 4em;
+		max-width: 8em;
 	}
         .editorial{background-color: Salmon;}
         .s{text-decoration: line-through;}
@@ -177,11 +177,11 @@
   </xsl:template>
   
   <xsl:template match="tei:p/tei:pb">
-    <span class="page_number">p.&#160;<xsl:value-of select="./@n"/></span>
+    <span class="page_number">p.&#160;<xsl:value-of select="./@n"/>&#160;–&#160;<xsl:value-of select="./@facs"/></span>
   </xsl:template>
   
   <xsl:template match="tei:pb">
-    <div class="page_number">p.&#160;<xsl:value-of select="./@n"/></div>
+    <div class="page_number">p.&#160;<xsl:value-of select="./@n"/>&#160;–&#160;<xsl:value-of select="./@facs"/></div>
   </xsl:template>
   
   <xsl:template match="tei:lb">
