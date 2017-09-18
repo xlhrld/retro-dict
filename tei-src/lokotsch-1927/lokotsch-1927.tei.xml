@@ -32,7 +32,7 @@
           <orgName ref="https://github.com/xlhrld/retro-dict"
             >retro-dict</orgName>
         </publisher>
-        <date type="publication">2017-09-15</date>
+        <date type="publication">2017-09-18</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">
             <p>This work is licensed under a Creative Commons Attribution
@@ -1967,9 +1967,12 @@
           <lb/>[Auch <hi rendition="#i">ärġuwān</hi>, <hi rendition="#i"
             >ärǧuman</hi>; vgl. hebr. <hi rendition="#i">argāmān</hi>,
           dieses aus assyr. <hi rendition="#i">argamannu</hi> ‛roter
-          Purpur’, DelHWB 129 a, und schließlich wohl aus ind. vgl. ZAkkFW
-          37] ‛Purpur, Purpurstoff, purpurfarben‘ [nämlich ‛dunkelviolett‘
-          nach P. HAUPT in Verhandlungen des 13. Internationalen
+          Purpur’, <choice>
+            <sic>DelHWB</sic>
+            <corr>Del HWB</corr>
+          </choice> 129 a, und schließlich wohl aus ind. vgl. ZAkkFW 37]
+          ‛Purpur, Purpurstoff, purpurfarben‘ [nämlich ‛dunkelviolett‘ nach
+          P. HAUPT in Verhandlungen des 13. Internationalen
           Orientalistenkongresses Hamburg 1902. Leiden 1904. S. 218],
           ebenso tk. <hi rendition="#i">erǧewan</hi> [Kélékian Ḳāmūs 68 b]
           ‛dass. und Cercis siliquastrum’; hieraus rum. <hi rendition="#i"
@@ -15426,987 +15429,1359 @@
           Kaliko’, dtsch. <pb n="107" facs="#f0129"/><cb n="1"/><hi
             rendition="#i">Madapolam</hi>. [Hobson-Jobson 531/532. MWiD
           125.</p>
-        <p>1343. <hi rendition="#b">Ar.</hi> <hi rendition="#b">ma‛dija:</hi>
-          <lb/>‛Fähre oder Floß’ zum Überschreiten
-          eines Flusses [vom Vb. <hi rendition="#i">‛adā</hi>
-          ‛überschreiten’]; hieraus mit ar. Art. sp. pg.
-          <hi rendition="#i">almadía</hi>, <hi rendition="#i">armadia</hi>,
-          frz. <hi rendition="#i">almadie</hi>, <hi rendition="#i">armadie</hi>
-          ‛Piroge oder Floß’. [DE 148. Devic
+        <p>1343. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ma‛dija:</hi>
+          <lb/>‛Fähre oder Floß’ zum Überschreiten eines Flusses [vom Vb.
+            <hi rendition="#i">‛adā</hi> ‛überschreiten’]; hieraus mit ar.
+          Art. sp. pg. <hi rendition="#i">almadía</hi>, <hi rendition="#i"
+            >armadia</hi>, frz. <hi rendition="#i">almadie</hi>, <hi
+            rendition="#i">armadie</hi> ‛Piroge oder Floß’. [DE 148. Devic
           DEt 24/25. Lammens Rem 16/17.</p>
-        <p>1344. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maḍraba:</hi>
-          <lb/>‛Netz zum Tunfischfange’ [DEFRÉMERY
-          in JAs 1869, I, 538; vom Vb. <hi rendition="#i">ḍaraba</hi>
-          ‛schlagen’, sc. ‛Pfähle einrammen, um das Netz festzumachen’,
-          wahrscheinlich kontaminiert mit <hi rendition="#i">maṯraba</hi>
-          ‛Umzäunung mit Netzen’ von <hi rendition="#i">ṯarb</hi>
-          ‛Netz’, s. hier
-          Nr. 2030; so DE 149/151]; hieraus sp.
-          <hi rendition="#i">almadraba</hi>, pg.
-          <hi rendition="#i">almadrava</hi> [Constancio
-          Dicc 55 b] ‛Tunfischnetz’, prov. frz.
-          <hi rendition="#i">madrague</hi> ‛Tunfischfang’ und ‛Netz dazu’,
-          d. h. ‛eine Absperrung im Meere, die aus einzelnen Abteilungen
-          besteht, in die die Fische der Reihe nach gejagt werden’.
-          — Vom gleichen Grundwort <hi rendition="#i">maḍraba</hi>
-          ‛Ziegelei’ [vom Vb. <hi rendition="#i">ḍaraba</hi>
+        <p>1344. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maḍraba:</hi>
+          <lb/>‛Netz zum Tunfischfange’ [DEFRÉMERY in JAs 1869, I, 538; vom
+          Vb. <hi rendition="#i">ḍaraba</hi> ‛schlagen’, sc. ‛Pfähle
+          einrammen, um das Netz festzumachen’, wahrscheinlich kontaminiert
+          mit <hi rendition="#i">maṯraba</hi> ‛Umzäunung mit Netzen’ von
+            <hi rendition="#i">ṯarb</hi> ‛Netz’, s. hier Nr. 2030; so DE
+          149/151]; hieraus sp. <hi rendition="#i">almadraba</hi>, pg. <hi
+            rendition="#i">almadrava</hi> [Constancio Dicc 55 b]
+          ‛Tunfischnetz’, prov. frz. <hi rendition="#i">madrague</hi>
+          ‛Tunfischfang’ und ‛Netz dazu’, d. h. ‛eine Absperrung im Meere,
+          die aus einzelnen Abteilungen besteht, in die die Fische der
+          Reihe nach gejagt werden’. — Vom gleichen Grundwort <hi
+            rendition="#i">maḍraba</hi> ‛Ziegelei’ [vom Vb. <hi
+            rendition="#i">ḍaraba</hi>
           <hi rendition="#i">aṭ-ṭūb</hi> ‛Ziegel schlagen’, d. h.
-          herstellen] kommt sp.
-          (alt) <hi rendition="#i">almadraba</hi> ‛Ziegelei’
-          [= <hi rendition="#i">tejar</hi>, Dicc
-          Cast 129 b]. [DE 148/151. Eguilaz 207.
-          ML 5218. Devic DEt 154.</p>
-        <p>1345. <hi rendition="#b">Ar.</hi> <hi rendition="#b">madrasa:</hi>
+          herstellen] kommt sp. (alt) <hi rendition="#i">almadraba</hi>
+          ‛Ziegelei’ [= <hi rendition="#i">tejar</hi>, Dicc Cast 129 b].
+          [DE 148/151. Eguilaz 207. ML 5218. Devic DEt 154.</p>
+        <p>1345. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">madrasa:</hi>
           <lb/>‛Hochschule’ [vom Vb. <hi rendition="#i">darasa</hi>
           ‛studieren’ mit Präfix <hi rendition="#i">ma-</hi> des Ortes],
-          als N. pr. Name der Stadt <hi rendition="#i">Madras</hi>
-          an der mittleren Ostküste Vorderindiens. Hieraus die
-          Bezeichnung für einen dort verfertigten
-          hellen Stoff mit seidenen Quer- und
-          baumwollenen Längsfäden: engl. (veraltet)
-          <hi rendition="#i">madras</hi>, frz.
-          <hi rendition="#i">madras</hi> ‛halbseidenes Zeug’.
-          (Hobson-Jobson 532/534.</p>
-        <p>1346. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maǧarra:</hi>
-          <lb/>‛Balken, Hebel’; hieraus pg. <hi rendition="#i">almanjarra</hi>
-          ‛Balken einer Mühle oder Wasserkraftmaschine, an den man
-          das Tier bindet, das drehen soll’, siz.
-          <hi rendition="#i">minciarru</hi> ‛Arm der Ölpresse
-          und anderer von Pferden betriebener Maschinen’.
-          [DE 156. Constancio Dicc 55 c. GrSVociSic 241.</p>
-        <p>1347. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maǧǧa:</hi>
-          <lb/>‛Auswerfen, speien’; hieraus kat. sp. pg.
-          <hi rendition="#i">almeja</hi> ‛Miesmuschel’, pg.
-          <hi rendition="#i">ameja</hi>, <hi rendition="#i">ameija</hi>,
-          <hi rendition="#i">ameijoa</hi>. — [Etymologie
-          <choice><sic>vou</sic><corr>von</corr></choice> DE 162/163
-          zweifelhaft; Eguilaz 219 gibt eine andere:
-          &lt; lat. <hi rendition="#i">mitulus</hi>,
-          die ebenfalls Bedenken erregen muß, da sie den Anlaut
-          <hi rendition="#i">al-</hi>, <hi rendition="#i">a-</hi>
-          nicht erklärt.]</p>
-        <p>1348. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maǧisṭī:</hi>
-          <lb/>Arabische Bezeichnung des Hauptwerkes
-          des CLAUDIUS PTOLEMAEUS ἡ μεγάλη
-          σύνταξις, das zu μεγίστη gesteigert
-          wurde; mit dem ar. Art. wurde hieraus
-          <hi rendition="#i">al-maǧisṭī</hi> [bereits unter dem Kalifen
-          AL-MA’MŪN 813—833 ins Arabische
-          <cb n="2"/>übersetzt]; hieraus im Latein der mittelalterlichen
-          Übersetzer <hi rendition="#i">Almagestum</hi>, it.
-          <hi rendition="#i">almagesto</hi>, frz.
-          <hi rendition="#i">almageste</hi>, sp.
-          <hi rendition="#i">almagesto</hi>,
-          dtsch. <hi rendition="#i">Almagest</hi>. [DE 152. Devic DEt 25.</p>
-        <p>1349. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maġra:</hi>
-          <lb/>‛Rote Erde, Rötel’; hieraus mit ar. Art.
-          sp. pg. <hi rendition="#i">almagra</hi>,
-          <hi rendition="#i">almagre</hi> ‛Rötel, roter Ocker’,
-          frz. <hi rendition="#i">almagra</hi> ‛Indisch- oder
-          Persischrot’ [Ausdruck der Malerei]. Ohne
-          ar. Art. it. (dial. Aquileja) <hi rendition="#i">macra</hi>
-          ‛Ocker, Zinnober’ [bei ML 5210 auf ein „orientalisches
-          <hi rendition="#i">macir</hi> ‛rote Baumrinde aus
-          Indien’“ zurückgeführt; gehört natürlich
-          zu ML 5234]; russ. <hi rendition="#i">bagor</hi>
-          ‛Purpurfarbe’ [mit häufigem Wechsel von
-          <hi rendition="#i">m</hi> und <hi rendition="#i">b</hi>,
-          daher wohl durch das Tk. vermittelt],
-          <hi rendition="#i">bagrec</hi> ‛Purpur’, bulg. (alt)
-          <hi rendition="#i">bagъrъ</hi> ‛Purpur’,
-          <hi rendition="#i">bagr</hi> ‛Farbe’,
-          <hi rendition="#i">bagranica</hi> ‛Purpur’,
+          als N. pr. Name der Stadt <hi rendition="#i">Madras</hi> an der
+          mittleren Ostküste Vorderindiens. Hieraus die Bezeichnung für
+          einen dort verfertigten hellen Stoff mit seidenen Quer- und
+          baumwollenen Längsfäden: engl. (veraltet) <hi rendition="#i"
+            >madras</hi>, frz. <hi rendition="#i">madras</hi> ‛halbseidenes
+          Zeug’. (Hobson-Jobson 532/534.</p>
+        <p>1346. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maǧarra:</hi>
+          <lb/>‛Balken, Hebel’; hieraus pg. <hi rendition="#i"
+            >almanjarra</hi> ‛Balken einer Mühle oder Wasserkraftmaschine,
+          an den man das Tier bindet, das drehen soll’, siz. <hi
+            rendition="#i">minciarru</hi> ‛Arm der Ölpresse und anderer von
+          Pferden betriebener Maschinen’. [DE 156. Constancio Dicc 55 c.
+          GrSVociSic 241.</p>
+        <p>1347. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maǧǧa:</hi>
+          <lb/>‛Auswerfen, speien’; hieraus kat. sp. pg. <hi rendition="#i"
+            >almeja</hi> ‛Miesmuschel’, pg. <hi rendition="#i">ameja</hi>,
+            <hi rendition="#i">ameija</hi>, <hi rendition="#i"
+          >ameijoa</hi>. — [Etymologie <choice>
+            <sic>vou</sic>
+            <corr>von</corr>
+          </choice> DE 162/163 zweifelhaft; Eguilaz 219 gibt eine andere:
+          &lt; lat. <hi rendition="#i">mitulus</hi>, die ebenfalls Bedenken
+          erregen muß, da sie den Anlaut <hi rendition="#i">al-</hi>, <hi
+            rendition="#i">a-</hi> nicht erklärt.]</p>
+        <p>1348. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maǧisṭī:</hi>
+          <lb/>Arabische Bezeichnung des Hauptwerkes des CLAUDIUS
+          PTOLEMAEUS ἡ μεγάλη σύνταξις, das zu μεγίστη gesteigert wurde;
+          mit dem ar. Art. wurde hieraus <hi rendition="#i">al-maǧisṭī</hi>
+          [bereits unter dem Kalifen AL-MA’MŪN 813—833 ins Arabische <cb
+            n="2"/>übersetzt]; hieraus im Latein der mittelalterlichen
+          Übersetzer <hi rendition="#i">Almagestum</hi>, it. <hi
+            rendition="#i">almagesto</hi>, frz. <hi rendition="#i"
+            >almageste</hi>, sp. <hi rendition="#i">almagesto</hi>, dtsch.
+            <hi rendition="#i">Almagest</hi>. [DE 152. Devic DEt 25.</p>
+        <p>1349. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maġra:</hi>
+          <lb/>‛Rote Erde, Rötel’; hieraus mit ar. Art. sp. pg. <hi
+            rendition="#i">almagra</hi>, <hi rendition="#i">almagre</hi>
+          ‛Rötel, roter Ocker’, frz. <hi rendition="#i">almagra</hi>
+          ‛Indisch- oder Persischrot’ [Ausdruck der Malerei]. Ohne ar. Art.
+          it. (dial. Aquileja) <hi rendition="#i">macra</hi> ‛Ocker,
+          Zinnober’ [bei ML 5210 auf ein „orientalisches <hi rendition="#i"
+            >macir</hi> ‛rote Baumrinde aus Indien’“ zurückgeführt; gehört
+          natürlich zu ML 5234]; russ. <hi rendition="#i">bagor</hi>
+          ‛Purpurfarbe’ [mit häufigem Wechsel von <hi rendition="#i">m</hi>
+          und <hi rendition="#i">b</hi>, daher wohl durch das Tk.
+          vermittelt], <hi rendition="#i">bagrec</hi> ‛Purpur’, bulg. (alt)
+            <hi rendition="#i">bagъrъ</hi> ‛Purpur’, <hi rendition="#i"
+            >bagr</hi> ‛Farbe’, <hi rendition="#i">bagranica</hi> ‛Purpur’,
           klruss. <hi rendition="#i">bahor</hi> ‛Purpur’ [Bern SlEtWb 38
-          nennt die slav. Gruppe „fremd“ und
-          ihren Ursprung „dunkel“]. — „Zu Heilzwecken wurde schon
-          im Altertum aus Iberien, dem heutigen Spanien, bestimmte
-          Erde herbeigeholt. Dies war wohl die heutige
-          <hi rendition="#i">Almagra</hi> oder Ton von Estremoz,
-          welcher, mit Piment (Capsicum annuum) vermengt, auch
-          in der Gegenwart von Damen der sp. und pg. Aristokratie
-          als Delikatesse genossen wird“.
-          Dtsch. Rundschau für Geographie XXXVII,
-          125. [DE 152. Eguilaz 209. Devic DEt 25. ZfSem IV, 258/9.</p>
-        <p>1350. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maḥalla:</hi>
-          <lb/>‛Vorstadt, Stadtviertel’; tk. ebenso; hieraus rum.
-          <hi rendition="#i">mahala</hi>; bulg. serb.
-          <hi rendition="#i">maḫala</hi> ‛Stadtviertel’; rum.
-          <hi rendition="#i">mahalagiŭ</hi> ‛Vorstädter’. [Löbel ElTAP
-          60. Mikl SlEtWb 180.</p>
-        <p>1351. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maḫāriǧ:</hi>
-          <lb/>‛Ausgaben, Unkosten’ [plr. von ar.
-          <hi rendition="#i">maḫraǧ</hi>]; hieraus russ.
-          <hi rendition="#i">magaryč</hi>, klruss.
-          <hi rendition="#i">mogoryč</hi>, <hi rendition="#i">mohryč</hi>
-          ‛Bewirtung beim Abschluß eines Geschäftes’, Vb.
-          <hi rendition="#i">mohoryčyty</hi> ‛bewirten’. Vgl.
-          mlat. <hi rendition="#i">magarisium</hi> ‛tributi genus’.
-          [Mikl SlEtWb 199.</p>
-        <p>1352. <hi rendition="#b">Hind.</hi> <hi rendition="#b">mahāwat:</hi>
-          <lb/>‛Hoher Offizier’ [aus sskr.
-          <hi rendition="#i">mahā-mātra</hi> ‛großes Maß’,
-          vgl. schon Hesychius s. v.:
-          Μαμάτραι, οἱ στρατηγοί παῤ Ἰνδου&#785;ς];
-          hieraus engl. <hi rendition="#i">mahout</hi>
-          ‛Treiber und Lenker eines Elefanten’ [der auf dessen Halse
-          sitzt und ihn mit Worten und einem
-          Stäbchen leitet]. [Hobson-Jobson 536.</p>
-        <p>1353. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maḥḍar:</hi>
-          <lb/>‛Ort, an dem Leute zugegen sind’ [aus
-          <hi rendition="#i">ḥaḍara</hi> ‛anwesend sein’],
-          dazu <hi rendition="#i">muḥāḍara</hi> ‛Unterhaltung’;
-          hieraus siz. <hi rendition="#i">macadaru</hi>
-          ‛Sammelplatz, der zur Unterhaltung und zum Vergnügen
-          bestimmt ist’. [GrSVociSic 239.</p>
-        <p>1354. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maḥǧara:</hi>
-          <lb/>‛Steiniger Ort’ [von <hi rendition="#i">ḥaǧar</hi>
-          ‛Steine’ mit
-          <pb n="108" facs="#f0130"/><cb n="1"/>Präfix
-          <hi rendition="#i">ma-</hi> des Ortes]; hieraus siz.
-          <hi rendition="#i">musciaru</hi> in der Redensart
-          <hi rendition="#i">a</hi> <hi rendition="#i">musciaru</hi>
-          ‛haufenweise, ungeordnet’. [GrSVociSic 242.</p>
-        <p>1355 <hi rendition="#b">Ar.</hi> <hi rendition="#b">maḥjāṣ:</hi>
-          <lb/>‛Prahlerei’ [modern und sehr selten,
-          vgl. Dozy Suppl II, 622]; hieraus vielleicht siz.
-          <hi rendition="#i">mafia</hi>, Adj.
-          <hi rendition="#i">mafiusu</hi>, von einem
-          Manne, der sofort bereit ist, zu den
-          Waffen zu greifen, um irgendeine Beleidigung
-          zu rächen, und dabei Blut
-          zu vergießen. Im Anfange des XIX.
-          Jahrhunderts in Palermo und Umgebung
-          entstanden, ging das Wort bald ins It.
-          über: <hi rendition="#i">maffia</hi>,
-          <hi rendition="#i">maffioso</hi>, bes. zur Bezeichnung
-          einer verbrecherischen Geheimgesellschaft
-          [entsprechend der napoletanischen Camorra].
-          Die Etymologie kann nicht als sicher gelten.
-          [GrSVociSic 240.</p>
-        <p>1356. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maḥlab:</hi>
-          <lb/>‛Weichselkirschbaum, Prunus mahaleb’;
-          hieraus sp. <hi rendition="#i">mahaleb</hi> [Dicc Cast
-          1300 a], frz. <hi rendition="#i">mahaleb</hi>,
-          <hi rendition="#i">mahalep</hi>, <hi rendition="#i">maguelet</hi>;
-          unter diesem Namen importierte man früher
-          aus Syrien nach Europa eine kleine
-          Frucht, die man in der Medizin brauchte
-          und jetzt noch in der Parfümerie verwendet. Frz.
-          <hi rendition="#i">bois</hi> <hi rendition="#i">de</hi>
-          <hi rendition="#i">mahaleb</hi> ‛Weichselholz’ [vulgär
-          <hi rendition="#i">bois</hi> <hi rendition="#i">de</hi>
-          <hi rendition="#i">Ste.</hi> <hi rendition="#i">Lucie</hi>
-          genannt]. [Devic DEt 154. Eguilaz 441/442. ML5240</p>
-        <p>1357. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maḫlūḳ:</hi>
-          <lb/>‛Geschaffen’ [part. pass. von
-          <hi rendition="#i">ḫalaḳa</hi> ‛erschaffen’]; hieraus siz.
-          <hi rendition="#i">macaluco</hi> ‛latte di pollo’, d. h.
-          in den Kaffee geschlagenes Ei. [GrSVociSic 239 (mit Hinweis auf
-          Corrado Avolio, Introduzione allo studio
-          del dialetto siciliano. Noto 1882. S. 44].</p>
-        <p>1358. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maḫiūṭ:</hi>
-          <lb/>Wörtlich ‛gemischt’, Bezeichnung einer
-          Speise aus Linsen und Weizen oder Reis
-          [auch als <hi rendition="#i">burġul</hi> bekannt,
-          s. hier Nr. 352]; hieraus siz. <hi rendition="#i">maccu</hi>
-          ‛eine Art Suppe’. [GrSVociSic 239.</p>
-        <p>1359. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maḫmūr:</hi>
-          <lb/>[Part. pass. I zu <hi rendition="#i">ḫamr</hi>
-          ‛Wein’] ‛betrunken’, tk. ebenso; hieraus rum.
-          <hi rendition="#i">mahmur</hi> ‛halb betrunken’,
-          <hi rendition="#i">mahmurie</hi> ‛Katzenjammer’;
-          bulg. <hi rendition="#i">mahmuren</hi>, serb.
-          <hi rendition="#i">mamuran</hi>
-          ‛nach einem Rausche an Kopfweh leidend’.
-          [Löbel ElTAP 60. Mikl SlEtWb 180.</p>
-        <p>1360. <hi rendition="#b">Ar.</hi> <hi rendition="#b">Mahr:</hi>
-          <lb/>N. pr., Stammvater eines ar. Stammes,
-          nach welchem schnell laufende Kamele
-          in Nordafrika als <hi rendition="#i">mahrija</hi>, pl.
-          <hi rendition="#i">mahārī</hi> bezeichnet werden; hieraus
-          frz. <hi rendition="#i">mahari</hi>,
-          sp. <hi rendition="#i">maharí</hi> [Dicc Cast 1300 a]
-          ‛Laufkamel, Dromedar’ in Nordafrika. [Devic DEt 155.</p>
-        <p>1361. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maḥrama:</hi>
-          <lb/>‛Heiliges, Verbotenes, Weib’ [s. hier
-          Nr. 819], ebenso tk., hieraus rum. <hi rendition="#i">maramă</hi>,
-          <cb n="2"/>(Moldau) <hi rendition="#i">năframă</hi>
-          ‛Schleier der jung verheirateten Frauen’; bulg. serb.
-          <hi rendition="#i">mahrama</hi>, russ.
-          <hi rendition="#i">bahroma</hi> ‛Tüchlein’ [mit
-          Wechsel von <hi rendition="#i">m</hi> und
-          <hi rendition="#i">b</hi> wie z. B. hier
-          Nr. 1349]. [Sain 55. Mikl SlEtWb 180.</p>
-        <p>1362. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maḫzan:</hi>
-          <lb/>‛Warenniederlage, Scheune, Zeughaus’,
-          plr. <hi rendition="#i">maḫāzin</hi>; hieraus it.
-          <hi rendition="#i">magazzino</hi>,
-          sard. <hi rendition="#i">magasinu</hi>,
-          <hi rendition="#i">camasinu</hi> [mit Metathesis],
-          siz. <hi rendition="#i">magasenu</hi>,
-          <hi rendition="#i">maasenu</hi>, <hi rendition="#i">malasenu</hi>,
-          <hi rendition="#i">malase</hi>, frz.
-          <hi rendition="#i">magasin</hi>, sp.
-          <hi rendition="#i">magacén</hi>,
-          <hi rendition="#i">almagacen</hi>, <hi rendition="#i">almacen</hi>,
-          pg. <hi rendition="#i">almazem</hi>, <hi rendition="#i">armazem</hi>,
-          <hi rendition="#i">almacén</hi>, rum.
-          <hi rendition="#i">magaza</hi>, <hi rendition="#i">magazin</hi>;
-          dtsch. <hi rendition="#i">Magazin</hi>, ndl.
-          <hi rendition="#i">magazijn</hi>, engl.
-          <hi rendition="#i">magazine</hi>; russ.
-          <hi rendition="#i">magazyn</hi>, (dial.)
-          <hi rendition="#i">gamazeja</hi>
-          [Metathesis wie im Sard.!], klruss.
-          <hi rendition="#i">magazyn</hi>, <hi rendition="#i">kamazej</hi>,
-          bulg. serb. <hi rendition="#i">magaza</hi>,
-          <hi rendition="#i">magazin</hi> ‛Warenniederlage, Zeughaus’.
-          [Lasinio 8. DE 147. Eguilaz 205. ML 5447 (wo als Grundwort
-          <hi rendition="#i">mayzen</hi> ‛Scheune’ gegeben wird!).
-          Gorjajew 199. MiklSlEtWb 180.</p>
-        <p>1363. <hi rendition="#b">Ar.</hi> <hi rendition="#b">mai‛a:</hi>
-          <lb/>‛Harzbalsamstrauch Storax’; hieraus sp.
-          <hi rendition="#i">almea</hi> ‛Rinde des Storax, Storax’.
-          [DE 161. Eguilaz 218. ML 5241.</p>
-        <p>1364. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maidān:</hi>
-          <lb/>‛Platz’, tk. ebenso <hi rendition="#i">mejdan</hi>;
-          hieraus rum. <hi rendition="#i">maidan</hi>,
-          <hi rendition="#i">meidan</hi> ‛dass., freie Zeit, Gelegenheit’;
-          bulg. <hi rendition="#i">megdan</hi>, serb.
-          <hi rendition="#i">mejdan</hi>, poln. klruss.
-          <hi rendition="#i">majdan</hi>, russ.
-          <hi rendition="#i">maidan</hi> ‛Platz’,
-          Vb. <hi rendition="#i">maidanit'</hi> ‛gaunern’. — [Sp.
-          <hi rendition="#i">alameda</hi> ‛Platz, Promenade’
-          gehört nicht hierher, DE 370; vielmehr &lt;
-          <hi rendition="#i">alamo</hi> ‛Pappel’].
-          [Löbel ElTAP 60. Gorjajew XXXIX. Mikl SlEtWb 186.</p>
-        <p>1365. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maimūn:</hi>
-          <lb/>‛Affe’ [eigentlich ‛glücklich, glückbringend’
-          genau wie das andere Wort für
-          Affe: ar. <hi rendition="#i">sa‛dān</hi>,
-          <hi rendition="#i">si‛dān</hi>; Euphemismus,
-          da der Affe als Teufel gilt. Vgl. Nöldeke,
-          Neue Beiträge zur semitischen Sprachwissenschaft.
-          S. 89. Zusammenhang mit gr. μιμώ ist also abzulehnen];
-          hieraus it. <hi rendition="#i">mammone</hi> ‛Meerkatze’,
-          <hi rendition="#i">maimone</hi>
-          [Oriente I, 195], afrz. prov. <hi rendition="#i">maimon</hi>,
-          kat. <hi rendition="#i">maymon</hi> ‛heuchlerisch, faul’, sp. pg.
-          <hi rendition="#i">mono</hi>, <hi rendition="#i">mona</hi>,
-          frz. <hi rendition="#i">maimon</hi>, <hi rendition="#i">mona</hi>,
-          Ableitung <hi rendition="#i">mimonet</hi>,
-          <hi rendition="#i">momine</hi>, rum. <hi rendition="#i">maĭmuţă</hi>,
-          <hi rendition="#i">momiţă</hi> [mit Suffixwechsel]; ferner [mit
-          Wechsel von <hi rendition="#i">m</hi> zu <hi rendition="#i">b</hi>]
-          it. <hi rendition="#i">babuino</hi>; engl.
-          <hi rendition="#i">baboon</hi> ‛Affe’; bulg.
-          <hi rendition="#i">majmuna</hi>, serb.
-          <hi rendition="#i">majmun</hi>, poln.
-          <hi rendition="#i">munia</hi>. [ML 5242. Devic DEt 155
-          (auf pers. <hi rendition="#i">m.</hi> zurückgeführt).
-          Mikl SlEtWb 180.</p>
-        <p>1366. <hi rendition="#b">Ar.</hi> <hi rendition="#b">mais:</hi>
+          nennt die slav. Gruppe „fremd“ und ihren Ursprung „dunkel“]. —
+          „Zu Heilzwecken wurde schon im Altertum aus Iberien, dem heutigen
+          Spanien, bestimmte Erde herbeigeholt. Dies war wohl die heutige
+            <hi rendition="#i">Almagra</hi> oder Ton von Estremoz, welcher,
+          mit Piment (Capsicum annuum) vermengt, auch in der Gegenwart von
+          Damen der sp. und pg. Aristokratie als Delikatesse genossen
+          wird“. Dtsch. Rundschau für Geographie XXXVII, 125. [DE 152.
+          Eguilaz 209. Devic DEt 25. ZfSem IV, 258/9.</p>
+        <p>1350. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maḥalla:</hi>
+          <lb/>‛Vorstadt, Stadtviertel’; tk. ebenso; hieraus rum. <hi
+            rendition="#i">mahala</hi>; bulg. serb. <hi rendition="#i"
+            >maḫala</hi> ‛Stadtviertel’; rum. <hi rendition="#i"
+            >mahalagiŭ</hi> ‛Vorstädter’. [Löbel ElTAP 60. Mikl SlEtWb
+          180.</p>
+        <p>1351. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maḫāriǧ:</hi>
+          <lb/>‛Ausgaben, Unkosten’ [plr. von ar. <hi rendition="#i"
+            >maḫraǧ</hi>]; hieraus russ. <hi rendition="#i">magaryč</hi>,
+          klruss. <hi rendition="#i">mogoryč</hi>, <hi rendition="#i"
+            >mohryč</hi> ‛Bewirtung beim Abschluß eines Geschäftes’, Vb.
+            <hi rendition="#i">mohoryčyty</hi> ‛bewirten’. Vgl. mlat. <hi
+            rendition="#i">magarisium</hi> ‛tributi genus’. [Mikl SlEtWb
+          199.</p>
+        <p>1352. <hi rendition="#b">Hind.</hi>
+          <hi rendition="#b">mahāwat:</hi>
+          <lb/>‛Hoher Offizier’ [aus sskr. <hi rendition="#i"
+            >mahā-mātra</hi> ‛großes Maß’, vgl. schon Hesychius s. v.:
+          Μαμάτραι, οἱ στρατηγοί παῤ Ἰνδου&#785;ς]; hieraus engl. <hi
+            rendition="#i">mahout</hi> ‛Treiber und Lenker eines Elefanten’
+          [der auf dessen Halse sitzt und ihn mit Worten und einem Stäbchen
+          leitet]. [Hobson-Jobson 536.</p>
+        <p>1353. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maḥḍar:</hi>
+          <lb/>‛Ort, an dem Leute zugegen sind’ [aus <hi rendition="#i"
+            >ḥaḍara</hi> ‛anwesend sein’], dazu <hi rendition="#i"
+            >muḥāḍara</hi> ‛Unterhaltung’; hieraus siz. <hi rendition="#i"
+            >macadaru</hi> ‛Sammelplatz, der zur Unterhaltung und zum
+          Vergnügen bestimmt ist’. [GrSVociSic 239.</p>
+        <p>1354. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maḥǧara:</hi>
+          <lb/>‛Steiniger Ort’ [von <hi rendition="#i">ḥaǧar</hi> ‛Steine’
+          mit <pb n="108" facs="#f0130"/><cb n="1"/>Präfix <hi
+            rendition="#i">ma-</hi> des Ortes]; hieraus siz. <hi
+            rendition="#i">musciaru</hi> in der Redensart <hi
+            rendition="#i">a</hi>
+          <hi rendition="#i">musciaru</hi> ‛haufenweise, ungeordnet’.
+          [GrSVociSic 242.</p>
+        <p>1355 <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maḥjāṣ:</hi>
+          <lb/>‛Prahlerei’ [modern und sehr selten, vgl. Dozy Suppl II,
+          622]; hieraus vielleicht siz. <hi rendition="#i">mafia</hi>, Adj.
+            <hi rendition="#i">mafiusu</hi>, von einem Manne, der sofort
+          bereit ist, zu den Waffen zu greifen, um irgendeine Beleidigung
+          zu rächen, und dabei Blut zu vergießen. Im Anfange des XIX.
+          Jahrhunderts in Palermo und Umgebung entstanden, ging das Wort
+          bald ins It. über: <hi rendition="#i">maffia</hi>, <hi
+            rendition="#i">maffioso</hi>, bes. zur Bezeichnung einer
+          verbrecherischen Geheimgesellschaft [entsprechend der
+          napoletanischen Camorra]. Die Etymologie kann nicht als sicher
+          gelten. [GrSVociSic 240.</p>
+        <p>1356. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maḥlab:</hi>
+          <lb/>‛Weichselkirschbaum, Prunus mahaleb’; hieraus sp. <hi
+            rendition="#i">mahaleb</hi> [Dicc Cast 1300 a], frz. <hi
+            rendition="#i">mahaleb</hi>, <hi rendition="#i">mahalep</hi>,
+            <hi rendition="#i">maguelet</hi>; unter diesem Namen
+          importierte man früher aus Syrien nach Europa eine kleine Frucht,
+          die man in der Medizin brauchte und jetzt noch in der Parfümerie
+          verwendet. Frz. <hi rendition="#i">bois</hi>
+          <hi rendition="#i">de</hi>
+          <hi rendition="#i">mahaleb</hi> ‛Weichselholz’ [vulgär <hi
+            rendition="#i">bois</hi>
+          <hi rendition="#i">de</hi>
+          <hi rendition="#i">Ste.</hi>
+          <hi rendition="#i">Lucie</hi> genannt]. [Devic DEt 154. Eguilaz
+          441/442. ML5240</p>
+        <p>1357. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maḫlūḳ:</hi>
+          <lb/>‛Geschaffen’ [part. pass. von <hi rendition="#i">ḫalaḳa</hi>
+          ‛erschaffen’]; hieraus siz. <hi rendition="#i">macaluco</hi>
+          ‛latte di pollo’, d. h. in den Kaffee geschlagenes Ei.
+          [GrSVociSic 239 (mit Hinweis auf Corrado Avolio, Introduzione
+          allo studio del dialetto siciliano. Noto 1882. S. 44].</p>
+        <p>1358. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maḫiūṭ:</hi>
+          <lb/>Wörtlich ‛gemischt’, Bezeichnung einer Speise aus Linsen und
+          Weizen oder Reis [auch als <hi rendition="#i">burġul</hi>
+          bekannt, s. hier Nr. 352]; hieraus siz. <hi rendition="#i"
+            >maccu</hi> ‛eine Art Suppe’. [GrSVociSic 239.</p>
+        <p>1359. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maḫmūr:</hi>
+          <lb/>[Part. pass. I zu <hi rendition="#i">ḫamr</hi> ‛Wein’]
+          ‛betrunken’, tk. ebenso; hieraus rum. <hi rendition="#i"
+            >mahmur</hi> ‛halb betrunken’, <hi rendition="#i">mahmurie</hi>
+          ‛Katzenjammer’; bulg. <hi rendition="#i">mahmuren</hi>, serb. <hi
+            rendition="#i">mamuran</hi> ‛nach einem Rausche an Kopfweh
+          leidend’. [Löbel ElTAP 60. Mikl SlEtWb 180.</p>
+        <p>1360. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">Mahr:</hi>
+          <lb/>N. pr., Stammvater eines ar. Stammes, nach welchem schnell
+          laufende Kamele in Nordafrika als <hi rendition="#i"
+          >mahrija</hi>, pl. <hi rendition="#i">mahārī</hi> bezeichnet
+          werden; hieraus frz. <hi rendition="#i">mahari</hi>, sp. <hi
+            rendition="#i">maharí</hi> [Dicc Cast 1300 a] ‛Laufkamel,
+          Dromedar’ in Nordafrika. [Devic DEt 155.</p>
+        <p>1361. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maḥrama:</hi>
+          <lb/>‛Heiliges, Verbotenes, Weib’ [s. hier Nr. 819], ebenso tk.,
+          hieraus rum. <hi rendition="#i">maramă</hi>, <cb n="2"/>(Moldau)
+            <hi rendition="#i">năframă</hi> ‛Schleier der jung
+          verheirateten Frauen’; bulg. serb. <hi rendition="#i"
+            >mahrama</hi>, russ. <hi rendition="#i">bahroma</hi> ‛Tüchlein’
+          [mit Wechsel von <hi rendition="#i">m</hi> und <hi rendition="#i"
+            >b</hi> wie z. B. hier Nr. 1349]. [Sain 55. Mikl SlEtWb
+          180.</p>
+        <p>1362. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maḫzan:</hi>
+          <lb/>‛Warenniederlage, Scheune, Zeughaus’, plr. <hi
+            rendition="#i">maḫāzin</hi>; hieraus it. <hi rendition="#i"
+            >magazzino</hi>, sard. <hi rendition="#i">magasinu</hi>, <hi
+            rendition="#i">camasinu</hi> [mit Metathesis], siz. <hi
+            rendition="#i">magasenu</hi>, <hi rendition="#i">maasenu</hi>,
+            <hi rendition="#i">malasenu</hi>, <hi rendition="#i"
+            >malase</hi>, frz. <hi rendition="#i">magasin</hi>, sp. <hi
+            rendition="#i">magacén</hi>, <hi rendition="#i">almagacen</hi>,
+            <hi rendition="#i">almacen</hi>, pg. <hi rendition="#i"
+            >almazem</hi>, <hi rendition="#i">armazem</hi>, <hi
+            rendition="#i">almacén</hi>, rum. <hi rendition="#i"
+            >magaza</hi>, <hi rendition="#i">magazin</hi>; dtsch. <hi
+            rendition="#i">Magazin</hi>, ndl. <hi rendition="#i"
+            >magazijn</hi>, engl. <hi rendition="#i">magazine</hi>; russ.
+            <hi rendition="#i">magazyn</hi>, (dial.) <hi rendition="#i"
+            >gamazeja</hi> [Metathesis wie im Sard.!], klruss. <hi
+            rendition="#i">magazyn</hi>, <hi rendition="#i">kamazej</hi>,
+          bulg. serb. <hi rendition="#i">magaza</hi>, <hi rendition="#i"
+            >magazin</hi> ‛Warenniederlage, Zeughaus’. [Lasinio 8. DE 147.
+          Eguilaz 205. ML 5447 (wo als Grundwort <hi rendition="#i"
+            >mayzen</hi> ‛Scheune’ gegeben wird!). Gorjajew 199. MiklSlEtWb
+          180.</p>
+        <p>1363. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">mai‛a:</hi>
+          <lb/>‛Harzbalsamstrauch Storax’; hieraus sp. <hi rendition="#i"
+            >almea</hi> ‛Rinde des Storax, Storax’. [DE 161. Eguilaz 218.
+          ML 5241.</p>
+        <p>1364. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maidān:</hi>
+          <lb/>‛Platz’, tk. ebenso <hi rendition="#i">mejdan</hi>; hieraus
+          rum. <hi rendition="#i">maidan</hi>, <hi rendition="#i"
+            >meidan</hi> ‛dass., freie Zeit, Gelegenheit’; bulg. <hi
+            rendition="#i">megdan</hi>, serb. <hi rendition="#i"
+            >mejdan</hi>, poln. klruss. <hi rendition="#i">majdan</hi>,
+          russ. <hi rendition="#i">maidan</hi> ‛Platz’, Vb. <hi
+            rendition="#i">maidanit'</hi> ‛gaunern’. — [Sp. <hi
+            rendition="#i">alameda</hi> ‛Platz, Promenade’ gehört nicht
+          hierher, DE 370; vielmehr &lt; <hi rendition="#i">alamo</hi>
+          ‛Pappel’]. [Löbel ElTAP 60. Gorjajew XXXIX. Mikl SlEtWb 186.</p>
+        <p>1365. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maimūn:</hi>
+          <lb/>‛Affe’ [eigentlich ‛glücklich, glückbringend’ genau wie das
+          andere Wort für Affe: ar. <hi rendition="#i">sa‛dān</hi>, <hi
+            rendition="#i">si‛dān</hi>; Euphemismus, da der Affe als Teufel
+          gilt. Vgl. Nöldeke, Neue Beiträge zur semitischen
+          Sprachwissenschaft. S. 89. Zusammenhang mit gr. μιμώ ist also
+          abzulehnen]; hieraus it. <hi rendition="#i">mammone</hi>
+          ‛Meerkatze’, <hi rendition="#i">maimone</hi> [Oriente I, 195],
+          afrz. prov. <hi rendition="#i">maimon</hi>, kat. <hi
+            rendition="#i">maymon</hi> ‛heuchlerisch, faul’, sp. pg. <hi
+            rendition="#i">mono</hi>, <hi rendition="#i">mona</hi>, frz.
+            <hi rendition="#i">maimon</hi>, <hi rendition="#i">mona</hi>,
+          Ableitung <hi rendition="#i">mimonet</hi>, <hi rendition="#i"
+            >momine</hi>, rum. <hi rendition="#i">maĭmuţă</hi>, <hi
+            rendition="#i">momiţă</hi> [mit Suffixwechsel]; ferner [mit
+          Wechsel von <hi rendition="#i">m</hi> zu <hi rendition="#i"
+            >b</hi>] it. <hi rendition="#i">babuino</hi>; engl. <hi
+            rendition="#i">baboon</hi> ‛Affe’; bulg. <hi rendition="#i"
+            >majmuna</hi>, serb. <hi rendition="#i">majmun</hi>, poln. <hi
+            rendition="#i">munia</hi>. [ML 5242. Devic DEt 155 (auf pers.
+            <hi rendition="#i">m.</hi> zurückgeführt). Mikl SlEtWb 180.</p>
+        <p>1366. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">mais:</hi>
           <lb/>[Wohl aus aram. <hi rendition="#i">maišā</hi>, das aus ass.
-          <hi rendition="#i">mēsu</hi> &lt; sumerisch
-          <hi rendition="#i">mes</hi> entlehnt ist,
-          ZAkkFW 53] ‛Zürgel-, Nesselbaum, Celtis australis L.’;
-          hieraus mit ar. Art. sp.
-          <hi rendition="#i">almez</hi>, <hi rendition="#i">almezo</hi>,
-          frz. <hi rendition="#i">alizier</hi> ‛dass.’. [DE
-          163/164. Eguilaz 221. ML 5243.</p>
-        <pb n="109" facs="#f0131"/><cb n="1"/><p>1367.
-          <hi rendition="#b">Pers.</hi> <hi rendition="#b">mājä:</hi>
-          <lb/>‛Stoff, Substanz’ [Horn NpEt S. 217,
-          Nr. 970], auch ‛Sauerteig, Hefe’, eben
-          tk. <hi rendition="#i">maje</hi>; hieraus rum.
-          <hi rendition="#i">maĭa</hi> ‛Sauerteig’;
-          serb. <hi rendition="#i">maja</hi> ‛dass.’. [Löbel ElTAP 60.
-          Mikl SlEtWb 180.</p>
-        <p>1368. <hi rendition="#b">Tk.</hi> <hi rendition="#b">majasyl:</hi>
-          <lb/>‛Hämorrhoiden’ [Kélékian Ḳāmūs 1097;
-          ar. <hi rendition="#i">mā</hi> <hi rendition="#i">jasīlu</hi>
-          ‛das, was fließt’ vom Vb. <hi rendition="#i">sāla</hi>
-          ‛fließen’]; hieraus bulg. <hi rendition="#i">majasъl</hi>,
-          serb. <hi rendition="#i">mojasin</hi> ‛Art Aussatz’. [Mikl
-          SlEtWb 199.</p>
+            <hi rendition="#i">mēsu</hi> &lt; sumerisch <hi rendition="#i"
+            >mes</hi> entlehnt ist, ZAkkFW 53] ‛Zürgel-, Nesselbaum, Celtis
+          australis L.’; hieraus mit ar. Art. sp. <hi rendition="#i"
+            >almez</hi>, <hi rendition="#i">almezo</hi>, frz. <hi
+            rendition="#i">alizier</hi> ‛dass.’. [DE 163/164. Eguilaz 221.
+          ML 5243.</p>
+        <pb n="109" facs="#f0131"/>
+        <cb n="1"/>
+        <p>1367. <hi rendition="#b">Pers.</hi>
+          <hi rendition="#b">mājä:</hi>
+          <lb/>‛Stoff, Substanz’ [Horn NpEt S. 217, Nr. 970], auch
+          ‛Sauerteig, Hefe’, eben tk. <hi rendition="#i">maje</hi>; hieraus
+          rum. <hi rendition="#i">maĭa</hi> ‛Sauerteig’; serb. <hi
+            rendition="#i">maja</hi> ‛dass.’. [Löbel ElTAP 60. Mikl SlEtWb
+          180.</p>
+        <p>1368. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">majasyl:</hi>
+          <lb/>‛Hämorrhoiden’ [Kélékian Ḳāmūs 1097; ar. <hi rendition="#i"
+            >mā</hi>
+          <hi rendition="#i">jasīlu</hi> ‛das, was fließt’ vom Vb. <hi
+            rendition="#i">sāla</hi> ‛fließen’]; hieraus bulg. <hi
+            rendition="#i">majasъl</hi>, serb. <hi rendition="#i"
+            >mojasin</hi> ‛Art Aussatz’. [Mikl SlEtWb 199.</p>
         <p>1369. <hi rendition="#b">Pers.</hi>
           <hi rendition="#b">mäjḫānä::</hi>
-          <lb/>‛Weinhaus, Schenke’ [aus <hi rendition="#i">mäj</hi>
-          ‛Wein’ Horn NpEt S. 225, Nr. 1003 und
-          <hi rendition="#i">ḫānä</hi> ‛Haus’, s. hier Nr. 809],
-          tk. ebenso <hi rendition="#i">mejḫane</hi>;
-          hieraus bulg. serb. <hi rendition="#i">mehana</hi>
-          ‛Schenke’. [Mikl SlEtWb 186.</p>
-        <p>1370. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maḳ‛ad:</hi>
-          <lb/>‛Ort, wo man sich setzt’ [vom Vb.
-          <hi rendition="#i">ḳa‛ada</hi> ‛sich setzen, niederkauern’
-          und Präfix <hi rendition="#i">ma-</hi> des Ortes], ebenso
-          tk. <hi rendition="#i">makad</hi>
-          ‛Ort, wo man sich niederlegt; Stoff, der das Sofa bedeckt’;
-          hieraus rum. <hi rendition="#i">macat</hi>
+          <lb/>‛Weinhaus, Schenke’ [aus <hi rendition="#i">mäj</hi> ‛Wein’
+          Horn NpEt S. 225, Nr. 1003 und <hi rendition="#i">ḫānä</hi>
+          ‛Haus’, s. hier Nr. 809], tk. ebenso <hi rendition="#i"
+            >mejḫane</hi>; hieraus bulg. serb. <hi rendition="#i"
+            >mehana</hi> ‛Schenke’. [Mikl SlEtWb 186.</p>
+        <p>1370. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maḳ‛ad:</hi>
+          <lb/>‛Ort, wo man sich setzt’ [vom Vb. <hi rendition="#i"
+            >ḳa‛ada</hi> ‛sich setzen, niederkauern’ und Präfix <hi
+            rendition="#i">ma-</hi> des Ortes], ebenso tk. <hi
+            rendition="#i">makad</hi> ‛Ort, wo man sich niederlegt; Stoff,
+          der das Sofa bedeckt’; hieraus rum. <hi rendition="#i">macat</hi>
           ‛Steppdecke, Bettbehang’. [Sain 54. Löbel ElTAP 59.</p>
-        <p>1371. <hi rendition="#b">Tk.</hi> <hi rendition="#b">makara:</hi>
-          <lb/>‛Flaschenzug’ [wohl aus ar.
-          <hi rendition="#i">bakra</hi> ‛Rolle am Flaschenzug’
-          mit häufigem Wechsel von <hi rendition="#i">b</hi>
-          und <hi rendition="#i">m</hi>]; hieraus rum.
-          <hi rendition="#i">macara</hi> ‛Windezeug’.</p>
-        <p>1372. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maḳbara:</hi>
+        <p>1371. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">makara:</hi>
+          <lb/>‛Flaschenzug’ [wohl aus ar. <hi rendition="#i">bakra</hi>
+          ‛Rolle am Flaschenzug’ mit häufigem Wechsel von <hi
+            rendition="#i">b</hi> und <hi rendition="#i">m</hi>]; hieraus
+          rum. <hi rendition="#i">macara</hi> ‛Windezeug’.</p>
+        <p>1372. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maḳbara:</hi>
           <lb/>‛Grab, Friedhof’ [aus ar. <hi rendition="#i">ḳabr</hi>
-          ‛Grab’ mit Präfix des Ortes <hi rendition="#i">ma-</hi>],
-          plr. <hi rendition="#i">maḳābir</hi>;
-          hieraus pg. <hi rendition="#i">almocávar</hi>
-          ‛Friedhof’ [DE 168] sowie sp. <hi rendition="#i">macabro</hi>,
-          frz. <hi rendition="#i">danse</hi> <hi rendition="#i">macabre</hi>
-          und mit falscher Volksetymologie mlat.
-          <hi rendition="#i">chorea</hi> <hi rendition="#i">Machabaeorum</hi>
-          ‛Totentanz’ [Eguilaz 441 und Lammens Rem 149].</p>
-        <p>1373 <hi rendition="#b">Ar.</hi> <hi rendition="#b">makīla:</hi>
-          <lb/>‛Maßgefäß’ [s. hier Nr. 1174 a]; hieraus
-          sp. kat. <hi rendition="#i">maquila</hi>, sp.
-          <hi rendition="#i">máquia</hi> ‛Mahlmetze; Mahlgeld,
-          mit dem der Müller bezahlt wird’. —
-          [<hi rendition="#i">Mikjāl</hi> ist lautlich nicht als
-          Grundwort zu gebrauchen.] [DE 300. Eguilaz 443.</p>
+          ‛Grab’ mit Präfix des Ortes <hi rendition="#i">ma-</hi>], plr.
+            <hi rendition="#i">maḳābir</hi>; hieraus pg. <hi rendition="#i"
+            >almocávar</hi> ‛Friedhof’ [DE 168] sowie sp. <hi
+            rendition="#i">macabro</hi>, frz. <hi rendition="#i">danse</hi>
+          <hi rendition="#i">macabre</hi> und mit falscher Volksetymologie
+          mlat. <hi rendition="#i">chorea</hi>
+          <hi rendition="#i">Machabaeorum</hi> ‛Totentanz’ [Eguilaz 441 und
+          Lammens Rem 149].</p>
+        <p>1373 <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">makīla:</hi>
+          <lb/>‛Maßgefäß’ [s. hier Nr. 1174 a]; hieraus sp. kat. <hi
+            rendition="#i">maquila</hi>, sp. <hi rendition="#i">máquia</hi>
+          ‛Mahlmetze; Mahlgeld, mit dem der Müller bezahlt wird’. — [<hi
+            rendition="#i">Mikjāl</hi> ist lautlich nicht als Grundwort zu
+          gebrauchen.] [DE 300. Eguilaz 443.</p>
         <p>1374. <hi rendition="#b">Aram.</hi>
           <hi rendition="#b">maḳḳašiṯā:</hi>
-          <lb/>‛Schwefelkies’ [vielleicht wegen der Sprenkelung
-          nach syr. <hi rendition="#i">ḳeššā</hi> ‛Spreu’ so
-          genannt; im übrigen ist das Wort noch
-          nicht erklärt], hieraus ar. <hi rendition="#i">marḳašiṯā</hi>
-          Bezeichimng der ‛Kiese’ mit Ausnahme
-          derer von Antimon und Wismuth [vgl.
-          <hi rendition="#i">kuḥl</hi>, hier Nr. 1227, und
-          <hi rendition="#i">iṯmīd</hi>, hier
-          Nr. 918] und ferner sp. kat. <hi rendition="#i">marcasita</hi>,
-          <hi rendition="#i">marquesita</hi>, pg.
-          <hi rendition="#i">marcasita</hi>,
-          <hi rendition="#i">marquezita</hi>
-          [Constancio Dicc 677 c], frz. <hi rendition="#i">marcassite</hi>,
-          it. <hi rendition="#i">marcassita</hi>; engl.
-          <hi rendition="#i">marcasite</hi>, dtsch.
-          <hi rendition="#i">Markasit</hi>
+          <lb/>‛Schwefelkies’ [vielleicht wegen der Sprenkelung nach syr.
+            <hi rendition="#i">ḳeššā</hi> ‛Spreu’ so genannt; im übrigen
+          ist das Wort noch nicht erklärt], hieraus ar. <hi rendition="#i"
+            >marḳašiṯā</hi> Bezeichimng der ‛Kiese’ mit Ausnahme derer von
+          Antimon und Wismuth [vgl. <hi rendition="#i">kuḥl</hi>, hier Nr.
+          1227, und <hi rendition="#i">iṯmīd</hi>, hier Nr. 918] und
+          ferner sp. kat. <hi rendition="#i">marcasita</hi>, <hi
+            rendition="#i">marquesita</hi>, pg. <hi rendition="#i"
+            >marcasita</hi>, <hi rendition="#i">marquezita</hi> [Constancio
+          Dicc 677 c], frz. <hi rendition="#i">marcassite</hi>, it. <hi
+            rendition="#i">marcassita</hi>; engl. <hi rendition="#i"
+            >marcasite</hi>, dtsch. <hi rendition="#i">Markasit</hi>
           ‛rhombische Modifikation des Eisenkieses’. [Devic DEt 157.
-          Eguilaz 444. A. Sadebeck, Über den Namen „Markasit“.
-          Im Neuen Jahrbuch für
-          <cb n="2"/>Mineralogie, Geologie und Paläontologie.
+          Eguilaz 444. A. Sadebeck, Über den Namen „Markasit“. Im Neuen
+          Jahrbuch für <cb n="2"/>Mineralogie, Geologie und Paläontologie.
           Stuttgart 1878.</p>
         <p>1375. <hi rendition="#b">Hebr.</hi>
           <hi rendition="#b">maḳḳę&#772;bęϑ:</hi>
-          <lb/>‛Hammer’; hieraus Eigenname <hi rendition="#i">Maccabaeus</hi>
-          ‛Makkabäer’ und mit verschiedenartigem Bedeutungswandel
-          it. (dial. Abruzzen) <hi rendition="#i">maccabè</hi>
-          ‛Dummkopf, Taugenichts’, frz. <hi rendition="#i">machabée</hi>
-          im Pariser Argot:
-          ‛Jude; Leiche eines Ertrunkenen’. —
-          ML 5253 [wo auch fälschlich <hi rendition="#i">macabre</hi>
-          hierauf zurückgeführt, s. dagegen hier Nr. 1372].</p>
-        <p>1376. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maḳlūb:</hi>
-          <lb/>‛Umgewendet, umgekehrt’ [part. pass.
-          von <hi rendition="#i">ḳalaba</hi> ‛umwenden’]; hieraus it.
-          <hi rendition="#i">macaluba</hi>, siz.
-          <hi rendition="#i">macalubi(a)</hi>, Bezeichnung
-          der Schlammvulkane in Sizilien zwischen
-          Catania und Sciacca, die schon den Alten
-          bekannt waren [vgl. Strabo, Solinus V, 24].
-          — Bädeker, Untentalien. ¹⁴. Leipzig 1906.
-          S. 341: Le Maccalube bei Girgenti und
-          bes. W. Decke, Über die sizilianischen
+          <lb/>‛Hammer’; hieraus Eigenname <hi rendition="#i"
+            >Maccabaeus</hi> ‛Makkabäer’ und mit verschiedenartigem
+          Bedeutungswandel it. (dial. Abruzzen) <hi rendition="#i"
+            >maccabè</hi> ‛Dummkopf, Taugenichts’, frz. <hi rendition="#i"
+            >machabée</hi> im Pariser Argot: ‛Jude; Leiche eines
+          Ertrunkenen’. — ML 5253 [wo auch fälschlich <hi rendition="#i"
+            >macabre</hi> hierauf zurückgeführt, s. dagegen hier Nr.
+          1372].</p>
+        <p>1376. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maḳlūb:</hi>
+          <lb/>‛Umgewendet, umgekehrt’ [part. pass. von <hi rendition="#i"
+            >ḳalaba</hi> ‛umwenden’]; hieraus it. <hi rendition="#i"
+            >macaluba</hi>, siz. <hi rendition="#i">macalubi(a)</hi>,
+          Bezeichnung der Schlammvulkane in Sizilien zwischen Catania und
+          Sciacca, die schon den Alten bekannt waren [vgl. Strabo, Solinus
+          V, 24]. — Bädeker, Untentalien. ¹⁴. Leipzig 1906. S. 341: Le
+          Maccalube bei Girgenti und bes. W. Decke, Über die sizilianischen
           Schlammvulkane. In Globus LXXI, 69/71.</p>
         <p>1377. <hi rendition="#b">Kas.-tat.</hi>
           <hi rendition="#b">malaḫai:</hi>
-          <lb/>Hieraus mit gleicher Bedeutung russ.
-          <hi rendition="#i">malahai</hi> ‛große Fellmütze’
-          [Gorjajew 200].</p>
-        <p>1378. <hi rendition="#b">Ar.</hi> <hi rendition="#b">malġam:</hi>
-          <lb/>‛Erweichende Salbe’ [aus gr. μάλαγμα
-          mit Metathesis]; hieraus sp. pg. kat.
-          <hi rendition="#i">amalgama</hi>, frz.
-          <hi rendition="#i">amalgame</hi>; engl.
-          <hi rendition="#i">amalgam</hi>, Vb.
-          <hi rendition="#i">amalgamate</hi>, dtsch.
-          <hi rendition="#i">Amalgam</hi>,
-          Vb. <hi rendition="#i">amalgamieren</hi>; russ.
-          <hi rendition="#i">amal'gama</hi>
-          [und über tk. <hi rendition="#i">melhem</hi>, ebenso tat.]
-          <hi rendition="#i">mal'han</hi>, bulg.
-          <hi rendition="#i">mehlem</hi>, serb. <hi rendition="#i">melem</hi>
-          ‛Salbe’. — [Devic DEt 29/30 und Eguilaz 256/257
-          geben andere unhaltbare Ableitungen,
-          Lammens Rem 21/22 spricht schon
-          Zweifel daran aus; die hier gegebene
-        Etymologie deutet schon Gorjajew 201 an].</p>
-      <p>1379. <hi rendition="#b">Aram.</hi> <hi rendition="#b">malka:</hi>
-        <lb/>‛König’; hieraus gr. Μάλχος, lat.
-        <hi rendition="#i">Malchus</hi>
-        [‛der Königliche’, also synonym mit
-        Βασίλειος], als N. pr. Name des Kriegsknechtes, dem
-        PETRUS das eine Ohr abhieb; daher pg. <hi rendition="#i">mouco</hi>
-        ‛schwerhörig’, frz. (dial. Lüttich)
-        <hi rendition="#i">malcuss</hi> ‛einohrig’
-        (von Tieren gesagt) [Behrens Beitr 302],
-        it. (dial. Verona) <hi rendition="#i">malco</hi>
-        ‛ungezogen’, <hi rendition="#i">averge</hi>
-        <hi rendition="#i">le</hi> <hi rendition="#i">mani</hi>
-        <hi rendition="#i">di</hi> <hi rendition="#i">Malco</hi>
-        ‛schwere Hände haben’. — Das entsprechende hebr.
-        Wort <hi rendition="#i">mę&#772;lęχ</hi> ‛König’
-        ist Grundwort zum Namen der <hi rendition="#i">Melkiten</hi>,
-        frz. <hi rendition="#i">melchites</hi>, eigentlich also
-        „Royalisten“, Bezeichnung der syrischen orthodoxen
-        Katholiken, da ihre Lehre von den Kaisern
-        gegen die der Eutychianer begünstigt
-        worden ist. — Aus dem phönizischen
-        Wort <hi rendition="#i">mōlek</hi> ‛Herr, König’, einem Gotte
-        der Ammoniter im AT, wurde zunächst
-        gr. Μολόχ, das als <hi rendition="#i">Moloch</hi> in alle
-        europäischen Sprachen zur Bezeichnung eines
-        blutdürstigen Abgottes überging: frz.
-        <pb n="110" facs="#f0132"/><cb n="1"/><hi rendition="#i">moloch</hi>,
-        sp. <hi rendition="#i">molok</hi>; dtsch.
-        <hi rendition="#i">Moloch</hi>, engl.
-        <hi rendition="#i">moloch</hi>, Vb. <hi rendition="#i">molochize</hi>
-        ‛wie dem Moloch opfern’, d. h. ‛über Leichen gehen’.
-        [Devic DEt 162. 167. Eguilaz 457. ML 5256.</p>
-      <p>1380. <hi rendition="#b">Ar.</hi> <hi rendition="#b">mallūṭa:</hi>
-        <lb/>‛Übermantel’ [Dozy Vêtem 87. 412; aus
-        gr. μαλλωτή oder μηλωτή ZDMG LI, 304]; hieraus
-        sp. pg. kat. val. <hi rendition="#i">marlota</hi>,
-        sp. <hi rendition="#i">molota</hi> ‛maurischer Talar’,
-        mlat. <hi rendition="#i">melota</hi>; über das Tk.
-        entstand rum. <hi rendition="#i">malotea</hi>
-        ‛Frauenmantel’. [DE 303/304. Eguilaz 446. Löbel ElTAP 60.</p>
-      <p>1381. <hi rendition="#b">Ind.</hi> <hi rendition="#b">malmal:</hi>
-        <lb/>‛Stoff aus feiner, weißer Baumwolle’,
-        der Musseline ähnlich; hieraus engl.
-        <hi rendition="#i">mulmul</hi> und durch Verkürzung auf eine
-        Silbe engl. <hi rendition="#i">mull</hi>, dtsch.
-        <hi rendition="#i">Mull</hi>.</p>
-      <p>1382. <hi rendition="#b">Hebr.</hi> <hi rendition="#b">malšīn:</hi>
-        <lb/>‛Bösewicht’; hieraus sp. <hi rendition="#i">malsin</hi>
-        ‛Angeber, Aufhetzer’ [Dicc Cast 1305 a], pg.
-        <hi rendition="#i">malsim</hi> ‛Angeber, Verräter beim Schmuggel’
-        [Constancio Dicc 671 b], Vb. sp. pg.
-        <hi rendition="#i">malsinar</hi> ‛verleumden’. — [Etymologie von
-        DE LAGARDE; vgl. auch ML 5269.]</p>
-      <p>1383. <hi rendition="#b">Ar.</hi> <hi rendition="#b">mal‛ūn:</hi>
-        <lb/>‛Verflucht’ [part. pass. von <hi rendition="#i">la‛ana</hi>
-        ‛verfluchen’], tk. ebenso <hi rendition="#i">melun</hi>
-        ‛dass.’; hieraus serb. <hi rendition="#i">melun</hi>
-        ‛Teufel’. [Mikl <choice><sic>SlEtEtWb</sic><corr>SlEtWb</corr></choice>
-        187 b.</p>
-      <p>1384. <hi rendition="#b">Ar.</hi> <hi rendition="#b">mamlūk:</hi>
-        <lb/>‛Kaufsklave, Höriger’ [part. pass. von
-        <hi rendition="#i">malaka</hi> ‛besitzen’]; hieraus it.
-        <hi rendition="#i">mammalucco</hi>, siz.
-        <hi rendition="#i">mammaluccu</hi> ‛dumm, stumpfsinnig’,
-        sp. pg. <hi rendition="#i">mameluco</hi> ‛dumm’, pg.
-        in Brasilien der Sohn eines Europäers
-        und einer eingeborenen Amerikanerin,
-        frz. <hi rendition="#i">mamlouk</hi>, vielleicht auch
-        <hi rendition="#i">malamoque</hi>
-        ‛Albatros mit schwarzem Schnabel’,
-        rum. <hi rendition="#i">mameluc</hi>; ndl.
-        <hi rendition="#i">mameluk</hi>, engl.
-        <hi rendition="#i">mamlouk</hi>, <hi rendition="#i">mamaluke</hi>,
-        <hi rendition="#i">mameluke</hi>, dtsch.
-        <hi rendition="#i">Mamluk</hi>. — „Mamluken wurden die
-        weißen Soldtruppen genannt, welche
-        sowohl von den letzten Fatimiden als
-        auch von den Eijubiden in großer Zahl
-        angeworben oder auch gekauft wurden.
-        Sie rekrutierten sich besonders aus Türken
-        und in der Folge aus Mingreliern,
-        Zirkassiern und anderen kaukasischen
-        Stämmen. Die genannten Fürsten stützten
-        ihre Macht hauptsächlich auf diese Söldner.
-        Der Name Mamluk wurde auch auf die Nachkommen
-        dieser in Ägypten seßhaft gewordenen Ausländer
-        übertragen und verblieb ihnen, als sie die
-        Herren des Landes wurden. In den
-        folgenden Jahrhunderten hat der Name
-        Mamluk seine ursprüngliche Anrüchigkeit
-        vollständig abgestreift.“ v. Oppenheim,
-        Vom Mittelmeer zum persischen Golf I, 52.
-        Ausführlich ebenda 53/54. [DE 299. Devic DEt 156. Eguilaz 442.</p>
-      <cb n="2"/><p>1385. <hi rendition="#b">Jakut.</hi>
-        <hi rendition="#b">mamma:</hi>
-        <lb/>Auch tungusisch ‛Land’; hieraus russ.
-        <hi rendition="#i">mamont</hi>, čech. poln.
-        <hi rendition="#i">mamut</hi>; frz. <hi rendition="#i">mammouth</hi>;
-        engl. <hi rendition="#i">mammoth</hi>, dtsch.
-        <hi rendition="#i">Mammut</hi>. Der Ausdruck ist im Jahre I696
-        von LUDLOFF in die wissenschaftliche
-        Sprache eingeführt worden; die Jakuten
-        hatten den ausgestorbenen Riesenelefanten
-        <hi rendition="#i">mamont</hi> genannt, weil sie glaubten,
-        er wühle unter der Erde wie ein Maulwurf.</p>
-      <p>1386. <hi rendition="#b">Aram.</hi>
-        <hi rendition="#b">māmōnā:</hi>
-        <lb/>Auch <hi rendition="#i">mammōn</hi> [letzten Endes
-        möglicherweise ass. <hi rendition="#i">mēmēni</hi>
-        ‛irgend etwas’ &gt; ‛Besitz, Habe’, vgl. ZAkkFW 20];
-        hieraus gr. μαμμωνᾱ, μαμωνα&#785;ς, got.
-        <hi rendition="#i">mammôna</hi> und im Anschluß an das NT
-        seil Luther nhd. <hi rendition="#i">Mammon</hi>, früher mit
-        ‛Schatzteufel, Gutsteufel’ übersetzt, die
-        mythische Personifikation des Reichtums;
-        engl. <hi rendition="#i">mammon</hi>; russ.
-        <hi rendition="#i">mamona</hi> usw.</p>
-      <p>1387. <hi rendition="#b">Ar.</hi> <hi rendition="#b">mamṭar:</hi>
-        <lb/>‛Regenmantel’ [aus ar. <hi rendition="#i">maṭar</hi>
-        ‛Regen’ mit präflgieitem <hi rendition="#i">m</hi> des Werkzeuges];
-        hieraus siz. <hi rendition="#i">mantarru</hi> [aber wohl kaum
-        it. <hi rendition="#i">mantazzo</hi>] ‛Regenmantel der Bauern’.
-        [GrSVociSic 240.</p>
-      <p>1388. <hi rendition="#b">Hebr.</hi> <hi rendition="#b">mamzēr:</hi>
-        <lb/>‛Bastard’ [im AT zweimal: Deut 23, 2];
-        hieraus mgr. μανζήρ als geläufiges
-        Schimpfwort [so wurde JOHANNES
-        DAMASCENUS von CONSTANTIN VI.
-        statt mit seinem Ehrennamen Manṣūr
-        als Μανζηρός, bezeichnet], durch den
-        Verkehr mit jüd. Rabbinern sp. <hi rendition="#i">mancer</hi>
-        ‛Hurenkind’ [Dicc Cast 1307 b: ‛hijo de
-        la mujer pública’] und poln. (alt) <hi rendition="#i">mamzer</hi>,
-        <hi rendition="#i">mamžer</hi> ‛Neugetaufter’. Vgl. GRÜNBAUM
-        in ZDMG XL, 264.</p>
-      <p>1389. <hi rendition="#b">Ar.</hi> <hi rendition="#b">manāḫ:</hi>
-        <lb/>‛Ort, wo man die Kamele niederknien läßt’
-        [von <hi rendition="#i">nāḫa</hi> ‛niederknien’, II. Form
-        <hi rendition="#i">nawwaḫa</hi> ‛niederknien lassen’ mit
-        Präfix des Ortes <hi rendition="#i">ma-</hi>],
-        hieraus ‛Erzählung’, die man an diesem Orte hört, schließlich
-        ‛Kalender’ [in dieser Bedeutung z. B. bei PEDRO DE ALGALÁ].
-        Grundwort für sp. <hi rendition="#i">almanaque</hi>,
-        kat. pg. <hi rendition="#i">almanach</hi>, frz.
-        <hi rendition="#i">almanac</hi>, prov.
-        <hi rendition="#i">armana</hi>, it.
-        <hi rendition="#i">almanacco</hi>; engl.
-        <hi rendition="#i">almanac</hi>, dtsch.
-        <hi rendition="#i">Almanach</hi>; russ.
-        <hi rendition="#i">almanaḫ</hi>. Gewöhnlich
-        werden diese Formen auf gr. ἀλμενιχιακά
-        ‛Kalender’, das beim Kirchenvater EUSEBIUS belegt ist,
-        zurückgeführt; doch ist nicht einzusehen, wie dieses seltene
-        Wort durch die ganze romanische Gruppe
-        verbreitet werden konnte. Wenn auch
-        im Ar. das gewöhnliche Wort für ‛Kalender’
-        <hi rendition="#i">taḳwīm</hi> [s. hier Nr. 1999] ist, so
-        deuten doch alle europäischen Formen
-        zu unverkennbar auf das angegebene
-        ar. Grundwort. Vgl. Mahn EtUnt 129/134.
-        <pb n="111" facs="#f0133"/><cb n="1"/>DE 154. Eguilaz 211. ML 5281.
-        Herrigs Archiv LVI, 422.</p>
-      <p>1390. <hi rendition="#b">Tk.</hi> <hi rendition="#b">mandar:</hi>
-        <lb/>‛Lukenriegel, Drehkreuz’ [Kélékian Ḳāmūs 1095 b];
-        hieraus rum. <hi rendition="#i">mandanea</hi>
-        ‛Billardbande’ [Löbel ElTAP 61].</p>
-      <p>1391. <hi rendition="#b">Ar.</hi> <hi rendition="#b">mandīl:</hi>
-        <lb/>‛Tuch, Hülle’ [aus gr. μανδήλιον, lat.
-        <hi rendition="#i">mantile</hi> ZDMG LI, 317; Dozy Vêtem
-        414 f.]; hieraus sp. pg. kat. <hi rendition="#i">mandil</hi>
-        ‛Schürze’. — [Unmittelbar aus dem lat.
-        <hi rendition="#i">mantile</hi> kommen
-        <hi rendition="#i">mantel</hi> ‛Tischtuch’ und
-        <hi rendition="#i">mantilla</hi>]. [DE 299/300. Eguilaz 443.</p>
-      <p>1392. <hi rendition="#b">Tk.</hi> <hi rendition="#b">manġal:</hi>
-        <lb/>‛Kohlenbecken zum Heizen’; hieraus
-        rum. <hi rendition="#i">mangal</hi>; bulg. serb.
-        <hi rendition="#i">mangal</hi>, russ.
-        <hi rendition="#i">mangal</hi> ‛Kohlenbecken’. —
-        „Man läßt über Nacht auf dem Dache des Hauses
-        ein mit glühenden Holzkohlen angefülltes und
-        mit Asche bedecktes Metallbecken, Mangal genannt,
-        ausglimmen und stellt es in die Mitte des Zimmers. Ein
-        kleiner, etwa 1½ Fuß hoher Tisch wird
-        darüber gesetzt und über den Tisch
-        eine große Decke ausgebreitet, die mit
-        ihren Enden allenthalben den Erdboden
-        oder richtiger gesagt den Teppich berührt.
-        Die Familie kriecht nun, um
-        sich zu wärmen, etwa bis zur Brusthöhe
-        von den Füßen an unter die Decke,
-        und so haben bisweilen zwölf Personen
-        hinreichend Platz und Gelegenheit, von
-        unten herauf warm zu werden.“ Heinrich Brugsch,
-        Reise der K. Preuß. Gesandtschaft nach Persien
-        186O und 1861. I. Bd. Leipzig 1862. S. 7/8.</p>
-      <p>1393. <hi rendition="#b">Mal.</hi> <hi rendition="#b">mangga:</hi>
-        <lb/>‛Ein Baum, Mangifera indica’ [Pijn 220 a];
-        hieraus ndl. <hi rendition="#i">mango</hi>
-        <hi rendition="#i">(boom)</hi>, dtsch.
-        <hi rendition="#i">Mango</hi>(baum und -frucht), engl.
-        <hi rendition="#i">mango</hi>, <hi rendition="#i">mango-fish</hi>
-        ‛ein Fisch des Ganges’ [weil er so
-        gelb aussieht wie die reife Mangofrucht];
-        frz. <hi rendition="#i">mangue</hi> ‛Frucht’ des
-        <hi rendition="#i">manguier</hi>.</p>
-      <p>1394. <hi rendition="#b">Mal.</hi>
-        <hi rendition="#b">manggi-manggi:</hi>
-        <lb/>‛Wurzelbaum, Rhizophora’ [Pijn 220 aj;
-        hieraus angloind. <hi rendition="#i">mangle</hi>,
-        frz. <hi rendition="#i">manglier</hi>
-        (synonym mit <hi rendition="#i">palétuvier</hi>),
-        engl. <hi rendition="#i">mangrove</hi>,
-        dtsch. <hi rendition="#i">Mangrove</hi>
-        ‛Baum oder Strauch mit Stelzwurzeln’. [Devic DEt 156.</p>
-      <p>1395. <hi rendition="#b">Mal.</hi> <hi rendition="#b">manggīs:</hi>
-        <lb/>Auch <hi rendition="#i">manggīsta</hi>
-        [so Pijn 220 a] ‛Frucht eines ind. Baumes aus der Familie der
-        Guttiferen’, von der Größe einer Apfelsine und vom gleichen
-        Geschmacke wie eine Erdbeere: Garcinia mangostana;
-        hieraus engl. <hi rendition="#i">mangis</hi>,
-        <hi rendition="#i">mangustin</hi>,
-        <hi rendition="#i">mangosteen</hi>, frz.
-        <hi rendition="#i">mangoustan</hi>, dtsch.
-        <hi rendition="#i">Manguste</hi>. [MMM 34. Devic DEt 156.</p>
-      <p>1396. <hi rendition="#b">Pers.</hi> <hi rendition="#b">mängōš:</hi>
-        <lb/>[Aus pers. <hi rendition="#i">män</hi>
-        ‛Gewicht’ Horn NpEt S. 222, Nr. 991 bis und
-        <hi rendition="#i">gōš</hi> ‛Ohr’ ebenda S. 210, Nr. 943],
-        ebenso tk. <hi rendition="#i">mengjuš</hi>
-        <cb n="2"/>‛Ohrgehänge’ [Kélékian Ḳāmūs 1238 a];
-        hieraus bulg. <hi rendition="#i">menguši</hi>,
-        serb. <hi rendition="#i">mendžuše</hi>
-        ‛Ohrringe’. [Mikl SlEtWb 189.</p>
-      <p>1397. <hi rendition="#b">Mani:</hi>
-        <lb/>N. pr., Name des im Jahre 276 in Persien
-        getöteten Gründers der Sekte der
-        Manichäer. Im MA waren die <hi rendition="#i">manichaei</hi>
-        als Urbild der Ketzer verhaßt;
-        aus diesem entstand mit Rücksicht auf
-        den Anklang an dtsch. <hi rendition="#i">mahnen</hi> die in
-        Studentenkreisen seit 1728 oft bezeugte
-        Bezeichnung <hi rendition="#i">Manichäer</hi> für den
-        ‛Gläubiger’; ebenso poln. <hi rendition="#i">manich</hi>
-        ‛Gauner’. [Mikl SlEtWb 182. Kluge Studentensprache 56.</p>
-      <p>1398. <hi rendition="#b">Hebr.</hi> <hi rendition="#b">manā:</hi>
-        <lb/>Gewöhnlich als <hi rendition="#i">man</hi>
-        <hi rendition="#i">hū</hi> ‛was ist das?’
-        gedeutet; die Aussonderung der Manna
-        arabica. Hieraus gr. μάννα und in den
-        europäischen Sprachen: it. <hi rendition="#i">manna</hi>, frz.
-        <hi rendition="#i">manne</hi>, sp. pg. kat.
-        <hi rendition="#i">maná</hi>, pg. <hi rendition="#i">manná</hi>,
-        rum. <hi rendition="#i">mană</hi>', russ.
-        <hi rendition="#i">manna</hi>; engl. <hi rendition="#i">manna</hi>,
-        got. ahd. <hi rendition="#i">manna</hi>, nhd.
-        <hi rendition="#i">Manna</hi>, übersetzt
-        als ‛Himmelsbrot’ und übertragen ‛Herzstärkung’.
-        In anderer Bedeutung it. (dial. Abruzzen)
-        <hi rendition="#i">manne</hi> ‛Getreidebrand,
-        Pilzkrankheit der Reben’. [Eguilaz 442. ML 5307.</p>
-      <p>1399. <hi rendition="#b">Ar.</hi> <hi rendition="#b">mansūr:</hi>
-        <lb/>‛Siegreich’; hieraus afrz.
-        <hi rendition="#i">aumasor</hi>, prov.
-        <hi rendition="#i">almasor</hi>, it. (alt)
-        <hi rendition="#i">almansore</hi> ‛Feldherr’.
-        Als N. pr. kommt <hi rendition="#i">al-Mansūr</hi> in der
-        Geschichte des Orients häufig vor. —
-        ML 5317.</p>
-      <p>1400. <hi rendition="#b">Hind.</hi> <hi rendition="#b">mantri:</hi>
-        <lb/>Sskr. <hi rendition="#i">mantrin</hi>
-        ‛Ratgeber, Staatsminister’
-        in der vormohammedanischen Zeit in
-        Indien; hieraus pg. <hi rendition="#i">mandarim</hi>
-        [Constancio Dicc 673 a; mit volksetymologischer Einwirkung
-        von <hi rendition="#i">mandar</hi>
-        ‛befehlen’], Bezeichnung für einen höheren
-        chinesischen Beamten, angloind. <hi rendition="#i">muntree</hi>,
-        engl. <hi rendition="#i">mandarin</hi>, dtsch.
-        <hi rendition="#i">Mandarin</hi>, (alt)
-        <hi rendition="#i">Mandorin</hi>. Das Wort kommt
-        übrigens bei den Chinesen selbst nicht
-        vor, sie heißen bei ihnen vielmehr <hi rendition="#i">kuan</hi>
-        ‛Beamter’, und zwar <hi rendition="#i">wên-kuan</hi>
-        ‛Civilbeamter’, <hi rendition="#i">wu-kuan</hi>
-        ‛Militärmandarin’. Vgl. Arendt, Handbuch der nordchinesischen
-        Umgangssprache. I. Teil. Berlin 1891. S. 346/347.
-        Unter <hi rendition="#i">Mandarin-Sprache</hi>
-        versteht man die in China bei
-        den offiziellen und literarischen Klassen
-        gesprochene Sprache im Gegensatz zu
-        den Lokaldialekten; sie heißt <hi rendition="#i">kuan-hua</hi>
-        ‛Beamtensprache’ und darf nicht etwa mit dem literarischen
-        Stil der Bücher verwechselt werden, vgl. ausführlich
-        Arendt a. a. O. S. 343/349 und 357/369.
-        Die obige Etymologie gab zuerst SCHOTT
-        im Entwurf einer Beschreibung der
-        chinesischen Literatur. Berlin 1854.
-        <pb n="112" facs="#f0134"/><cb n="1"/>S. 57. — Das
-        ind. Grundwort liegt auch
-        in russ. <hi rendition="#i">arhimandryt</hi>
-        ‛Archimandrit’ vor. [Hobson-Jobson 550/552. 598/599.
-        Hirth ChinFW 197/198.</p>
-      <p>1401. <hi rendition="#b">Ar.</hi> <hi rendition="#b">manzil:</hi>
-        <lb/>‛Abteigequartier, Wirtshaus’ [vom Vb.
-        <hi rendition="#i">nazala</hi> ‛absteigen’ und Präfix
-        <hi rendition="#i">ma-</hi> des
-        Ortes], tk. ebenso <hi rendition="#i">menzil</hi>; hieraus rum.
-        <hi rendition="#i">mizil</hi>, <hi rendition="#i">mezil</hi>,
-        <hi rendition="#i">menzil</hi> ‛Poststation’, serb.
-        <hi rendition="#i">mezil</hi> ‛Post'. [Löbel ElTAP 64. Mikl
-        SlEtWb 94.</p>
-      <p>1402. <hi rendition="#b">Hebr.</hi> <hi rendition="#b">mā’ōs:</hi>
-        <lb/>‛Verächtliches, Gebrechen, Fehler’,
-        nhebr. <hi rendition="#i">mĕ’īs</hi>
-        ‛widerlich, widerwärtig, verächtlich’; hieraus jüd.-dtsch.
-        <hi rendition="#i">mies</hi>, Vb.
-        <hi rendition="#i">vermiesen</hi>,
-        <hi rendition="#i">Miesmacher</hi> ‛Flaumacher’,
-        [mit der slav. Endung <hi rendition="#i">-nik</hi>]
-        <hi rendition="#i">Mießnik</hi>
-        ‛fauler Kopf’. [ Avé-L IV, 574. MWiD 47/48.</p>
-      <p>1403. <hi rendition="#b">Ar.</hi> <hi rendition="#b">mar‛a:</hi>
-        <lb/>[S. hier Nr. 1693, dazu präfigiertes <hi rendition="#i">ma</hi>
-        des Ortes wie z. B. hier Nr. 1401]
-        ‛Weide’, ebenso tk. <hi rendition="#i">mera</hi>; hieraus rum.
-        <hi rendition="#i">mirişte</hi> ‛Stoppelfeld’.</p>
-      <p>1404. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maraḍ:</hi>
-        <lb/>‛Krankheit’, ebenso tk. <hi rendition="#i">maraz</hi>; hieraus
-        rum. <hi rendition="#i">maraz</hi> ‛geistige oder seelische
-        Verstimmung oder Krankheit’; serb. <hi rendition="#i">maraz</hi>
-        ‛Krankheit’.</p>
-      <p>1405. <hi rendition="#b">Ar.</hi> <hi rendition="#b">marḳḳk:</hi>
-        <lb/>Plr. ‛die zarten und empfindlichen Teile des Leibes’;
-        hieraus pg. <hi rendition="#i">mirac</hi> ‛Bauch, Leib’.
-        [DE 314. Eguilaz 453. Constancio Dicc 696 a.</p>
-      <p>1406. <hi rendition="#b">Ar.</hi> <hi rendition="#b">Marākuš:</hi>
-        <lb/>Jetzt <hi rendition="#i">Marrākeš</hi>, die frühere südliche
-        Hauptstadt Marokkos; hiernach wird das
-        Ziegenleder genannt, das in Marokko
-        hergestellt und jetzt in Europa imitiert
-        wird: pg. <hi rendition="#i">marroquim</hi> [Constancio Dicc
-        679 c], frz. <hi rendition="#i">maroquin</hi>, ndl.
-        <hi rendition="#i">marokijn</hi>,
-        dtsch. <hi rendition="#i">Maroquin</hi>; engl.
-        <hi rendition="#i">morocco</hi> ‛feines dünnes marokkanisches
-        Leder’. — [Frz. <hi rendition="#i">maroquin</hi>
-        ‛Tau, welches vom Topp des Fockmastes zum Topp des
-        großen Mastes geht und dazu dient, eine Ladetakel
-        daranzuhängen, um vermittelst derselben Güter aus- und
-        einzuladen’, also dtsch. ‛Toppreep’, frz.
-        <hi rendition="#i">surpente</hi>, ist wohl
-        mit ndl. <hi rendition="#i">marren</hi> ‛festbinden’
-        in Zusammenhang zu bringen, vgl. Behrens Beitr. 373/374].</p>
-      <p>1407. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maramma:</hi>
-        <lb/>‛Ausbesserung’, tk. <hi rendition="#i">meremet</hi>; hieraus
-        rum. <hi rendition="#i">meremet</hi> ‛dass’, Vb.
-        <hi rendition="#i">meremetisi</hi> ‛ausbessern’.</p>
-      <p>1408. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maras:</hi>
-        <lb/>‛Schnur’; hieraus [mit häufigem Wechsel
-        von <hi rendition="#i">m</hi> und <hi rendition="#i">b</hi>]
-        pg. kat. <hi rendition="#i">baraço</hi> ‛Schnur’,
-        pg. <hi rendition="#i">baraça</hi>, <hi rendition="#i">baraza</hi>
-        ‛Strick an der Schlinge, mit der man wilde Tiere fängt’.
-        [DE 236. Eguilaz 339.</p>
-      <cb n="2"/><p>1409. <hi rendition="#b">Ar.</hi>
-        <hi rendition="#b">marašša:</hi>
-        <lb/>Auch <hi rendition="#i">mirašša</hi> ‛Gießkanne’; hieraus siz.
-        <hi rendition="#i">marascia</hi> ‛Ölkrug’ oder
-        ‛anderes Gefäß in dieser Form’. [GrSVociSic 240.</p>
-      <p>1410. <hi rendition="#b">Ar.</hi> <hi rendition="#b">marbūt:</hi>
-        <lb/>‛Gebunden’ [part. pass. von <hi rendition="#i">rabaṭa</hi>
-        ‛binden, fromm sein’]; hieraus frz.
-        <hi rendition="#i">marabout</hi> ‛Einsiedler’, ein heiligmäßiger
-        Mann, der nach seinem Tode in einer
-        Kapelle begraben wird und dort Verehrung findet;
-        das Wort wird auch fälschlich auf diese Grabkapelle selbst
-        bezogen; sp. <hi rendition="#i">morabito</hi>, pg.
-        <hi rendition="#i">marabuto</hi>, rum.
-        <hi rendition="#i">marabut</hi> ‛Einsiedler’, siz.
-        <hi rendition="#i">murabitu</hi> ‛Abstinenzler’; engl.
-        <hi rendition="#i">maraboot</hi>; ferner wegen des
-        ernsthaften Aussehens des Vogels sp.
-        <hi rendition="#i">marabú</hi> ‛Riesenstorch vom Senegal
-        oder aus Indien, Leptoptilus argala Gray.’, dtsch.
-        <hi rendition="#i">Marabu</hi>, engl.
-        <hi rendition="#i">marabou</hi>. — Dagegen muß sp.
-        <hi rendition="#i">morabito</hi> ‛Seemann’ auf ar.
-        <hi rendition="#i">murākibī</hi> ‛dass.’ zurückgehen.
-        [Devic DEt 157. Eguilaz 443. GrSVociSic 242.</p>
-      <p>1411. <hi rendition="#b">Ar.</hi> <hi rendition="#b">mardaḳūš:</hi>
-        <lb/>‛Majoran’ [wohl selbst fremden Ursprungs, etwa lat.
-        <hi rendition="#i">amaracum</hi>], vulg. Aussprache
-        <hi rendition="#i">mardadūš</hi>; hieraus sp.
-        <hi rendition="#i">almoraduj</hi>, <hi rendition="#i">almoradux</hi>
-        [worin früher <hi rendition="#i">x</hi> wie
-        <hi rendition="#i">š</hi> gesprochen wurde], kat.
-        <hi rendition="#i">moradux</hi> ‛Majoran.’ [DE 174. Eguilaz 236.</p>
-      <p>1412. <hi rendition="#b">Hebr.</hi> <hi rendition="#b">mar’ē:</hi>
-        <lb/>‛Schein’; hieraus mit roman. Endung
-        sp. <hi rendition="#i">marrano</hi> ‛christlich gewordener Jude’:
-        man nahm an, daß die Marranos nur zum Schein übergetreten seien;
-        pg. <hi rendition="#i">marrano</hi>, <hi rendition="#i">marrão</hi>.
-        [Andere Ableitung ZDMG XXIII, 637 ]</p>
-      <p>1413. <hi rendition="#b">Ar.</hi> <hi rendition="#b">marfaḳa:</hi>
-        <lb/>‛Kissen’; hieraus sp. <hi rendition="#i">marfaga</hi>,
-        <hi rendition="#i">máraga</hi>, <hi rendition="#i">almarrega</hi>,
-        pg. <hi rendition="#i">almáfega</hi> ‛grobe Wolldecke’ [früher
-        als Zeichen der Trauer getragen, Constancio Dicc 55 b], kat.
-        <hi rendition="#i">marfega</hi> ‛Strohsack’, Ableitung
-        <hi rendition="#i">marfegassa</hi> ‛Schlampe’, prov.
-        <hi rendition="#i">marrego</hi> ‛Strohsack’. [DE 158.
-        Eguilaz 215/216. ML 5350.</p>
-      <p>1414. <hi rendition="#b">Ar.</hi> <hi rendition="#b">marfūḍ:</hi>
-        <lb/>‛Zurückgewiesen’ [part. pass. von
-        <hi rendition="#i">rafaḍa</hi>] hieraus sp. pg.
-        <hi rendition="#i">marfuz</hi> ‛gemein, wertlos’
-        [z. B. Don Quijote I, cap. XL, in der Collección de
-        autores españoles III. Leipzig. S. 283 Mitte]; kat.
-        <hi rendition="#i">marfus</hi>, it.
-        (alt) <hi rendition="#i">malfusso</hi>, (dial. Neapel)
-        <hi rendition="#i">marfuso</hi>, sard. (log.)
-        <hi rendition="#i">marfuṣu</hi> ‛verworfen, schurkisch’.
-        [DE 391/392. WAGNER in Herrigs Archiv CXL, 243.</p>
-      <p>1415. <hi rendition="#b">Ar.</hi> <hi rendition="#b">marǧ:</hi>
-        <lb/>‛Wiese, Sumpf’; hieraus siz. <hi rendition="#i">margiu</hi>
-        ‛sumpfiger Ort, Sumpf’, früher ‛Waldland’; sp.
-        <hi rendition="#i">ahnarcha</hi>, <hi rendition="#i">armajal</hi>,
-        pg. <hi rendition="#i">almarge</hi>, <hi rendition="#i">almargem</hi>
-        ‛Stadt in flachem Lande’. [Eguilaz 214. GrSVociSic 240.</p>
-      <pb n="113" facs="#f0135"/><cb n="1"/><p>1416.
-        <hi rendition="#b">Ar.</hi> <hi rendition="#b">marǧān:</hi>
-        <lb/>‛Koralle’ [aus gr. μαργαρίτης ZDMG LI,
-        304], tk. <hi rendition="#i">merǧan</hi> ‛dass.‘;
-        hieraus rum.
-        <hi rendition="#i">mărgean</hi>, <hi rendition="#i">mărgică</hi>;
-        bulg. <hi rendition="#i">merdžan</hi> ‛Koralle’. Mit ar. Art.
-        und Imāla [<hi rendition="#i">ā</hi> &gt; <hi rendition="#i">ē</hi>]
-        ergab sich der alte pharmazeutische Ausdruck frz.
-        <hi rendition="#i">almargen</hi>: <hi rendition="#i">poudre</hi>
-        <hi rendition="#i">d’almargen</hi> ‛gepulverte Koralle’,
-        die früher in der Medizin benutzt wurde. — Als
-        Frauenname ist <hi rendition="#i">Morgiane</hi> in der
-        Geschichte von ‛ALĪ BĀBĀ und den vierzig
-        Räubern in 1001 Nacht zuerst durch
-        GALLAND bekannt geworden. Er steckt
-        auch in it. <hi rendition="#i">fata</hi>
-        <hi rendition="#i">morgana</hi> ‛Fee Morgana’,
-        dann ‛Luftspiegelung in der Wüste’,
-        schon in Eschenbachs Parzival 56, 18
-        mhd. <hi rendition="#i">Fâmurgân</hi>,
-        <hi rendition="#i">Feimurgan</hi>. — Man
-        hat auch versucht, auf das ar. Grundwort
-        <hi rendition="#i">marǧān</hi> das dtsch.
-        <hi rendition="#i">Meerschaum</hi> zurückzuführen, zuerst A.
-        Vámbéry in Magyar Nyelvör 1899, S. 537; vgl. ZfdWf I, 361. II,
-        345/346. VII, 792/796. Da aber der tatsächlich auf tk. Boden
-        bei <hi rendition="#i">Eskišehir</hi> in Kleinasien gewonnene
-        Meerschaum tk. <hi rendition="#i">lüle</hi>
-        <hi rendition="#i">tašy</hi> oder <hi rendition="#i">den̑iz</hi>
-        <hi rendition="#i">köpűjü</hi> ‛Pfeifenstein’ oder
-        ‛<choice><sic>Meeres,schaum</sic><corr>Meereschaum</corr></choice>’,
-        niemals aber <hi rendition="#i">marǧan</hi> heißt,
-        muß Meerschaum [engl. <hi rendition="#i">meerschaum</hi>,
-        ndl. <hi rendition="#i">meerschuim</hi>, frz.
-        <hi rendition="#i">écume</hi> <hi rendition="#i">de</hi>
-        <hi rendition="#i">mer</hi>] deutsch erklärt werden, was um so
-        leichter möglich ist, als auch die vier
-        Sorten in Eskišehir an Ort und Stelle
-        mit dtsch Namen „Lager, Kasten, Großbaumwolle,
-        Kleinbaumwolle“ bezeichnet werden; vgl. Hugo Grothe,
-        Auf tk. Erde. Reisebilder und Studien. ². Berlin 1903.
-        S. 280, wo sich auch eine Schilderung
-        der Gewinnung des Meerschaums findet:
-        S. 277/281. Ferner vgl. Joseph Grunzel,
-        Die wirtschaftlichen Verhältnisse Kleinasiens. Wien 1897.
-        S. 34/44; Dernburg, Auf dtsch. Bahn in Kleinasien. Berlin
-        1892. S. 51 ff. „Die Stadt des Meerschaums“. — Der Kuriosität
-        halber sei noch die Etymologie: dtsch. Meerschaum
-        &lt; ar. <hi rendition="#i">moršūm</hi> [soll heißen
-        <hi rendition="#i">maršūm</hi>] ‛gesiegelt’ erwähnt,
-        s. J. G. Kochs, Vergleichungen mineralogischer Benennungen
-        des Deutschen mit arabischen Wörtern. Leipzig 1795. S. 40.
-        [Kluge 304. Devic DEt 25/26. Lammens Rem 18.</p>
-      <p>1417. <hi rendition="#b">Hebr.</hi> <hi rendition="#b">Maria:</hi>
-        <lb/>Eigentlich <hi rendition="#i">Mirjam</hi> und
-        <hi rendition="#i">Marjam</hi> ‛Die Bittere’ oder
-        ‛Bittermeer’; hieraus über die Koseform
-        <hi rendition="#i">Marion</hi> frz.
-        <hi rendition="#i">marionnette</hi>,
-        it. <hi rendition="#i">marionetta</hi> eigentlich ‛Mariechen’,
-        dann ‛Püppchen’, ursprünglich wohl die
-        Bezeichnung des mit einem Puppenkopf geschmückten
-        Narrenzepters, dazu frz. <hi rendition="#i">marotte</hi>
-        ‛Spielzeug, Steckenpferd, Narrheit’. — Sp.
-        <hi rendition="#i">mariquita</hi>, kat.
-        <hi rendition="#i">marietta</hi>, dtsch.
-        <hi rendition="#i">Marienkäfer</hi>. Sp.
-        <hi rendition="#i">marica</hi>
-        <cb n="2"/>‛Elster; Mannweib’. — Aus
-        <hi rendition="#i"><choice><sic>Maria*</sic><corr>Maria</corr></choice></hi>
-        <hi rendition="#i">posa</hi> ‛Maria, setze dich’ wurde
-        kat. sp. pg. <hi rendition="#i">mariposa</hi> ‛Schmetterling’
-        [mit einer Volksetymologie, die auch in germ. Sprachen
-        ähnlich vorkommt, vgl. Romania V, 180].</p>
-      <p>1418. <hi rendition="#b">Ar.</hi> <hi rendition="#b">ma‛rifa:</hi>
-        <lb/>‛Wissen, Kunst’, ebenso tk. <hi rendition="#i">marifet</hi>;
-        hieraus rum. <hi rendition="#i">marafet</hi>
-        ‛Vermittlung, Kunstkniff’.</p>
-      <p>1419. <hi rendition="#b">Ar.</hi> <hi rendition="#b">marih:</hi>
-        <lb/>‛Vergnügt’; hieraus siz. <hi rendition="#i">mmaria</hi>
-        ‛Witz’.</p>
-      <p>1420. <hi rendition="#b">Ar.</hi> <hi rendition="#b">markab:</hi>
-        <lb/>‛Jede Art von Fahrzeugen, Sattel’; hieraus entstand als
-        passende Bezeichnung für den Stern α Pegasi der Name
-        <hi rendition="#i">Markab</hi>. [Ideler Sternn 117.</p>
-      <p>1421. <hi rendition="#b">Ar.</hi> <hi rendition="#b">marḳāt:</hi>
-        <lb/>‛Stufe, Treppe’; hieraus mit sp. Augmentativsuffix
-        <hi rendition="#i">malecón</hi> ‛Flußdamm’, eine
-        Anzahl erhöhter Stufen, um die Stadt vor Überschwemmungen
-        durch den Fluß zu schützen, bes. in Sevilla am Ufer des
-        Guadalquivir. [DE 299. Eguilaz 442.</p>
-      <p>1422. <hi rendition="#b">Sskr.</hi> <hi rendition="#b">markaṭa:</hi>
-        <lb/>‛Affe’; hieraus vielleicht dtsch.
-        <hi rendition="#i">Meerkatze</hi>, Cercopithecus [als
-        ob das Tier zu uns über das Meer gekommen wäre; wie
-        die Katze hat es einen langen Schwanz; vergleicht man
-        daneben aber dtsch. Meerkalb, Meerschweinchen sowie die
-        älteren Formen ahd. <hi rendition="#i">merikazza</hi>, mnd.
-        <hi rendition="#i">merkatte</hi>, so scheint die Etymologie doch
-        recht zweifelhaft]. [MWiD 25/26. Andersen DVEt 6.</p>
-      <p>1423. <hi rendition="#b">Ar.</hi> <hi rendition="#b">markaz:</hi>
-        <lb/>‛Mittelpunkt’, ebenso tk. <hi rendition="#i">merkez</hi>;
-        hieraus rum. <hi rendition="#i">merchez</hi>
-        ‛Schliche, schwache Seite’ [nach Löbel ElTAP 63 auch
-        ‛Mittelpunkt’].</p>
-      <p>1424. <hi rendition="#b">Ar.</hi> <hi rendition="#b">marmara:</hi>
-        <lb/>‛Zornig sein’; hieraus nach
-        <choice><sic>GrSVoci</sic><corr>GrSVociSic</corr></choice>
-        240 siz. <hi rendition="#i">marmaruca</hi> ‛Zorn, Ärger’.</p>
-      <p>1425. <hi rendition="#b">Tk.</hi> <hi rendition="#b">marpyč:</hi>
-        <lb/>[Aus pers. <hi rendition="#i">mārpūš</hi> aus
-        <hi rendition="#i">mār</hi> ‛Schlange’ Horn NpEt S. 219,
-        Nr. 977 und <hi rendition="#i">pūš</hi>, s. hier Nr. 1625]
-        ‛Das Holzrohr oder der lange gewundene Lederschlauch’, durch
-        den man den abgekühlten Rauch der pers. Wasserpfeife
-        <hi rendition="#i">ḳaljān</hi> oder <hi rendition="#i">ḳaljūn</hi>
-        [s. hier Nr. 1033] in sich hineinzieht; hieraus rum.
-        <hi rendition="#i">marpiciŭ</hi> ‛Rohr der Nargile’.</p>
-      <p>1426 <hi rendition="#b">Ar.</hi> <hi rendition="#b">marra:</hi>
-        <lb/>‛Mal’, gewöhnlich als adverbialer Akkusativ gebraucht:
-        <hi rendition="#i">marratan</hi> ‛einmal’; hieraus kat. sp.
-        <hi rendition="#i">marras</hi> ‛einst’. [DE 304. Eguilaz 446.
-        ML 5371.</p>
-      <p>1427. <hi rendition="#b">Ar.</hi> <hi rendition="#b">maršam:</hi>
-        <lb/>‛Siegeleisen, Marke’ [vom Vb. <hi rendition="#i">rašama</hi>
-        ‛bezeichnen’]; hieraus sp. <hi rendition="#i">marchamo</hi>
-        ‛Zollsiegel’, Vb. <hi rendition="#i">marchamar</hi> und
-        <hi rendition="#i">marchamero</hi>. [DE 301/302. Eguilaz 444.</p>
-      <pb n="114" facs="#f0136"/><cb n="1"/>
-      <p>1428. <hi rendition="#b">Ar.</hi> <hi rendition="#b">marsūm:</hi>
-        <lb/>‛Befehl, Erlaß’, plr. <hi rendition="#i">marāsim</hi>;
-        hieraus sp. kat. <hi rendition="#i">arancel</hi>, sp.
-        <hi rendition="#i">alancel</hi>, pg. <hi rendition="#i">aranzel</hi>
-        ‛Erlaß, durch den der Preis einer Ware festgesetzt wird;
-        offizieller Tarif; Zolltarif.’ [DE 197. Eguilaz 271/272
-        (wo als Grundwort ar. <hi rendition="#i">si‛r</hi>,
-        plr. <hi rendition="#i">as‛ār</hi> ‛Preis’ angegeben wird).</p>
+          <lb/>Hieraus mit gleicher Bedeutung russ. <hi rendition="#i"
+            >malahai</hi> ‛große Fellmütze’ [Gorjajew 200].</p>
+        <p>1378. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">malġam:</hi>
+          <lb/>‛Erweichende Salbe’ [aus gr. μάλαγμα mit Metathesis];
+          hieraus sp. pg. kat. <hi rendition="#i">amalgama</hi>, frz. <hi
+            rendition="#i">amalgame</hi>; engl. <hi rendition="#i"
+            >amalgam</hi>, Vb. <hi rendition="#i">amalgamate</hi>, dtsch.
+            <hi rendition="#i">Amalgam</hi>, Vb. <hi rendition="#i"
+            >amalgamieren</hi>; russ. <hi rendition="#i">amal'gama</hi>
+          [und über tk. <hi rendition="#i">melhem</hi>, ebenso tat.] <hi
+            rendition="#i">mal'han</hi>, bulg. <hi rendition="#i"
+            >mehlem</hi>, serb. <hi rendition="#i">melem</hi> ‛Salbe’. —
+          [Devic DEt 29/30 und Eguilaz 256/257 geben andere unhaltbare
+          Ableitungen, Lammens Rem 21/22 spricht schon Zweifel daran aus;
+          die hier gegebene Etymologie deutet schon Gorjajew 201 an].</p>
+        <p>1379. <hi rendition="#b">Aram.</hi>
+          <hi rendition="#b">malka:</hi>
+          <lb/>‛König’; hieraus gr. Μάλχος, lat. <hi rendition="#i"
+            >Malchus</hi> [‛der Königliche’, also synonym mit Βασίλειος],
+          als N. pr. Name des Kriegsknechtes, dem PETRUS das eine Ohr
+          abhieb; daher pg. <hi rendition="#i">mouco</hi> ‛schwerhörig’,
+          frz. (dial. Lüttich) <hi rendition="#i">malcuss</hi> ‛einohrig’
+          (von Tieren gesagt) [Behrens Beitr 302], it. (dial. Verona) <hi
+            rendition="#i">malco</hi> ‛ungezogen’, <hi rendition="#i"
+            >averge</hi>
+          <hi rendition="#i">le</hi>
+          <hi rendition="#i">mani</hi>
+          <hi rendition="#i">di</hi>
+          <hi rendition="#i">Malco</hi> ‛schwere Hände haben’. — Das
+          entsprechende hebr. Wort <hi rendition="#i">mę&#772;lęχ</hi>
+          ‛König’ ist Grundwort zum Namen der <hi rendition="#i"
+            >Melkiten</hi>, frz. <hi rendition="#i">melchites</hi>,
+          eigentlich also „Royalisten“, Bezeichnung der syrischen
+          orthodoxen Katholiken, da ihre Lehre von den Kaisern gegen die
+          der Eutychianer begünstigt worden ist. — Aus dem phönizischen
+          Wort <hi rendition="#i">mōlek</hi> ‛Herr, König’, einem Gotte der
+          Ammoniter im AT, wurde zunächst gr. Μολόχ, das als <hi
+            rendition="#i">Moloch</hi> in alle europäischen Sprachen zur
+          Bezeichnung eines blutdürstigen Abgottes überging: frz. <pb
+            n="110" facs="#f0132"/><cb n="1"/><hi rendition="#i"
+            >moloch</hi>, sp. <hi rendition="#i">molok</hi>; dtsch. <hi
+            rendition="#i">Moloch</hi>, engl. <hi rendition="#i"
+            >moloch</hi>, Vb. <hi rendition="#i">molochize</hi> ‛wie dem
+          Moloch opfern’, d. h. ‛über Leichen gehen’. [Devic DEt 162. 167.
+          Eguilaz 457. ML 5256.</p>
+        <p>1380. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">mallūṭa:</hi>
+          <lb/>‛Übermantel’ [Dozy Vêtem 87. 412; aus gr. μαλλωτή oder
+          μηλωτή ZDMG LI, 304]; hieraus sp. pg. kat. val. <hi
+            rendition="#i">marlota</hi>, sp. <hi rendition="#i">molota</hi>
+          ‛maurischer Talar’, mlat. <hi rendition="#i">melota</hi>; über
+          das Tk. entstand rum. <hi rendition="#i">malotea</hi>
+          ‛Frauenmantel’. [DE 303/304. Eguilaz 446. Löbel ElTAP 60.</p>
+        <p>1381. <hi rendition="#b">Ind.</hi>
+          <hi rendition="#b">malmal:</hi>
+          <lb/>‛Stoff aus feiner, weißer Baumwolle’, der Musseline ähnlich;
+          hieraus engl. <hi rendition="#i">mulmul</hi> und durch Verkürzung
+          auf eine Silbe engl. <hi rendition="#i">mull</hi>, dtsch. <hi
+            rendition="#i">Mull</hi>.</p>
+        <p>1382. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">malšīn:</hi>
+          <lb/>‛Bösewicht’; hieraus sp. <hi rendition="#i">malsin</hi>
+          ‛Angeber, Aufhetzer’ [Dicc Cast 1305 a], pg. <hi rendition="#i"
+            >malsim</hi> ‛Angeber, Verräter beim Schmuggel’ [Constancio
+          Dicc 671 b], Vb. sp. pg. <hi rendition="#i">malsinar</hi>
+          ‛verleumden’. — [Etymologie von DE LAGARDE; vgl. auch ML
+          5269.]</p>
+        <p>1383. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">mal‛ūn:</hi>
+          <lb/>‛Verflucht’ [part. pass. von <hi rendition="#i">la‛ana</hi>
+          ‛verfluchen’], tk. ebenso <hi rendition="#i">melun</hi> ‛dass.’;
+          hieraus serb. <hi rendition="#i">melun</hi> ‛Teufel’. [Mikl <choice>
+            <sic>SlEtEtWb</sic>
+            <corr>SlEtWb</corr>
+          </choice> 187 b.</p>
+        <p>1384. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">mamlūk:</hi>
+          <lb/>‛Kaufsklave, Höriger’ [part. pass. von <hi rendition="#i"
+            >malaka</hi> ‛besitzen’]; hieraus it. <hi rendition="#i"
+            >mammalucco</hi>, siz. <hi rendition="#i">mammaluccu</hi>
+          ‛dumm, stumpfsinnig’, sp. pg. <hi rendition="#i">mameluco</hi>
+          ‛dumm’, pg. in Brasilien der Sohn eines Europäers und einer
+          eingeborenen Amerikanerin, frz. <hi rendition="#i">mamlouk</hi>,
+          vielleicht auch <hi rendition="#i">malamoque</hi> ‛Albatros mit
+          schwarzem Schnabel’, rum. <hi rendition="#i">mameluc</hi>; ndl.
+            <hi rendition="#i">mameluk</hi>, engl. <hi rendition="#i"
+            >mamlouk</hi>, <hi rendition="#i">mamaluke</hi>, <hi
+            rendition="#i">mameluke</hi>, dtsch. <hi rendition="#i"
+            >Mamluk</hi>. — „Mamluken wurden die weißen Soldtruppen
+          genannt, welche sowohl von den letzten Fatimiden als auch von den
+          Eijubiden in großer Zahl angeworben oder auch gekauft wurden. Sie
+          rekrutierten sich besonders aus Türken und in der Folge aus
+          Mingreliern, Zirkassiern und anderen kaukasischen Stämmen. Die
+          genannten Fürsten stützten ihre Macht hauptsächlich auf diese
+          Söldner. Der Name Mamluk wurde auch auf die Nachkommen dieser in
+          Ägypten seßhaft gewordenen Ausländer übertragen und verblieb
+          ihnen, als sie die Herren des Landes wurden. In den folgenden
+          Jahrhunderten hat der Name Mamluk seine ursprüngliche
+          Anrüchigkeit vollständig abgestreift.“ v. Oppenheim, Vom
+          Mittelmeer zum persischen Golf I, 52. Ausführlich ebenda 53/54.
+          [DE 299. Devic DEt 156. Eguilaz 442.</p>
+        <cb n="2"/>
+        <p>1385. <hi rendition="#b">Jakut.</hi>
+          <hi rendition="#b">mamma:</hi>
+          <lb/>Auch tungusisch ‛Land’; hieraus russ. <hi rendition="#i"
+            >mamont</hi>, čech. poln. <hi rendition="#i">mamut</hi>; frz.
+            <hi rendition="#i">mammouth</hi>; engl. <hi rendition="#i"
+            >mammoth</hi>, dtsch. <hi rendition="#i">Mammut</hi>. Der
+          Ausdruck ist im Jahre I696 von LUDLOFF in die wissenschaftliche
+          Sprache eingeführt worden; die Jakuten hatten den ausgestorbenen
+          Riesenelefanten <hi rendition="#i">mamont</hi> genannt, weil sie
+          glaubten, er wühle unter der Erde wie ein Maulwurf.</p>
+        <p>1386. <hi rendition="#b">Aram.</hi>
+          <hi rendition="#b">māmōnā:</hi>
+          <lb/>Auch <hi rendition="#i">mammōn</hi> [letzten Endes
+          möglicherweise ass. <hi rendition="#i">mēmēni</hi> ‛irgend etwas’
+          &gt; ‛Besitz, Habe’, vgl. ZAkkFW 20]; hieraus gr. μαμμωνᾱ,
+          μαμωνα&#785;ς, got. <hi rendition="#i">mammôna</hi> und im
+          Anschluß an das NT seil Luther nhd. <hi rendition="#i"
+            >Mammon</hi>, früher mit ‛Schatzteufel, Gutsteufel’ übersetzt,
+          die mythische Personifikation des Reichtums; engl. <hi
+            rendition="#i">mammon</hi>; russ. <hi rendition="#i"
+            >mamona</hi> usw.</p>
+        <p>1387. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">mamṭar:</hi>
+          <lb/>‛Regenmantel’ [aus ar. <hi rendition="#i">maṭar</hi> ‛Regen’
+          mit präflgieitem <hi rendition="#i">m</hi> des Werkzeuges];
+          hieraus siz. <hi rendition="#i">mantarru</hi> [aber wohl kaum it.
+            <hi rendition="#i">mantazzo</hi>] ‛Regenmantel der Bauern’.
+          [GrSVociSic 240.</p>
+        <p>1388. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">mamzēr:</hi>
+          <lb/>‛Bastard’ [im AT zweimal: Deut 23, 2]; hieraus mgr. μανζήρ
+          als geläufiges Schimpfwort [so wurde JOHANNES DAMASCENUS von
+          CONSTANTIN VI. statt mit seinem Ehrennamen Manṣūr als Μανζηρός,
+          bezeichnet], durch den Verkehr mit jüd. Rabbinern sp. <hi
+            rendition="#i">mancer</hi> ‛Hurenkind’ [Dicc Cast 1307 b: ‛hijo
+          de la mujer pública’] und poln. (alt) <hi rendition="#i"
+            >mamzer</hi>, <hi rendition="#i">mamžer</hi> ‛Neugetaufter’.
+          Vgl. GRÜNBAUM in ZDMG XL, 264.</p>
+        <p>1389. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">manāḫ:</hi>
+          <lb/>‛Ort, wo man die Kamele niederknien läßt’ [von <hi
+            rendition="#i">nāḫa</hi> ‛niederknien’, II. Form <hi
+            rendition="#i">nawwaḫa</hi> ‛niederknien lassen’ mit Präfix des
+          Ortes <hi rendition="#i">ma-</hi>], hieraus ‛Erzählung’, die man
+          an diesem Orte hört, schließlich ‛Kalender’ [in dieser Bedeutung
+          z. B. bei PEDRO DE ALGALÁ]. Grundwort für sp. <hi rendition="#i"
+            >almanaque</hi>, kat. pg. <hi rendition="#i">almanach</hi>,
+          frz. <hi rendition="#i">almanac</hi>, prov. <hi rendition="#i"
+            >armana</hi>, it. <hi rendition="#i">almanacco</hi>; engl. <hi
+            rendition="#i">almanac</hi>, dtsch. <hi rendition="#i"
+            >Almanach</hi>; russ. <hi rendition="#i">almanaḫ</hi>.
+          Gewöhnlich werden diese Formen auf gr. ἀλμενιχιακά ‛Kalender’,
+          das beim Kirchenvater EUSEBIUS belegt ist, zurückgeführt; doch
+          ist nicht einzusehen, wie dieses seltene Wort durch die ganze
+          romanische Gruppe verbreitet werden konnte. Wenn auch im Ar. das
+          gewöhnliche Wort für ‛Kalender’ <hi rendition="#i">taḳwīm</hi>
+          [s. hier Nr. 1999] ist, so deuten doch alle europäischen Formen
+          zu unverkennbar auf das angegebene ar. Grundwort. Vgl. Mahn EtUnt
+          129/134. <pb n="111" facs="#f0133"/><cb n="1"/>DE 154. Eguilaz
+          211. ML 5281. Herrigs Archiv LVI, 422.</p>
+        <p>1390. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">mandar:</hi>
+          <lb/>‛Lukenriegel, Drehkreuz’ [Kélékian Ḳāmūs 1095 b]; hieraus
+          rum. <hi rendition="#i">mandanea</hi> ‛Billardbande’ [Löbel ElTAP
+          61].</p>
+        <p>1391. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">mandīl:</hi>
+          <lb/>‛Tuch, Hülle’ [aus gr. μανδήλιον, lat. <hi rendition="#i"
+            >mantile</hi> ZDMG LI, 317; Dozy Vêtem 414 f.]; hieraus sp. pg.
+          kat. <hi rendition="#i">mandil</hi> ‛Schürze’. — [Unmittelbar aus
+          dem lat. <hi rendition="#i">mantile</hi> kommen <hi
+            rendition="#i">mantel</hi> ‛Tischtuch’ und <hi rendition="#i"
+            >mantilla</hi>]. [DE 299/300. Eguilaz 443.</p>
+        <p>1392. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">manġal:</hi>
+          <lb/>‛Kohlenbecken zum Heizen’; hieraus rum. <hi rendition="#i"
+            >mangal</hi>; bulg. serb. <hi rendition="#i">mangal</hi>, russ.
+            <hi rendition="#i">mangal</hi> ‛Kohlenbecken’. — „Man läßt über
+          Nacht auf dem Dache des Hauses ein mit glühenden Holzkohlen
+          angefülltes und mit Asche bedecktes Metallbecken, Mangal genannt,
+          ausglimmen und stellt es in die Mitte des Zimmers. Ein kleiner,
+          etwa 1½ Fuß hoher Tisch wird darüber gesetzt und über den Tisch
+          eine große Decke ausgebreitet, die mit ihren Enden allenthalben
+          den Erdboden oder richtiger gesagt den Teppich berührt. Die
+          Familie kriecht nun, um sich zu wärmen, etwa bis zur Brusthöhe
+          von den Füßen an unter die Decke, und so haben bisweilen zwölf
+          Personen hinreichend Platz und Gelegenheit, von unten herauf warm
+          zu werden.“ Heinrich Brugsch, Reise der K. Preuß. Gesandtschaft
+          nach Persien 186O und 1861. I. Bd. Leipzig 1862. S. 7/8.</p>
+        <p>1393. <hi rendition="#b">Mal.</hi>
+          <hi rendition="#b">mangga:</hi>
+          <lb/>‛Ein Baum, Mangifera indica’ [Pijn 220 a]; hieraus ndl. <hi
+            rendition="#i">mango</hi>
+          <hi rendition="#i">(boom)</hi>, dtsch. <hi rendition="#i"
+            >Mango</hi>(baum und -frucht), engl. <hi rendition="#i"
+            >mango</hi>, <hi rendition="#i">mango-fish</hi> ‛ein Fisch des
+          Ganges’ [weil er so gelb aussieht wie die reife Mangofrucht];
+          frz. <hi rendition="#i">mangue</hi> ‛Frucht’ des <hi
+            rendition="#i">manguier</hi>.</p>
+        <p>1394. <hi rendition="#b">Mal.</hi>
+          <hi rendition="#b">manggi-manggi:</hi>
+          <lb/>‛Wurzelbaum, Rhizophora’ [Pijn 220 aj; hieraus angloind. <hi
+            rendition="#i">mangle</hi>, frz. <hi rendition="#i"
+            >manglier</hi> (synonym mit <hi rendition="#i"
+          >palétuvier</hi>), engl. <hi rendition="#i">mangrove</hi>, dtsch.
+            <hi rendition="#i">Mangrove</hi> ‛Baum oder Strauch mit
+          Stelzwurzeln’. [Devic DEt 156.</p>
+        <p>1395. <hi rendition="#b">Mal.</hi>
+          <hi rendition="#b">manggīs:</hi>
+          <lb/>Auch <hi rendition="#i">manggīsta</hi> [so Pijn 220 a]
+          ‛Frucht eines ind. Baumes aus der Familie der Guttiferen’, von
+          der Größe einer Apfelsine und vom gleichen Geschmacke wie eine
+          Erdbeere: Garcinia mangostana; hieraus engl. <hi rendition="#i"
+            >mangis</hi>, <hi rendition="#i">mangustin</hi>, <hi
+            rendition="#i">mangosteen</hi>, frz. <hi rendition="#i"
+            >mangoustan</hi>, dtsch. <hi rendition="#i">Manguste</hi>. [MMM
+          34. Devic DEt 156.</p>
+        <p>1396. <hi rendition="#b">Pers.</hi>
+          <hi rendition="#b">mängōš:</hi>
+          <lb/>[Aus pers. <hi rendition="#i">män</hi> ‛Gewicht’ Horn NpEt
+          S. 222, Nr. 991 bis und <hi rendition="#i">gōš</hi> ‛Ohr’ ebenda
+          S. 210, Nr. 943], ebenso tk. <hi rendition="#i">mengjuš</hi>
+          <cb n="2"/>‛Ohrgehänge’ [Kélékian Ḳāmūs 1238 a]; hieraus bulg.
+            <hi rendition="#i">menguši</hi>, serb. <hi rendition="#i"
+            >mendžuše</hi> ‛Ohrringe’. [Mikl SlEtWb 189.</p>
+        <p>1397. <hi rendition="#b">Mani:</hi>
+          <lb/>N. pr., Name des im Jahre 276 in Persien getöteten Gründers
+          der Sekte der Manichäer. Im MA waren die <hi rendition="#i"
+            >manichaei</hi> als Urbild der Ketzer verhaßt; aus diesem
+          entstand mit Rücksicht auf den Anklang an dtsch. <hi
+            rendition="#i">mahnen</hi> die in Studentenkreisen seit 1728
+          oft bezeugte Bezeichnung <hi rendition="#i">Manichäer</hi> für
+          den ‛Gläubiger’; ebenso poln. <hi rendition="#i">manich</hi>
+          ‛Gauner’. [Mikl SlEtWb 182. Kluge Studentensprache 56.</p>
+        <p>1398. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">manā:</hi>
+          <lb/>Gewöhnlich als <hi rendition="#i">man</hi>
+          <hi rendition="#i">hū</hi> ‛was ist das?’ gedeutet; die
+          Aussonderung der Manna arabica. Hieraus gr. μάννα und in den
+          europäischen Sprachen: it. <hi rendition="#i">manna</hi>, frz.
+            <hi rendition="#i">manne</hi>, sp. pg. kat. <hi rendition="#i"
+            >maná</hi>, pg. <hi rendition="#i">manná</hi>, rum. <hi
+            rendition="#i">mană</hi>', russ. <hi rendition="#i">manna</hi>;
+          engl. <hi rendition="#i">manna</hi>, got. ahd. <hi rendition="#i"
+            >manna</hi>, nhd. <hi rendition="#i">Manna</hi>, übersetzt als
+          ‛Himmelsbrot’ und übertragen ‛Herzstärkung’. In anderer Bedeutung
+          it. (dial. Abruzzen) <hi rendition="#i">manne</hi>
+          ‛Getreidebrand, Pilzkrankheit der Reben’. [Eguilaz 442. ML
+          5307.</p>
+        <p>1399. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">mansūr:</hi>
+          <lb/>‛Siegreich’; hieraus afrz. <hi rendition="#i">aumasor</hi>,
+          prov. <hi rendition="#i">almasor</hi>, it. (alt) <hi
+            rendition="#i">almansore</hi> ‛Feldherr’. Als N. pr. kommt <hi
+            rendition="#i">al-Mansūr</hi> in der Geschichte des Orients
+          häufig vor. — ML 5317.</p>
+        <p>1400. <hi rendition="#b">Hind.</hi>
+          <hi rendition="#b">mantri:</hi>
+          <lb/>Sskr. <hi rendition="#i">mantrin</hi> ‛Ratgeber,
+          Staatsminister’ in der vormohammedanischen Zeit in Indien;
+          hieraus pg. <hi rendition="#i">mandarim</hi> [Constancio Dicc 673
+          a; mit volksetymologischer Einwirkung von <hi rendition="#i"
+            >mandar</hi> ‛befehlen’], Bezeichnung für einen höheren
+          chinesischen Beamten, angloind. <hi rendition="#i">muntree</hi>,
+          engl. <hi rendition="#i">mandarin</hi>, dtsch. <hi rendition="#i"
+            >Mandarin</hi>, (alt) <hi rendition="#i">Mandorin</hi>. Das
+          Wort kommt übrigens bei den Chinesen selbst nicht vor, sie heißen
+          bei ihnen vielmehr <hi rendition="#i">kuan</hi> ‛Beamter’, und
+          zwar <hi rendition="#i">wên-kuan</hi> ‛Civilbeamter’, <hi
+            rendition="#i">wu-kuan</hi> ‛Militärmandarin’. Vgl. Arendt,
+          Handbuch der nordchinesischen Umgangssprache. I. Teil. Berlin
+          1891. S. 346/347. Unter <hi rendition="#i">Mandarin-Sprache</hi>
+          versteht man die in China bei den offiziellen und literarischen
+          Klassen gesprochene Sprache im Gegensatz zu den Lokaldialekten;
+          sie heißt <hi rendition="#i">kuan-hua</hi> ‛Beamtensprache’ und
+          darf nicht etwa mit dem literarischen Stil der Bücher verwechselt
+          werden, vgl. ausführlich Arendt a. a. O. S. 343/349 und 357/369.
+          Die obige Etymologie gab zuerst SCHOTT im Entwurf einer
+          Beschreibung der chinesischen Literatur. Berlin 1854. <pb n="112"
+            facs="#f0134"/><cb n="1"/>S. 57. — Das ind. Grundwort liegt
+          auch in russ. <hi rendition="#i">arhimandryt</hi> ‛Archimandrit’
+          vor. [Hobson-Jobson 550/552. 598/599. Hirth ChinFW 197/198.</p>
+        <p>1401. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">manzil:</hi>
+          <lb/>‛Abteigequartier, Wirtshaus’ [vom Vb. <hi rendition="#i"
+            >nazala</hi> ‛absteigen’ und Präfix <hi rendition="#i">ma-</hi>
+          des Ortes], tk. ebenso <hi rendition="#i">menzil</hi>; hieraus
+          rum. <hi rendition="#i">mizil</hi>, <hi rendition="#i"
+          >mezil</hi>, <hi rendition="#i">menzil</hi> ‛Poststation’, serb.
+            <hi rendition="#i">mezil</hi> ‛Post'. [Löbel ElTAP 64. Mikl
+          SlEtWb 94.</p>
+        <p>1402. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">mā’ōs:</hi>
+          <lb/>‛Verächtliches, Gebrechen, Fehler’, nhebr. <hi
+            rendition="#i">mĕ’īs</hi> ‛widerlich, widerwärtig,
+          verächtlich’; hieraus jüd.-dtsch. <hi rendition="#i">mies</hi>,
+          Vb. <hi rendition="#i">vermiesen</hi>, <hi rendition="#i"
+            >Miesmacher</hi> ‛Flaumacher’, [mit der slav. Endung <hi
+            rendition="#i">-nik</hi>] <hi rendition="#i">Mießnik</hi>
+          ‛fauler Kopf’. [ Avé-L IV, 574. MWiD 47/48.</p>
+        <p>1403. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">mar‛a:</hi>
+          <lb/>[S. hier Nr. 1693, dazu präfigiertes <hi rendition="#i"
+            >ma</hi> des Ortes wie z. B. hier Nr. 1401] ‛Weide’, ebenso tk.
+            <hi rendition="#i">mera</hi>; hieraus rum. <hi rendition="#i"
+            >mirişte</hi> ‛Stoppelfeld’.</p>
+        <p>1404. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maraḍ:</hi>
+          <lb/>‛Krankheit’, ebenso tk. <hi rendition="#i">maraz</hi>;
+          hieraus rum. <hi rendition="#i">maraz</hi> ‛geistige oder
+          seelische Verstimmung oder Krankheit’; serb. <hi rendition="#i"
+            >maraz</hi> ‛Krankheit’.</p>
+        <p>1405. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">marḳḳk:</hi>
+          <lb/>Plr. ‛die zarten und empfindlichen Teile des Leibes’;
+          hieraus pg. <hi rendition="#i">mirac</hi> ‛Bauch, Leib’. [DE 314.
+          Eguilaz 453. Constancio Dicc 696 a.</p>
+        <p>1406. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">Marākuš:</hi>
+          <lb/>Jetzt <hi rendition="#i">Marrākeš</hi>, die frühere südliche
+          Hauptstadt Marokkos; hiernach wird das Ziegenleder genannt, das
+          in Marokko hergestellt und jetzt in Europa imitiert wird: pg. <hi
+            rendition="#i">marroquim</hi> [Constancio Dicc 679 c], frz. <hi
+            rendition="#i">maroquin</hi>, ndl. <hi rendition="#i"
+            >marokijn</hi>, dtsch. <hi rendition="#i">Maroquin</hi>; engl.
+            <hi rendition="#i">morocco</hi> ‛feines dünnes marokkanisches
+          Leder’. — [Frz. <hi rendition="#i">maroquin</hi> ‛Tau, welches
+          vom Topp des Fockmastes zum Topp des großen Mastes geht und dazu
+          dient, eine Ladetakel daranzuhängen, um vermittelst derselben
+          Güter aus- und einzuladen’, also dtsch. ‛Toppreep’, frz. <hi
+            rendition="#i">surpente</hi>, ist wohl mit ndl. <hi
+            rendition="#i">marren</hi> ‛festbinden’ in Zusammenhang zu
+          bringen, vgl. Behrens Beitr. 373/374].</p>
+        <p>1407. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maramma:</hi>
+          <lb/>‛Ausbesserung’, tk. <hi rendition="#i">meremet</hi>; hieraus
+          rum. <hi rendition="#i">meremet</hi> ‛dass’, Vb. <hi
+            rendition="#i">meremetisi</hi> ‛ausbessern’.</p>
+        <p>1408. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maras:</hi>
+          <lb/>‛Schnur’; hieraus [mit häufigem Wechsel von <hi
+            rendition="#i">m</hi> und <hi rendition="#i">b</hi>] pg. kat.
+            <hi rendition="#i">baraço</hi> ‛Schnur’, pg. <hi rendition="#i"
+            >baraça</hi>, <hi rendition="#i">baraza</hi> ‛Strick an der
+          Schlinge, mit der man wilde Tiere fängt’. [DE 236. Eguilaz
+          339.</p>
+        <cb n="2"/>
+        <p>1409. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">marašša:</hi>
+          <lb/>Auch <hi rendition="#i">mirašša</hi> ‛Gießkanne’; hieraus
+          siz. <hi rendition="#i">marascia</hi> ‛Ölkrug’ oder ‛anderes
+          Gefäß in dieser Form’. [GrSVociSic 240.</p>
+        <p>1410. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">marbūt:</hi>
+          <lb/>‛Gebunden’ [part. pass. von <hi rendition="#i">rabaṭa</hi>
+          ‛binden, fromm sein’]; hieraus frz. <hi rendition="#i"
+            >marabout</hi> ‛Einsiedler’, ein heiligmäßiger Mann, der nach
+          seinem Tode in einer Kapelle begraben wird und dort Verehrung
+          findet; das Wort wird auch fälschlich auf diese Grabkapelle
+          selbst bezogen; sp. <hi rendition="#i">morabito</hi>, pg. <hi
+            rendition="#i">marabuto</hi>, rum. <hi rendition="#i"
+            >marabut</hi> ‛Einsiedler’, siz. <hi rendition="#i"
+            >murabitu</hi> ‛Abstinenzler’; engl. <hi rendition="#i"
+            >maraboot</hi>; ferner wegen des ernsthaften Aussehens des
+          Vogels sp. <hi rendition="#i">marabú</hi> ‛Riesenstorch vom
+          Senegal oder aus Indien, Leptoptilus argala Gray.’, dtsch. <hi
+            rendition="#i">Marabu</hi>, engl. <hi rendition="#i"
+            >marabou</hi>. — Dagegen muß sp. <hi rendition="#i"
+            >morabito</hi> ‛Seemann’ auf ar. <hi rendition="#i"
+            >murākibī</hi> ‛dass.’ zurückgehen. [Devic DEt 157. Eguilaz
+          443. GrSVociSic 242.</p>
+        <p>1411. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">mardaḳūš:</hi>
+          <lb/>‛Majoran’ [wohl selbst fremden Ursprungs, etwa lat. <hi
+            rendition="#i">amaracum</hi>], vulg. Aussprache <hi
+            rendition="#i">mardadūš</hi>; hieraus sp. <hi rendition="#i"
+            >almoraduj</hi>, <hi rendition="#i">almoradux</hi> [worin
+          früher <hi rendition="#i">x</hi> wie <hi rendition="#i">š</hi>
+          gesprochen wurde], kat. <hi rendition="#i">moradux</hi>
+          ‛Majoran.’ [DE 174. Eguilaz 236.</p>
+        <p>1412. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">mar’ē:</hi>
+          <lb/>‛Schein’; hieraus mit roman. Endung sp. <hi rendition="#i"
+            >marrano</hi> ‛christlich gewordener Jude’: man nahm an, daß
+          die Marranos nur zum Schein übergetreten seien; pg. <hi
+            rendition="#i">marrano</hi>, <hi rendition="#i">marrão</hi>.
+          [Andere Ableitung ZDMG XXIII, 637 ]</p>
+        <p>1413. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">marfaḳa:</hi>
+          <lb/>‛Kissen’; hieraus sp. <hi rendition="#i">marfaga</hi>, <hi
+            rendition="#i">máraga</hi>, <hi rendition="#i">almarrega</hi>,
+          pg. <hi rendition="#i">almáfega</hi> ‛grobe Wolldecke’ [früher
+          als Zeichen der Trauer getragen, Constancio Dicc 55 b], kat. <hi
+            rendition="#i">marfega</hi> ‛Strohsack’, Ableitung <hi
+            rendition="#i">marfegassa</hi> ‛Schlampe’, prov. <hi
+            rendition="#i">marrego</hi> ‛Strohsack’. [DE 158. Eguilaz
+          215/216. ML 5350.</p>
+        <p>1414. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">marfūḍ:</hi>
+          <lb/>‛Zurückgewiesen’ [part. pass. von <hi rendition="#i"
+            >rafaḍa</hi>] hieraus sp. pg. <hi rendition="#i">marfuz</hi>
+          ‛gemein, wertlos’ [z. B. Don Quijote I, cap. XL, in der
+          Collección de autores españoles III. Leipzig. S. 283 Mitte]; kat.
+            <hi rendition="#i">marfus</hi>, it. (alt) <hi rendition="#i"
+            >malfusso</hi>, (dial. Neapel) <hi rendition="#i">marfuso</hi>,
+          sard. (log.) <hi rendition="#i">marfuṣu</hi> ‛verworfen,
+          schurkisch’. [DE 391/392. WAGNER in Herrigs Archiv CXL, 243.</p>
+        <p>1415. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">marǧ:</hi>
+          <lb/>‛Wiese, Sumpf’; hieraus siz. <hi rendition="#i">margiu</hi>
+          ‛sumpfiger Ort, Sumpf’, früher ‛Waldland’; sp. <hi rendition="#i"
+            >ahnarcha</hi>, <hi rendition="#i">armajal</hi>, pg. <hi
+            rendition="#i">almarge</hi>, <hi rendition="#i">almargem</hi>
+          ‛Stadt in flachem Lande’. [Eguilaz 214. GrSVociSic 240.</p>
+        <pb n="113" facs="#f0135"/>
+        <cb n="1"/>
+        <p>1416. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">marǧān:</hi>
+          <lb/>‛Koralle’ [aus gr. μαργαρίτης ZDMG LI, 304], tk. <hi
+            rendition="#i">merǧan</hi> ‛dass.‘; hieraus rum. <hi
+            rendition="#i">mărgean</hi>, <hi rendition="#i">mărgică</hi>;
+          bulg. <hi rendition="#i">merdžan</hi> ‛Koralle’. Mit ar. Art. und
+          Imāla [<hi rendition="#i">ā</hi> &gt; <hi rendition="#i">ē</hi>]
+          ergab sich der alte pharmazeutische Ausdruck frz. <hi
+            rendition="#i">almargen</hi>: <hi rendition="#i">poudre</hi>
+          <hi rendition="#i">d’almargen</hi> ‛gepulverte Koralle’, die
+          früher in der Medizin benutzt wurde. — Als Frauenname ist <hi
+            rendition="#i">Morgiane</hi> in der Geschichte von ‛ALĪ BĀBĀ
+          und den vierzig Räubern in 1001 Nacht zuerst durch GALLAND
+          bekannt geworden. Er steckt auch in it. <hi rendition="#i"
+            >fata</hi>
+          <hi rendition="#i">morgana</hi> ‛Fee Morgana’, dann
+          ‛Luftspiegelung in der Wüste’, schon in Eschenbachs Parzival 56,
+          18 mhd. <hi rendition="#i">Fâmurgân</hi>, <hi rendition="#i"
+            >Feimurgan</hi>. — Man hat auch versucht, auf das ar. Grundwort
+            <hi rendition="#i">marǧān</hi> das dtsch. <hi rendition="#i"
+            >Meerschaum</hi> zurückzuführen, zuerst A. Vámbéry in Magyar
+          Nyelvör 1899, S. 537; vgl. ZfdWf I, 361. II, 345/346. VII,
+          792/796. Da aber der tatsächlich auf tk. Boden bei <hi
+            rendition="#i">Eskišehir</hi> in Kleinasien gewonnene
+          Meerschaum tk. <hi rendition="#i">lüle</hi>
+          <hi rendition="#i">tašy</hi> oder <hi rendition="#i">den̑iz</hi>
+          <hi rendition="#i">köpűjü</hi> ‛Pfeifenstein’ oder ‛<choice>
+            <sic>Meeres,schaum</sic>
+            <corr>Meereschaum</corr>
+          </choice>’, niemals aber <hi rendition="#i">marǧan</hi> heißt,
+          muß Meerschaum [engl. <hi rendition="#i">meerschaum</hi>, ndl.
+            <hi rendition="#i">meerschuim</hi>, frz. <hi rendition="#i"
+            >écume</hi>
+          <hi rendition="#i">de</hi>
+          <hi rendition="#i">mer</hi>] deutsch erklärt werden, was um so
+          leichter möglich ist, als auch die vier Sorten in Eskišehir an
+          Ort und Stelle mit dtsch Namen „Lager, Kasten, Großbaumwolle,
+          Kleinbaumwolle“ bezeichnet werden; vgl. Hugo Grothe, Auf tk.
+          Erde. Reisebilder und Studien. ². Berlin 1903. S. 280, wo sich
+          auch eine Schilderung der Gewinnung des Meerschaums findet: S.
+          277/281. Ferner vgl. Joseph Grunzel, Die wirtschaftlichen
+          Verhältnisse Kleinasiens. Wien 1897. S. 34/44; Dernburg, Auf
+          dtsch. Bahn in Kleinasien. Berlin 1892. S. 51 ff. „Die Stadt des
+          Meerschaums“. — Der Kuriosität halber sei noch die Etymologie:
+          dtsch. Meerschaum &lt; ar. <hi rendition="#i">moršūm</hi> [soll
+          heißen <hi rendition="#i">maršūm</hi>] ‛gesiegelt’ erwähnt, s. J.
+          G. Kochs, Vergleichungen mineralogischer Benennungen des
+          Deutschen mit arabischen Wörtern. Leipzig 1795. S. 40. [Kluge
+          304. Devic DEt 25/26. Lammens Rem 18.</p>
+        <p>1417. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">Maria:</hi>
+          <lb/>Eigentlich <hi rendition="#i">Mirjam</hi> und <hi
+            rendition="#i">Marjam</hi> ‛Die Bittere’ oder ‛Bittermeer’;
+          hieraus über die Koseform <hi rendition="#i">Marion</hi> frz. <hi
+            rendition="#i">marionnette</hi>, it. <hi rendition="#i"
+            >marionetta</hi> eigentlich ‛Mariechen’, dann ‛Püppchen’,
+          ursprünglich wohl die Bezeichnung des mit einem Puppenkopf
+          geschmückten Narrenzepters, dazu frz. <hi rendition="#i"
+            >marotte</hi> ‛Spielzeug, Steckenpferd, Narrheit’. — Sp. <hi
+            rendition="#i">mariquita</hi>, kat. <hi rendition="#i"
+            >marietta</hi>, dtsch. <hi rendition="#i">Marienkäfer</hi>. Sp.
+            <hi rendition="#i">marica</hi>
+          <cb n="2"/>‛Elster; Mannweib’. — Aus <hi rendition="#i"><choice>
+              <sic>Maria*</sic>
+              <corr>Maria</corr>
+            </choice></hi>
+          <hi rendition="#i">posa</hi> ‛Maria, setze dich’ wurde kat. sp.
+          pg. <hi rendition="#i">mariposa</hi> ‛Schmetterling’ [mit einer
+          Volksetymologie, die auch in germ. Sprachen ähnlich vorkommt,
+          vgl. Romania V, 180].</p>
+        <p>1418. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ma‛rifa:</hi>
+          <lb/>‛Wissen, Kunst’, ebenso tk. <hi rendition="#i">marifet</hi>;
+          hieraus rum. <hi rendition="#i">marafet</hi> ‛Vermittlung,
+          Kunstkniff’.</p>
+        <p>1419. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">marih:</hi>
+          <lb/>‛Vergnügt’; hieraus siz. <hi rendition="#i">mmaria</hi>
+          ‛Witz’.</p>
+        <p>1420. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">markab:</hi>
+          <lb/>‛Jede Art von Fahrzeugen, Sattel’; hieraus entstand als
+          passende Bezeichnung für den Stern α Pegasi der Name <hi
+            rendition="#i">Markab</hi>. [Ideler Sternn 117.</p>
+        <p>1421. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">marḳāt:</hi>
+          <lb/>‛Stufe, Treppe’; hieraus mit sp. Augmentativsuffix <hi
+            rendition="#i">malecón</hi> ‛Flußdamm’, eine Anzahl erhöhter
+          Stufen, um die Stadt vor Überschwemmungen durch den Fluß zu
+          schützen, bes. in Sevilla am Ufer des Guadalquivir. [DE 299.
+          Eguilaz 442.</p>
+        <p>1422. <hi rendition="#b">Sskr.</hi>
+          <hi rendition="#b">markaṭa:</hi>
+          <lb/>‛Affe’; hieraus vielleicht dtsch. <hi rendition="#i"
+            >Meerkatze</hi>, Cercopithecus [als ob das Tier zu uns über das
+          Meer gekommen wäre; wie die Katze hat es einen langen Schwanz;
+          vergleicht man daneben aber dtsch. Meerkalb, Meerschweinchen
+          sowie die älteren Formen ahd. <hi rendition="#i">merikazza</hi>,
+          mnd. <hi rendition="#i">merkatte</hi>, so scheint die Etymologie
+          doch recht zweifelhaft]. [MWiD 25/26. Andersen DVEt 6.</p>
+        <p>1423. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">markaz:</hi>
+          <lb/>‛Mittelpunkt’, ebenso tk. <hi rendition="#i">merkez</hi>;
+          hieraus rum. <hi rendition="#i">merchez</hi> ‛Schliche, schwache
+          Seite’ [nach Löbel ElTAP 63 auch ‛Mittelpunkt’].</p>
+        <p>1424. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">marmara:</hi>
+          <lb/>‛Zornig sein’; hieraus nach <choice>
+            <sic>GrSVoci</sic>
+            <corr>GrSVociSic</corr>
+          </choice> 240 siz. <hi rendition="#i">marmaruca</hi> ‛Zorn,
+          Ärger’.</p>
+        <p>1425. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">marpyč:</hi>
+          <lb/>[Aus pers. <hi rendition="#i">mārpūš</hi> aus <hi
+            rendition="#i">mār</hi> ‛Schlange’ Horn NpEt S. 219, Nr. 977
+          und <hi rendition="#i">pūš</hi>, s. hier Nr. 1625] ‛Das Holzrohr
+          oder der lange gewundene Lederschlauch’, durch den man den
+          abgekühlten Rauch der pers. Wasserpfeife <hi rendition="#i"
+            >ḳaljān</hi> oder <hi rendition="#i">ḳaljūn</hi> [s. hier Nr.
+          1033] in sich hineinzieht; hieraus rum. <hi rendition="#i"
+            >marpiciŭ</hi> ‛Rohr der Nargile’.</p>
+        <p>1426 <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">marra:</hi>
+          <lb/>‛Mal’, gewöhnlich als adverbialer Akkusativ gebraucht: <hi
+            rendition="#i">marratan</hi> ‛einmal’; hieraus kat. sp. <hi
+            rendition="#i">marras</hi> ‛einst’. [DE 304. Eguilaz 446. ML
+          5371.</p>
+        <p>1427. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maršam:</hi>
+          <lb/>‛Siegeleisen, Marke’ [vom Vb. <hi rendition="#i">rašama</hi>
+          ‛bezeichnen’]; hieraus sp. <hi rendition="#i">marchamo</hi>
+          ‛Zollsiegel’, Vb. <hi rendition="#i">marchamar</hi> und <hi
+            rendition="#i">marchamero</hi>. [DE 301/302. Eguilaz 444.</p>
+        <pb n="114" facs="#f0136"/>
+        <cb n="1"/>
+        <p>1428. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">marsūm:</hi>
+          <lb/>‛Befehl, Erlaß’, plr. <hi rendition="#i">marāsim</hi>;
+          hieraus sp. kat. <hi rendition="#i">arancel</hi>, sp. <hi
+            rendition="#i">alancel</hi>, pg. <hi rendition="#i"
+            >aranzel</hi> ‛Erlaß, durch den der Preis einer Ware
+          festgesetzt wird; offizieller Tarif; Zolltarif.’ [DE 197. Eguilaz
+          271/272 (wo als Grundwort ar. <hi rendition="#i">si‛r</hi>, plr.
+            <hi rendition="#i">as‛ār</hi> ‛Preis’ angegeben wird).</p>
+        <p>1429. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">martaba:</hi>
+          <lb/>‛Grad’, ebenso tk. <hi rendition="#i">mertebe</hi>; hieraus
+          rum. <hi rendition="#i">mertepea</hi> ‛Anfang, Ursprung’.
+          Unmittelbar ergab sich val. <hi rendition="#i">martava</hi>
+          ‛Reihenfolge’. [Löbel ElTAP 63. DE 304. Eguilaz 446.</p>
+        <p>1430. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">marul:</hi>
+          <lb/>‛Lattich, Lactuca sativa’ [Kélékian Ḳāmūs 1091 b]; hieraus
+          rum. <hi rendition="#i">marulă</hi>, <hi rendition="#i"
+            >marola</hi> ‛Lattich’.</p>
+        <p>1431. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">maṣad:</hi>
+          <lb/>‛Wetzstahl’ [Kélékian Ḳāmūs 1177]; hieraus serb. <hi
+            rendition="#i">masat</hi>, klruss. <hi rendition="#i"
+            >musat</hi>, russ. <hi rendition="#i">musat</hi> ‛Feuerstahl’.
+          [Gorjajew 219. Mikl. SlEtWb 184 a.</p>
+        <p>1432. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maš‛ala:</hi>
+          <lb/>‛Fackel’, tk. ebenso <hi rendition="#i">mašala</hi>; hieraus
+          serb. <hi rendition="#i">mašala</hi>; rum. <hi rendition="#i"
+            >maşala</hi>, <hi rendition="#i">masala</hi> ‛dass.’, <hi
+            rendition="#i">masalagiŭ</hi>.</p>
+        <p>1433. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">mā</hi>
+          <hi rendition="#b">sā’-llāh:</hi>
+          <lb/>Wörtlich ‛was Gott will’, Ausruf der Bewunderung, ebenso tk.
+            <hi rendition="#i">mašalla</hi>; hieraus rum. <hi
+            rendition="#i">maşala</hi> ‛wunderbar! Gott schütze dich! [sc.
+          vor den bösen Blicken]’. — Löbel ElTAP 62.</p>
+        <p>1434. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ma‛ṣara:</hi>
+          <lb/>‛Mühlstein, Mühle’ [Vb. <hi rendition="#i">‛aṣara</hi>
+          ‛pressen’]; hieraus sp. <hi rendition="#i">almazara</hi>
+          ‛Ölmühle’, siz. <hi rendition="#i">mázzara</hi> ‛Stein, der als
+          Gewicht oder Gegengewicht dient’. [DE 161. Eguilaz 218.
+          GrSVociSic 241.</p>
+        <p>1435. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">mašgid:</hi>
+          <lb/>‛Gebetshaus’, eigentlich ‛Ort, wo man sich niederwirft’
+          [Präfix <hi rendition="#i">ma-</hi> des Ortes u. Vb. <hi
+            rendition="#i">saǧada</hi> ‛sich niederwerfen,
+          προσκυνει&#785;ν’]; hieraus sp. <hi rendition="#i">mezquita</hi>,
+          pg. <hi rendition="#i">mesquita</hi>, it. <hi rendition="#i"
+            >meschita</hi>, <hi rendition="#i">moschea</hi>, afrz. <hi
+            rendition="#i">mosquete</hi>, frz. <hi rendition="#i"
+            >mosquée</hi>, rum. <hi rendition="#i">moşea</hi>; ndl. <hi
+            rendition="#i">moskee</hi>, engl. <hi rendition="#i">mosk</hi>,
+            <hi rendition="#i">mosque</hi>, dtsch. <hi rendition="#i"
+            >Moschee</hi>; die slav. Formen sind über das tk. <hi
+            rendition="#i">mesǧed</hi> entstanden: serb. <hi rendition="#i"
+            >mečet</hi>, bulg. <hi rendition="#i">medžit</hi>, čech. <hi
+            rendition="#i">mešita</hi>, poln. <hi rendition="#i"
+            >meczet</hi>, russ. <hi rendition="#i">mečet'</hi> und auch
+          rum. <hi rendition="#i">mecet</hi> ‛Moschee, tk. Friedhof bei
+          Bukarest’. [Eguilaz 451/452.</p>
+        <p>1436. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">masḫara:</hi>
+          <lb/>‛Verspottung, Possenreißer’, hieraus it. <hi rendition="#i"
+            >máschera</hi>, sp. pg. <hi rendition="#i">máscara</hi>, mit
+          rom. Endung sp. <hi rendition="#i">mascarada</hi>, frz. <hi
+            rendition="#i">mascarade</hi> und hieraus durch Abfall der
+          letzten Silben [die als Endung betrachtet wurden] frz. <hi
+            rendition="#i">masque</hi>; dtsch. <hi rendition="#i"
+            >Maske</hi>, ndl. <hi rendition="#i">masker</hi>, <hi
+            rendition="#i">maskerade</hi>, engl. <hi rendition="#i"
+            >mask</hi>, <hi rendition="#i">masque</hi>, dän. <hi
+            rendition="#i">maske</hi>, schwed. <hi rendition="#i"
+          >mask</hi>; russ. <hi rendition="#i">maska</hi>, <cb n="2"/><hi
+            rendition="#i">maskarad</hi>, čech. poln. <hi rendition="#i"
+            >maskarada</hi>, serb. <hi rendition="#i">maska</hi>, <hi
+            rendition="#i">maskara</hi>. Mit wenig geänderter Bedeutung
+          rum. măscară ‛Schimpf’, aber <hi rendition="#i">mascaralîc</hi>,
+            <hi rendition="#i">măscăriciŭ</hi> ‛Possenreißer’. Dazu die Vb.
+          siz. <hi rendition="#i">ammascari</hi> ‛großtun’, it. (dial.
+          Mailand) <hi rendition="#i">mascará</hi> ‛vermummen’; sp. kat.
+            <hi rendition="#i">amoscarse</hi> ‛zornig werden’. — [Diese
+          Etymologie, die lautlich und begrifflich keine Schwierigkeiten
+          bietet, wird vielfach abgelehnt; statt dessen wird bes.
+          langobard. <hi rendition="#i">masca</hi> ‛Netz’ als Grundwort
+          empfohlen, vgl. KARPF in WuS V, 120/124.] [Dozy Oost 61/63. DE
+          304/309. Mahn EtUnt 60/61. Kluge 301. GrSVociSic 226. ML 5394.
+          Anglia XIII, 106 ff. 517 ff. Wiener Beiträge zur engl. Philologie
+          XV, 119.</p>
+        <p>1437. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">Mašī‛ᵃḫ:</hi>
+          <lb/>‛Der Gesalbte’, gr. μεσσίας, zur Bezeichnung Jesu Christi in
+          alle europäischen Sprachen übergegangen, z. B. dtsch. <hi
+            rendition="#i">Messias</hi>, engl. <hi rendition="#i"
+            >Messiah</hi>; frz. <hi rendition="#i">Messie</hi>; russ. <hi
+            rendition="#i">Messija</hi>, poln. <hi rendition="#i"
+            >Mesiasz</hi>. Außerdem hieraus pg. <hi rendition="#i"
+            >macio</hi> ‛sanft, weich, glatt’ [Constancio Dicc 667 a]. [DE
+          298. ML 5209. Eguilaz 440 [wo noch ar. <hi rendition="#i"
+            >masīḥ</hi> ‛geschmeidig’ als Grundwort angegeben ist].</p>
+        <p>1438. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">maṣlaḳ:</hi>
+          <lb/>Auch <hi rendition="#i">maṣlyk</hi> ‛Datura stramonium’ [aus
+          ar. <hi rendition="#i">maṣlūḳ</hi>]; hieraus <choice>
+            <sic>rum</sic>
+            <corr>rum.</corr>
+          </choice>
+          <hi rendition="#i">maslag</hi> ‛dass.’; čech. <hi rendition="#i"
+            >mašlak</hi>, <hi rendition="#i">maslok</hi>, poln. <hi
+            rendition="#i">masl̃ok</hi> ‛betäubender Saft’, <hi
+            rendition="#i">masl̃ocznik</hi> ‛wütender Narr’. [Mikl SlEtWb
+          184 a, Karlowicz 422.</p>
+        <p>1439. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">mašraba:</hi>
+          <lb/>‛Trinkgefäß’ [vom Vb. <hi rendition="#i">šariba</hi>
+          ‛trinken’], erst moderne Aussprache für <hi rendition="#i"
+            >mišraba</hi> ‛dass., kleiner Krug’; hieraus mit ar. Art. sp.
+            <hi rendition="#i">almojarra</hi> ‛kleiner Krug’; über tk. <hi
+            rendition="#i">mašrapa</hi> wurde rum. <hi rendition="#i"
+            >năstrăpa</hi> ‛Trinkglas’, <hi rendition="#i"
+            >năstrăpioară</hi>; bulg. <hi rendition="#i">maštrapa</hi>,
+          serb. <hi rendition="#i">maštrafa</hi> ‛Becher’. [DE 179. Eguilaz
+          238. <choice>
+            <sic>M kl</sic>
+            <corr>Mikl</corr>
+          </choice> SlEtWb 184 b.</p>
+        <p>1440. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">massa:</hi>
+          <lb/>‛Betasten’; hieraus frz. <hi rendition="#i">masser</hi>,
+          dtsch. <hi rendition="#i">massieren</hi>. [ML 5395. MWiD 102 (wo
+          als mögliches Grundwort auch auf gr. μάσσω ‛kneten’ hingewiesen
+          ist).</p>
+        <p>1441. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">maṣṣa:</hi>
+          <lb/>‛Ungesäuerte Brotfladen’, modern <hi rendition="#i"
+            >matzo</hi> gesprochen; hieraus dtsch. <hi rendition="#i"
+            >Matze</hi> ‛jüdischer Osterkuchen’. Über gr. μάζα, μα&#785;ζα
+          [das sicherlich zum Teil semitischen Ursprungs ist] it. (dial.
+          Kalabrien) <hi rendition="#i">maza</hi> ‛Art Brot’. [Kluge 302.
+          ML 5396.</p>
+        <p>1442. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ma’ṣūra:</hi>
+          <lb/>‛Weberschiffchen’ [vom Vb. <hi rendition="#i">aṣara</hi>
+          ‛binden’]: hieraus in Verbindung mit germ. <hi rendition="#i"
+            >rocco</hi> [vgl. dtsch. <hi rendition="#i">Spinnrocken</hi>,
+          sp. <hi rendition="#i">rueca</hi>, pg. <hi rendition="#i"
+            >roca</hi>, it. <hi rendition="#i">rocca</hi>] sp. <hi
+            rendition="#i">mazorca</hi>, pg. <pb n="115" facs="#f0137"/><cb
+            n="1"/><hi rendition="#i">maçaroca</hi>, eigentlich
+          ‛Spindelvoll’, dann wegen derselben Gestalt ‛Maiskolben’. Über
+          tk. <hi rendition="#i">masure</hi>, <hi rendition="#i">masra</hi>
+          wurde rum. <hi rendition="#i">mosor</hi>, <choice>
+            <sic>demin,</sic>
+            <corr>demin.</corr>
+          </choice>
+          <hi rendition="#i">mosoraş</hi> ‛Spule, Rolle’. [DE 312/313.
+          Eguilaz 449. Löbel ElTAP 65.</p>
+        <p>1443. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">māt(a):</hi>
+          <lb/>‛Er ist gestorben, tot’; als Fachausdruck der Schachspieler
+            <hi rendition="#i">šāh</hi>
+          <hi rendition="#i">māt</hi> vom pers. <hi rendition="#i">šāh</hi>
+          ‛König’ [Horn NpEtS. 170, Nr. 772]: ‛Der König ist tot’; hieraus
+          ist mit dem Schachspiele selbst der Ausdruck international
+          geworden, vor allem it. <hi rendition="#i">scacco</hi>
+          <hi rendition="#i">matto</hi> ‛schachmatt’, prov. <hi
+            rendition="#i">mat</hi>, frz. <hi rendition="#i">échec</hi>
+          <hi rendition="#i">et</hi>
+          <hi rendition="#i">mat</hi>, sp. <hi rendition="#i">jaque</hi>
+          <hi rendition="#i">y</hi>
+          <hi rendition="#i">mate</hi>, <hi rendition="#i">jaqui</hi>
+          <hi rendition="#i">mate</hi>, pg. <hi rendition="#i">chaque</hi>
+          <hi rendition="#i">é</hi>
+          <hi rendition="#i">mate</hi>, rum. <hi rendition="#i">mat</hi>;
+          dtsch. <hi rendition="#i">schachmatt</hi>, <choice>
+            <sic>engl;</sic>
+            <corr>engl.</corr>
+          </choice>
+          <hi rendition="#i">checkmate</hi>; russ. <hi rendition="#i"
+            >šahmaty</hi> ‛Schachfiguren’, bulg. <hi rendition="#i"
+            >šahmatna</hi>
+          <hi rendition="#i">igra</hi> ‛Schachfigur’, <hi rendition="#i"
+            >šahmatna</hi>
+          <hi rendition="#i">dъska</hi> ‛Schachbrett’. Aus dem Schachspiel
+          wurde volksetymologisch parodierend it. <hi rendition="#i"
+            >matto</hi> ‛verrückt’ genommen. Dazu die Vb. it. <hi
+            rendition="#i">mattare</hi>, frz. <hi rendition="#i"
+          >mater</hi>, prov. kat. sp. pg. <hi rendition="#i">matar</hi>
+          ‛mattsetzen, überwinden, besiegen’ und schließlich sp. pg. <hi
+            rendition="#i">matar</hi> ‛töten’ [und nicht etwa &lt; lat. <hi
+            rendition="#i">mactari</hi>, worin <hi rendition="#i">ct</hi>
+          &gt; <hi rendition="#i">ch</hi> geworden wäre wie <hi
+            rendition="#i">factum</hi> &gt; <hi rendition="#i">hecho</hi>].
+          — [Henri Estienne, Traicté de la conformité du langage français
+          avec le grec, Paris 1569, führt frz. <hi rendition="#i">mat</hi>
+          auf it. <hi rendition="#i">matto</hi> und dieses auf gr. μάταιος
+          zurück!] [Kluge 302. ML 5401. SPITZER in Herrigs Archiv CXLI,
+          264. ZDMG XX VIII, 696.</p>
+        <p>1444. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maṭmūra:</hi>
+          <lb/>‛Erdgrube für Getreide, Keller’; hieraus kat. sp. pg. <hi
+            rendition="#i">mazmorra</hi>, pg. <hi rendition="#i"
+            >masmorra</hi>, <hi rendition="#i">matamorra</hi> [mit
+          Anlehnung an <hi rendition="#i">matar</hi> ‛töten’]
+          ‛unterirdischer Kerker, Verlies, Gelaß’. [DE 312. Eguilaz
+          448/449. ML 5414.</p>
+        <p>1445. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">maṭrabaz:</hi>
+          <lb/>‛Fechtmeister, Händler, Schurke, Betrüger’ [aus ar. <hi
+            rendition="#i">maṭr</hi>, <hi rendition="#i">maṭra</hi> ‛Öl-
+          oder Wasserschlauch’ und pers. <hi rendition="#i">bāz</hi>,
+          Präsensstamm von <hi rendition="#i">bāḫtän</hi> ‛spielen’ Horn
+          NpEt S. 35, Nr. 150), <hi rendition="#i">maṭrabazlyḳ</hi>
+          ‛Handel’; hieraus rum. <hi rendition="#i">matrapazlîc</hi>
+          ‛Schacher, Hinterlist’. — Löbel <choice>
+            <sic>ELTAP</sic>
+            <corr>ElTAP</corr>
+          </choice> 62.</p>
+        <p>1446. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maṭraḥ:</hi>
+          <lb/>‛Ort, wohin etwas geworfen oder gelegt wird; Kissen’;
+          hieraus it. <hi rendition="#i">materasso</hi>, <hi rendition="#i"
+            >materassa</hi> ‛Matratze’, denn diese war ursprünglich ein
+          Netz, das man auswarf, wo man sich hinlegen wollte; prov. <hi
+            rendition="#i">almatrac</hi>, frz. <hi rendition="#i"
+            >materas</hi>, <hi rendition="#i">matelas</hi>, kat. <hi
+            rendition="#i">almatrach</hi>, <hi rendition="#i">matalás</hi>,
+          sp. pg. <hi rendition="#i">almadraque</hi> ‛Matratze’, pg. dem.
+            <hi rendition="#i">almadraguexa</hi>, verkürzt <hi
+            rendition="#i">almatrixa</hi> ‛Pferdedecke’, pg. <hi
+            rendition="#i">madraço</hi> ‛Faulenzer’: engl. <hi
+            rendition="#i">mattress</hi>, ndl. <hi rendition="#i"
+            >matras</hi>, dtsch. <hi rendition="#i">Matratze</hi>, russ.
+            <hi rendition="#i">matrac</hi>, poln. <hi rendition="#i"
+            >materac</hi>, čech. <hi rendition="#i">matrace</hi>. [Dozy
+          Oost 63 ff. <cb n="2"/>DE 152. Eguilaz 207. RomForsch IV, 360. ML
+          5415. Kluge 302.</p>
+        <p>1447. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ma‛ṭūf:</hi>
+          <lb/>‛Geneigt’, ebenso tk. [Kélékian Ḳāmūs 1194 b]; hieraus rum.
+            <hi rendition="#i">matuf</hi> ‛schmutzig, nachlässig’, bes. in
+          den Kleidern. — Löbel ElTAP 62.</p>
+        <p>1448. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">maulā:</hi>
+          <lb/>‛Mohammedanischer Geistlicher oder Lehrer’ [über dieses Amt
+          und den offiziellen Rang eines Mulla in der Türkei vgl. NO III,
+          62]; hieraus angloind. <hi rendition="#i">moolah</hi> ‛dass.’, in
+          Indien ‛Schulmeister’, engl. <hi rendition="#i">molla</hi> ‛ein
+          höherer Richter in islamischen Ländern’; rum. <hi rendition="#i"
+            >mola</hi> ‛mohammedanischer Geistlicher’, dtsch. <hi
+            rendition="#i">Molla</hi>. — Mit dem Suffix 1. pers. sgl.
+          ergibt sich ar. <hi rendition="#i">maulāja</hi> ‛mein Herr’,
+          woraus sp. <hi rendition="#i">muley</hi> in zusammengesetzten
+          Eigennamen, bes. aus den marokkanischen Wirren bekannt. [Hobson
+          Jobson 579. Eguilaz 460. MWiD 64.</p>
+        <p>1449. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ma‛ūn:</hi>
+          <lb/>‛Gefäß’, ebenso tk., sowie <hi rendition="#i">ma’una</hi>
+          ‛Schiff’ [Kélékian Ḳāmūs 1093 a]; hieraus it. <hi rendition="#i"
+            >maona</hi> ‛tk. Galeere’, frz. <hi rendition="#i">mahone</hi>,
+            <hi rendition="#i">mahone</hi>, kat. sp. <hi rendition="#i"
+            >mahona</hi> ‛dass.’. [DE 299. Devic DEt 155. Eguilaz 442.</p>
+        <p>1450. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ma‛zūl:</hi>
+          <lb/>‛Abgesetzt’ [part. pass. von <hi rendition="#i"
+          >‛azala</hi>], ebenso tk. <hi rendition="#i">ma’zul</hi>
+          [Kélékian Ḳāmūs 1193 b]; hieraus rum. <hi rendition="#i"
+            >mazil</hi> ‛abgesetzter Bojar’, Vb. <hi rendition="#i"
+            >mazili</hi> ‛absetzen’, <hi rendition="#i">mazilie</hi>
+          ‛Absetzung’.</p>
+        <p>1451. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">mausim:</hi>
+          <lb/>‛Jahreszeit’, z. B. für die jährliche Pilgerfahrt nach
+          Mekka, auch schon bei den ar. Seeleuten zur Bezeichnung der Zeit
+          gebräuchlich, die günstig war, um mit dem Winde, den wir
+          heutzutage Westmonsun nennen, nach Indien zu gelangen; hieraus
+          pg. <hi rendition="#i">monção</hi>, <hi rendition="#i"
+            >moução</hi>, sp. <hi rendition="#i">monzon</hi>, frz. <hi
+            rendition="#i">mousson</hi>, it. <hi rendition="#i"
+            >monsone</hi>, <hi rendition="#i">mussone</hi>; engl. <hi
+            rendition="#i">monsoon</hi>, ndl. <hi rendition="#i"
+            >monsoen</hi>, dtsch. <hi rendition="#i">Monsun</hi>. [DE
+          317/319. Eguilaz 458 ML 5439.</p>
+        <p>1452. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">mauṯabān</hi>: <lb/>‛Einer, bes. ein König,
+          der ruhig sitzt’ [vom Vb. <hi rendition="#i">waṯaba</hi>
+          ‛sitzen’], Bezeichnung einer Münze, die während der Zeit der
+          Kreuzzüge in der Levante im Umlauf war; auf ihr war eine sitzende
+          Christusfigur dargestellt, nach der sie benannt war. Um das Jahr
+          1193 führten die Venezianer eine dieser byzantinischen Münze
+          ähnliche aus dem Oriente ein, die sie <hi rendition="#i"
+            >matapan</hi> nannten. Hiermit wurde dann in Famagusta auf
+          Cypern eine 10%ige Abgabe und endlich eine Schachtel oder Kiste,
+          die 1⁄10 moggio enthielt, bezeichnet: venez. <hi rendition="#i"
+            >marzapane</hi> [mit Einfügung eines <hi rendition="#i"
+          >r</hi>!], noch im XIII. <pb n="116" facs="#f0138"/><cb n="1"
+          />Jahrhundert ist siz. <hi rendition="#i">marzapane</hi>, neapol.
+            <hi rendition="#i">marzapane</hi> belegt. Im XIV. Jahrhundert
+          wurde mit diesem Wort der Inhalt der genannten Kiste, nämlich ein
+          aus Zucker, Mandeln und Rosenwasser hergestelltes Zuckerwerk
+          bezeichnet: it. <hi rendition="#i">marzapane</hi>, frz. <hi
+            rendition="#i">marsepain</hi>, <hi rendition="#i"
+            >massepain</hi>, sp. <hi rendition="#i">mazapán</hi>, pg. <hi
+            rendition="#i">massapão</hi> [mit offenbarer Anlehnung an <hi
+            rendition="#i">pane</hi>, <hi rendition="#i">pain</hi>, <hi
+            rendition="#i">pão</hi> &lt; lat. <hi rendition="#i">panis</hi>
+          ‛Brot’]; vgl. noch prov. <hi rendition="#i">massapan</hi>
+          ‛Schachtel’. Engl. <hi rendition="#i">marchpane</hi> [in
+          Anlehnung an <hi rendition="#i">March</hi>], dtsch. <hi
+            rendition="#i">Marzipan</hi>, ndl. <hi rendition="#i"
+            >marsepein</hi>, schwed. <hi rendition="#i">marsipan</hi>;
+          russ. <hi rendition="#i">marcipan</hi>. — [<hi rendition="#i"
+            >Marci</hi>
+          <hi rendition="#i">panis</hi> ‛Markusbrot’ ist nur
+          Volksetymologie; die vorliegende Ableitung stammt von A. KLUYVER
+          in ZfdWt VI, 59/68.] [ML 5440. MWiD 86.</p>
+        <p>1453. <hi rendition="#b">Pers.</hi>
+          <hi rendition="#b">mäzä:</hi>
+          <lb/>‛Wohlgeschmack’ [Horn NpEt S. 219, Nr. 979], tk. vulg. <hi
+            rendition="#i">mezelik</hi> ‛Vorspeise’ [von Seb. BECK sehr
+          treffend mit ‛Appetitshappen’ wiedergegeben: NO III, 56]; hieraus
+          serb. bulg. <hi rendition="#i">meze</hi>, bulg. <hi
+            rendition="#i">mezelik</hi> ‛Dessert‘, rum. <hi rendition="#i"
+            >mezelîc</hi>, <hi rendition="#i">mezea</hi> ‛dass’. — Löbel
+          ElTAP 63. Mikl SlEtWb 194 a.</p>
+        <p>1454. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">mazād:</hi>
+          <lb/>‛Versteigerung’, ebenso tk., vulg. <hi rendition="#i"
+            >mezat</hi> ausgesprochen; hieraus rum. <hi rendition="#i"
+            >mezat</hi>; bulg. <hi rendition="#i">mezat</hi> ‛dass.’.</p>
+        <p>1455. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">mazzāl:</hi>
+          <lb/>‛Stern, Schicksal’ [eigentlich ‛Sternstation’ entsprechend
+          ar. <hi rendition="#i">manzil</hi> s. hier Nr. 1401]; hieraus sp.
+            <hi rendition="#i">desmazalado</hi> ‛unglücklich’, bei
+          Cervantes ‛kleinmütig’ [Dicc Cast 773 a]. — [ML 5448.</p>
+        <p>1456. <hi rendition="#b">Pers.</hi>
+          <hi rendition="#b">tk.</hi>
+          <hi rendition="#b">meger:</hi>
+          <lb/>‛Wenn auch’ [aus pers. <hi rendition="#i">mä</hi> ‛nicht’
+          und <hi rendition="#i">ägär</hi> ‛wenn’ Horn NpEt S. 221, Nr.
+          988; auch &gt; ngr. μαγάρι]; hieraus rum. <hi rendition="#i"
+            >macar</hi> ‛obwohl, wenn auch’.</p>
+        <p>1456 a. <hi rendition="#b">Aram.</hi>
+          <hi rendition="#b">menē:</hi>
+          <lb/><hi rendition="#i">Menē</hi>
+          <hi rendition="#i">menē</hi>
+          <hi rendition="#i">teḳēl</hi>
+          <hi rendition="#i">uφarsīn</hi> ist die von Daniel, Kap. 5, Vers
+          25 mitgeteilte rätselhafte Inschrift, die der Sohn des letzten
+          Königs von Babylon, der sog. König BELSAZAR [assyr. <hi
+            rendition="#i">Bel-sar-uṣur</hi> ‛Bel, schirme den König’, s.
+          ZDMG VIII, 598; XXVI, 128], während eines Gastmahls von
+          geheimnisvollen Händen an die Wand des Speisesaals schreiben sah.
+          Daniel deutete sie auf den Übergang der Herrschaft an die Perser,
+          der tatsächlich bald eintrat; von ihm stammt die Deutung:
+          „Gezählt, gewogen, zu schwer [nämlich befunden], und die Perser!“
+          Man liest sie jetzt: <hi rendition="#i">Menē</hi> ‛eine Mine’ [s.
+          hier Nr. 1462 a; aus assyr. <hi rendition="#i">manū</hi> ‛Mine’
+          von <hi rendition="#i">manū</hi> ‛zählen’ Del HWB 416 und 417 b],
+            <hi rendition="#i">menē</hi>
+          <hi rendition="#i">teḳēl</hi> ‛eine Mine Sekel’ [assyr. <hi
+            rendition="#i">šiḳlu</hi> ‛Sekel’ von <cb n="2"/><hi
+            rendition="#i">šaḳālu</hi> ‛wägen’ Del HWB 685 b, s. hier Nr.
+          1880], <hi rendition="#i">u-parsīn</hi> ‛und zwei Halbminen’
+          [assyr. <hi rendition="#i">parsu</hi> ‛Halbmine’ von <hi
+            rendition="#i">parāsu</hi> ‛teilen’ Del HWB 542 b; zu allen
+          drei Ausdrücken vgl. ZAkkFW 21]. Der erste Teil der Inschrift ist
+          als <hi rendition="#i">Menetekel</hi> ‛grauenhafte Warnung oder
+          Mahnung’ ins Deutsche übergegangen.</p>
+        <p>1457. <hi rendition="#b">Äg.</hi>
+          <hi rendition="#b">mer:</hi>
+          <lb/>‛Pyramide’. Das äg. Wort, dessen Vokalisation mangels einer
+          kopt. Entsprechung unbekannt ist, ergab mit dem altägyptischen
+          Art. <hi rendition="#i">p</hi> und der aus gr. πυραμίς zu
+          erschließenden Vokalisierung <hi rendition="#i">*pimar</hi> oder
+          mit Metathesis, für die beim Übergang aus dem Äg. z. B. ins
+          Semitische viele Belege vorhanden sind [vgl. ZDMG XLVI, 112 ff.],
+            <hi rendition="#i">*piram</hi>. Da einerseits die Ableitungen
+          von πυραμίς aus rein gr. Grundwort, besonders πυ&#785;ρ ‛Feuer’
+          und πυρός ‛Weizen’, sehr gekünstelt und schwerfällig erscheinen
+          und sich andererseits aus <hi rendition="#i">m-r</hi> und dem
+          semitischen Art. <hi rendition="#i">ha</hi> mit folgender
+          Metathesis das aus dem Semitischen allein nicht erklärbare ar.
+            <hi rendition="#i">haram</hi> ‛Pyramide’ ableiten läßt, ist die
+          gegebene Deutung außerordentlich befriedigend, um so mehr als a
+          priori anzunehmen ist, daß die Bezeichnung für ein Ägypten so
+          eigenes Bauwerk wie die Pyramiden auch äg. Ursprungs ist. Diese
+          Etymologie stammt von Karl LANG im Anthropos XVIII/XIX, 551/553.
+          Aus gr. πυραμίς, πυραμίδος, lat. <hi rendition="#i">pyramis</hi>,
+            <hi rendition="#i">pyramidis</hi> haben sich alle europäischen
+          Formen ergeben: it. <hi rendition="#i">piramide</hi>, frz. <hi
+            rendition="#i">pyramide</hi>, sp. <hi rendition="#i"
+            >pirámide</hi>, pg. <hi rendition="#i">pyramide</hi>; engl. <hi
+            rendition="#i">pyramid</hi>, dtsch. <hi rendition="#i"
+            >Pyramide</hi>.</p>
+        <p>1458. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">mertek:</hi>
+          <lb/>‛Viereckiger Balken’; hieraus rum. <hi rendition="#i"
+            >martac</hi> ‛dicker Pfahl’.</p>
+        <p>1459. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">mest:</hi>
+          <lb/>‛Filzüberschuhe, absatzlose Stiefelchen in Maroquinleder’
+          [Kélékian Ḳāmūs 1159]; hieraus rum. <hi rendition="#i">mest</hi>,
+            <hi rendition="#i">mestĭ</hi>, <hi rendition="#i">meşĭ</hi>
+          ‛dass.’, serb. <hi rendition="#i">mestwa</hi>, poln. <hi
+            rendition="#i">meszty</hi>, klruss. <hi rendition="#i"
+            >mešty</hi> ‛Art Fußbekleidung’. [Löbel ElTAP 63. Mikl SlEtWb
+          193.</p>
+        <p>1460. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">mibrat:</hi>
+          <lb/>‛Zucker’ [nach DE 164]; hieraus sp. kat. <hi rendition="#i"
+            >almíbar</hi> ‛Sirup’, <hi rendition="#i">almibarar</hi> ‛mit
+          Zuckerseim überziehen, süße Worte geben’, <hi rendition="#i"
+            >almibarado</hi> ‛süßtuender Mensch’. — [Eguilaz 222 hat als
+          Grundwort <hi rendition="#i">mība</hi>.]</p>
+        <p rendition="#i #c">1460 a bis 1469 a folgen nach 1469!</p>
+        <p>1461. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">midaḳḳa:</hi>
+          <lb/>‛Instrument zum Klopfen, Stampfer, <pb n="117" facs="#f0139"
+            /><cb n="1"/>Stößel’ [Dozy Suppl I, 451]; hieraus siz. <hi
+            rendition="#i">mataccu</hi>, <hi rendition="#i">mataffu</hi>
+          ‛großer Holzklotz’ mit einer Achse als Handgrift, mit dem man
+          Steine in den Boden rammt, um zu pflastern. [GrSVociSic 241.</p>
+        <cb type="end"/>
       </div>
-      <cb type="end"/>
     </body>
     <back/>
   </text>
