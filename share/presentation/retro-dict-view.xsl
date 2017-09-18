@@ -124,6 +124,9 @@
 			page-break-before: always;
 		}
 	}
+	@media print {
+		.s { display: none; }
+	}
       </style>
     </head>
   </xsl:template>
@@ -193,10 +196,10 @@
   </xsl:template>
   
   <xsl:template match="tei:sic">
-    <span class="editorial s"><xsl:apply-templates/></span>
+    <span class="editorial s"><xsl:apply-templates/>|</span>
   </xsl:template>
   <xsl:template match="tei:corr">
-    <span class="editorial">|<xsl:apply-templates/></span>
+    <span class="editorial"><xsl:apply-templates/></span>
   </xsl:template>  
 
   <xsl:template match="tei:table">
