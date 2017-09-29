@@ -92,6 +92,7 @@
         .page_number{
 		background-color: Gray;
 		border: 1px dotted White;
+		white-space: nowrap;
 		color: White;
 		padding: 2px;
 		margin: 2px;
