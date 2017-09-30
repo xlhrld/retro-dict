@@ -37,7 +37,7 @@
           <orgName ref="https://github.com/xlhrld/retro-dict"
             >retro-dict</orgName>
         </publisher>
-        <date type="publication">2017-09-29</date>
+        <date type="publication">2017-09-30</date>
         <availability>
           <licence
             target="https://creativecommons.org/licenses/by/4.0/">
@@ -45054,8 +45054,8 @@
           <hi rendition="#k">osax.</hi>
           <hi rendition="#i">oƀana</hi> ‘from above’. See <hi
             rendition="#g #i">above</hi> and <pb n="218" facs="#f0224"
-            /><cb n="1"/>and <hi rendition="#g">over</hi>. <hi
-            rendition="#g #i">upon</hi>
+            /><cb xml:id="f0224-1" n="1"/>and <hi rendition="#g"
+            >over</hi>. <hi rendition="#g #i">upon</hi>
           <hi rendition="#k">me.</hi>
           <hi rendition="#i">upon</hi>
           <hi rendition="#k">oe.</hi>
@@ -45063,6 +45063,410 @@
             >on.</hi>
           <hi rendition="#i">upp</hi>
           <hi rendition="#i">á</hi>.</p>
+        <p><hi rendition="#b">urchin</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">irchoun</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">ireçon</hi> (<hi rendition="#k">fr.</hi>
+          <hi rendition="#i">hérisson</hi>); source a vulgar <hi
+            rendition="#k">lat.</hi>
+          <hi rendition="#i">ericio(nem)</hi> = <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">ericius</hi> ‘hedge-hog’ (the genuine <hi
+            rendition="#k">e.</hi> word was <hi rendition="#k"
+            >oe.</hi>
+          <hi rendition="#i">iᵹel</hi> = <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">igil</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">igel</hi>, cogn. w. <hi rendition="#k"
+            >gr.</hi>
+          <hi rendition="#i">ἐχῖνος</hi>).</p>
+        <p><hi rendition="#b">us</hi> pron. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">us</hi>
+          <hi rendition="#i">(ous)</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">ús</hi> for <hi rendition="#k">teut.</hi>
+          <hi rendition="#i">uns-</hi> in <hi rendition="#k">g.</hi>
+          <hi rendition="#k">ohg.</hi>
+          <hi rendition="#k">goth.</hi>
+          <hi rendition="#i">uns</hi>, <hi rendition="#k">osax.</hi>
+          <hi rendition="#i">ûs</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">ons</hi>. Cp. <hi rendition="#g #i"
+            >our</hi> and <hi rendition="#i #g">we</hi>.</p>
+        <cb n="2" xml:id="f0224-2"/>
+        <p><hi rendition="#b">use</hi> sb. <hi rendition="#k">me.</hi>
+          <hi rendition="#i">üse</hi> fr. <hi rendition="#k">fr.</hi>
+          <hi rendition="#i">us</hi> = <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">usus</hi>.</p>
+        <p><hi rendition="#b">usquebaugh</hi> sb. fr. <hi
+            rendition="#k">ir.</hi>
+          <hi rendition="#i">uisge</hi>
+          <hi rendition="#i">beatha</hi> ‘water of life’; ident. w.
+            <hi rendition="#i #g">whisky</hi>.</p>
+        <p><hi rendition="#b">utmost</hi> short for <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">outemeste</hi>
+          <hi rendition="#k">oe.</hi> (w. umlaut) <hi rendition="#i"
+            >ýtemest</hi>; ident. w. <hi rendition="#i #g"
+            >outmost</hi>.</p>
+        <p><hi rendition="#b">utter</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">uttre</hi>
+          <hi rendition="#i">outre</hi> derived fr. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">oute</hi> vb. ‘to put out’ <hi
+            rendition="#k">oe.</hi>
+          <hi rendition="#i">útian</hi> ‘to put out’. Source <hi
+            rendition="#i #g">out</hi>.</p>
+        <cb type="end"/>
+      </div>
+      <div xml:id="section-v">
+        <head rendition="#c">V</head>
+        <cb type="start"/>
+        <cb n="1" corresp="#f0224-1"/>
+        <p><hi rendition="#b">vain</hi> adj. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">vain</hi> fr. <hi rendition="#k">fr.</hi>
+          <hi rendition="#i">vain</hi> = <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">vânus</hi>.</p>
+        <p><hi rendition="#b">vale</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">vál</hi> fr. <hi rendition="#k">fr.</hi>
+          <hi rendition="#i">vale</hi> and <hi rendition="#b"
+            >valley</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">valeie</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">vallée</hi>. Source <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">vallis</hi>.</p>
+        <p><hi rendition="#b">valiant</hi> adj. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">valiaunt</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">vaillant</hi>.</p>
+        <p><hi rendition="#b">valley</hi> see <hi rendition="#i #g"
+            >vale</hi>.</p>
+        <p><hi rendition="#b">van</hi> ident. w. <hi rendition="#i #g"
+            >fan</hi>.</p>
+        <p><hi rendition="#b">vane</hi> sb. (a wether-cock) <hi
+            rendition="#k">me.</hi> (Kent.) <hi rendition="#i"
+            >váne</hi> — (else) <hi rendition="#i">fáne</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">făna</hi> = <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">fano</hi>
+          <hi rendition="#i">(gund-fano)</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">fahne</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">vaan</hi>, <hi rendition="#k">goth.</hi>
+          <hi rendition="#i">fana</hi>: Teut. base <hi rendition="#i"
+            >fanan-</hi>, cogn. w. <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">pannus</hi> ‘cloth’.</p>
+        <p><hi rendition="#b">vanish</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">vanisshe</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">vanir</hi>
+          <hi rendition="#i">(vaniss-)</hi>; source <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">evanescere</hi>.</p>
+        <p><hi rendition="#b">vanquish</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">venquisshe</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">veinquir</hi>
+          <hi rendition="#i">(veinquiss-)</hi> = <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">vaincre</hi> source <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">vincere</hi>.</p>
+        <p><hi rendition="#b">vat</hi> sb. <hi rendition="#k">me.</hi>
+          (Kent) <hi rendition="#i">vat</hi> — (else) <hi
+            rendition="#i">fat</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">fæt</hi> = <hi rendition="#k">osax.</hi>
+          <hi rendition="#k">on.</hi>
+          <hi rendition="#i">fat</hi>, <cb n="2" corresp="#f0224-2"
+            /><hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">faʒ</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">fass</hi>, <hi rendition="#k">du.</hi>
+          <hi rendition="#i">vat</hi>: Teut. base <hi rendition="#i"
+            >fata-</hi>. Cogn. w. <hi rendition="#k">lith.</hi>
+          <hi rendition="#i">půdas</hi> ‘a pot’ and <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">faʒʒôn</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">fassen</hi> ‘to contain’.</p>
+        <p><hi rendition="#b">vaunt</hi> vb. short for <hi
+            rendition="#k">me.</hi>
+          <hi rendition="#i">avaunte</hi> vb. fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">avanter</hi> (<hi rendition="#k">fr.</hi>
+          <hi rendition="#i">vanter</hi>) = late <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">vanitare</hi>.</p>
+        <p><hi rendition="#b">veal</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">vę́l</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">vëel</hi> (<hi rendition="#k">fr.</hi>
+          <hi rendition="#i">veau</hi>); source <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">vitellus</hi> ‘a little calf’.</p>
+        <p><hi rendition="#b">veil</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">veile</hi> fr. <hi rendition="#k"
+            >onfr.</hi>
+          <hi rendition="#i">veile</hi> = <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">vêlum</hi>.</p>
+        <p><hi rendition="#b">vein</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">veine</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">veine</hi> = lat. <hi rendition="#i"
+            >vêna</hi>.</p>
+        <p><hi rendition="#b">venison</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">veneisoun</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">veneison</hi> = <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">venatio(nem)</hi>.</p>
+        <p><hi rendition="#b">venom</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">vením</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">venim</hi> = <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">venênum</hi>.</p>
+        <p><hi rendition="#b">verse</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">vẹ́rs</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">vers</hi>; <hi rendition="#k">oe.</hi>
+          <hi rendition="#k">me.</hi>
+          <hi rendition="#i">fers</hi> is loanword fr. <hi
+            rendition="#k">lat.</hi>
+          <hi rendition="#i">versus</hi> with the medieval
+          pronunciation of <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">v</hi> as <hi rendition="#i">f</hi>.</p>
+        <p><hi rendition="#b">very</hi> adj. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">verrei</hi>
+          <hi rendition="#i">verrai</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">verai</hi> (<hi rendition="#k">fr.</hi>
+          <hi rendition="#i">vrai</hi>); source <pb n="219"
+            facs="#f0225"/><cb xml:id="f0225-1" n="1"/>a <hi
+            rendition="#k">lat.</hi> type <hi rendition="#i"
+            >verâcus</hi> for <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">verâc-cm</hi>.</p>
+        <p><hi rendition="#b">vessel</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">vessẹ́l</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">veissel</hi> (<hi rendition="#k">fr.</hi>
+          <hi rendition="#i">vaisseau</hi>) = <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">vascellum</hi> (<hi rendition="#i"
+            >vasculus</hi> — <hi rendition="#i">vas</hi>).</p>
+        <p><hi rendition="#b">vetch</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">vecche</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">veche</hi> (<hi rendition="#k">fr.</hi>
+          <hi rendition="#i">vesce</hi>) = <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">vicia</hi>, whence also <hi
+            rendition="#k">ohg.</hi>
+          <hi rendition="#i">wicka</hi>
+          <hi rendition="#k">g.</hi>
+          <hi rendition="#i">wicke</hi>
+          <hi rendition="#k">du.</hi>
+          <hi rendition="#i">wik</hi>.</p>
+        <p><hi rendition="#b">vex</hi> vb. <hi rendition="#k">me.</hi>
+          <hi rendition="#i">vexe</hi> fr. <hi rendition="#k">fr.</hi>
+          <hi rendition="#i">vexer</hi> = <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">vexare</hi>.</p>
+        <p><hi rendition="#b">vial</hi> (<hi rendition="#i #g"
+            >phial</hi>) sb. <hi rendition="#k">me.</hi>
+          <hi rendition="#i">víole</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">fole</hi> (<hi rendition="#k">ofr.</hi>
+          <hi rendition="#i">viole</hi>).</p>
+        <p><hi rendition="#b">vice</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">víçe</hi> fr. <hi rendition="#k">fr.</hi>
+          <hi rendition="#i">vice</hi> = <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">vitium</hi>.</p>
+        <p><hi rendition="#b">victory</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">victǫ́rie</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">victorie</hi> = <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">victoire</hi>.</p>
+        <p><hi rendition="#b">victuals</hi> sb. (<hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">vitaille</hi>) fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">vitaille</hi> in the spelling <hi
+            rendition="#i">victuaille</hi>. Source <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">victualia</hi>.</p>
+        <p><hi rendition="#b">view</hi> sb. fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">vue</hi>.</p>
+        <p><hi rendition="#b">vigil</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">viǧíle</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">vigile</hi> = <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">vigilia</hi>.</p>
+        <p><hi rendition="#b">vigor</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">vigour</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">vigour</hi> (<hi rendition="#k">fr.</hi>
+          <hi rendition="#i">vigeur</hi>) = <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">vigor-em</hi>.</p>
+        <p><hi rendition="#b">vile</hi> adj. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">víl</hi> fr. <hi rendition="#k">fr.</hi>
+          <hi rendition="#i">vil</hi> = <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">vîlis</hi>.</p>
+        <p><hi rendition="#b">villain</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">vilein</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">vilein</hi> = <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">villanus</hi>.</p>
+        <p><hi rendition="#b">vine</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">víne</hi> fr. <hi rendition="#k">fr.</hi>
+          <hi rendition="#i">vigne</hi> = <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">vinea</hi>. Cp. <hi rendition="#g #i"
+            >wine</hi>.</p>
+        <p><hi rendition="#b">vinegar</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">vinę́gre</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">vinaigre</hi> = <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">vinum</hi>
+          <hi rendition="#i">acre</hi>. For the 2ⁿᵈ element cp. <hi
+            rendition="#g #i">eager</hi>.</p>
+        <cb n="2" xml:id="f0225-2"/>
+        <p><hi rendition="#b">vinewed</hi> adj. (the initial <hi
+            rendition="#i">v</hi> instead of <hi rendition="#i">f</hi>
+          is due to Kentish influence) fr. <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">fynegian</hi> ‘to become mouldy’ (<hi
+            rendition="#i">fyniᵹ</hi> ‘mouldy’).</p>
+        <p><hi rendition="#b">vintage</hi> sb. transformed fr. <hi
+            rendition="#k">me.</hi>
+          <hi rendition="#i">vindáǧe</hi>, which rests on <hi
+            rendition="#k">fr.</hi>
+          <hi rendition="#i">vendange</hi> = <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">vindemja</hi> (whence <hi rendition="#k"
+            >ohg.</hi>
+          <hi rendition="#i">wintimma</hi> ‘vintage’).</p>
+        <p><hi rendition="#b">viol</hi> sb. fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">viole</hi> = <hi rendition="#k"
+            >ital.</hi>
+          <hi rendition="#k">span.</hi>
+          <hi rendition="#i">viola</hi>; source a late <hi
+            rendition="#k">lat.</hi>
+          <hi rendition="#i">vitula</hi>, whence also <hi
+            rendition="#g #i">fiddle</hi>.</p>
+        <p><hi rendition="#b">virgin</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">virǧíne</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">virgine</hi>.</p>
+        <p><hi rendition="#b">virtue</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">vẹ́rtü</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">vertu</hi>.</p>
+        <p><hi rendition="#b">visage</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">visáǧe</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">visage</hi>. — <hi rendition="#b"
+            >vision</hi> sb. <hi rendition="#k">me.</hi>
+          <hi rendition="#i">visioun</hi> fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">vision</hi>.</p>
+        <p><hi rendition="#b">vixen</hi> sb. (<hi rendition="#i"
+            >v</hi> instead of <hi rendition="#i">f</hi> due to
+          Kentish influence) <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">*fyxen</hi>: Teut. base <hi
+            rendition="#i">fuhsinjô-</hi> (<hi rendition="#k">g.</hi>
+          <hi rendition="#i">füchsin</hi>), derived fr. <hi
+            rendition="#k">teut.</hi>
+          <hi rendition="#i">fuhs-</hi>
+          <hi rendition="#i">fohs-</hi> under <hi rendition="#g #i"
+            >fox</hi> (<hi rendition="#i">-injô-</hi> being fem.
+          suffix as in <hi rendition="#k">g.</hi>
+          <hi rendition="#i">göttin</hi>, <hi rendition="#i"
+            >gräfin</hi> etc.).</p>
+        <p><hi rendition="#b">voice</hi> sb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">vois</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">vois</hi> (<hi rendition="#k">fr.</hi>
+          <hi rendition="#i">voix</hi>) = <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">vox</hi>.</p>
+        <p><hi rendition="#b">voutch</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">vouche</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">voucher</hi> (= <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">vocare</hi>).</p>
+        <p><hi rendition="#b">vow</hi> sb. <hi rendition="#k">me.</hi>
+          <hi rendition="#i">vou</hi> fr. <hi rendition="#k">ofr.</hi>
+          <hi rendition="#i">vou</hi> (<hi rendition="#k">fr.</hi>
+          <hi rendition="#i">voeu</hi>) = <hi rendition="#k">lat.</hi>
+          <hi rendition="#i">votum</hi>.</p>
+        <p><hi rendition="#b">voyage</hi> sb. fr. <hi rendition="#k"
+            >fr.</hi>
+          <hi rendition="#i">voyage</hi>; cp. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">víáǧe</hi>
+          <hi rendition="#i">vẹ́áge</hi> fr. <hi rendition="#k"
+            >ofr.</hi>
+          <hi rendition="#i">veiage</hi>. Source lat. <hi
+            rendition="#i">viaticum</hi>.</p>
+        <cb type="end"/>
+      </div>
+      <div xml:id="section-w">
+        <head rendition="#c">W</head>
+        <cb n="1" corresp="#f0225-1"/>
+        <p><hi rendition="#b">wade</hi> vb. <hi rendition="#k"
+            >me.</hi>
+          <hi rendition="#i">wáde</hi>
+          <hi rendition="#k">oe.</hi>
+          <hi rendition="#i">wădan</hi> (prt. <hi rendition="#i"
+            >wọ́d</hi>) str. vb. = <hi rendition="#k">on.</hi>
+          <hi rendition="#i">vađa</hi>, <cb n="2" corresp="#f0225-2"
+            /><hi rendition="#k">du.</hi>
+          <hi rendition="#i">waden</hi>, <hi rendition="#k">ohg.</hi>
+          <hi rendition="#i">watan</hi> str. vb. (<hi rendition="#k"
+            >g.</hi>
+          <hi rendition="#i">waten</hi> wk. vb.): <hi rendition="#k"
+            >teut.</hi> √ <hi rendition="#i">wad</hi>, <pb n="220"
+            facs="#f0226"/><cb n="2"/><hi rendition="#k">aryan</hi> √
+            <hi rendition="#i">wā̆dh</hi> in <hi rendition="#k"
+            >lat.</hi>
+          <hi rendition="#i">vấdere</hi> ‘to go’.</p>
+        <cb type="start"/>
         <cb type="end"/>
       </div>
     </body>
