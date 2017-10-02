@@ -8,7 +8,7 @@ The collection of transcripts comprise the following dictionaries:
 | falk+torp-1911  | Falk, H. S.; Torp, Alf: Norwegisch-dänisches etymologisches Wörterbuch. Zweiter Teil (P – Ø). Heidelberg, 1911. | stub |
 | goedel-1902     | Goedel, Gustav: Etymologisches Wörterbuch der deutschen Seemannssprache. Kiel, Leipzig, 1902. | fully transcribed |
 | juergens-1877   | Jürgens, Karl: Etymologisches Lehnwörterbuch der deutschen Sprache. Braunschweig, 1877. | stub |
-| kluge+lutz-1898 | Kluge, Friedrich/Lutz, Frederick: English Etymology. A Select Glossary Serving as an Introduction to the History of the English Language. Boston, 1898. | partly transcribed |
+| kluge+lutz-1898 | Kluge, Friedrich/Lutz, Frederick: English Etymology. A Select Glossary Serving as an Introduction to the History of the English Language. Boston, 1898. | fully transcribed |
 | lokotsch-1927   | Lokotsch, Karl: Etymologisches Wörterbuch der europäischen (germanischen, romanischen und slavischen) Wörter orientalischen Ursprungs. Heidelberg, 1927. | partly transcribed |
 | meidinger-1836  | Meidinger, Heinrich: Vergleichendes etymologisches Woerterbuch der gothisch-teutonischen Mundarten. Frankfurt am Main, ²1836. | stub |
 | miklosich-1886  | Miklosich, Franz: Etymologisches Wörterbuch der slavischen Sprachen. Wien, 1886. | stub |
