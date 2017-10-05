@@ -38,17 +38,19 @@
           <orgName ref="https://github.com/xlhrld/retro-dict"
             >retro-dict</orgName>
         </publisher>
-        <date type="publication">2017-05-31</date>
+        <date type="publication">2017-10-05</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/">
-            <p>This work is licensed under a Creative Commons Attribution
-              4.0 International License.</p>
+          <licence
+            target="https://creativecommons.org/licenses/by/4.0/">
+            <p>This work is licensed under a Creative Commons
+              Attribution 4.0 International License.</p>
           </licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Falk, H. S.; Torp, Alf: Norwegisch-dänisches etymologisches
-          Wörterbuch. Erster Teil (A – O). Heidelberg, 1910.</bibl>
+        <bibl>Falk, H. S.; Torp, Alf: Norwegisch-dänisches
+          etymologisches Wörterbuch. Erster Teil (A – O). Heidelberg,
+          1910.</bibl>
         <biblFull>
           <titleStmt>
             <title type="main">Norwegisch-dänisches etymologisches
@@ -97,11 +99,12 @@
     <encodingDesc>
       <editorialDecl>
         <p>font properties preserved, no character normalization, line
-          breaks not preserved, signature marks not preserved, hyphenation
-          not preserved (words reconstructed)</p>
+          breaks not preserved, signature marks not preserved,
+          hyphenation not preserved (words reconstructed)</p>
         <p>TEI markup according to the DTA base format (<ref
             target="http://www.deutschestextarchiv.de/doku/basisformat/"
-            >DTABf</ref>), a TEI customization for historical texts)</p>
+            >DTABf</ref>), a TEI customization for historical
+          texts)</p>
       </editorialDecl>
     </encodingDesc>
     <profileDesc>
@@ -118,11 +121,11 @@
           <titlePart type="series">Germanische Bibliothek</titlePart>
         </docTitle>
         <byline><hi rendition="#smaller">HERAUSGEGEBEN VON</hi>
-          <lb/><docAuthor corresp="http://d-nb.info/gnd/117317500">WILHELM
-            STREITBERG</docAuthor></byline>
+          <lb/><docAuthor corresp="http://d-nb.info/gnd/117317500"
+            >WILHELM STREITBERG</docAuthor></byline>
         <docTitle>
-          <titlePart type="sub">I. SAMMLUNG <lb/>GERMANISCHER ELEMENTAR-
-            UND HANDBÜCHER</titlePart>
+          <titlePart type="sub">I. SAMMLUNG <lb/>GERMANISCHER
+            ELEMENTAR- UND HANDBÜCHER</titlePart>
           <milestone rendition="#hr" unit="section"/>
           <titlePart type="sub">IV. REIHE: WÖRTERBÜCHER</titlePart>
           <titlePart type="sub">ERSTER BAND</titlePart>
@@ -147,15 +150,15 @@
       <pb facs="#f0002" n="[III]"/>
       <titlePage type="main">
         <docTitle>
-          <titlePart type="main">NORWEGISCH-DÄNISCHES <lb/>ETYMOLOGISCHES
-            <lb/>WÖRTERBUCH</titlePart>
+          <titlePart type="main">NORWEGISCH-DÄNISCHES
+            <lb/>ETYMOLOGISCHES <lb/>WÖRTERBUCH</titlePart>
         </docTitle>
         <lb/>
         <byline>AUF GRUND DER ÜBERSETZUNG VON Dr. <persName>H.
             DAVIDSEN</persName>
           <lb/>NEU BEARBEITETE DEUTSCHE AUSGABE <lb/>MIT
-          LITERATURNACHWEISEN STRITTIGER ETYMOLOGIEN <lb/>SOWIE DEUTSCHEM
-          UND ALTNORDISCHEM <lb/>WÖRTERVERZEICHNIS <lb/><hi
+          LITERATURNACHWEISEN STRITTIGER ETYMOLOGIEN <lb/>SOWIE
+          DEUTSCHEM UND ALTNORDISCHEM <lb/>WÖRTERVERZEICHNIS <lb/><hi
             rendition="#smaller">von</hi>
           <lb/><docAuthor corresp="http://d-nb.info/gnd/136512119"><hi
               rendition="#larger">H. S. FALK</hi></docAuthor> und
@@ -165,8 +168,8 @@
             KRISTIANIA</hi>
         </byline>
         <lb/>
-        <titlePart type="volume">ERSTER TEIL <lb/><hi rendition="#smaller"
-            >A—O</hi></titlePart>
+        <titlePart type="volume">ERSTER TEIL <lb/><hi
+            rendition="#smaller">A—O</hi></titlePart>
         <lb/>
         <figure/>
         <lb/>
@@ -180,94 +183,103 @@
       </titlePage>
       <pb facs="#f0003" n="[IV]"/>
       <div>
-        <p rendition="#c">Alle Rechte, besonders das Recht der Übersetzung
-          in fremde Sprachen, werden vorbehalten.</p>
+        <p rendition="#c">Alle Rechte, besonders das Recht der
+          Übersetzung in fremde Sprachen, werden vorbehalten.</p>
       </div>
       <pb facs="#f0004" n="V"/>
       <div xml:id="preface">
         <head rendition="#c">Vorwort.</head>
-        <p>Das in den jahren 1900—1906 erschienene „Etymologisk ordbog over
-          det norske og det danske sprog“ beabsichtigte, die ergebnisse der
-          etymologischen forschung einem größeren leserkreise zugänglich zu
-          machen, und ist aus diesem gesichtspunkt zu beurteilen. Die
-          ausdrucksweise mußte im allgemeinen umständlicher werden als in
-          einem ausschließlich für fachmänner bestimmten werke. Abweichende
-          auffassungen konnten nur in beschränktem maße erwähnt, geschweige
-          denn erörtert werden. Redensarten und phraseologische ausdrücke,
-          die eine sprachliche oder reale aufhellung bedurften, wurden in
-          größerer breite behandelt, als sonst in etymologischen
+        <p>Das in den jahren 1900—1906 erschienene „Etymologisk ordbog
+          over det norske og det danske sprog“ beabsichtigte, die
+          ergebnisse der etymologischen forschung einem größeren
+          leserkreise zugänglich zu machen, und ist aus diesem
+          gesichtspunkt zu beurteilen. Die ausdrucksweise mußte im
+          allgemeinen umständlicher werden als in einem ausschließlich
+          für fachmänner bestimmten werke. Abweichende auffassungen
+          konnten nur in beschränktem maße erwähnt, geschweige denn
+          erörtert werden. Redensarten und phraseologische ausdrücke,
+          die eine sprachliche oder reale aufhellung bedurften, wurden
+          in größerer breite behandelt, als sonst in etymologischen
           wörterbüchern geschieht. Wir verhehlen uns nicht, daß die
-          deutsche bearbeitung des buches von diesen eigentümlichkeiten
-          mehr bewahrt hat, als dem neuen abnehmerkreise angemessen wäre.
-          Andrerseits ist das buch, was die etymologischen
-          zusammenstellungen betrifft, einer durchgreifenden Umarbeitung
-          unterzogen worden, die sich auf fast jeden artikel erstreckt hat.
-          Um den wissenschaftlichen erfordernissen gerecht zu werden, haben
-          wir — dem wunsche des verlegers gemäß — ein
-            literaturverzeichnis<note place="foot" n="1">In diesem
-            Verzeichnis führt das neueste buch H. Schröders statt
-            „Ablautstudien“ irrtümlich den titel „Zum germ. ablaut“.</note>
-          mit angabe der abweichenden etymologien angefertigt; daß dabei
-          manche erwägenswerte erklärung übersehen sein wird, ist wohl
-          nicht zu verwundern, zumal da eine ganz vollständige literatur
-          uns nicht zu gebote stand. Mancher wird es vielleicht als einen
-          übelstand empfinden, daß in dieser weise fast jedes wort zweimal
-          aufgesucht werden muß; dieser nachteil wird aber wohl dadurch <pb
-            n="VI" facs="#f0005"/>aufgewogen, daß bei dieser anordnung des
-          stoffes die hauptartikel übersichtlicher und lesbarer geworden
-          sind. Den deutschen fachgenossen zuliebe ist ein index über die
-          im buche besprochenen deutschen wörter beigegeben worden, in dem
-          jedoch von der vollzähligen aufstellung aller sich entsprechenden
-          formen abgesehen werden mußte.</p>
-        <p>Eine besondere teilung der arbeit unter den verfassern hat nicht
-          stattgefunden. Sowohl an der einsammlung des materials wie an der
-          bearbeitung desselben haben beide so ziemlich denselben anteil
-          gehabt. Auch von den neuen etymologien, die das buch bringt, ist
-          es schwer zu sagen, wem von beiden jede einzelne gehört, sie sind
-          gewöhnlich unter gemeinsamer erwägung zustande gekommen.</p>
+          deutsche bearbeitung des buches von diesen
+          eigentümlichkeiten mehr bewahrt hat, als dem neuen
+          abnehmerkreise angemessen wäre. Andrerseits ist das buch,
+          was die etymologischen zusammenstellungen betrifft, einer
+          durchgreifenden Umarbeitung unterzogen worden, die sich auf
+          fast jeden artikel erstreckt hat. Um den wissenschaftlichen
+          erfordernissen gerecht zu werden, haben wir — dem wunsche
+          des verlegers gemäß — ein literaturverzeichnis<note
+            place="foot" n="1">In diesem Verzeichnis führt das neueste
+            buch H. Schröders statt „Ablautstudien“ irrtümlich den
+            titel „Zum germ. ablaut“.</note> mit angabe der
+          abweichenden etymologien angefertigt; daß dabei manche
+          erwägenswerte erklärung übersehen sein wird, ist wohl nicht
+          zu verwundern, zumal da eine ganz vollständige literatur uns
+          nicht zu gebote stand. Mancher wird es vielleicht als einen
+          übelstand empfinden, daß in dieser weise fast jedes wort
+          zweimal aufgesucht werden muß; dieser nachteil wird aber
+          wohl dadurch <pb n="VI" facs="#f0005"/>aufgewogen, daß bei
+          dieser anordnung des stoffes die hauptartikel
+          übersichtlicher und lesbarer geworden sind. Den deutschen
+          fachgenossen zuliebe ist ein index über die im buche
+          besprochenen deutschen wörter beigegeben worden, in dem
+          jedoch von der vollzähligen aufstellung aller sich
+          entsprechenden formen abgesehen werden mußte.</p>
+        <p>Eine besondere teilung der arbeit unter den verfassern hat
+          nicht stattgefunden. Sowohl an der einsammlung des materials
+          wie an der bearbeitung desselben haben beide so ziemlich
+          denselben anteil gehabt. Auch von den neuen etymologien, die
+          das buch bringt, ist es schwer zu sagen, wem von beiden jede
+          einzelne gehört, sie sind gewöhnlich unter gemeinsamer
+          erwägung zustande gekommen.</p>
         <p>Mit diesen bemerkungen übergeben wir unser buch einer
-          wohlwollenden kritik. Über die unvollkommenheiten und schwächen
-          desselben täuschen wir uns nicht, hoffen aber, daß die
-          verdeutschte ausgabe, die uns viel arbeit gekostet hat, auch als
-          ein entschiedener fortschritt bezeichnet werden darf.</p>
+          wohlwollenden kritik. Über die unvollkommenheiten und
+          schwächen desselben täuschen wir uns nicht, hoffen aber, daß
+          die verdeutschte ausgabe, die uns viel arbeit gekostet hat,
+          auch als ein entschiedener fortschritt bezeichnet werden
+          darf.</p>
         <p><hi rendition="#g">Kristiania</hi>, Juli 1910.</p>
-        <p rendition="#c"><hi rendition="#larger #b">Hjalmar Falk.</hi>
+        <p rendition="#c"><hi rendition="#larger #b">Hjalmar
+            Falk.</hi>
           <hi rendition="#larger #b">Alf Torp.</hi></p>
       </div>
       <pb n="VII" facs="#f0006"/>
       <div xml:id="abbreviations">
         <head rendition="#c">Abkürzungen.</head>
         <cb type="start"/>
-        <p><cb n="1"/>* = hypothetische Form. <lb/>ags. = angelsächsisch.
-          <lb/>afrz. = altfranzösisch. <lb/>afries. = altfriesisch.
-          <lb/>ahd. = althochdeutsch. <lb/>air. = altirisch. <lb/>alb. =
-          albanesisch. <lb/>anord. = altnordisch. <lb/>apers. =
-          altpersisch. <lb/>apreuß. = altpreußisch. <lb/>arm. = armenisch.
-          <lb/>as. = altsächsisch. <lb/>aslav. = altslavisch. <lb/>aschwed.
-          = altschwedisch. <lb/>avest. = avestisch. <lb/>bed. = bedeutung.
-          <lb/>bret. = bretonisch. <lb/>čech. = čechisch. <lb/>d. =
-          deutsch. <lb/>dän. = dänisch. <lb/>dass., ds. = dasselbe.
-          <lb/>dial. = dialektisch. <lb/>engl. = englisch. <lb/>fries. =
-          friesisch. <lb/>frz. = französisch. <lb/>gäl. = gälisch.
-          <lb/>gall. = gallisch. <lb/>germ. = germanisch. <lb/>got. =
-          gotisch. <lb/>gr. = griechisch. <lb/>gutn. = gutnisch. <lb/>hebr.
-          = hebräisch. <lb/>holl. = holländisch. <lb/>hd. = hochdeutsch.
-          <lb/>idg. = indogermanisch. <lb/>ir. = irisch. <cb n="2"/>isl. =
-          isländisch. <lb/>ital. = italienisch. <lb/>kelt. = keltisch.
-          <lb/>korn. = kornisch. <lb/>kymr. = kymrisch. <lb/>lapp. =
-          lappisch. <lb/>lat. = lateinisch. <lb/>lett. = lettisch.
-          <lb/>lit. = litauisch. <lb/>mhd. = mittelhochdeutsch. <lb/>mir. =
-          millelirisch. <lb/>mlat. = mittelalterlich-lateinisch. <lb/>mndl.
-          = mittelniederländisch. <lb/>mnd. = mittelniederdeutsch. <lb/>nd.
-          = niederdeutsch. <lb/>neunorw. = neunorwegisch („landsmaal“).
-          <lb/>nord. = nordisch. <lb/>norw. = norwegisch („rigsmaal“).
-          <lb/>osk. = oskisch. <lb/>pers. = persisch. <lb/>poln. =
-          polnisch. <lb/>port. = portugiesisch. <lb/>prov. = provenzalisch.
-          <lb/>rom. = romanisch. <lb/>russ. = russisch. <lb/>schwed. =
-          schwedisch. <lb/>serb. = serbisch. <lb/>skr. = sanskrit.
-          <lb/>slav. = slavisch. <lb/>slov. = slovenisch. <lb/>span. =
-          spanisch. <lb/>Syntax = Dansk-norskens syntax af Falk og Torp
-          (Kristiania 1900). <lb/>umbr. = umbrisch.<cb type="end"/>
+        <p><cb n="1"/>* = hypothetische Form. <lb/>ags. =
+          angelsächsisch. <lb/>afrz. = altfranzösisch. <lb/>afries. =
+          altfriesisch. <lb/>ahd. = althochdeutsch. <lb/>air. =
+          altirisch. <lb/>alb. = albanesisch. <lb/>anord. =
+          altnordisch. <lb/>apers. = altpersisch. <lb/>apreuß. =
+          altpreußisch. <lb/>arm. = armenisch. <lb/>as. =
+          altsächsisch. <lb/>aslav. = altslavisch. <lb/>aschwed. =
+          altschwedisch. <lb/>avest. = avestisch. <lb/>bed. =
+          bedeutung. <lb/>bret. = bretonisch. <lb/>čech. = čechisch.
+          <lb/>d. = deutsch. <lb/>dän. = dänisch. <lb/>dass., ds. =
+          dasselbe. <lb/>dial. = dialektisch. <lb/>engl. = englisch.
+          <lb/>fries. = friesisch. <lb/>frz. = französisch. <lb/>gäl.
+          = gälisch. <lb/>gall. = gallisch. <lb/>germ. = germanisch.
+          <lb/>got. = gotisch. <lb/>gr. = griechisch. <lb/>gutn. =
+          gutnisch. <lb/>hebr. = hebräisch. <lb/>holl. = holländisch.
+          <lb/>hd. = hochdeutsch. <lb/>idg. = indogermanisch. <lb/>ir.
+          = irisch. <cb n="2"/>isl. = isländisch. <lb/>ital. =
+          italienisch. <lb/>kelt. = keltisch. <lb/>korn. = kornisch.
+          <lb/>kymr. = kymrisch. <lb/>lapp. = lappisch. <lb/>lat. =
+          lateinisch. <lb/>lett. = lettisch. <lb/>lit. = litauisch.
+          <lb/>mhd. = mittelhochdeutsch. <lb/>mir. = millelirisch.
+          <lb/>mlat. = mittelalterlich-lateinisch. <lb/>mndl. =
+          mittelniederländisch. <lb/>mnd. = mittelniederdeutsch.
+          <lb/>nd. = niederdeutsch. <lb/>neunorw. = neunorwegisch
+          („landsmaal“). <lb/>nord. = nordisch. <lb/>norw. =
+          norwegisch („rigsmaal“). <lb/>osk. = oskisch. <lb/>pers. =
+          persisch. <lb/>poln. = polnisch. <lb/>port. = portugiesisch.
+          <lb/>prov. = provenzalisch. <lb/>rom. = romanisch.
+          <lb/>russ. = russisch. <lb/>schwed. = schwedisch. <lb/>serb.
+          = serbisch. <lb/>skr. = sanskrit. <lb/>slav. = slavisch.
+          <lb/>slov. = slovenisch. <lb/>span. = spanisch. <lb/>Syntax
+          = Dansk-norskens syntax af Falk og Torp (Kristiania 1900).
+          <lb/>umbr. = umbrisch.<cb type="end"/>
           <milestone rendition="#hr" unit="section"/>
         </p>
         <pb n="[VIII]" facs="#f0007"/>
@@ -278,21 +290,980 @@
       <div xml:id="section-a">
         <head rendition="#c">A.</head>
         <p><hi rendition="#b">Aa</hi> (ein kleiner fluß), auch noch
-          lebendig im schwedischen und isländischen, sowie in deutschen
-          fluß- und ortsnamen auf <hi rendition="#i">-a</hi> (meist md. und
-          nd.) und <hi rendition="#i">-ach</hi> (meist südd.). Germ.
-          grundform <hi rendition="#i">*ahwô</hi>, anord. o&#808;&#769;
-          (norw. dial. <hi rendition="#i">aa</hi> und <hi rendition="#i"
-            >o</hi>), ahd. <hi rendition="#i">aha</hi>, „fließendes
-          wasser“, got. <hi rendition="#i">ahwa</hi> „fluß“. Dem entspricht
-          lat. <hi rendition="#i">aqua</hi> „wasser“, idg. <hi
-            rendition="#i">*akvâ</hi>. Vgl. die ableitung <hi
-            rendition="#i">ø</hi>. Der alte genitiv <hi rendition="#i"
-            >âr</hi> ist u. a. bewahrt im stadtnamen <hi rendition="#i #g"
-            >Aarhus</hi>, älter <hi rendition="#i">Arus</hi> oder <hi
-            rendition="#i">Aros</hi> = anord. <hi rendition="#i"
-            >âr-ôss</hi> „flußmündung“, und in mehreren ortsnamen in
-          Norwegen und Schweden.</p>
+          lebendig im schwedischen und isländischen, sowie in
+          deutschen fluß- und ortsnamen auf <hi rendition="#i">-a</hi>
+          (meist md. und nd.) und <hi rendition="#i">-ach</hi> (meist
+          südd.). Germ. grundform <hi rendition="#i">*ahwô</hi>,
+          anord. o&#808;&#769; (norw. dial. <hi rendition="#i">aa</hi>
+          und <hi rendition="#i">o</hi>), ahd. <hi rendition="#i"
+            >aha</hi>, „fließendes wasser“, got. <hi rendition="#i"
+            >ahwa</hi> „fluß“. Dem entspricht lat. <hi rendition="#i"
+            >aqua</hi> „wasser“, idg. <hi rendition="#i">*akvâ</hi>.
+          Vgl. die ableitung <hi rendition="#i">ø</hi>. Der alte
+          genitiv <hi rendition="#i">âr</hi> ist u. a. bewahrt im
+          stadtnamen <hi rendition="#i #g">Aarhus</hi>, älter <hi
+            rendition="#i">Arus</hi> oder <hi rendition="#i">Aros</hi>
+          = anord. <hi rendition="#i">âr-ôss</hi> „flußmündung“, und
+          in mehreren ortsnamen in Norwegen und Schweden. — <hi
+            rendition="#b">Aafloi</hi> (norw. = kleine fähre) gehört
+          zu anord. <hi rendition="#i">fley</hi> „kleines schiff“, das
+          etymologisch identisch ist mit gr. πλοι&#785;ον „schiff,
+          lastschiff“ (von *πλοϝιον). Die grundbedeutung ist „das
+          fließende“: siehe <hi rendition="#g #i">flaa</hi> I. — <hi
+            rendition="#g #i">Aaminde</hi> (flußmündung) siehe <hi
+            rendition="#g #i">minde</hi> II. — <hi rendition="#b"
+            >Aamot</hi> (norw. = stelle, wo zwei flüsse
+          zusammenfließen) gehört zu anord. und norw. dial. <hi
+            rendition="#i">môt</hi>, n. „begegnung“: siehe <hi
+            rendition="#g #i">møde</hi>. Das wort ist auch ortsname;
+          vgl. d. <hi rendition="#i">Coblenz</hi> von lat. <hi
+            rendition="#i">confluentes</hi>.</p>
+        <p><hi rendition="#b">Aa</hi> (präp. und adv.), in der
+          schriftsprache nur in zusammensetzungen bewahrt (siehe <hi
+            rendition="#g #i">paa</hi>), aber in nord. dialekten noch
+          lebendig. Anord. <hi rendition="#i">â</hi> (von <hi
+            rendition="#i">*an</hi>) = got. <hi rendition="#i"
+            >ana</hi>, ahd. <hi rendition="#i">ana</hi> (nhd. <hi
+            rendition="#i">an</hi>), ags. engl. <hi rendition="#i"
+            >on</hi>, as. <hi rendition="#i">an</hi> (holl. <hi
+            rendition="#i">aan</hi>). Germ. <hi rendition="#i"
+            >*ana</hi>, „auf, hinauf“ entspricht gr. <hi
+            rendition="#i">ἀνά</hi>, avest. <hi rendition="#i"
+            >ana</hi> „hinauf“, lat. <hi rendition="#i">an-</hi>
+          <hi rendition="#i">(anhêlare)</hi>, aslav. <hi
+            rendition="#i">vŭ</hi> (von <hi rendition="#i">*on</hi>),
+          air. <hi rendition="#i">an-</hi> (<hi rendition="#i"
+            >andess</hi> = südlich). — <hi rendition="#b">Aabit</hi>
+          oder <hi rendition="#g #i">aabite</hi> (norw. = frühstück),
+          schw. dial. <hi rendition="#i">âbett</hi> „kleine mahlzeit
+          vor dem frühstück“ = mnd. <hi rendition="#i">anbet</hi>
+          „kleine Zwischenmahlzeit“ (holl. <hi rendition="#i"
+            >ontbijt</hi>), mhd. anbiʒ (ält. nhd. <hi rendition="#i"
+            >Anbiß</hi>); vgl. ags. <hi rendition="#i">onbîtan</hi>
+          „anfangen zu essen, kosten“, as. <hi rendition="#i"
+            >an(t)bîtan</hi>, ahd. <hi rendition="#i">in(t)bîʒan</hi>.
+          Außer den präfixen <hi rendition="#i">*ana-</hi> und <hi
+            rendition="#i">*anda-</hi> findet sich auch <hi
+            rendition="#i">*in-</hi>: ahd. <hi rendition="#i"
+            >imbiz</hi> (nhd. <hi rendition="#i">Imbiß</hi>), mnd. <hi
+            rendition="#i">imbet</hi> „kleine mahlzeit“. Ält. dän. und
+          dän. dial. <hi rendition="#i">paarbid</hi> zeigt den
+          gewöhnlichen tausch von <hi rendition="#i">aa-</hi> mit <hi
+            rendition="#i">paa</hi>. Isl. <hi rendition="#i"
+            >ârbiti</hi> ist umgedeutet nach <hi rendition="#i"
+            >âr</hi> „früh“. Siehe <hi rendition="#g #i">bid</hi>. —
+            <hi rendition="#b">Aabod</hi> (norw. jurist. ausdruck =
+          verpflichtung des mieters, pächters zum ersatz für fehlende
+          instandhaltung der häuser) ist eine danisierte form von
+          anord. <hi rendition="#i">âbûđ</hi> f. (norw. dial. <hi
+            rendition="#i">aabud</hi>), in ders. bed., eigentlich
+          „bewohnung, wohnung“, dann „die daran geknüpften
+          bedingungen“. Das letzte glied ist also <hi
+            rendition="#g #i">bod</hi> I, aber aufgefaßt als <hi
+            rendition="#g #i">bod</hi> II. — <hi rendition="#g #i"
+            >Aabredsel</hi> (norw. = betttuch), anord. <hi
+            rendition="#i">âbreizl</hi> und <hi rendition="#i"
+            >âbreizla</hi> = ags. bræ̂edels „decke“. Siehe <hi
+            rendition="#i">brede</hi>. — <hi rendition="#b">Aabry</hi>
+          (norw. = eifersucht), anord. <hi rendition="#i">âbrŷđi</hi>,
+            <hi rendition="#i">afbrŷđi</hi>, <hi rendition="#i"
+            >afbrygđi</hi>, n. „eifersucht“ (<hi rendition="#i"
+            >âbrúđigr</hi> „eifersüchtig“, norw. dial. <hi
+            rendition="#i">aabrudig</hi> „eifersüchtig, necksüchtig“).
+          Germ. grundform <hi rendition="#i">*brugdia-</hi>,
+          abgeleitet vom vb. anord. <hi rendition="#i">bregđa</hi>
+          <hi rendition="#i">sêr</hi>, <hi rendition="#i"
+            >bregđast</hi>
+          <hi rendition="#i">viđ</hi>
+          <hi rendition="#i">e-t</hi> „sich etwas nahe gehen lassen,
+          sich von etwas anfechten <pb n="2" facs="#f0009"/>lassen“.
+          Siehe <hi rendition="#g #i">bry</hi>. — <hi
+            rendition="#g #i">Aaklæde</hi> (norw. = decke, bettdecke),
+          anord. <hi rendition="#i">âklæ̂đi</hi>. — <hi rendition="#b"
+            >Aasted</hi> (ort des verbrechens oder streites, worum
+          sich eine rechtssache dreht) ist gebildet von ält. dän. <hi
+            rendition="#i">aa</hi>
+          <hi rendition="#i">sted</hi>, neunorw. <hi rendition="#i"
+            >aa</hi>
+          <hi rendition="#i">stad</hi> „an dem orte“: eine <hi
+            rendition="#g #i">aastedssag</hi> ist eine sache, die eine
+          untersuchung an einem bestimmten angegebenen orte erfordert;
+          das substantiv ist aus den zusammensetzungen abstrahiert. —
+            <hi rendition="#b">Aasyn</hi> (gesicht), schw. <hi
+            rendition="#i">åsyn</hi> „anblick“, anord. <hi
+            rendition="#i">âsŷn</hi>, <hi rendition="#i">âsjôn</hi>,
+            <hi rendition="#i">âsjôna</hi>, <hi rendition="#i"
+            >âsŷnd</hi> f. „anblick, betrachtung, aussehen, gesicht“ =
+          ags. <hi rendition="#i">ansíen</hi>, <hi rendition="#i"
+            >anséon</hi> f. „ansicht, anblick, aussehen“; vgl. gr.
+          πρόσωπον. — <hi rendition="#b">Aasæde,</hi> norw. dial. <hi
+            rendition="#i">aasæte</hi> „bewohnen von grund und boden“,
+          anord. <hi rendition="#i">âsæti</hi> und <hi rendition="#i"
+            >âseta</hi>. <hi rendition="#g #i">Aasædesret</hi> ist das
+          recht, das nach norwegischem gesetz dem nächsten leibeserben
+          zukommt, grund und boden als erbe zu fordern gegen ersatz an
+          die miterben. — <hi rendition="#b">Aaverk</hi> (norw.
+          rechtsausdruck für beschädigung von fremdem festen
+          eigentum), schw. <hi rendition="#i">åverkan</hi>
+          „verheerung, zerstörende einwirkung“, anord. <hi
+            rendition="#i">âverk</hi> und <hi rendition="#i"
+            >âverki</hi> „beschädigung von eigentum, leibeskränkung“
+            (<hi rendition="#i">yrkja</hi>
+          <hi rendition="#i">â</hi>
+          <hi rendition="#i">e-n</hi> „einwirken, schaden“).</p>
+        <p><hi rendition="#b">Aaben,</hi> schw. <hi rendition="#i"
+            >öppen</hi>, anord. <hi rendition="#i">opinn</hi> = ags.
+          engl. <hi rendition="#i">open</hi>, as. <hi rendition="#i"
+            >opan</hi> (holl. <hi rendition="#i">open</hi>), ahd. <hi
+            rendition="#i">offan</hi> (nhd. <hi rendition="#i"
+            >offen</hi>). Germ. grundform <hi rendition="#i"
+            >*upena-</hi>, <hi rendition="#i">*upana-</hi>, gehört
+          wahrscheinlich zusammen mit dem adv. <hi rendition="#g #i"
+            >op</hi>, das auf ein germ. <hi rendition="#i">*ŭp</hi>,
+          kontaminationsform von <hi rendition="#i">ûp</hi> und <hi
+            rendition="#i">ŭpp</hi> &lt; <hi rendition="#i"
+            >*ū̆pná-</hi>, hinweist. Die grundbedeutung wird also
+          „nach oben gewandt“: vgl. anord. <hi rendition="#i"
+            >opinn</hi> „auf dem rücken liegend“ (lat. <hi
+            rendition="#i">supinus</hi>). — <hi rendition="#b"
+            >Aabenbar</hi> findet sich schon im anord. <hi
+            rendition="#i">opinberr</hi>, ist hier aber eingedrungen
+          vom mnd. <hi rendition="#i">openbâre</hi>, <hi
+            rendition="#i">openbâr</hi> (holl. <hi rendition="#i"
+            >openbaar</hi>) = mhd. <hi rendition="#i">offenbæ̂re</hi>
+          und <hi rendition="#i">offenbâr</hi> (nhd. <hi
+            rendition="#i">offenbar</hi>). Das suffix ist germ. <hi
+            rendition="#i">*bâria-</hi>, abgeleitet von <hi
+            rendition="#i">*beran</hi> „tragen“ (siehe <hi
+            rendition="#g #i">-bar</hi>). <hi rendition="#g #i"
+            >Aabenbar</hi> bedeutet also eigentlich „was sich offen
+          trägt, offen auftritt“; vgl. <hi rendition="#i">gebærde</hi>
+          und d. <hi rendition="#i">sonderbar</hi>. Im anord. ist das
+          Wort zusammengebracht worden mit dem adj. <hi rendition="#i"
+            >berr</hi> „bar, bloß, unzugedeckt“, was die bedeutung
+          nahelegte: vgl. as. <hi rendition="#i">bar</hi> „offenbar“,
+            <hi rendition="#i">barlîko</hi> adv. „offenbar“ (<hi
+            rendition="#i">barôn</hi>
+          <choice>
+            <sic/>
+            <corr>„</corr>
+          </choice>entblößen“).</p>
+        <p><hi rendition="#b">Aadre</hi> (dän. = adern auf holz
+          malen): siehe <hi rendition="#g #i">aare</hi> II.</p>
+        <p><hi rendition="#b">Aadsel,</hi> aschw. <hi rendition="#i"
+            >azl</hi>, vgl. anord. <hi rendition="#i">æ̂zli</hi>
+          „aas“. Das wort ist abgeleitet von norw. <hi
+            rendition="#g #i">aat</hi> mit demselben sufflx wie in
+          brændsel, gjemsel, gjødsel u. a. Die spezialisierung der
+          bedeutung von „speise“ zu „kadaver“ setzt das zwischenglied
+          „speise für wilde tiere, köder“ voraus (siehe <hi
+            rendition="#g #i">aat</hi>); man hat dieselbe entwicklung
+          im schw. <hi rendition="#i">åtel</hi> „aas, lockspeise“ und
+          im deutschen <hi rendition="#i">Aas</hi> (eigenthch
+          „speise“).</p>
+        <p><hi rendition="#b">Aag,</hi> schw. <hi rendition="#i"
+            >ok</hi>, anord. <hi rendition="#i">ok</hi>, n. „halsjoch“
+          = got. <hi rendition="#i">juk</hi> „joch, gespann (ochsen)“,
+          ahd. <hi rendition="#i">joh</hi> „tragjoch, bergrücken,
+          soviel land wie sich an einem Tage mit einem gespann ochsen
+          pflügen läßt“ (nhd. <hi rendition="#i">Joch</hi>), ags. <hi
+            rendition="#i">geoc</hi> (engl. <hi rendition="#i"
+            >yoke</hi>), as. <hi rendition="#i">juk</hi> (holl. <hi
+            rendition="#i">juk</hi>, <hi rendition="#i">jok</hi>). Das
+          wort gehört dem gemeinindogermanischen wortvorrat an. Dem
+          germ. stamme <hi rendition="#i">*juka-</hi> entspricht gr.
+          ζυγόν (ζευ&#785;γος, n. „gespann“), lat. <hi rendition="#i"
+            >jugum</hi> „joch“ (<hi rendition="#i">jûgerum</hi>
+          „pflugland für einen tag“ von <hi rendition="#i"
+            >*jeugeso-</hi>; vgl. deutsch <hi rendition="#i"
+            >Juchert</hi> und <hi rendition="#i">Jauchert</hi> in
+          ders. bed.), skr. <hi rendition="#i">yugá-</hi> „joch,
+          gespann“, air. <hi rendition="#i">cuing</hi> „joch“ (von <hi
+            rendition="#i">*com-jugos</hi> n.), kymr. <hi
+            rendition="#i">iau</hi>, gall. in <hi rendition="#i"
+            >Ver-jugo-dumnos</hi>, aslav. <hi rendition="#i">igo</hi>
+          (von <hi rendition="#i">*jugos</hi>), lit. <hi
+            rendition="#i">jùngas</hi>. Die verbalwurzel <hi
+            rendition="#i">*jeug</hi>, <hi rendition="#i">*ju(n)g</hi>
+          liegt vor in skr. <hi rendition="#i">yunájmi</hi>, gr.
+          ζεύγνυμι, lat. <hi rendition="#i">jungo</hi> „verbinde“. Die
+          figürliche bedeutung „zwang, sklaverei“ findet sich schon im
+          anord., ist jedoch fremden ursprungs, ebenso wie die
+          redensart <hi rendition="#g #i">gaa</hi>
+          <hi rendition="#g #i">under</hi>
+          <hi rendition="#g #i">aaget</hi>
+          <pb n="3" facs="#f0010"/>von lat. <hi rendition="#i"
+            >ire</hi>
+          <hi rendition="#i">sub</hi>
+          <hi rendition="#i">jugum</hi>: der überwundene mußte zum
+          zeichen der unterwerfung unter einer von drei speeren (zwei
+          vertikalen und einem horizontalen) gebildeten nachahmung des
+          ochsenjoches gehen. Siehe <hi rendition="#i">aake</hi> und
+            <hi rendition="#i">ög</hi>.</p>
+        <p><hi rendition="#b">Aager,</hi> schw. <hi rendition="#i"
+            >ocker</hi>, anord. <hi rendition="#i">okr</hi> n.
+          „wucher, zins“, von mnd. <hi rendition="#i">wôker</hi>
+          (holl. <hi rendition="#i">woeker</hi>) „zins, wucber“ = got.
+            <hi rendition="#i">wôkrs</hi> „wucher“, ags. <hi
+            rendition="#i">wôcor</hi> „abkomme, wucher“, afries. <hi
+            rendition="#i">wôker</hi>, ahd. <hi rendition="#i"
+            >wuochar</hi> „abkomme, ausbeute, ertrag, gewinn“ (nhd.
+            <hi rendition="#i">Wucher</hi>). Die grundbedeutung des
+          wortes ist „abkomme“, woraus sich „abwurf, zins“ entwickelt
+          hat; vgl. gr. τόκος „abkomme, zins“. Der echte anord.
+          ausdruck für den begriff ist <hi rendition="#i">âvǫxtr</hi>,
+          eigentlich „zuwachs“; vgl. skr. <hi rendition="#i"
+            >vr̥ddhi-</hi> „zins“, eigentlich „wachstum“. Die
+          einschränkung auf „übertriebene oder unerlaubte zinsen“
+          stammt aus dem kirchlichen sprachgebrauch (vgl. engl. <hi
+            rendition="#i">usury</hi> „wucher“ &lt; lat. <hi
+            rendition="#i">usura</hi> „zinsen“): jeder zins galt der
+          kirche für unerlaubt. Die wurzel ist germ. <hi
+            rendition="#i">*wak</hi> = idg. <hi rendition="#i"
+            >*veq</hi>, dieselbe, die in <hi rendition="#g #i"
+            >vaage</hi> „wachen“ vorliegt: vgl. ags. <hi
+            rendition="#i">wacan</hi> „geboren werden“. Die
+          langvokalische ablautsform ist dieselbe wie in skr. <hi
+            rendition="#i">vâja-</hi> „kraft“. Der kurze vokal im
+          anord. wort beruht darauf, daß die mnd. vokale in offener
+          silbe alle halblang sind.</p>
+        <p><hi rendition="#b">Aake</hi> (norw. = querstange zur
+          befestigung der bretter in einer tür, querholz in einem
+          heck), anord. <hi rendition="#i">oki</hi>, eine ableitung
+          von <hi rendition="#g #i">aag</hi> mit der bedeutung „etwas
+          verbindendes“.</p>
+        <p><hi rendition="#b">Aal</hi> I (<hi rendition="#i"
+            >muræna</hi>
+          <hi rendition="#i">anguilla</hi>), schw. <hi rendition="#i"
+            >ål</hi>, anord. <hi rendition="#i">âll</hi> = ags. <hi
+            rendition="#i">æ̂l</hi> (engl. <hi rendition="#i"
+          >eel</hi>), mnd. <hi rendition="#i">âl</hi> (holl. <hi
+            rendition="#i">aal</hi>), ahd. <hi rendition="#i">âl</hi>
+          (nhd. <hi rendition="#i">Aal</hi>). Das wort läßt sich nicht
+          zusammenbringen mit lat. <hi rendition="#i">anguilla</hi>,
+          gr. ἔγχελυς, lit. <hi rendition="#i">ungury&#771;s</hi>,
+          aslav. <hi rendition="#i">ągorištĭ</hi> „aal“, eigentlich
+          „die kleine schlange“. Hierzu dän. <hi rendition="#g #i"
+            >gjøre</hi>
+          <hi rendition="#g #i">til</hi>
+          <hi rendition="#g #i">aal</hi>, <hi rendition="#g #i"
+            >aale</hi> „lächerlich machen“, vgl. <hi rendition="#g #i"
+            >aalehoved</hi> „schafskopf“. — <hi rendition="#g #i"
+            >Aalekvabbe</hi> (dän. = <hi rendition="#i">zoarces</hi>
+          <hi rendition="#i">viviparus</hi>, <hi rendition="#i"
+            >lota</hi>
+          <hi rendition="#i">vulgaris</hi>) = mnd. holl. <hi
+            rendition="#i">aalkwabbe</hi>, nhd. <hi rendition="#i"
+            >Aalquappe</hi>: siehe <hi rendition="#g #i">kvabbe</hi>.
+          Die bezeichnungen <hi rendition="#g #i">aalekone</hi> und
+          dänisch <hi rendition="#g #i">aalemoder</hi> (d. <hi
+            rendition="#i">Aalfrau</hi>, <hi rendition="#i"
+            >Aalmutter</hi>) beruhen auf volkstümlichen vorstellungen,
+          die in dem mystischen bei den geschlechts- und
+          fortpflanzungsverhältnissen des aals begründet sind (nach
+          Aristoteles und Plinius entstand der aal aus dem schlamm des
+          meeres). Vgl. auch norw. <hi rendition="#i">aalekuse</hi>,
+          schw. <hi rendition="#i">ålkusa</hi>.</p>
+        <p><hi rendition="#b">Aal</hi> II (norw. = sprößling, keim,
+          keimendes samenblättchen), anord. <hi rendition="#i"
+            >âll</hi> und <hi rendition="#i">ôll</hi> m. Der
+          vokalwechsel im anord. ist beweisend für eine germ.
+          grundform <hi rendition="#i">*anhlu-</hi>, wozu stimmt skr.
+            <hi rendition="#i">ankurá-</hi> „sprößling, keim“. Vgl.
+          (mit grammatischem wechsel) norw. dial. <hi rendition="#i"
+            >ange</hi> „keim, zacke“ (idg. <hi rendition="#i"
+            >*ankón</hi>): siehe <hi rendition="#g #i">angel</hi>.</p>
+        <p><hi rendition="#b">Aal</hi> III (norw. = schmaler streifen,
+          dunkler streifen längs des rückens von tieren, rinne oder
+          furche am grunde des wassers), schw. <hi rendition="#i"
+            >ål</hi> „rand längs dem rücken (von pferden)“, anord. <hi
+            rendition="#i">âll</hi> m. „tiefe rinne im fluß, sund oder
+          fjord, tiefes tal zwischen felsen, furche oder streifen
+          längs des rückens von tieren“. Das wort findet sich in
+          vielen norw. ortsnamen, denen die bedeutung „streifen“
+          zugrunde liegt. Hierzu d. <hi rendition="#i">Aal</hi> m.
+          „streifen im zeug, der durch walken entstanden ist“, <hi
+            rendition="#g #i">Aalstrich</hi> oder <hi
+            rendition="#g #i">Aalstreif</hi> „dunkler rückenstreifen“.
+          Im dänischen <hi rendition="#g #i">strømperne</hi>
+          <hi rendition="#g #i">ligger</hi>
+          <hi rendition="#g #i">i</hi>
+          <hi rendition="#g #i">aaler</hi> liegt dasselbe wort vor.
+          Etymologisch liegt es nahe, das wort mit skr. <hi
+            rendition="#i">âli-</hi> f. „streifen, strich, linie“ zu
+          verbinden. Wahrscheinlicher ist jedoch der zusammenhang mit
+          dem folgenden wort.</p>
+        <pb n="4" facs="#f0011"/>
+        <p><hi rendition="#b">Aal</hi> IV (dän. = eine weidenhaspe bei
+          hecktoren), in norw. dial. in dieser form nur in der
+          zusammensetzung <hi rendition="#i">maraal</hi> „scytosiphon
+          filum“ (auch <hi rendition="#i">martaum</hi> genannt).
+          Etymologisch dasselbe wort ist neunorw. <hi rendition="#i"
+            >ôl</hi> oder <hi rendition="#i">ôla</hi> „lederriemen“,
+          womit <hi rendition="#i">orda</hi>, <hi rendition="#i"
+            >arda</hi> „strippe am pferdegeschirr, an hosenträgern“,
+          aschw. <hi rendition="#i">arþa</hi> (zu gr. ἀραρίσκω „füge
+          zusammen“) zusammengeschmolzen ist, das einer ganz andern
+          familie angehört. <hi rendition="#g #i">Aal</hi>, <hi
+            rendition="#g #i">ol</hi> ist anord. <hi rendition="#i"
+            >âl</hi> oder <hi rendition="#i">ôl</hi> f. „lederriemen“.
+          Das vokalverhältnis ist beweisend für eine germ. grundform
+            <hi rendition="#i">*anhlô</hi>, von idg. wurzel <hi
+            rendition="#i">*ank</hi> „krümmen“ (siehe <hi
+            rendition="#g #i">aal</hi> II): das wort bezeichnet nicht
+          die ausgespannte schnur, sondern einen zum anknoten
+          verwendeten riemen; vgl. norw. dial. <hi rendition="#i"
+            >bakôla</hi> „der krumme hinterriemen (schwanzriemen) am
+          geschirr des pferdes“ (alt. dän. <hi rendition="#i"
+            >bagøl</hi>, <hi rendition="#i">øl</hi>), <hi
+            rendition="#i">bûkôl</hi> „bauchgurt“, sowie ags. <hi
+            rendition="#i">ôlþwang</hi> „strippe“. Hierzu gr. ἀγκύλη
+          „riemen, band“, von ἄγκυλος „krumm, gebogen“, lit. <hi
+            rendition="#i">ánka</hi> „schlinge, schleife“; weitere
+          verwandte siehe unter <hi rendition="#g #i">angel</hi>.</p>
+        <p><hi rendition="#b">Aal</hi> V (in buchdruckereien eine
+          ahle, mit der ein unrichtig gesetzter buchstabe aufgenommen
+          wird), entlehnt von mnd. <hi rendition="#i">âl</hi> „ahle,
+          pfriem“ (holl. <hi rendition="#i">aal</hi>) = ags. <hi
+            rendition="#i">æ̂l</hi>, ahd. <hi rendition="#i">âla</hi>
+          (nhd. <hi rendition="#i">Ahle</hi>). Eine nebenform mit
+          kurzem wurzelvokal ist anord. <hi rendition="#i">alr</hi>
+          m., ags. <hi rendition="#i">eal</hi>; vgl. ahd. <hi
+            rendition="#i">alansa</hi> (nhd. <hi rendition="#i"
+            >Alse</hi>, <hi rendition="#i">Else</hi>, wovon alt. dän.
+            <hi rendition="#i">else</hi>) &lt; <hi rendition="#i"
+            >*alesna</hi> (wovon frz. <hi rendition="#i">alêne</hi>),
+          holl. <hi rendition="#i">els</hi>. Weitere verwandte skr.
+            <hi rendition="#i">ârâ</hi> „ahle“, lit. <hi
+            rendition="#i">ýla</hi>, lett. <hi rendition="#i"
+            >ihlens</hi>, apreuß. <hi rendition="#i">ylo</hi>. Die
+          engl. form <hi rendition="#i">awl</hi> beruht auf einer im
+          me. eingetretenen vermischung mit ags. <hi rendition="#i"
+            >awul</hi> m. „gabel“, verwandt mit lat. <hi
+            rendition="#i">aculeus</hi> „stachel“ und identisch mit
+          anord. <hi rendition="#i">âll</hi> in <hi rendition="#i"
+            >sođ-âll</hi> „fleischgabel“ (idg. grundform <hi
+            rendition="#i">*acwelo-</hi>, zur wurzel <hi
+            rendition="#i">*ac</hi>; siehe <hi rendition="#g #i"
+            >eg</hi> II).</p>
+        <p><hi rendition="#b">Aal</hi> VI (im boston- und
+          l’hombrespiel der erste einsatz), wohl eigentlich spielmarke
+          von der form eines aals; vgl. den artikel <hi
+            rendition="#g #i">fisk</hi>.</p>
+        <p><hi rendition="#b">Aalam</hi> (dän. = mutterlamm) gehört
+          zusammen mit anord. <hi rendition="#i">âsauđr</hi>
+          „weibliches schaf“, norw. dial. <hi rendition="#i"
+            >ærsaud</hi> „schaf mit lämmern“. Zugrunde liegt anord.
+            <hi rendition="#i">æ̂r</hi> f. (akk. <hi rendition="#i"
+            >â</hi>) „weibliches schaf“ = ags. <hi rendition="#i"
+            >eowu</hi> (engl. <hi rendition="#i">ewe</hi> „weibliches
+          schaf“), asächs. <hi rendition="#i">ewi</hi> (holl. <hi
+            rendition="#i">ooi</hi>), ahd. <hi rendition="#i">ou</hi>
+          (d. dial. <hi rendition="#i">aue</hi>). Germ. grundform <hi
+            rendition="#i">*awi-</hi>, wozu die ableitungen got. <hi
+            rendition="#i">awêþi</hi>, ahd. <hi rendition="#i"
+            >ewiti</hi> und <hi rendition="#i">ouwiti</hi>, ags. <hi
+            rendition="#i">eowed</hi> „schafhürde“ und got. <hi
+            rendition="#i">awistr</hi>, ahd. <hi rendition="#i"
+            >ewist</hi> und <hi rendition="#i">ouwist</hi>, ags. <hi
+            rendition="#i">eowestre</hi> „schafpferch“. Gemeinidg.
+          benennung für „schaf“: skr. <hi rendition="#i">ávi-,</hi>
+          gr. ὄϊς, lat. <hi rendition="#i">ovis</hi>, air. <hi
+            rendition="#i">ói</hi> (von <hi rendition="#i"
+          >*ovis</hi>), lit. <hi rendition="#i">avìs</hi>; vgl. aslav.
+            <hi rendition="#i">ovĭca</hi>. Idg. grundform <hi
+            rendition="#i">*ovi-</hi>, sonst im germ. von andern
+          bezeichnungen abgelöst: nord. <hi rendition="#g #i"
+            >faar</hi> (s. d.), westgerm. <hi rendition="#i"
+            >*skêpa-</hi> (engl. <hi rendition="#i">sheep</hi>, d. <hi
+            rendition="#i">Schaf</hi>, holl. <hi rendition="#i"
+            >schaap</hi>).</p>
+        <p><hi rendition="#b">Aame</hi> (norw. = kohlraupe, made,
+          larve), ält. dän. <hi rendition="#i">omme</hi>, schw. dial.
+            <hi rendition="#i">åma</hi>; vgl. neuisl. <hi
+            rendition="#i">âmu-mađkr</hi>. Aufgrund der verwandten
+          wörter mnd. neund. <hi rendition="#i">amel</hi>, <hi
+            rendition="#i">emel</hi> „engerling, kornwurm, haarmilbe,
+          blattlaus, larve“, ags. <hi rendition="#i">emel</hi>, <hi
+            rendition="#i">ymel</hi> „kohlraupe“ könnte man annehmen,
+          norw. dial. <hi rendition="#i">ølma</hi>, <hi rendition="#i"
+            >ælma</hi>, <hi rendition="#i">alma</hi> seien durch
+          umstellung von <hi rendition="#i">m</hi> und <hi
+            rendition="#i">l</hi> entstanden. Indessen wird im ält. d.
+            <hi rendition="#i">Elben</hi> in der bed. „kriechende
+          larven, puppen, fliegende insekten“ gebraucht, ebenso wie
+          sich eine ahd. glosse findet <hi rendition="#i">alba</hi>
+          „locusta quae nondum volavit“. Dieses wort ist identisch mit
+          dem worte für <hi rendition="#g #i">alv</hi> (d. <hi
+            rendition="#i">Alp</hi>): nach deutschem volksglauben
+          zeigen sich die elfen oft als schmetterlinge. Dagegen dürfte
+            <hi rendition="#g #i">aame</hi> mit den genannten nd. und
+          ags. ablautsformen (grundform <hi rendition="#i"
+            >*amila-</hi>) zu einer wurzel <hi rendition="#i"
+            >*amə</hi> „plagen“ gehören, worüber vgl. <hi
+            rendition="#g #i">amper</hi>. Durch einfluß von <hi
+            rendition="#g #i">aame</hi> hätte dann vielleicht ein
+          älteres <pb n="5" facs="#f0012"/><hi rendition="#i"
+            >*alfa</hi> zu <hi rendition="#i">alma</hi> werden können
+          (zumal da <hi rendition="#i">*alfa</hi> im gen. pl. zu <hi
+            rendition="#i">*almna</hi> werden mußte). Im nordischen
+          aberglauben hat die <hi rendition="#g #i">aame</hi> eine
+          bedeutende rolle gespielt. So definiert Moth <hi
+            rendition="#i">omme</hi> als „eine schlange, die sowohl
+          vorwärts wie rfückwärts kriechen kann“; und das jütische <hi
+            rendition="#i">aame</hi> bezeichnet „ein tier in mooren,
+          das gift auf die leute bläst“. Als sekundäre erscheinung ist
+          dagegen anzusehen, wenn der name sich in verbindung mit
+          gewissen krankheiten findet: vgl. dän. dial. <hi
+            rendition="#i">omme</hi> „schwellung im euter einer kuh
+          beim kalben“, im ält. dän. auch „knoten in der brust einer
+          frau“, schw. dial. <hi rendition="#i">åmmblest</hi> „an der
+          rose erkrankt“ (eigentlich „angeblasen von einer larve“),
+          norw. dial. <hi rendition="#i">aamesykja</hi> „eine art
+          beule, deren ursache der larve eines insekts zugeschrieben
+          wird“. Dies letzte wort gehört deutlich zusammen mit anord.
+            <hi rendition="#i">âmusôtt</hi> „die rose“, das wiederum
+          mit ags. <hi rendition="#i">ôman</hi> (plur.) „die rose“
+          venvandt ist (vgl. ags. <hi rendition="#i">ôm</hi> „rost“,
+            <hi rendition="#i">ômig</hi> „rostig, entzündet“, <hi
+            rendition="#i">ômian</hi> „rosten“). Zu der veränderten
+          auffassung kann möglicherweise das wort <hi
+            rendition="#g #i">elveblæst</hi> (siehe <hi
+            rendition="#g #i">alv</hi>) beigetragen haben, indem das
+          wort <hi rendition="#g #i">alv</hi>, wie erwähnt, früher im
+          germ. auch „larve“ bedeutete.</p>
+        <p><hi rendition="#b">Aand</hi> und <hi rendition="#b"
+            >aande,</hi> schw. <hi rendition="#i">ande</hi> (so immer
+          im sinne von „unkörperliches wesen“) und <hi rendition="#i"
+            >anda</hi> (so immer in figürlicher bedeutung), anord. <hi
+            rendition="#i">andi</hi> m. „atem, atemzug, atemwesen,
+          geist, seele“, und <hi rendition="#i">ǫnd</hi> f. „atem,
+          atemzug, lebensatem, leben, seele“, aschw. <hi
+            rendition="#i">ande</hi> „atem, atemzug, atemwesen“ und
+            <hi rendition="#i">and</hi> „seele, leben“; in norw. dial.
+          wird stets infolge dänischen einflusses in der bedeutung
+          „leben, seele, geist, geistiges wesen“ die form <hi
+            rendition="#i">aand</hi> gebraucht (so immer <hi
+            rendition="#i">den</hi>
+          <hi rendition="#i">helligaand</hi> „der heilige geist“),
+          während „atem(zug)“ sowohl <hi rendition="#i">and</hi> wie
+            <hi rendition="#i">ande</hi> heißt. Die altgerm. bedeutung
+          von <hi rendition="#g #i">aand</hi> ist „atem, atemzug“. Bei
+          der einführung des christentums wurde das wort zur
+          bezeichnung von „seele“ (lat. <hi rendition="#i"
+            >spiritus</hi>, d. <hi rendition="#i">Geist</hi>)
+          gebraucht, eine bedeutung, die jedoch wenig in die
+          volkssprache eindrang. In der philosophischen spekulation
+          wurde es darauf von den höheren formen des bewußtseins
+          angewandt. Endlich wird das wort in neuerer zeit unter dem
+          einfluß von franz. <hi rendition="#i">esprit</hi> besonders
+          von einer speziellen geistigen gabe, der fähigkeit, neue und
+          ansprechende kombinationen von vorstellungen zu schaffen,
+          gebraucht; vgl. <hi rendition="#g #i">skjønand</hi>
+          „schöngeist“ (frz. <hi rendition="#i">bel-esprit</hi>), <hi
+            rendition="#g #i">aandrig</hi> „geistreich“, <hi
+            rendition="#g #i">aandfuld</hi> „geistvoll“. Eine andere
+          bedeutung haben die dem anord. <hi rendition="#i">andi</hi>
+          entsprechenden wörter: ags. <hi rendition="#i">anda</hi>,
+          as. <hi rendition="#i">ando</hi>, ahd. <hi rendition="#i"
+            >anto</hi>, <hi rendition="#i">ando</hi>, <hi
+            rendition="#i">anado</hi> „ärger, zorn“, ursprünglich
+          „starkes pusten, schnauben als folge von erregung“. Dagegen
+          stimmt ags. <hi rendition="#i">êþian</hi> „atmen, riechen“,
+            <hi rendition="#i">oroþ</hi> „atemzug“, die in gotischer
+          form <hi rendition="#i">*anþjan</hi> und <hi rendition="#i"
+            >*uz-anþ-</hi> lauten würden. Die grundwurzel ist <hi
+            rendition="#i">*anə</hi> „pusten, atmen“, bewahrt im got.
+            <hi rendition="#i">us-anan</hi> „ausatmen, sterben“, skr.
+            <hi rendition="#i">ániti</hi> „atmet“. Verwandt sind lat.
+            <hi rendition="#i">animus</hi> und <hi rendition="#i"
+            >anima</hi>, gr. ἄνεμος, skr. <hi rendition="#i"
+            >ánila-</hi> „wind“ (vgl. norw. dial. <hi rendition="#i"
+            >ande</hi> „schwacher windhauch“), air. <hi rendition="#i"
+            >anál</hi> (von <hi rendition="#i">*anatlá</hi>), aslav.
+            <hi rendition="#i">ronja</hi> (für <hi rendition="#i"
+            >*onjâ</hi>) „geruch“. Zur bedeutung vgl. auch lat. <hi
+            rendition="#i">spiritus</hi> : <hi rendition="#i"
+            >spirare</hi>, gr. πνευ&#785;μα : πνει&#785;ν. — <choice>
+            <sic>—</sic>
+            <corr/>
+          </choice>
+          <hi rendition="#g #i">Aandsnærværelse</hi> gibt nhd. <hi
+            rendition="#i">Geistesgegenwart</hi> wieder, das wieder
+          das frz. <hi rendition="#i">présence</hi>
+          <hi rendition="#i">d’esprit</hi> übersetzt (engl. <hi
+            rendition="#i">presence</hi>
+          <hi rendition="#i">of</hi>
+          <hi rendition="#i">mind</hi>).</p>
+        <p><hi rendition="#b">Aander</hi> (norw. = eine art
+          schneeschuh, „ski“), schw. dial. <hi rendition="#i"
+            >andur</hi> „der kürzere Schneeschuh“, anord. <hi
+            rendition="#i">ǫndurr</hi> und <hi rendition="#i"
+            >andri</hi> „eine art schneeschuh“. Hierzu norw. dial. <hi
+            rendition="#i">andra</hi> „schiene unter den <pb n="6"
+            facs="#f0013"/>kufen eines schlittens“, schw. dial. <hi
+            rendition="#i">andra</hi>, jütisch <hi rendition="#i"
+            >andre</hi>. Finnisch <hi rendition="#i">antura</hi>
+          „sohle, sandale, eisenbeschlag unter den schlittenkufen“ ist
+          nordisches lehnwort. Das wort ist auch ins livische <hi
+            rendition="#i">(andors)</hi> eingedrungen und daraus ins
+          lettische (<hi rendition="#i">andrus</hi> „strohkiel“). Die
+          grundbedeutung von germ. <hi rendition="#i">*andurô</hi> war
+          also eigentlich „schützende unterlage“. Das wort mit der
+          präp. <hi rendition="#i">under</hi> zu verbinden, geht kaum
+          an, da eine solche Ablautsform sonst nicht nachgewiesen ist.
+          Wahrscheinlich gehört es zu der germ. präp. <hi
+            rendition="#i">*and</hi> „entgegen“ und bezeichnet
+          ursprünglich „das, was entgegengesetzt wird, was den stoß
+          auffangen soll“.</p>
+        <p><hi rendition="#b">Aann</hi> (norw. = bodenarbeit im herbst
+          und frühjahr), norw. dial. <hi rendition="#i">onn</hi>
+          „geschäftigkeit, strenge arbeit, fleiß, eifer; zeit, wo die
+          großen arbeiten auf dem felde vorgenommen werden“, anord.
+            <hi rendition="#i">ǫnn</hi> f. „eifer, anstrengung,
+          strenge arbeit, die zeit des jahres, wo man am meisten zu
+          tun hat (herbst und frühjahr)“. Hierzu formen mit <hi
+            rendition="#i">nd</hi>: schw. <hi rendition="#i">and</hi>
+          „bodenarbeit“, norw. dial. <hi rendition="#i">enda</hi>
+          „fleißig arbeiten“ = <hi rendition="#i">anna</hi>, <hi
+            rendition="#i">annast</hi> (anord. <hi rendition="#i"
+            >annast</hi>), <hi rendition="#i">endig</hi> „fleißig“ =
+            <hi rendition="#i">ann</hi>, <hi rendition="#i">onnug</hi>
+          (anord. <hi rendition="#i">ǫnnugr</hi>); vgl. mhd. <hi
+            rendition="#i">endec</hi> „eifrig, schnell“, auch <hi
+            rendition="#i">ende-haft</hi>, <hi rendition="#i"
+            >ende(c)lich</hi>. Germ. wurzel <hi rendition="#i"
+            >*anþ</hi>, dieselbe wie in <hi rendition="#g #i"
+            >aand(e)</hi>; grundbedeutung wird also „(vor anstrengung)
+          pusten“; vgl. <hi rendition="#g #i">ænse</hi>. Bei der
+          bedeutung „erdarbeit im herbst und frühling“ hat gewiß ein
+          anderes wort mit hineingespielt: germ. <hi rendition="#i"
+            >*azani-</hi> (in den zusammengezogenen formen würde <hi
+            rendition="#i">zn</hi> anord. <hi rendition="#i">nn</hi>
+          geben), wozu got. <hi rendition="#i">asans</hi> f. „das
+          einernten, die ernte“, as. <hi rendition="#i">asna</hi>
+          „lohn, abgabe“, ahd. <hi rendition="#i">aran</hi>, mhd. <hi
+            rendition="#i">erne</hi> (nhd. <hi rendition="#i"
+            >Ernte</hi>); aslav. <hi rendition="#i">jesenĭ</hi>, russ.
+            <hi rendition="#i">osen'</hi>, apreuß. <hi rendition="#i"
+            >assanis</hi> „ernte“ sind vielleicht lehnwörter aus dem
+          germanischen.</p>
+        <p><hi rendition="#b">Aar,</hi> schw. <hi rendition="#i"
+            >år</hi>, anord. <hi rendition="#i">âr</hi> = got. <hi
+            rendition="#i">jêr</hi>, ags. <hi rendition="#i">geár</hi>
+          (engl. <hi rendition="#i">year</hi>), as. <hi rendition="#i"
+            >jâr</hi> (holl. <hi rendition="#i">jaar</hi>), ahd. <hi
+            rendition="#i">jâr</hi> (nhd. <hi rendition="#i"
+          >Jahr</hi>). Die ursprüngliche bedeutung des wortes scheint
+          „frühling“ zu sein, was die bedeutung des entsprechenden
+          slav. <hi rendition="#i">jarŭ</hi> ist: der begriff „jahr“
+          scheint der urzeit nicht aufgegangen zu sein; es wurde nach
+          jahreszeiten (im germ. allgemein nach wintern) gerechnet.
+          Verwandte sind ferner gr. ὥρα „jahreszeit, frühjahr, jahr“,
+          ὧρος (von <hi rendition="#i">*jôro-</hi>) „jahr“ und avest.
+            <hi rendition="#i">yârᵉ</hi> „jahr“ — <hi
+            rendition="#g #i">Inden</hi>
+          <hi rendition="#g #i">aar</hi>
+          <hi rendition="#g #i">og</hi>
+          <hi rendition="#g #i">dag</hi> bedeutet in der rechtssprache
+          einen zeitraum von einem jahr und sechs wochen (eine
+          gebräuchliche rechtsfrist); auf dieselbe weise wird im
+          deutschen <hi rendition="#i">nach</hi>
+          <hi rendition="#i">Jahr</hi>
+          <hi rendition="#i">und</hi>
+          <hi rendition="#i">Tag</hi> gebraucht, mhd. <hi
+            rendition="#i">jâr</hi>
+          <hi rendition="#i">unde</hi>
+          <hi rendition="#i">dach</hi> (ein jahr, sechs wochen und
+          drei tage), engl. <hi rendition="#i">a</hi>
+          <hi rendition="#i">year</hi>
+          <hi rendition="#i">and</hi>
+          <hi rendition="#i">a</hi>
+          <hi rendition="#i">day</hi>. Das wort „tag“ hat hier die
+          bedeutung „frist“ (siehe <hi rendition="#g #i">dag</hi>).
+          Anderer art ist der ausdruck <hi rendition="#g #i"
+            >mellem</hi>
+          <hi rendition="#g #i">aar</hi>
+          <hi rendition="#g #i">og</hi>
+          <hi rendition="#g #i">dag</hi>, <hi rendition="#i">ɔ</hi>:
+          von dem einen jahrestag zum andern. — <hi rendition="#g #i"
+            >Aar</hi>
+          <hi rendition="#g #i">om</hi>
+          <hi rendition="#g #i">andet</hi> (d. h. durchschnittlich per
+          jahr) stammt aus dem d. <hi rendition="#i">ein</hi>
+          <hi rendition="#i">Jahr</hi>
+          <hi rendition="#i">ums</hi>
+          <hi rendition="#i">andere</hi>, eigentlich „jahr für jahr,
+          das eine jahr nach dem andern“. — <hi rendition="#g #i"
+            >Aar</hi>
+          <hi rendition="#g #i">ud</hi>, <hi rendition="#g #i"
+            >aar</hi>
+          <hi rendition="#g #i">ind</hi> ist übersetzt aus dem d. <hi
+            rendition="#i">Jahr</hi>
+          <hi rendition="#i">aus</hi>, <hi rendition="#i">Jahr</hi>
+          <hi rendition="#i">ein</hi>; vgl. engl. <hi rendition="#i"
+            >year</hi>
+          <hi rendition="#i">in</hi>, <hi rendition="#i">year</hi>
+          <hi rendition="#i">out</hi>. — <hi rendition="#b"
+            >Aarhundred,</hi> von d. <hi rendition="#i"
+            >Jahrhundert</hi>, eine eigentümliche wortbildung, die im
+          17. jahrhundert entstand. Eine ziemliche zeit später kam
+          auch <hi rendition="#i">Jahrtausend</hi> in gebrauch, das
+          dän. <hi rendition="#g #i">aartusen</hi>. Dagegen kann man
+          kaum sagen, daß <hi rendition="#g #i">aarti</hi> als
+          übersetzung des erst bei Schiller und Goethe vorkommenden
+            <hi rendition="#i">Jahrzehnt</hi> (von <hi rendition="#i"
+            >Zehnt</hi> „decennium“) bürgerrecht in der dänischen
+          sprache erlangt hat (vgl. <hi rendition="#g #i">tiaar</hi>).
+          — <hi rendition="#b">Aaremaal</hi> (in norwegischer
+          rechtssprache von der zahl — meist drei — von jahren, auf
+          die <pb n="7" facs="#f0014"/>der pachtkontrakt eines
+          pächters lautet), norw. dial. <hi rendition="#i">leiga</hi>
+          <hi rendition="#i">paa</hi>
+          <hi rendition="#i">aar(a)maal</hi> „pacht auf eine gewisse
+          anzahl jahre“, ist entlehnt aus dem mnd. <hi rendition="#i"
+            >to</hi>
+          <hi rendition="#i">jârmâlen</hi> „auf eine bestimmte reihe
+          von jahren, in jährlichen terminen“ = ags. <hi
+            rendition="#i">geármæ̂lum</hi> „jahrweise“, Dies fremdwort
+          scheint ein echt nordisches verdrängt zu haben: anord. <hi
+            rendition="#i">arđarmâli</hi> m. „übereinkunft, kontrakt
+          über pacht von grund und boden für eine gewisse zeit",
+          dessen letztes glied <hi rendition="#i">mâli</hi> m.
+          „verabredung, kontrakt“ ist und dessen erstes glied der
+          genitiv von <hi rendition="#i">ǫrđ</hi> f. „saat, ertrag des
+          feldes“ ist, worüber siehe <hi rendition="#g #i">art</hi>.
+          Vgl. auch anord. <hi rendition="#i">jarđarmâli</hi> „miete
+          von grund und boden“.</p>
+        <p><hi rendition="#b">Aare</hi> I (ruder), schw. <hi
+            rendition="#i">år</hi> und <hi rendition="#i">åra</hi>,
+          norw. dial. <hi rendition="#i">aar</hi>, anord. <hi
+            rendition="#i">âr</hi> f. = ags. <hi rendition="#i"
+            >âr</hi> (engl. <hi rendition="#i">oar</hi>). Die
+          grundform ist <hi rendition="#i">*airô</hi>, wie man aus den
+          lehnwörtern finnisch <hi rendition="#i">airo</hi>, lett. <hi
+            rendition="#i">airis</hi>, lit. <hi rendition="#i"
+            >vaĩras</hi> sieht. Wie weit sich das germ. <hi
+            rendition="#g #i">*air</hi> mit der idg. wurzel <hi
+            rendition="#i">*ere</hi> „rudern“ in gr. ἀμφήρης „mit
+          rudern auf beiden seiten“ usw. (siehe <hi rendition="#g #i"
+            >ro</hi>) verbinden läßt, ist ungewiß; vgl. <hi
+            rendition="#g #i">aarmand</hi>. — <hi rendition="#g #i"
+            >Aarelom</hi>, <hi rendition="#g #i">aaretol</hi>: siehe
+            <hi rendition="#g #i">lom</hi> II und <hi
+            rendition="#g #i">tol</hi> I.</p>
+        <p><hi rendition="#b">Aare</hi> II (blutader, metallader, ader
+          in holz usw.), schw. <hi rendition="#i">åder</hi> und <hi
+            rendition="#i">ådra</hi>, norw. dial. <hi rendition="#i"
+            >aader</hi>, von wasseradern auch <hi rendition="#i"
+            >æd</hi>, anord. <hi rendition="#i">æ̂đr</hi> f. (gen. <hi
+            rendition="#i">æ̂đdar</hi>) = ags. <hi rendition="#i"
+            >æ̂dre</hi>, mnd. <hi rendition="#i">âder</hi> (holl. <hi
+            rendition="#i">ader</hi>), ahd. <hi rendition="#i"
+            >âdara</hi> (nhd. <hi rendition="#i">Ader</hi>). Germ.
+          grundform <hi rendition="#i">*âdrî</hi>, <hi rendition="#i"
+            >*âdrô</hi>, eine ableitung von idg. <hi rendition="#i"
+            >*êtor</hi>: gr. <hi rendition="#i">ἦτορ</hi> „herz“,
+          ἦτρον „bauch“; vgl. daß mnd. mhd. <hi rendition="#i"
+            >âder</hi> in der mehrzahl „eingeweide“ bedeuten kann,
+          ebenso wie ahd. <hi rendition="#i">inâdiri</hi> und air. <hi
+            rendition="#i">inathar</hi> diese bedeutung haben. Siehe
+            <hi rendition="#g #i">odel</hi>. In mehreren verbindungen,
+          z. b. <hi rendition="#g #i">en</hi>
+          <hi rendition="#g #i">poetisk</hi>
+          <hi rendition="#g #i">aare</hi>, hat das wort die bedeutung
+          „anlage“; das stammt von einer alten vorstellung, daß das
+          seelen- und gemütsleben seinen sitz in den adern hätte (vgl.
+          unter <hi rendition="#g #i">blod</hi>); die ausdrücke
+          stammen aus dem lat., wo <hi rendition="#i">vêna</hi> „ader“
+          auch für „anlage“, besonders für „dichtertalent“ gebraucht
+          wird; sie sind aus dem deutschen zu uns gekommen: <hi
+            rendition="#i">eine</hi>
+          <hi rendition="#i">dichterische</hi>, <hi rendition="#i"
+            >musikalische</hi>
+          <hi rendition="#i">Ader</hi> u. ähnl. Vgl. <hi
+            rendition="#g #i">aadre</hi>. — <hi rendition="#b"
+            >Aarelade</hi> ist mnd. <hi rendition="#i">âderlâten</hi>
+          = nhd. <hi rendition="#i">(zur)</hi>
+          <hi rendition="#i">Ader</hi>
+          <hi rendition="#i">lassen</hi>; in anord. sagt man dafür <hi
+            rendition="#i">lâta</hi>
+          <hi rendition="#i">sêr</hi>
+          <hi rendition="#i">blôđ</hi>, in norw. dial. <hi
+            rendition="#i">lata</hi>
+          <hi rendition="#i">seg</hi>
+          <hi rendition="#i">(blod)</hi>, ält. dän. <hi rendition="#i"
+            >lade</hi>
+          <hi rendition="#i">en</hi>
+          <hi rendition="#i">arm</hi>, <hi rendition="#i">lade</hi>
+          <hi rendition="#i">blod</hi>
+          <hi rendition="#i">af</hi>
+          <hi rendition="#i">en</hi>
+          <hi rendition="#i">arm</hi> = d. <hi rendition="#i"
+            >Blut</hi>
+          <hi rendition="#i">lassen</hi>, engl. <hi rendition="#i"
+            >let</hi>
+          <hi rendition="#i">blood</hi>. — <hi rendition="#g #i"
+            >Aarebrok</hi> ist d. <hi rendition="#i">Aderbruch</hi>:
+          siehe <hi rendition="#g #i">brok</hi> I.</p>
+        <p><hi rendition="#b">Aare</hi> III (norw. = feuerstätte) ist
+          dasselbe wort wie <hi rendition="#g #i">arne</hi> (s. d.):
+          anord. <hi rendition="#i">arinn</hi>, dativ <hi
+            rendition="#i">ârni</hi> hat durch vokalübertragung nomin.
+            <hi rendition="#i">*aaren</hi>, akkus. <hi rendition="#i"
+            >aare</hi> ergeben (vgl. neunorw. <hi rendition="#i"
+            >morgo</hi>, <hi rendition="#i">morgje</hi> &lt; anord.
+          akkus. <hi rendition="#i">morgon</hi>, <hi rendition="#i"
+            >morgin</hi>, norw. dial. <hi rendition="#i">ale</hi> &lt;
+          anord. <hi rendition="#i">alin</hi>).</p>
+        <p><hi rendition="#b">Aarfugl,</hi>
+          <hi rendition="#g #i">aarhane</hi>, <hi rendition="#g #i"
+            >aarhøne</hi> (tetrao tetrix), ist die norw. form
+          (entsprechend jütisch <hi rendition="#i">aarkok</hi>), die
+          das dial. <hi rendition="#i">orrfugl</hi>
+          <hi rendition="#i">(orre)</hi> wiedergibt, für das dänische
+            <hi rendition="#g #i">urfugl</hi>
+          <hi rendition="#g #i">(urhane)</hi>, dessen erstes glied aus
+          mnd. <hi rendition="#i">ûrhane</hi>, <hi rendition="#i"
+            >-hene</hi>, <hi rendition="#i">-huon</hi> = mhd. <hi
+            rendition="#i">ûrhan</hi>, <hi rendition="#i">-huon</hi>
+          (nhd. <hi rendition="#i">Auerhahn</hi>, <hi rendition="#i"
+            >Auerhuhn</hi>) stammt; vgl. mlat. <hi rendition="#i"
+            >urogallus</hi>. Diese deutschen formen beruhen auf
+          einwirkung von <hi rendition="#i">Auerochs</hi> (ahd. <hi
+            rendition="#i">ûr</hi>, <hi rendition="#i">ûrohso</hi>),
+          dän. <hi rendition="#g #i">urokse</hi>: der eine schien
+          unter den vögeln des waldes zu sein, was der andere unter
+          den tieren war. Die echten formen werden repräsentiert durch
+          ahd. <hi rendition="#i">or(re)huon</hi>, mhd. <hi
+            rendition="#i">orhan</hi>, anord. <hi rendition="#i"
+            >orri</hi> (schw. <hi rendition="#i">orre</hi>).
+          Eigentlich und gewöhnlich bezeichnet <hi rendition="#g #i"
+            >orre</hi> nur den männlichen vogel und stammt aus einer
+          idg. wurzel, die „männchen“ bedeutet: urgerm. <hi
+            rendition="#i">*orzan-</hi> von idg. <hi rendition="#i"
+            >*r̥són-</hi>, wozu skr. <hi rendition="#i">r̥ṣán-</hi>
+          „männlich“, <pb n="8" facs="#f0015"/>gr. ἔρσην und ἄῤῥην
+          „männlich, männchen“; vgl. air. <hi rendition="#i">err</hi>,
+          genit. <hi rendition="#i">erred</hi> (von <hi rendition="#i"
+            >*erset-</hi>) „krieger, waffenfähiger mann“. Hierzu in
+          schw. dial. <hi rendition="#i">ynn</hi> f. „auerhuhn“ (von
+            <hi rendition="#i">*urznî</hi> &gt; <hi rendition="#i"
+            >*yrn</hi>) und <hi rendition="#i">yrna</hi>, norw. dial.
+            <hi rendition="#i">yrkna</hi> (von <hi rendition="#i"
+            >*yrtna</hi>, wo <hi rendition="#i">t</hi> ein
+          phonetischer parasit ist). Abweichend sind ags. <hi
+            rendition="#i">wôrhana</hi>, <hi rendition="#i"
+          >-henn</hi>, holl. <hi rendition="#i">woerhaan</hi>, <hi
+            rendition="#i">-hen</hi>, die sich aus einem germ. <hi
+            rendition="#i">*wôrz-</hi> erklären lassen, das zu skr.
+            <hi rendition="#i">vr̥ṣán-</hi> gehört, das
+          gleichbedeutend mit <hi rendition="#i">r̥ṣán-</hi> ist:
+          siehe <hi rendition="#g #i">rise</hi>.</p>
+        <p><hi rendition="#b">Aaring</hi> (jahresertrag des bodens,
+          beschaffenheit des jahres hinsichtlich der ernte), norw.
+          dial. auch <hi rendition="#i">aarang</hi>, anord. <hi
+            rendition="#i">ârangr</hi>. Das wort scheint eine alte
+          zusammensetzung und identisch mit dem worte <hi
+            rendition="#g #i">aargang</hi> zu sein, das ja in
+          derselben bedeutung gebraucht wird (vgl. auch die synonymen
+          wörter <hi rendition="#g #i">aarvei</hi>, schw. <hi
+            rendition="#i">årväg</hi> und anord. <hi rendition="#i"
+            >ârferđ</hi>). Was den ausfall von <hi rendition="#i"
+            >g</hi> betrifft, siehe <hi rendition="#g #i">leding</hi>
+          und <hi rendition="#g #i">naver</hi>. Schw. <hi
+            rendition="#i">äring</hi> „jahrgang“ verhält sich zu <hi
+            rendition="#g #i">aaring</hi> wie anord. <hi
+            rendition="#i">erfingi</hi> zu <hi rendition="#g #i"
+            >arving</hi>.</p>
+        <p><hi rendition="#b">Aarle,</hi> ursprünglich adv., jetzt
+          aber auch als adj. gebraucht (<hi rendition="#g #i">i</hi>
+          <hi rendition="#g #i">den</hi>
+          <hi rendition="#g #i">aarle</hi>
+          <hi rendition="#g #i">morgen</hi> „am frühen morgen“), schw.
+            <hi rendition="#i">arla</hi> (mit kürzung des vokals),
+          anord. <hi rendition="#i">ârla</hi>, adv. „früh“. Die anord.
+          nebenform <hi rendition="#i">ârliga</hi> (= ags. <hi
+            rendition="#i">æ̂rlîce</hi> &gt; engl. <hi rendition="#i"
+            >early</hi>) findet sich noch in norw. dial. <hi
+            rendition="#i">aarlege</hi>; die verkürzte suffixform <hi
+            rendition="#i">-la</hi> wie. im anord. <hi rendition="#i"
+            >sîđla</hi> „spät“. Das wort ist abgeleitet von anord. <hi
+            rendition="#i">âr</hi>, adv. „früh“ = got. <hi
+            rendition="#i">air</hi>: siehe <hi rendition="#g #i"
+            >aarvaagen</hi>; ein komparativ hierzu <choice>
+            <sic>it</sic>
+            <corr>ist</corr>
+          </choice> got. <hi rendition="#i">airis</hi>, ags. <hi
+            rendition="#i">æ̂r</hi> (engl. <hi rendition="#i"
+          >ere</hi>), ahd. <hi rendition="#i">êr</hi> (nhd. <hi
+            rendition="#i">eher</hi>, <hi rendition="#i">ehe</hi>);
+          ein superlativ ags. <hi rendition="#i">æ̂rest</hi>, ahd. <hi
+            rendition="#i">êrist</hi> (nhd. <hi rendition="#i"
+            >erst</hi>). Man vergleicht gr. ἦρι „früh“ (für <hi
+            rendition="#i">*âiri</hi>, lokativ eines stammes <hi
+            rendition="#i">*ā̆ier</hi>), sowie avest. <hi
+            rendition="#i">ayarᵉ</hi> n. „tag“.</p>
+        <p><hi rendition="#b">Aarmand</hi> wurden im mittelalter in
+          Norwegen gutsbevollmächtigte, namentlich die königlichen
+          gutsverwalter genannt. Das wort wird vielleicht am besten
+          von anord. <hi rendition="#i">ârr</hi> m. „sendbote,
+          vertrauter diener“ abgeleitet = got. <hi rendition="#i"
+            >airus</hi>, ags. âr „bote“. Wenn <hi rendition="#i"
+            >*airô</hi> „ruder“ (siehe <hi rendition="#g #i">aare</hi>
+          I) mit gr. (ἀμφ)-ήρης verwandt ist, so könnte <hi
+            rendition="#i">*airu-</hi> zu gr. ἐρέτης gestellt werden,
+          das außer „ruderknecht“ auch „diener“ bedeutet, wie das
+          verwandte air. <hi rendition="#i">ara</hi>, gen. <hi
+            rendition="#i">arad</hi> (von <hi rendition="#i"
+            >*orət</hi>) „diener, wagenlenker“, skr. <hi
+            rendition="#i">aratí-</hi> „diener“. Sonst könnte das wort
+          zur wurzel <hi rendition="#i">*i</hi> „gehen“ gehören. Siehe
+            <hi rendition="#g #i">ærende</hi>. Die hinzufügung des
+          genusbegriffes in <hi rendition="#g #i">aarmand</hi> stimmt
+          mit einer allgemeinen neigung des anord. überein: z. B. <hi
+            rendition="#i">naut-fê</hi> = <hi rendition="#i"
+          >naut</hi>, <hi rendition="#i">eyk-hestr</hi> = <hi
+            rendition="#i">eykr</hi>.</p>
+        <p><hi rendition="#b">Aarsag,</hi> schw. <hi rendition="#i"
+            >orsak</hi>, spät anord. <hi rendition="#i">ôrsǫk</hi>
+          „ursache“, ist in dieser bedeutung dem mnd. <hi
+            rendition="#i">orsake</hi> „veranlassung, grund, vorwand“
+          (holl. <hi rendition="#i">oorzaak</hi>) = mhd. <hi
+            rendition="#i">ursache</hi> (nhd. <hi rendition="#i"
+            >Ursache</hi>) entlehnt, eigenthch „die ursprüngliche
+          sache“: vgl. germ. <hi rendition="#i">*sakô</hi> in ders.
+          bed. (siehe <hi rendition="#g #i">sag</hi> II). Echt
+          nordisch ist dagegen wohl ält. dän. <hi rendition="#i"
+            >aarsag</hi> „entschuldigung“ mit dem vb. <hi
+            rendition="#i">aarsage</hi> „entschuldigen“, schw. <hi
+            rendition="#i">ursaka</hi> (und <hi rendition="#i"
+            >ursäkta</hi>), norw. dial. <hi rendition="#i"
+          >orsaka</hi>, spät anord. <hi rendition="#i">ôrsaka</hi>
+          „jemand rechtfertigen dadurch, daß man seine unschuld
+          beweist“ = mnd. <hi rendition="#i">orsaken</hi>
+          „rechtfertigen, reinigen“: vgl. aschw. <hi rendition="#i"
+            >orsaker</hi>, <hi rendition="#i">ursaker</hi>
+          „unschuldig“, anord. <hi rendition="#i">ôrsekr</hi>
+          „schuldlos“. Hiermit läßt sich vergleichen lat. <hi
+            rendition="#i">excusare</hi> „entschuldigen,
+          rechtfertigen“, aus <hi rendition="#i">ex</hi> und <hi
+            rendition="#i">causa</hi> „sache, ursache“. Über das erste
+          glied vgl. das präfix <hi rendition="#g #i">er-</hi>.</p>
+        <p><hi rendition="#b">Aarvaagen,</hi> norw. dial. <hi
+            rendition="#i">aarvak(en)</hi>, anord. <hi rendition="#i"
+            >ârvakr</hi>, eigentlich „früh wach“, von <hi
+            rendition="#i">âr</hi> „früh“ (siehe <hi rendition="#g #i"
+            >aarle</hi>) und <hi rendition="#i">vakr</hi> „wach“
+          (siehe <pb n="9" facs="#f0016"/><hi rendition="#g #i"
+            >vakker</hi>). Vgl. ags. <hi rendition="#i">æ̂rwacol</hi>
+          und ahd. <hi rendition="#i">êrachar</hi> (von <hi
+            rendition="#i">*êr-wachar</hi>) „früh wach“.</p>
+        <p><hi rendition="#b">Aas</hi> I (dän. = der mittelste balken
+          auf einem holzpflug, norw. = balken, besonders ein tragender
+          balken, dachhalken, achse, radbalken), schw. <hi
+            rendition="#i">ås</hi> „balken, dachfirst“, anord. <hi
+            rendition="#i">âss</hi> „balken, dachbalken“ = got. <hi
+            rendition="#i">ans</hi> „balken“, mhd. <hi rendition="#i"
+            >ans-boum</hi> „brückenbalken“ (bair. <hi rendition="#i"
+            >ans</hi> „balken, der als unterlage für bier- und
+          weinfässer dient“). Kaum mit dem folgenden worte verwandt,
+          sondern zu air. <hi rendition="#i">asna</hi> „rippe“ (&lt;
+            <hi rendition="#i">*assanjâ</hi>), lat. <hi rendition="#i"
+            >asser</hi> „dicke stange, balken“ zu stellen. Siehe <hi
+            rendition="#g #i">vindaas</hi>.</p>
+        <p><hi rendition="#b">Aas</hi> II (bergrücken), anord. <hi
+            rendition="#i">âss</hi>, germ. stamm <hi rendition="#i"
+            >*ansa-</hi> für <hi rendition="#i">*amsa-</hi>, identisch
+          mit got. <hi rendition="#i">ams</hi> „schulter“; vgl. gr.
+          ὦμος „schulter“, lat. <hi rendition="#i">(h)umerus</hi>,
+          skr. <hi rendition="#i">ainsa-</hi>, arm. <hi rendition="#i"
+            >us</hi>. Idg. grundform <hi rendition="#i">*omso-</hi>.
+          Zur bedeutung vgl. <hi rendition="#g #i">bjergryg</hi> und
+          norw. dial. <hi rendition="#i">aksel</hi> „bergknoten,
+          vorspringende spitze“.</p>
+        <p><hi rendition="#b">Aas</hi> III (benennung der heidnischen
+          götter der Germanen, bewahrt in eigennamen wie <hi
+            rendition="#g #i">Osmund</hi>, <hi rendition="#g #i"
+            >Asbjørn</hi>), anord. <hi rendition="#i">âss</hi> m. (pl.
+            <hi rendition="#i">æ̂sir</hi>) = ags. <hi rendition="#i"
+            >ôs</hi> „gott“ (pl. <hi rendition="#i">êse</hi>), as. <hi
+            rendition="#i">âs-</hi>, <hi rendition="#i">ôs-</hi>, ahd.
+            <hi rendition="#i">ansi-</hi>, <hi rendition="#i"
+            >ans-</hi> (in Personennamen); got.-lat. <hi
+            rendition="#i">anses</hi> (plural) bei Jordanes von den
+          halbgöttern der Goten. Hierzu schw. <hi rendition="#i"
+            >åska</hi> „donner“, älter <hi rendition="#i">åsekja</hi>
+          „götterfahrt“ (vgl. <hi rendition="#g #i">torden</hi>). Man
+          hat den germ. stamm <hi rendition="#i">*ansu-</hi>
+          zusammengestellt mit avest. <hi rendition="#i">ahura-</hi>
+          (von <hi rendition="#i">*n̥sura</hi>) „gott“, wohl von der
+          wurzel <hi rendition="#i">*ans</hi> „atmen, blasen“ (aslav.
+            <hi rendition="#i">ąchati</hi>), eine erweiterung der
+          wurzel <hi rendition="#i">*anə</hi> (siehe <hi
+            rendition="#g #i">aande</hi>) so daß <hi rendition="#i"
+            >*ansu-</hi> entweder „windgott“ oder „geist“ wird. — <hi
+            rendition="#b">Aasgaardsreien</hi> ist eine literäre und
+          unrichtige form für norw. dial. <hi rendition="#i"
+            >oskorei</hi>, dessen letztes glied anord. <hi
+            rendition="#i">reiđ</hi> f. „ritt, reitendes gefolge“ ist,
+          und dessen erster bestandteil wohl identisch ist mit schw.
+            <hi rendition="#i">åske</hi>, worüber oben. Der mythus vom
+            <hi rendition="#i">oskorei</hi> entspricht dem <hi
+            rendition="#i">wilden</hi> oder <hi rendition="#i"
+            >wütenden</hi>
+          <hi rendition="#i">Heer</hi> des deutschen aberglaubens,
+          ursprünglich <hi rendition="#i">Wuotans</hi> (ɔ: Odins) <hi
+            rendition="#i">Heer</hi>; vgl. anord. <hi rendition="#i"
+            >Jôlnir</hi>, name für Odin als anführer des zu
+          weihnachten hausenden wilden heeres (auch <hi rendition="#i"
+            >jolerei</hi> und <hi rendition="#i">joleskrei</hi>
+          genannt, siehe <hi rendition="#g #i">jul</hi>).</p>
+        <p><hi rendition="#b">Aat</hi> und <hi rendition="#g #i"
+            >aate</hi> (norw. = das fressen, etwas, das frißt,
+          besonders ungeziefer, getier des meeres, das von fischen
+          gefressen wird, köder für fische, lockspeise für raubtiere),
+          anord. <hi rendition="#i">ât</hi> n. „fressen, speise“, <hi
+            rendition="#i">âta</hi> f. „fressen, nahrung“ = as. mnd.
+            <hi rendition="#i">ât</hi> „speise“, ags. <hi
+            rendition="#i">æ̂t</hi>, mhd. <hi rendition="#i">âʒ</hi>.
+          Das wort gehört zur germ. wurzel <hi rendition="#i">*et</hi>
+          = idg. <hi rendition="#i">*ē̆t</hi>: siehe <hi
+            rendition="#g #i">æde</hi>; vgl. mit derselben vokalstufe
+          lit. <hi rendition="#i">ė̃dis</hi> m. und <hi rendition="#i"
+            >ėdrà</hi> f. „speise für tiere“, aslav. <hi
+            rendition="#i">jadĭ</hi> (&lt; <hi rendition="#i"
+            >*êdis</hi>) „speise“. Zur spezialisierung der bedeutung
+          zu „speise tür raubtiere, lockspeise“ vgl. <hi
+            rendition="#g #i">aadsel</hi> und nhd. <hi
+            rendition="#g #i">Aas</hi> (von idg. <hi rendition="#i"
+            >*êdso-</hi>) = mnd. <hi rendition="#i">âs</hi> „speise,
+          lockspeise, aas“ (holl. <hi rendition="#i">aas</hi>).</p>
+        <p><hi rendition="#b">Abbed,</hi> schw. <hi rendition="#i"
+            >abbot</hi>, anord. <hi rendition="#i">abbati</hi> und <hi
+            rendition="#i">âbôti</hi> (umgedeutet, indem das wort als
+          „sittenverbesserer“ aufgefaßt wurde) = ags. <hi
+            rendition="#i">abbod</hi> (engl. <hi rendition="#i"
+            >abbot</hi>), mnd. <hi rendition="#i">abbet</hi> (holl.
+            <hi rendition="#i">abt</hi>), ahd. <hi rendition="#i"
+            >abbat</hi> (nhd. <hi rendition="#i">Abt</hi>). Während
+          anord. <hi rendition="#i">âbôti</hi>, schwed. <hi
+            rendition="#i">abbot</hi> und ält. dän. <hi rendition="#i"
+            >abbot</hi> auf entlehnung aus dem ags. weist, stimmt
+          anord. <hi rendition="#i">abbati</hi> näher zu ahd. <hi
+            rendition="#i">abbat</hi>: die form <hi rendition="#g #i"
+            >abbed</hi> ist aus dem mnd. entlehnt. Zugrunde liegt
+          mlat. <hi rendition="#i">abbas</hi> (gen. <hi rendition="#i"
+            >abbâtis</hi>), das zusammen mit dem spätgr. ἄββας auf
+          syrischem <hi rendition="#i">abbâ</hi> „vater, mönch“ beruht
+          (vgl. das biblische „abba vater“). — <hi rendition="#g #i"
+            >Abbedisse</hi>, anord. <hi rendition="#i">abbadis</hi>,
+          ist mnd. <hi rendition="#i">abbadisse</hi>, von mlat. <hi
+            rendition="#i">abbatissa</hi>. — <hi rendition="#g #i"
+            >Abbedi</hi> ist mnd. <hi rendition="#i">abbedîe</hi> (hd.
+            <hi rendition="#i">Abtei</hi>), von mlat. <hi
+            rendition="#i">abbatia</hi>.</p>
+        <pb n="10" facs="#f0017"/>
       </div>
     </body>
     <back/>
