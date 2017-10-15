@@ -30,21 +30,22 @@
           <orgName ref="https://github.com/xlhrld/retro-dict"
             >retro-dict</orgName>
         </publisher>
-        <date type="publication">2017-06-09</date>
+        <date type="publication">2017-10-15</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0/">
-            <p>This work is licensed under a Creative Commons Attribution
-              4.0 International License.</p>
+          <licence
+            target="https://creativecommons.org/licenses/by/4.0/">
+            <p>This work is licensed under a Creative Commons
+              Attribution 4.0 International License.</p>
           </licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Mueller, Eduard: Etymologisches Wörterbuch der englischen
-          Sprache. Bd. 2 (L – Z). Cöthen, ²1879.</bibl>
+        <bibl>Mueller, Eduard: Etymologisches Wörterbuch der
+          englischen Sprache. Bd. 2 (L – Z). Cöthen, ²1879.</bibl>
         <biblFull>
           <titleStmt>
-            <title type="main">Etymologisches Wörterbuch der englischen
-              Sprache. Bd. 2 (L – Z)</title>
+            <title type="main">Etymologisches Wörterbuch der
+              englischen Sprache. Bd. 2 (L – Z)</title>
             <author>
               <persName>
                 <surname>Mueller</surname>
@@ -93,11 +94,12 @@
     <encodingDesc>
       <editorialDecl>
         <p>font properties preserved, no character normalization, line
-          breaks not preserved, signature marks not preserved, hyphenation
-          not preserved (words reconstructed)</p>
+          breaks not preserved, signature marks not preserved,
+          hyphenation not preserved (words reconstructed)</p>
         <p>TEI markup according to the DTA base format (<ref
             target="http://www.deutschestextarchiv.de/doku/basisformat/"
-            >DTABf</ref>), a TEI customization for historical texts)</p>
+            >DTABf</ref>), a TEI customization for historical
+          texts)</p>
       </editorialDecl>
     </encodingDesc>
     <profileDesc>
@@ -129,7 +131,8 @@
         <lb/>
         <milestone rendition="#hr" unit="section"/>
         <lb/>
-        <docEdition>ZWEITE VERMEHRTE UND VERBESSERTE AUFLAGE.</docEdition>
+        <docEdition>ZWEITE VERMEHRTE UND VERBESSERTE
+          AUFLAGE.</docEdition>
         <lb/>
         <milestone rendition="#hr" unit="section"/>
         <lb/>
@@ -142,9 +145,2021 @@
       </titlePage>
       <pb facs="#f0002" n="[II]"/>
     </front>
-    <body>
+    <body xml:id="dictionary">
       <pb facs="#f0003" n="[1]"/>
-      <div xml:id="section-l"/>
+      <div xml:id="section-l">
+        <head rendition="#c">L.</head>
+        <p><hi rendition="#b">Label</hi>
+          <hi rendition="#i">herabhängender streifen als zierrath, zur
+            angabe des inhalts, anhängsel, etikette; bei</hi> Hal. 500
+          labell: a tassel; <hi rendition="#i">bei</hi> Levins <hi
+            rendition="#i">von den bändern der mitra</hi> label,
+          labil, lable; <hi rendition="#i">es ist sicher das
+            altfr.</hi> label, labeau, <hi rendition="#i">mlat.</hi>
+          labellus, lablellus, <hi rendition="#i">neufr.</hi> lambeau
+            <hi rendition="#i">herabhängender fetzen oder lappen ,
+            comask.</hi> lampel; <hi rendition="#i">in der bedeutung
+            turnierkragen, die auch das engl. wort hat, sp.</hi>
+          lambel; <hi rendition="#i">die weitere ableitung des roman.
+            ausdrucks ist nicht ganz klar; je nachdem man die formen
+            mit</hi> m <hi rendition="#i">als die ursprünglichen,
+            oder, was doch wahrscheinlicher ist, als die späteren
+            ansieht, bieten sich mlat.</hi> lambellus, <hi
+            rendition="#i">aus lat.</hi> limbus; <hi rendition="#i"
+            >auch lat.</hi> lamberare, <hi rendition="#i">altlat.</hi>
+          lamber <hi rendition="#i">fetzen; oder aber</hi> labellum
+            <hi rendition="#i">von</hi> labrum <hi rendition="#i"
+            >lippe, rand, saum; dagegen treten von anderen seiten
+            nicht minder nahe das deutsche</hi> lappen, <hi
+            rendition="#i">sowie auf keltischem gebiete gael.</hi>
+          lêab, <hi rendition="#i">kymr.</hi> llabed, <hi
+            rendition="#i">bret.</hi> labasken; <hi rendition="#i"
+            >s.</hi> Diez 2, 356.</p>
+        <p><hi rendition="#b">Lac</hi>
+          <hi rendition="#i">lack; fr.</hi> laque, <hi rendition="#i"
+            >it.</hi> lacca, <hi rendition="#i">sp. pr.</hi> laca, <hi
+            rendition="#i">mlat.</hi> laca, lacca, <hi rendition="#i"
+            >dann auch nhd. schwd.</hi> lack, <hi rendition="#i">ndl.
+            dän.</hi> lak; <hi rendition="#i">ein ostindisches harz,
+            pers.</hi> lak, <hi rendition="#i">skr.</hi> lâkschâ, <hi
+            rendition="#i">neben</hi> râkshâ, <hi rendition="#i"
+            >von</hi> randsch <hi rendition="#i">färben;</hi> Diez 2,
+          240; <hi rendition="#i">im engl. davon</hi>
+          <hi rendition="#g">lacker</hi>
+          <hi rendition="#i">lackiren, auch</hi> lacquer, <hi
+            rendition="#i">fr.</hi> laquer; <hi rendition="#g"
+            >lac</hi>
+          <hi rendition="#i">oder</hi>
+          <hi rendition="#g">lack</hi> für den werth von 100,000, <hi
+            rendition="#i">wie besonders in</hi> a lac of rupees <hi
+            rendition="#i">ist das pers.</hi> lak, <hi rendition="#i"
+            >hindost.</hi> lak, lâkh, laksh, <hi rendition="#i"
+            >skr.</hi> laksha <hi rendition="#i">ein zeichen, die zahl
+            100,000.</hi></p>
+        <p><hi rendition="#b">Lace</hi>
+          <hi rendition="#i">spitzen, schnüren; bei</hi> Hal. 506 las,
+          latch: a lace, a snare; <hi rendition="#i">ursprüngl. mehr
+            knoten, schlinge, s.</hi> Trench 119; <hi rendition="#i"
+            >fr.</hi> lacs, <hi rendition="#i">pr. wal.</hi> latz, <hi
+            rendition="#i">sp. pg.</hi> lazo, <hi rendition="#i"
+            >it.</hi> laccio <hi rendition="#i">schnur; vom lat.</hi>
+          laqueus; <hi rendition="#i">dazu die zeitwörter it.</hi>
+          lacciare, <hi rendition="#i">fr.</hi> lacer <hi
+            rendition="#i">schnüren; aus dem roman. auch unser
+            nhd.</hi> latz <hi rendition="#i">klappe; s.</hi> Weigand
+          2, 15; Diez 1, 240; <hi rendition="#i">nach dem sp. pg.</hi>
+          lazo <hi rendition="#i">wieder als fremdwort fr. nhd.
+            engl.</hi> lasso <hi rendition="#i">wurfschlinge,
+            fangschlinge.</hi></p>
+        <p><hi rendition="#b">Laches</hi>
+          <hi rendition="#i">nachlässigkeit; altengl.</hi> lachesse,
+            <hi rendition="#i">fr.</hi> lachesse, lâchesse, <hi
+            rendition="#i">von dem adjektiv</hi> lache, <hi
+            rendition="#i">auch bei</hi> Hal. 501 lache: sluggish, <hi
+            rendition="#i">neufr.</hi> lâche <hi rendition="#i">lose,
+            schlaff, feige, pr.</hi> lasc, lax, lasch, <hi
+            rendition="#i">it.</hi> lasco, <hi rendition="#i">aus dem
+            in</hi> lascus <hi rendition="#i">umgestellten lat.</hi>
+          laxus <hi rendition="#i">schlaff; s.</hi> Diez 1, 243.</p>
+        <pb n="2" facs="#f0004"/>
+        <pb n="3" facs="#f0005"/>
+        <pb n="4" facs="#f0006"/>
+        <pb n="5" facs="#f0007"/>
+        <pb n="6" facs="#f0008"/>
+        <pb n="7" facs="#f0009"/>
+        <pb n="8" facs="#f0010"/>
+        <pb n="9" facs="#f0011"/>
+        <pb n="10" facs="#f0012"/>
+        <pb n="11" facs="#f0013"/>
+        <pb n="12" facs="#f0014"/>
+        <pb n="13" facs="#f0015"/>
+        <pb n="14" facs="#f0016"/>
+        <pb n="15" facs="#f0017"/>
+        <pb n="16" facs="#f0018"/>
+        <pb n="17" facs="#f0019"/>
+        <pb n="18" facs="#f0020"/>
+        <pb n="19" facs="#f0021"/>
+        <pb n="20" facs="#f0022"/>
+        <pb n="21" facs="#f0023"/>
+        <pb n="22" facs="#f0024"/>
+        <pb n="23" facs="#f0025"/>
+        <pb n="24" facs="#f0026"/>
+        <pb n="25" facs="#f0027"/>
+        <pb n="26" facs="#f0028"/>
+        <pb n="27" facs="#f0029"/>
+        <pb n="28" facs="#f0030"/>
+        <pb n="29" facs="#f0031"/>
+        <pb n="30" facs="#f0032"/>
+        <pb n="31" facs="#f0033"/>
+        <pb n="32" facs="#f0034"/>
+        <pb n="33" facs="#f0035"/>
+        <pb n="34" facs="#f0036"/>
+        <pb n="35" facs="#f0037"/>
+        <pb n="36" facs="#f0038"/>
+        <pb n="37" facs="#f0039"/>
+        <pb n="38" facs="#f0040"/>
+        <pb n="39" facs="#f0041"/>
+        <pb n="40" facs="#f0042"/>
+        <pb n="41" facs="#f0043"/>
+        <pb n="42" facs="#f0044"/>
+        <pb n="43" facs="#f0045"/>
+        <pb n="44" facs="#f0046"/>
+        <pb n="45" facs="#f0047"/>
+        <pb n="46" facs="#f0048"/>
+        <pb n="47" facs="#f0049"/>
+        <pb n="48" facs="#f0050"/>
+        <pb n="49" facs="#f0051"/>
+        <pb n="50" facs="#f0052"/>
+        <pb n="51" facs="#f0053"/>
+        <pb n="52" facs="#f0054"/>
+        <pb n="53" facs="#f0055"/>
+        <pb n="54" facs="#f0056"/>
+        <pb n="55" facs="#f0057"/>
+        <pb n="56" facs="#f0058"/>
+        <pb n="57" facs="#f0059"/>
+        <pb n="58" facs="#f0060"/>
+        <p><hi rendition="#b">Lynch</hi>
+          <hi rendition="#i">eigenmächtig volksjustiz üben; der
+            ausdruck soll herrühren von dem namen eines</hi> John
+          Lynch <hi rendition="#i">in Nordamerika, der von seinen
+            mitbürgern mit unumschränkter gewalt bekleidet flüchtige
+            verbrecher und sklaven verurtheilte und streng bestrafen
+            liess; s.</hi> Koch 3², 208.</p>
+        <p><hi rendition="#b">Lynx</hi>
+          <hi rendition="#i">luchs; fr. lat.</hi> lynx, <hi
+            rendition="#i">gr.</hi> λύγξ; <hi rendition="#i">it.
+            sp.</hi> lince; <hi rendition="#i">vgl. bei</hi> Hal. 530
+          losse, <hi rendition="#i">ags.</hi> lox, <hi rendition="#i"
+            >alts.</hi> lohs, <hi rendition="#i">ndl.</hi> lochs,
+          losch, <hi rendition="#i">mhd. ahd.</hi> luhs, <hi
+            rendition="#i">nhd.</hi> luchs, <hi rendition="#i"
+            >litth.</hi> lúszis; Weigand 2, 69.</p>
+        <milestone rendition="#hr" unit="section"/>
+      </div>
+      <pb n="[59]" facs="#f0061"/>
+      <div xml:id="section-m">
+        <head rendition="#c">M.</head>
+        <pb n="60" facs="#f0062"/>
+        <pb n="61" facs="#f0063"/>
+        <pb n="62" facs="#f0064"/>
+        <pb n="63" facs="#f0065"/>
+        <pb n="64" facs="#f0066"/>
+        <pb n="65" facs="#f0067"/>
+        <pb n="66" facs="#f0068"/>
+        <pb n="67" facs="#f0069"/>
+        <pb n="68" facs="#f0070"/>
+        <pb n="69" facs="#f0071"/>
+        <pb n="70" facs="#f0072"/>
+        <pb n="71" facs="#f0073"/>
+        <pb n="72" facs="#f0074"/>
+        <pb n="73" facs="#f0075"/>
+        <pb n="74" facs="#f0076"/>
+        <pb n="75" facs="#f0077"/>
+        <pb n="76" facs="#f0078"/>
+        <pb n="77" facs="#f0079"/>
+        <pb n="78" facs="#f0080"/>
+        <pb n="79" facs="#f0081"/>
+        <pb n="80" facs="#f0082"/>
+        <pb n="81" facs="#f0083"/>
+        <pb n="82" facs="#f0084"/>
+        <pb n="83" facs="#f0085"/>
+        <pb n="84" facs="#f0086"/>
+        <pb n="85" facs="#f0087"/>
+        <pb n="86" facs="#f0088"/>
+        <pb n="87" facs="#f0089"/>
+        <pb n="88" facs="#f0090"/>
+        <pb n="89" facs="#f0091"/>
+        <pb n="90" facs="#f0092"/>
+        <pb n="91" facs="#f0093"/>
+        <pb n="92" facs="#f0094"/>
+        <pb n="93" facs="#f0095"/>
+        <pb n="94" facs="#f0096"/>
+        <pb n="95" facs="#f0097"/>
+        <pb n="96" facs="#f0098"/>
+        <pb n="97" facs="#f0099"/>
+        <pb n="98" facs="#f0100"/>
+        <pb n="99" facs="#f0101"/>
+        <pb n="100" facs="#f0102"/>
+        <pb n="101" facs="#f0103"/>
+        <pb n="102" facs="#f0104"/>
+        <pb n="103" facs="#f0105"/>
+        <pb n="104" facs="#f0106"/>
+        <pb n="105" facs="#f0107"/>
+        <pb n="106" facs="#f0108"/>
+        <pb n="107" facs="#f0109"/>
+        <pb n="108" facs="#f0110"/>
+        <pb n="109" facs="#f0111"/>
+        <pb n="110" facs="#f0112"/>
+        <pb n="111" facs="#f0113"/>
+        <pb n="112" facs="#f0114"/>
+        <pb n="113" facs="#f0115"/>
+        <pb n="114" facs="#f0116"/>
+        <pb n="115" facs="#f0117"/>
+        <pb n="116" facs="#f0118"/>
+        <pb n="117" facs="#f0119"/>
+        <pb n="118" facs="#f0120"/>
+        <pb n="119" facs="#f0121"/>
+        <pb n="120" facs="#f0122"/>
+        <pb n="121" facs="#f0123"/>
+        <pb n="122" facs="#f0124"/>
+        <pb n="123" facs="#f0125"/>
+        <pb n="124" facs="#f0126"/>
+        <pb n="125" facs="#f0127"/>
+        <pb n="126" facs="#f0128"/>
+        <pb n="127" facs="#f0129"/>
+        <pb n="128" facs="#f0130"/>
+        <pb n="129" facs="#f0131"/>
+        <pb n="130" facs="#f0132"/>
+        <pb n="131" facs="#f0133"/>
+        <pb n="132" facs="#f0134"/>
+        <pb n="133" facs="#f0135"/>
+        <p><hi rendition="#b">Mutter</hi>
+          <hi rendition="#i">murmeln, murren; vgl. theils das
+            lat.</hi> muttire, mutire <hi rendition="#i">mucksen, wozu
+            die fr.</hi> mot <hi rendition="#i">wort, altfr.</hi>
+          motir <hi rendition="#i">anzeigen, mundartl. it.</hi> mutire
+            <hi rendition="#i">rufen gehören; theils mancherlei wohl
+            auf lautnachahmung beruhende ausdrücke, die nach form und
+            bedeutung nahe treten, wie mundartlich nhd.</hi> muttern,
+            <hi rendition="#i">ndd.</hi> mustern, musseln <hi
+            rendition="#i">undeutlich reden, auch engl.</hi> mustir:
+          to talk together privately, <hi rendition="#i">bei</hi> Hal.
+          568; <hi rendition="#i">vgl.</hi> Br. Wb. 3, 209.</p>
+        <p><hi rendition="#b">Mutton</hi>
+          <hi rendition="#i">hammelfleisch; altengl.</hi> motoun <hi
+            rendition="#i">hammel, bei</hi> Hal. 566 multon: a sheep;
+            <hi rendition="#i">altfr.</hi> molton, multun, moton,
+          mouton, <hi rendition="#i">neufr.</hi> mouton; <hi
+            rendition="#i">it.</hi> montone, <hi rendition="#i"
+            >pic.</hi> monton, <hi rendition="#i">venez.</hi> moltone,
+            <hi rendition="#i">pr. cat.</hi> moltó, <hi rendition="#i"
+            >pr. altsp.</hi> moton, <hi rendition="#i">mlat.</hi>
+          multo; <hi rendition="#i">s.</hi> Diez 1, 280, <hi
+            rendition="#i">nach welchem es auf dem lat.</hi> mutilus
+            <hi rendition="#i">verstümmelt mit versetzung des</hi> l
+            <hi rendition="#i">beruhen würde, da den allerdings
+            vielfach einstimmenden kelt. wörtern wie gael.</hi> mult,
+            <hi rendition="#i">altir.</hi> molt, <hi rendition="#i"
+            >kymr.</hi> mollt, <hi rendition="#i">bret.</hi> maout <hi
+            rendition="#i">eine wurzel auf diesem gebiete doch zu
+            fehlen scheine; vgl. noch</hi> Hal. 563 motone: a sheep;
+          moton: a small French gold coin, which bore the stamp of of
+          a lamb or sheep; <hi rendition="#i">s. über die
+            begriffsentwicklung im engl. auch</hi> Trench 144.</p>
+        <p><hi rendition="#b">Muzzle</hi>
+          <hi rendition="#i">schnauze, maulkorb; altfr.</hi> musel,
+            <hi rendition="#i">neufr.</hi> museau <hi rendition="#i"
+            >schnauze, pr.</hi> mursel <hi rendition="#i">und</hi>
+          mus, <hi rendition="#i">it. altsp.</hi> muso <hi
+            rendition="#i">maul, schnauze, mlat.</hi> musum, musellus,
+          musellum; <hi rendition="#i">daher auch bret.</hi> morséel,
+            <hi rendition="#i">gael.</hi> muiseal; <hi rendition="#i"
+            >nach</hi> Diez 1, 285 f. <hi rendition="#i">von dem
+            lat.</hi> morsus <hi rendition="#i">gebiss zu</hi> mordere
+            <hi rendition="#i">beissen, während</hi> Dief. 2, 89 <hi
+            rendition="#i">die ausdrücke zu goth.</hi> munþs, <hi
+            rendition="#i">engl.</hi>
+          <hi rendition="#g">mouth</hi>
+          <hi rendition="#i">stellt; vgl. noch das abgeleitete
+            fr.</hi> muselière, <hi rendition="#i">it.</hi> musoliera
+            <hi rendition="#i">maulkorb und das engl.</hi>
+          <hi rendition="#g">musrole</hi>.</p>
+        <p><hi rendition="#b">Mystery</hi>
+          <hi rendition="#i">geheimniss, mysterium; altengl.</hi>
+          mysterie, misterie, <hi rendition="#i">fr.</hi> mystère, <hi
+            rendition="#i">it.</hi> misterio, mistero, <hi
+            rendition="#i">sp.</hi> misterio, <hi rendition="#i">von
+            dem lat. gr.</hi> mysterium, μυστήριον; <hi rendition="#i"
+            >als bezeichnung der alten geistlichen schauspiele möchten
+            es manche ableiten von dem altfr.</hi> mistere <hi
+            rendition="#i">für</hi> ministère; <hi rendition="#i"
+            >lat.</hi> ministerium; Trench E. 243: „having its name
+          because the clergy, the ministri Ecclesiae, conducted it;“
+            <hi rendition="#i">jedenfalls aber wurde die bezeichnung
+            frühzeitig an das griechische wort angelehnt; in den
+            älteren bedeutungen kunst, geschicklichkeit, handwerk
+            weist das wort ferner zurück auf das altengl.</hi>
+          maisterie, <hi rendition="#i">altfr.</hi> maistrise,
+          mestrie; <hi rendition="#i">so dass sich allerdings im
+            gebrauche gemischt haben mögen die ursprüngl. ganz
+            verschiedenen</hi> mysterium, ministerium, magisterium;
+            <hi rendition="#i">vgl.</hi> Burguy 3, 233. 248 <hi
+            rendition="#i">und das engl.</hi>
+          <hi rendition="#g">mister</hi>.</p>
+        <milestone rendition="#hr" unit="section"/>
+      </div>
+      <pb n="[134]" facs="#f0136"/>
+      <div xml:id="section-n">
+        <head rendition="#c">N.</head>
+        <pb n="135" facs="#f0137"/>
+        <pb n="136" facs="#f0138"/>
+        <pb n="137" facs="#f0139"/>
+        <pb n="138" facs="#f0140"/>
+        <pb n="139" facs="#f0141"/>
+        <pb n="140" facs="#f0142"/>
+        <pb n="141" facs="#f0143"/>
+        <pb n="142" facs="#f0144"/>
+        <pb n="143" facs="#f0145"/>
+        <pb n="144" facs="#f0146"/>
+        <pb n="145" facs="#f0147"/>
+        <pb n="146" facs="#f0148"/>
+        <pb n="147" facs="#f0149"/>
+        <pb n="148" facs="#f0150"/>
+        <pb n="149" facs="#f0151"/>
+        <pb n="150" facs="#f0152"/>
+        <pb n="151" facs="#f0153"/>
+        <pb n="152" facs="#f0154"/>
+        <pb n="153" facs="#f0155"/>
+        <pb n="154" facs="#f0156"/>
+        <p><hi rendition="#b">Nut</hi>
+          <hi rendition="#i">nuss; altengl.</hi> nute, note, nhote,
+            <hi rendition="#i">ags.</hi> hnut, hnyt, <hi
+            rendition="#i">ndl.</hi> not, noot, <hi rendition="#i"
+            >ndd.</hi> nut, not, note, <hi rendition="#i">altn.</hi>
+          hnyt, hnot, <hi rendition="#i">schwd.</hi> nöt, <hi
+            rendition="#i">dän.</hi> nöd, <hi rendition="#i">ahd.</hi>
+          hnuʒ, nuʒ, <hi rendition="#i">mhd.</hi> nuʒ, <hi
+            rendition="#i">nhd.</hi> nusz: <hi rendition="#i">die
+            weiter angenommene urverwandtschaft mit den
+            gleichbedeutenden lat.</hi> nux, <hi rendition="#i"
+            >gen.</hi> nucis, <hi rendition="#i">it.</hi> noce, <hi
+            rendition="#i">fr.</hi> noix <hi rendition="#i">ist
+            schwerlich zu erweisen; aber auch die entlehnung der
+            germanischen wörter aus dem lat.</hi> nux <hi
+            rendition="#i">hat schwere bedenken; s.</hi> Weigand 2,
+          287; Schwenck 442; <hi rendition="#i">eher stimmen die
+            von</hi> Wedgwood <hi rendition="#i">und</hi> Mahn <hi
+            rendition="#i">angeführten kelt. ausdrücke wie ir.</hi>
+          cnudh, cnu, <hi rendition="#i">gael.</hi> cnuth, cnudh, <hi
+            rendition="#i">welsch</hi> cnau, cnu, cno; <hi
+            rendition="#i">vgl.</hi> Fick ² 731.</p>
+        <p><hi rendition="#b">Nutmeg</hi>
+          <hi rendition="#i">muskatnuss; altengl.</hi> notemigge,
+          notemugge, <hi rendition="#i">unter benutzung des
+            german.</hi>
+          <hi rendition="#g">nut</hi>
+          <hi rendition="#i">aus altfr.</hi> noix muguette <hi
+            rendition="#i">für</hi> noix musguette, <hi rendition="#i"
+            >neufr.</hi> noix muscade, <hi rendition="#i">mlat.</hi>
+          nux muscata, moschata, <hi rendition="#i">nhd.</hi>
+          muskatnusz; <hi rendition="#i">s. weiter unter</hi>
+          <hi rendition="#g">musk</hi>.</p>
+        <p><hi rendition="#b">Nuzzle</hi>
+          <hi rendition="#i">die nase niederhalten, wühlen; s.</hi>
+          <hi rendition="#g">nozzle</hi>; <hi rendition="#i">in der
+            bedeutung nisten ist es entstellt aus</hi> nestle <hi
+            rendition="#i">zu</hi>
+          <hi rendition="#g">nest</hi>; <hi rendition="#i">auch sonst
+            entstand in der vulgären aussprache das wort leicht noch
+            aus anderen stämmen; vgl.</hi> Smart: „There is often a
+          mingled sense in using this word, which the notions derived
+          from the several sources unite to form;“ <hi rendition="#i"
+            >ausser</hi> nose <hi rendition="#i">und</hi> nest <hi
+            rendition="#i">klingt der sinn von</hi> noose <hi
+            rendition="#i">und</hi> nurse <hi rendition="#i">mehrfach
+            durch.</hi></p>
+        <milestone rendition="#hr" unit="section"/>
+      </div>
+      <pb n="[155]" facs="#f0157"/>
+      <div xml:id="section-o">
+        <head rendition="#c">O.</head>
+        <p><hi rendition="#b">Oaf</hi>
+          <hi rendition="#i">dummkopf, einfältig;</hi> Hal. 584 oaf: a
+          fool; <hi rendition="#i">sonst auch in den formen</hi> auf,
+          aup, aulf, ouphe <hi rendition="#i">mit den bedeutungen:
+            elf, kobold, wechselbalg; vgl.</hi> Hal. 112. 592; <hi
+            rendition="#i">es scheint identisch mit</hi> elf <hi
+            rendition="#i">und etwa unter romanischem einflusse aus
+            dem altn.</hi> alfr <hi rendition="#i">entstanden zu sein;
+            vgl. das auf</hi> alberîch <hi rendition="#i">beruhende
+            fr.</hi> obéron <hi rendition="#i">und wegen der
+            begriffsentwicklung das zu</hi> alp, elf <hi
+            rendition="#i">gehörige schweiz.</hi> älb, älbsch <hi
+            rendition="#i">kindisch;</hi> Wedgwood 2, 465; Dief. 1,
+          208; 2, 744; Grimm Myth. 412.</p>
+        <p><hi rendition="#b">Oak</hi>
+          <hi rendition="#i">eiche; altengl.</hi> ooke, oke, ok, ake,
+          ak, <hi rendition="#i">ags.</hi> âc, aec, <hi rendition="#i"
+            >altfrs.</hi> êk, <hi rendition="#i">ndd.</hi> êke, <hi
+            rendition="#i">ndl.</hi> eeke, eik, <hi rendition="#i"
+            >altn.</hi> eik, <hi rendition="#i">schwd.</hi> ek, <hi
+            rendition="#i">dän.</hi> eeg, eg, <hi rendition="#i"
+            >ahd.</hi> eih, <hi rendition="#i">mhd.</hi> eich, <hi
+            rendition="#i">nhd.</hi> eiche; <hi rendition="#i"
+            >verwandt scheint litth.</hi> auźolas, <hi rendition="#i"
+            >lett.</hi> ohsols; „<hi rendition="#i">die anderen
+            urverwandten sprachen zeigen nichts ähnliches, doch
+            vgl.</hi> eichel“ Grimm 3, 78; Schwenck 147; <hi
+            rendition="#i">s.</hi>
+          <hi rendition="#g">acorn</hi>; Mätzner Wb. 1, 12. 17.</p>
+        <p><hi rendition="#b">Oakum</hi>
+          <hi rendition="#i">werg; es wird auch</hi> ockam <hi
+            rendition="#i">geschrieben und erklärt als</hi> old ropes
+          untwisted for calking ships; <hi rendition="#i">als ags.
+            ausdrücke für das lat.</hi> stuppa <hi rendition="#i"
+            >begegnen</hi> âcumba, âcemba, aecemba, <hi rendition="#i"
+            >auch</hi> cumba <hi rendition="#i">bei</hi> Etm. 382, <hi
+            rendition="#i">der sie unter ein stammzeitwort</hi> cimban
+            <hi rendition="#i">stellt; vgl.</hi>
+          <hi rendition="#g">comb</hi>; <hi rendition="#i">das
+            mhd.</hi> hanef-â-kambe <hi rendition="#i">abfall beim
+            schwingen des hanfes,</hi> Lexer 1, 1167, <hi
+            rendition="#i">weist darauf hin, dass ursprünglich die
+            durch kämmen gewonnenen abfälle des flachses gemeint
+            waren; vgl. dazu</hi> Plin. h. n. 29, 1, 3: „Stuppa
+          pectitur ferreis hamis, donec omnis membrana
+          decorticatur.“</p>
+        <p><hi rendition="#b">Oar</hi>
+          <hi rendition="#i">ruder; altengl.</hi> ore, are, ar, <hi
+            rendition="#i">ags. altn.</hi> âr, <hi rendition="#i"
+            >schwd.</hi> år <hi rendition="#i">und</hi> åra, <hi
+            rendition="#i">dän.</hi> aare; Mätzner Wb. 1, 100; Grimm
+          Gr. 3, 439; Dief. 1, 25; <hi rendition="#i">die vermuthungen
+            weiterer beziehungen (zu goth.</hi> airus <hi
+            rendition="#i">bote, s. das engl.</hi>
+          <hi rendition="#g">errand</hi>; <hi rendition="#i">zu
+            ags.</hi> erjan <hi rendition="#i">pflügen; s. die
+            verschiedenen ags.</hi> âr <hi rendition="#i">bei</hi>
+          Etm. 66 ff.) <hi rendition="#i">sind sehr unsicher;</hi>
+          Wedgwood <hi rendition="#i">führt ausser den skandinav.
+            wörtern noch an finn. lapp.</hi> airo, <hi rendition="#i"
+            >esthn.</hi> aer, air; <hi rendition="#i">vgl. auch</hi>
+          Curtius No. 492, <hi rendition="#i">der das wort einerseits
+            mit gr.</hi> ἐρέσσειν <hi rendition="#i">rudern, skr.</hi>
+          aritras <hi rendition="#i">ruder, andrerseits mit den
+            ahd.</hi> rieme <hi rendition="#i">und</hi> ruoder <hi
+            rendition="#i">zusammenstellt; s.</hi>
+          <hi rendition="#g">rudder</hi>; Fick ² 12. 848.</p>
+        <pb n="156" facs="#f0158"/>
+        <pb n="157" facs="#f0159"/>
+        <pb n="158" facs="#f0160"/>
+        <pb n="159" facs="#f0161"/>
+        <pb n="160" facs="#f0162"/>
+        <pb n="161" facs="#f0163"/>
+        <pb n="162" facs="#f0164"/>
+        <pb n="163" facs="#f0165"/>
+        <pb n="164" facs="#f0166"/>
+        <pb n="165" facs="#f0167"/>
+        <pb n="166" facs="#f0168"/>
+        <pb n="167" facs="#f0169"/>
+        <pb n="168" facs="#f0170"/>
+        <milestone rendition="#hr" unit="section"/>
+      </div>
+      <pb n="[169]" facs="#f0171"/>
+      <div xml:id="section-p">
+        <head rendition="#c">P.</head>
+        <pb n="170" facs="#f0172"/>
+        <pb n="171" facs="#f0173"/>
+        <pb n="172" facs="#f0174"/>
+        <pb n="173" facs="#f0175"/>
+        <pb n="174" facs="#f0176"/>
+        <pb n="175" facs="#f0177"/>
+        <pb n="176" facs="#f0178"/>
+        <pb n="177" facs="#f0179"/>
+        <pb n="178" facs="#f0180"/>
+        <pb n="179" facs="#f0181"/>
+        <pb n="180" facs="#f0182"/>
+        <pb n="181" facs="#f0183"/>
+        <pb n="182" facs="#f0184"/>
+        <pb n="183" facs="#f0185"/>
+        <pb n="184" facs="#f0186"/>
+        <pb n="185" facs="#f0187"/>
+        <pb n="186" facs="#f0188"/>
+        <pb n="187" facs="#f0189"/>
+        <pb n="188" facs="#f0190"/>
+        <pb n="189" facs="#f0191"/>
+        <pb n="190" facs="#f0192"/>
+        <pb n="191" facs="#f0193"/>
+        <pb n="192" facs="#f0194"/>
+        <pb n="193" facs="#f0195"/>
+        <pb n="194" facs="#f0196"/>
+        <pb n="195" facs="#f0197"/>
+        <pb n="196" facs="#f0198"/>
+        <pb n="197" facs="#f0199"/>
+        <pb n="198" facs="#f0200"/>
+        <pb n="199" facs="#f0201"/>
+        <pb n="200" facs="#f0202"/>
+        <pb n="201" facs="#f0203"/>
+        <pb n="202" facs="#f0204"/>
+        <pb n="203" facs="#f0205"/>
+        <pb n="204" facs="#f0206"/>
+        <pb n="205" facs="#f0207"/>
+        <pb n="206" facs="#f0208"/>
+        <pb n="207" facs="#f0209"/>
+        <pb n="208" facs="#f0210"/>
+        <pb n="209" facs="#f0211"/>
+        <pb n="210" facs="#f0212"/>
+        <pb n="211" facs="#f0213"/>
+        <pb n="212" facs="#f0214"/>
+        <pb n="213" facs="#f0215"/>
+        <pb n="214" facs="#f0216"/>
+        <pb n="215" facs="#f0217"/>
+        <pb n="216" facs="#f0218"/>
+        <pb n="217" facs="#f0219"/>
+        <pb n="218" facs="#f0220"/>
+        <pb n="219" facs="#f0221"/>
+        <pb n="220" facs="#f0222"/>
+        <pb n="221" facs="#f0223"/>
+        <pb n="222" facs="#f0224"/>
+        <pb n="223" facs="#f0225"/>
+        <pb n="224" facs="#f0226"/>
+        <pb n="225" facs="#f0227"/>
+        <pb n="226" facs="#f0228"/>
+        <pb n="227" facs="#f0229"/>
+        <pb n="228" facs="#f0230"/>
+        <pb n="229" facs="#f0231"/>
+        <pb n="230" facs="#f0232"/>
+        <pb n="231" facs="#f0233"/>
+        <pb n="232" facs="#f0234"/>
+        <pb n="233" facs="#f0235"/>
+        <pb n="234" facs="#f0236"/>
+        <pb n="235" facs="#f0237"/>
+        <pb n="236" facs="#f0238"/>
+        <pb n="237" facs="#f0239"/>
+        <pb n="238" facs="#f0240"/>
+        <pb n="239" facs="#f0241"/>
+        <pb n="240" facs="#f0242"/>
+        <pb n="241" facs="#f0243"/>
+        <pb n="242" facs="#f0244"/>
+        <pb n="243" facs="#f0245"/>
+        <pb n="244" facs="#f0246"/>
+        <pb n="245" facs="#f0247"/>
+        <pb n="246" facs="#f0248"/>
+        <pb n="247" facs="#f0249"/>
+        <pb n="248" facs="#f0250"/>
+        <pb n="249" facs="#f0251"/>
+        <pb n="250" facs="#f0252"/>
+        <pb n="251" facs="#f0253"/>
+        <p><hi rendition="#b">Put</hi>
+          <hi rendition="#i">setzen, stellen, legen; bei</hi> Levins
+            <hi rendition="#i">bereits</hi> putte: ponere; <hi
+            rendition="#i">altengl.</hi> putten, puten <hi
+            rendition="#i">stellen, legen und wie</hi> poten <hi
+            rendition="#i">stossen; vgl. bei</hi> Hal. 635 poit: to
+          push or kick; 640 pote: to push or kick; 653 put: to push or
+          propel; <hi rendition="#i">das dän.</hi> putte <hi
+            rendition="#i">stecken, wohin stecken entspricht genau,
+            steht aber auch ganz vereinzelt da; an die roman.
+            wörter</hi> bottare, buttare, buttar, bouter <hi
+            rendition="#i">wird schwerlich zu denken sein, noch
+            weniger freilich an engl.</hi> bid <hi rendition="#i">oder
+            an das lat.</hi> ponere; <hi rendition="#i">am
+            wahrscheinlichsten ist der ursprung zu suchen auf kelt.
+            gebiete bret.</hi> pouta, bouta <hi rendition="#i"
+            >stossen, gael.</hi> put, <hi rendition="#i">kymr.</hi>
+          pwtiaw <hi rendition="#i">stossen, stechen; vgl.</hi>
+          Mätzner 1, 379; Dief. 1, 290; Wedgwood 2, 562.</p>
+        <p><hi rendition="#b">Puttock</hi>
+          <hi rendition="#i">eine art raubvogel; altengl.</hi>
+          puttocke, puttok; Wedgwood <hi rendition="#i">erinnert an
+            das it.</hi> bozzago; <hi rendition="#i">vgl. das
+            engl.</hi>
+          <hi rendition="#g">buzzard</hi>
+          <hi rendition="#i">und</hi> Diez 2, 241; <hi rendition="#i"
+            >der ausdruck sieht aber eher aus wie die ableitung
+            von</hi> put, pout, powt <hi rendition="#i">als name
+            verschiedener vögel; vgl. unter</hi>
+          <hi rendition="#g">pout</hi>.</p>
+        <p><hi rendition="#b">Putty</hi>
+          <hi rendition="#i">glaserkitt; es ist, vielleicht unter
+            einfluss von</hi> put, <hi rendition="#i">entstanden aus
+            dem fr.</hi> potée, <hi rendition="#i">sp. pg.</hi> potea,
+            <hi rendition="#i">welche wie ursprüngl. auch das engl.
+            wort bedeuteten</hi> a kind of powder made of tin
+          calcinated; <hi rendition="#i">s.</hi> Wedgwood 2, 562; <hi
+            rendition="#i">später</hi> 3, 569 <hi rendition="#i"
+            >bringt er es unwahrscheinlich genug in verbindung mit dem
+            lat.</hi> puls <hi rendition="#i">brei; das roman. wort
+            gehört zu</hi>
+          <hi rendition="#g">pot</hi>
+          <hi rendition="#i">und mag seine bedeutung ähnlich
+            entwickelt haben wie</hi> gallipot <hi rendition="#i"
+            >und</hi> potash.</p>
+        <p><hi rendition="#b">Puzzle</hi>
+          <hi rendition="#i">verwirren; es kann, wie schon</hi>
+          Skinner <hi rendition="#i">will, eine weiterbildung sein
+            von</hi>
+          <hi rendition="#g">pose</hi>
+          <hi rendition="#i">verwirren, wenn auch etwa unter
+            vermischung mit oder einfluss von dem sinnverwandten und
+            lautlich nicht weit abstehenden</hi>
+          <hi rendition="#g">puddle</hi>; <hi rendition="#i">s.</hi>
+          Wedgwood 2, 563.</p>
+        <milestone rendition="#hr" unit="section"/>
+      </div>
+      <pb n="[252]" facs="#f0254"/>
+      <div xml:id="section-q">
+        <head rendition="#c">Q.</head>
+        <pb n="253" facs="#f0255"/>
+        <pb n="254" facs="#f0256"/>
+        <pb n="255" facs="#f0257"/>
+        <pb n="256" facs="#f0258"/>
+        <pb n="257" facs="#f0259"/>
+        <pb n="258" facs="#f0260"/>
+        <pb n="259" facs="#f0261"/>
+        <pb n="260" facs="#f0262"/>
+        <pb n="261" facs="#f0263"/>
+        <pb n="262" facs="#f0264"/>
+        <pb n="263" facs="#f0265"/>
+        <milestone rendition="#hr" unit="section"/>
+      </div>
+      <pb n="[264]" facs="#f0266"/>
+      <div xml:id="section-r">
+        <head rendition="#c">R.</head>
+        <pb n="265" facs="#f0267"/>
+        <pb n="266" facs="#f0268"/>
+        <pb n="267" facs="#f0269"/>
+        <pb n="268" facs="#f0270"/>
+        <pb n="269" facs="#f0271"/>
+        <pb n="270" facs="#f0272"/>
+        <pb n="271" facs="#f0273"/>
+        <pb n="272" facs="#f0274"/>
+        <pb n="273" facs="#f0275"/>
+        <pb n="274" facs="#f0276"/>
+        <pb n="275" facs="#f0277"/>
+        <pb n="276" facs="#f0278"/>
+        <pb n="277" facs="#f0279"/>
+        <pb n="278" facs="#f0280"/>
+        <pb n="279" facs="#f0281"/>
+        <pb n="280" facs="#f0282"/>
+        <pb n="281" facs="#f0283"/>
+        <pb n="282" facs="#f0284"/>
+        <pb n="283" facs="#f0285"/>
+        <pb n="284" facs="#f0286"/>
+        <pb n="285" facs="#f0287"/>
+        <pb n="286" facs="#f0288"/>
+        <pb n="287" facs="#f0289"/>
+        <pb n="288" facs="#f0290"/>
+        <pb n="289" facs="#f0291"/>
+        <pb n="290" facs="#f0292"/>
+        <pb n="291" facs="#f0293"/>
+        <pb n="292" facs="#f0294"/>
+        <pb n="293" facs="#f0295"/>
+        <pb n="294" facs="#f0296"/>
+        <pb n="295" facs="#f0297"/>
+        <pb n="296" facs="#f0298"/>
+        <pb n="297" facs="#f0299"/>
+        <pb n="298" facs="#f0300"/>
+        <pb n="299" facs="#f0301"/>
+        <pb n="300" facs="#f0302"/>
+        <pb n="301" facs="#f0303"/>
+        <pb n="302" facs="#f0304"/>
+        <pb n="303" facs="#f0305"/>
+        <pb n="304" facs="#f0306"/>
+        <pb n="305" facs="#f0307"/>
+        <pb n="306" facs="#f0308"/>
+        <pb n="307" facs="#f0309"/>
+        <pb n="308" facs="#f0310"/>
+        <pb n="309" facs="#f0311"/>
+        <pb n="310" facs="#f0312"/>
+        <pb n="311" facs="#f0313"/>
+        <pb n="312" facs="#f0314"/>
+        <pb n="313" facs="#f0315"/>
+        <pb n="314" facs="#f0316"/>
+        <pb n="315" facs="#f0317"/>
+        <pb n="316" facs="#f0318"/>
+        <pb n="317" facs="#f0319"/>
+        <pb n="318" facs="#f0320"/>
+        <pb n="319" facs="#f0321"/>
+        <pb n="320" facs="#f0322"/>
+        <pb n="321" facs="#f0323"/>
+        <pb n="322" facs="#f0324"/>
+        <pb n="323" facs="#f0325"/>
+        <pb n="324" facs="#f0326"/>
+        <pb n="325" facs="#f0327"/>
+        <pb n="326" facs="#f0328"/>
+        <milestone rendition="#hr" unit="section"/>
+      </div>
+      <pb n="[327]" facs="#f0329"/>
+      <div xml:id="section-s">
+        <head rendition="#c">S.</head>
+        <p><hi rendition="#b">Sable</hi>
+          <hi rendition="#i">zobel, schwarz; altengl. altfr.</hi>
+          sable, <hi rendition="#i">ndl.</hi> sabel, <hi
+            rendition="#i">schwd.</hi> sabel, sobel, <hi
+            rendition="#i">dän.</hi> sabel, zobel, <hi rendition="#i"
+            >ahd. mhd. nhd.</hi> zobel, <hi rendition="#i">mlat.</hi>
+          zabella, sabelus; <hi rendition="#i">aus dem altslav.
+            russ.</hi> sóbol', <hi rendition="#i">aus der
+            weiterbildung</hi> sabellinus <hi rendition="#i">gingen
+            dann hervor altfr. altengl.</hi> sabelline, sabeline, <hi
+            rendition="#i">neufr.</hi>
+          <hi rendition="#i">zibeline</hi>, <hi rendition="#i"
+            >it.</hi> zibellino, <hi rendition="#i">pr.</hi> sebeli,
+          sembeli, <hi rendition="#i">sp. pg.</hi> cebellina,
+          zebellina; <hi rendition="#i">s.</hi> Weigand 2, 1151; Diez
+          1, 450; <hi rendition="#i">vgl. noch die</hi> saphilinae,
+          saphirinae pelles <hi rendition="#i">des</hi> Jornandes <hi
+            rendition="#i">bei</hi> Ducange.</p>
+        <p><hi rendition="#b">Sabot</hi>
+          <hi rendition="#i">holzschuh; das fr. wort</hi> sabot <hi
+            rendition="#i">holzschuh, kreisel scheint eines stammes zu
+            sein mit fr.</hi> savate, <hi rendition="#i">pr.</hi>
+          sabata, <hi rendition="#i">it.</hi> ciabatta, <hi
+            rendition="#i">sp.</hi> zabata <hi rendition="#i">schuh,
+            abgenutzter schuh, welche nach einigen herkommen sollen
+            von dem arab.</hi> sabat <hi rendition="#i">schuh,</hi>
+          sabata <hi rendition="#i">beschuhen, von</hi> Mahn <hi
+            rendition="#i">dagegen auf baskischen ursprung mlat.</hi>
+          sabbatum, <hi rendition="#i">bisk.</hi> zapata <hi
+            rendition="#i">schuh,</hi> zapatu <hi rendition="#i"
+            >treten zurückgeführt werden; s.</hi> Diez 1, 125; 2, 421;
+            <hi rendition="#i">vgl. noch andere bemerkungen darüber
+            bei</hi> Scheler <hi rendition="#i">und im</hi> Arch. 25,
+          411; 28, 125.</p>
+        <p><hi rendition="#b">Sabre</hi>
+          <hi rendition="#i">säbel; fr.</hi> sabre <hi rendition="#i"
+            >und ähnlich fast in allen europäischen sprachen zu finden
+            it.</hi> sciabla, sciabola, <hi rendition="#i">sp.</hi>
+          sable; <hi rendition="#i">schwd. dän. ndl.</hi> sabel, <hi
+            rendition="#i">nhd.</hi> säbel; <hi rendition="#i">russ.
+            serb.</hi> sabla, sablja, <hi rendition="#i">ungar.</hi>
+          szablya, <hi rendition="#i">poln.</hi> szabla; <hi
+            rendition="#i">der ausdruck scheint aus dem osten nach
+            Deutschland und dann weiter gedrungen zu sein;</hi> Frisch
+            <hi rendition="#i">leitet ihn ab von dem mgr.</hi> ζαβός
+            <hi rendition="#i">krumm, andere vom arab.</hi> seïf <hi
+            rendition="#i">schwert, oder vom ungar.</hi> szabni <hi
+            rendition="#i">schneiden; vgl.</hi> Schwenck 539; Weigand
+          2, 528; Diez 1, 372.</p>
+        <p><hi rendition="#b">Sack 1.</hi>
+          <hi rendition="#i">sack; altengl.</hi> sak, sek, sech, seek,
+            <hi rendition="#i">ags.</hi> säcc, sacc, <hi
+            rendition="#i">goth.</hi> sakkus, <hi rendition="#i">ahd.
+            mhd.</hi> sac, <hi rendition="#i">nhd.</hi> sack, <hi
+            rendition="#i">ndl. ndd.</hi> zak, sak, sack, <hi
+            rendition="#i">altn.</hi> sekkr, <hi rendition="#i"
+            >schwd.</hi> säkk, <hi rendition="#i">dän.</hi> säk; <hi
+            rendition="#i">aber auch gr.</hi> σάϰϰος, <hi
+            rendition="#i">lat.</hi> saccus, <hi rendition="#i"
+            >it.</hi> sacco, <hi rendition="#i">sp. pg.</hi> saco, <hi
+            rendition="#i">fr.</hi> sac <hi rendition="#i">und wenig
+            anders in den formen</hi> sac, sach, sak <hi
+            rendition="#i">auf dem slav. litth. kelt. gebiete;
+            vielleicht in die abendländischen sprachen erst aus dem
+            oriente gedrungen, wo es schon als hebr.</hi> sak, <hi
+            rendition="#i">äthiop.</hi> sak, <hi rendition="#i"
+            >kopt.</hi> sok <hi rendition="#i">begegnet, zum theil in
+            der bedeutung eines groben gewandes oder zeuges; vgl.</hi>
+          Dief. 2, 186; Weigand 2, 529.</p>
+        <pb n="328" facs="#f0330"/>
+        <pb n="329" facs="#f0331"/>
+        <pb n="330" facs="#f0332"/>
+        <pb n="331" facs="#f0333"/>
+        <pb n="332" facs="#f0334"/>
+        <pb n="333" facs="#f0335"/>
+        <pb n="334" facs="#f0336"/>
+        <pb n="335" facs="#f0337"/>
+        <pb n="336" facs="#f0338"/>
+        <pb n="337" facs="#f0339"/>
+        <pb n="338" facs="#f0340"/>
+        <pb n="339" facs="#f0341"/>
+        <pb n="340" facs="#f0342"/>
+        <pb n="341" facs="#f0343"/>
+        <pb n="342" facs="#f0344"/>
+        <pb n="343" facs="#f0345"/>
+        <pb n="344" facs="#f0346"/>
+        <pb n="345" facs="#f0347"/>
+        <pb n="346" facs="#f0348"/>
+        <pb n="347" facs="#f0349"/>
+        <pb n="348" facs="#f0350"/>
+        <pb n="349" facs="#f0351"/>
+        <pb n="350" facs="#f0352"/>
+        <pb n="351" facs="#f0353"/>
+        <pb n="352" facs="#f0354"/>
+        <pb n="353" facs="#f0355"/>
+        <pb n="354" facs="#f0356"/>
+        <pb n="355" facs="#f0357"/>
+        <pb n="356" facs="#f0358"/>
+        <pb n="357" facs="#f0359"/>
+        <pb n="358" facs="#f0360"/>
+        <pb n="359" facs="#f0361"/>
+        <pb n="360" facs="#f0362"/>
+        <pb n="361" facs="#f0363"/>
+        <pb n="362" facs="#f0364"/>
+        <pb n="363" facs="#f0365"/>
+        <pb n="364" facs="#f0366"/>
+        <pb n="365" facs="#f0367"/>
+        <pb n="366" facs="#f0368"/>
+        <pb n="367" facs="#f0369"/>
+        <pb n="368" facs="#f0370"/>
+        <pb n="369" facs="#f0371"/>
+        <pb n="370" facs="#f0372"/>
+        <pb n="371" facs="#f0373"/>
+        <pb n="372" facs="#f0374"/>
+        <pb n="373" facs="#f0375"/>
+        <pb n="374" facs="#f0376"/>
+        <pb n="375" facs="#f0377"/>
+        <pb n="376" facs="#f0378"/>
+        <pb n="377" facs="#f0379"/>
+        <pb n="378" facs="#f0380"/>
+        <pb n="379" facs="#f0381"/>
+        <pb n="380" facs="#f0382"/>
+        <pb n="381" facs="#f0383"/>
+        <pb n="382" facs="#f0384"/>
+        <pb n="383" facs="#f0385"/>
+        <pb n="384" facs="#f0386"/>
+        <pb n="385" facs="#f0387"/>
+        <pb n="386" facs="#f0388"/>
+        <pb n="387" facs="#f0389"/>
+        <pb n="388" facs="#f0390"/>
+        <pb n="389" facs="#f0391"/>
+        <pb n="390" facs="#f0392"/>
+        <pb n="391" facs="#f0393"/>
+        <pb n="392" facs="#f0394"/>
+        <pb n="393" facs="#f0395"/>
+        <pb n="394" facs="#f0396"/>
+        <pb n="395" facs="#f0397"/>
+        <pb n="396" facs="#f0398"/>
+        <pb n="397" facs="#f0399"/>
+        <pb n="398" facs="#f0400"/>
+        <pb n="399" facs="#f0401"/>
+        <pb n="400" facs="#f0402"/>
+        <pb n="401" facs="#f0403"/>
+        <pb n="402" facs="#f0404"/>
+        <pb n="403" facs="#f0405"/>
+        <pb n="404" facs="#f0406"/>
+        <pb n="405" facs="#f0407"/>
+        <pb n="406" facs="#f0408"/>
+        <pb n="407" facs="#f0409"/>
+        <pb n="408" facs="#f0410"/>
+        <pb n="409" facs="#f0411"/>
+        <pb n="410" facs="#f0412"/>
+        <pb n="411" facs="#f0413"/>
+        <pb n="412" facs="#f0414"/>
+        <pb n="413" facs="#f0415"/>
+        <pb n="414" facs="#f0416"/>
+        <pb n="415" facs="#f0417"/>
+        <pb n="416" facs="#f0418"/>
+        <pb n="417" facs="#f0419"/>
+        <pb n="418" facs="#f0420"/>
+        <pb n="419" facs="#f0421"/>
+        <pb n="420" facs="#f0422"/>
+        <pb n="421" facs="#f0423"/>
+        <pb n="422" facs="#f0424"/>
+        <pb n="423" facs="#f0425"/>
+        <pb n="424" facs="#f0426"/>
+        <pb n="425" facs="#f0427"/>
+        <pb n="426" facs="#f0428"/>
+        <pb n="427" facs="#f0429"/>
+        <pb n="428" facs="#f0430"/>
+        <pb n="429" facs="#f0431"/>
+        <pb n="430" facs="#f0432"/>
+        <pb n="431" facs="#f0433"/>
+        <pb n="432" facs="#f0434"/>
+        <pb n="433" facs="#f0435"/>
+        <pb n="434" facs="#f0436"/>
+        <pb n="435" facs="#f0437"/>
+        <pb n="436" facs="#f0438"/>
+        <pb n="437" facs="#f0439"/>
+        <pb n="438" facs="#f0440"/>
+        <pb n="439" facs="#f0441"/>
+        <pb n="440" facs="#f0442"/>
+        <pb n="441" facs="#f0443"/>
+        <pb n="442" facs="#f0444"/>
+        <pb n="443" facs="#f0445"/>
+        <pb n="444" facs="#f0446"/>
+        <pb n="445" facs="#f0447"/>
+        <pb n="446" facs="#f0448"/>
+        <pb n="447" facs="#f0449"/>
+        <pb n="448" facs="#f0450"/>
+        <pb n="449" facs="#f0451"/>
+        <pb n="450" facs="#f0452"/>
+        <pb n="451" facs="#f0453"/>
+        <pb n="452" facs="#f0454"/>
+        <pb n="453" facs="#f0455"/>
+        <pb n="454" facs="#f0456"/>
+        <pb n="455" facs="#f0457"/>
+        <pb n="456" facs="#f0458"/>
+        <pb n="457" facs="#f0459"/>
+        <pb n="458" facs="#f0460"/>
+        <pb n="459" facs="#f0461"/>
+        <pb n="460" facs="#f0462"/>
+        <pb n="461" facs="#f0463"/>
+        <pb n="462" facs="#f0464"/>
+        <pb n="463" facs="#f0465"/>
+        <pb n="464" facs="#f0466"/>
+        <pb n="465" facs="#f0467"/>
+        <pb n="466" facs="#f0468"/>
+        <pb n="467" facs="#f0469"/>
+        <pb n="468" facs="#f0470"/>
+        <pb n="469" facs="#f0471"/>
+        <pb n="470" facs="#f0472"/>
+        <pb n="471" facs="#f0473"/>
+        <pb n="472" facs="#f0474"/>
+        <pb n="473" facs="#f0475"/>
+        <pb n="474" facs="#f0476"/>
+        <pb n="475" facs="#f0477"/>
+        <pb n="476" facs="#f0478"/>
+        <pb n="477" facs="#f0479"/>
+        <pb n="478" facs="#f0480"/>
+        <pb n="479" facs="#f0481"/>
+        <pb n="480" facs="#f0482"/>
+        <pb n="481" facs="#f0483"/>
+        <pb n="482" facs="#f0484"/>
+        <pb n="483" facs="#f0485"/>
+        <pb n="484" facs="#f0486"/>
+        <pb n="485" facs="#f0487"/>
+        <pb n="486" facs="#f0488"/>
+        <pb n="487" facs="#f0489"/>
+        <pb n="488" facs="#f0490"/>
+        <pb n="489" facs="#f0491"/>
+        <pb n="490" facs="#f0492"/>
+        <pb n="491" facs="#f0493"/>
+        <pb n="492" facs="#f0494"/>
+        <pb n="493" facs="#f0495"/>
+        <pb n="494" facs="#f0496"/>
+        <pb n="495" facs="#f0497"/>
+        <pb n="496" facs="#f0498"/>
+        <pb n="497" facs="#f0499"/>
+        <pb n="498" facs="#f0500"/>
+        <pb n="499" facs="#f0501"/>
+        <pb n="500" facs="#f0502"/>
+        <pb n="501" facs="#f0503"/>
+        <pb n="502" facs="#f0504"/>
+        <pb n="503" facs="#f0505"/>
+        <pb n="504" facs="#f0506"/>
+        <pb n="505" facs="#f0507"/>
+        <pb n="506" facs="#f0508"/>
+        <pb n="507" facs="#f0509"/>
+        <pb n="508" facs="#f0510"/>
+        <pb n="509" facs="#f0511"/>
+        <pb n="510" facs="#f0512"/>
+        <pb n="511" facs="#f0513"/>
+        <pb n="512" facs="#f0514"/>
+        <milestone rendition="#hr" unit="section"/>
+      </div>
+      <pb n="[513]" facs="#f0515"/>
+      <div xml:id="section-t">
+        <head rendition="#c">T.</head>
+        <pb n="514" facs="#f0516"/>
+        <pb n="515" facs="#f0517"/>
+        <pb n="516" facs="#f0518"/>
+        <pb n="517" facs="#f0519"/>
+        <pb n="518" facs="#f0520"/>
+        <pb n="519" facs="#f0521"/>
+        <pb n="520" facs="#f0522"/>
+        <pb n="521" facs="#f0523"/>
+        <pb n="522" facs="#f0524"/>
+        <pb n="523" facs="#f0525"/>
+        <pb n="524" facs="#f0526"/>
+        <pb n="525" facs="#f0527"/>
+        <pb n="526" facs="#f0528"/>
+        <pb n="527" facs="#f0529"/>
+        <pb n="528" facs="#f0530"/>
+        <pb n="529" facs="#f0531"/>
+        <pb n="530" facs="#f0532"/>
+        <pb n="531" facs="#f0533"/>
+        <pb n="532" facs="#f0534"/>
+        <pb n="533" facs="#f0535"/>
+        <pb n="534" facs="#f0536"/>
+        <pb n="535" facs="#f0537"/>
+        <pb n="536" facs="#f0538"/>
+        <pb n="537" facs="#f0539"/>
+        <pb n="538" facs="#f0540"/>
+        <pb n="539" facs="#f0541"/>
+        <pb n="540" facs="#f0542"/>
+        <pb n="541" facs="#f0543"/>
+        <pb n="542" facs="#f0544"/>
+        <pb n="543" facs="#f0545"/>
+        <pb n="544" facs="#f0546"/>
+        <pb n="545" facs="#f0547"/>
+        <pb n="546" facs="#f0548"/>
+        <pb n="547" facs="#f0549"/>
+        <pb n="548" facs="#f0550"/>
+        <pb n="549" facs="#f0551"/>
+        <pb n="550" facs="#f0552"/>
+        <pb n="551" facs="#f0553"/>
+        <pb n="552" facs="#f0554"/>
+        <pb n="553" facs="#f0555"/>
+        <pb n="554" facs="#f0556"/>
+        <pb n="555" facs="#f0557"/>
+        <pb n="556" facs="#f0558"/>
+        <pb n="557" facs="#f0559"/>
+        <pb n="558" facs="#f0560"/>
+        <pb n="559" facs="#f0561"/>
+        <pb n="560" facs="#f0562"/>
+        <pb n="561" facs="#f0563"/>
+        <pb n="562" facs="#f0564"/>
+        <pb n="563" facs="#f0565"/>
+        <pb n="564" facs="#f0566"/>
+        <pb n="565" facs="#f0567"/>
+        <pb n="566" facs="#f0568"/>
+        <pb n="567" facs="#f0569"/>
+        <pb n="568" facs="#f0570"/>
+        <pb n="569" facs="#f0571"/>
+        <pb n="570" facs="#f0572"/>
+        <pb n="571" facs="#f0573"/>
+        <pb n="572" facs="#f0574"/>
+        <pb n="573" facs="#f0575"/>
+        <pb n="574" facs="#f0576"/>
+        <pb n="575" facs="#f0577"/>
+        <pb n="576" facs="#f0578"/>
+        <pb n="577" facs="#f0579"/>
+        <pb n="578" facs="#f0580"/>
+        <pb n="579" facs="#f0581"/>
+        <pb n="580" facs="#f0582"/>
+        <pb n="581" facs="#f0583"/>
+        <pb n="582" facs="#f0584"/>
+        <pb n="583" facs="#f0585"/>
+        <pb n="584" facs="#f0586"/>
+        <pb n="585" facs="#f0587"/>
+        <pb n="586" facs="#f0588"/>
+        <pb n="587" facs="#f0589"/>
+        <pb n="588" facs="#f0590"/>
+        <pb n="589" facs="#f0591"/>
+        <pb n="590" facs="#f0592"/>
+        <pb n="591" facs="#f0593"/>
+        <milestone rendition="#hr" unit="section"/>
+      </div>
+      <pb n="[592]" facs="#f0594"/>
+      <div xml:id="section-u">
+        <head rendition="#c">U.</head>
+        <pb n="593" facs="#f0595"/>
+        <pb n="594" facs="#f0596"/>
+        <pb n="595" facs="#f0597"/>
+        <pb n="596" facs="#f0598"/>
+        <pb n="597" facs="#f0599"/>
+        <p><hi rendition="#b">Utter</hi>
+          <hi rendition="#i">äussere, äusseren; das wort ist zunächst,
+            neben</hi> outer, <hi rendition="#i">komparativ
+            altengl.</hi> utter, <hi rendition="#i">ags.</hi> ûtor,
+          ûttor, <hi rendition="#i">altn.</hi> ûtar, ŷtri, <hi
+            rendition="#i">ahd.</hi> ûzero, ûzzero, <hi rendition="#i"
+            >nhd.</hi> äuszere; <hi rendition="#i">dazu</hi>
+          <hi rendition="#g">utterly</hi>, <hi rendition="#i"
+            >altengl.</hi> utterlike, utterliche; <hi rendition="#i"
+            >als zeitwort altengl.</hi> utteren, uttren, <hi
+            rendition="#i">ndd.</hi> ütern, <hi rendition="#i"
+            >mhd.</hi> ûzern, iuzern, <hi rendition="#i">nhd.</hi>
+          äuszern; <hi rendition="#i">vgl. die ahd.</hi> ûzôn, <hi
+            rendition="#i">ndl.</hi> uytten; <hi rendition="#i">in der
+            weiterbildung</hi>
+          <hi rendition="#g">utterance</hi>
+          <hi rendition="#i">das äussere, das äusserste tritt eine
+            vermischung ein mit dem fr.</hi> outrance, <hi
+            rendition="#i">zu</hi> outrer, outre, <hi rendition="#i"
+            >welche, auf dem lat.</hi> ultra <hi rendition="#i"
+            >beruhend, sich den german. wörtern nach form und begriff
+            mehr und mehr näherten; vgl.</hi> Stratmann ³ 611 <hi
+            rendition="#i">und</hi> Hal. 906.</p>
+        <milestone rendition="#hr" unit="section"/>
+      </div>
+      <pb n="[598]" facs="#f0600"/>
+      <div xml:id="section-v">
+        <head rendition="#c">V.</head>
+        <pb n="599" facs="#f0601"/>
+        <pb n="600" facs="#f0602"/>
+        <pb n="601" facs="#f0603"/>
+        <pb n="602" facs="#f0604"/>
+        <pb n="603" facs="#f0605"/>
+        <pb n="604" facs="#f0606"/>
+        <pb n="605" facs="#f0607"/>
+        <pb n="606" facs="#f0608"/>
+        <pb n="607" facs="#f0609"/>
+        <pb n="608" facs="#f0610"/>
+        <pb n="609" facs="#f0611"/>
+        <pb n="610" facs="#f0612"/>
+        <pb n="611" facs="#f0613"/>
+        <p><hi rendition="#b">Vow</hi>
+          <hi rendition="#i">gelübde, geloben; altengl.</hi> vou, <hi
+            rendition="#i">altfr.</hi> vou, veu, vo, vu, <hi
+            rendition="#i">pr.</hi> vot, <hi rendition="#i"
+            >neufr.</hi> vœu, <hi rendition="#i">it. sp.</hi> voto,
+            <hi rendition="#i">lat.</hi> votum; <hi rendition="#i">als
+            zeitwort altengl.</hi> vouen, <hi rendition="#i"
+            >altfr.</hi> voer, vouer, <hi rendition="#i">neufr.</hi>
+          vouer, <hi rendition="#i">pr.</hi> vodar, <hi rendition="#i"
+            >von einem lat.</hi> votare <hi rendition="#i">zu</hi>
+          vovere, votum <hi rendition="#i">geloben; ebendaher in
+            anderer bedeutung</hi>
+          <hi rendition="#g">vote</hi>
+          <hi rendition="#i">wunsch, stimme, stimmen.</hi></p>
+        <p><hi rendition="#b">Vowel</hi>
+          <hi rendition="#i">vokal; fr.</hi> voyelle, <hi
+            rendition="#i">pr. sp.</hi> vocal, <hi rendition="#i"
+            >pg.</hi> vogal, <hi rendition="#i">it.</hi> vocale, <hi
+            rendition="#i">lat.</hi> vocalis sc. litera <hi
+            rendition="#i">stimmlaut, zu lat.</hi> vox <hi
+            rendition="#i">stimme; s.</hi>
+          <hi rendition="#g">voice</hi>.</p>
+        <p><hi rendition="#b">Voyage</hi>
+          <hi rendition="#i">reise; neben</hi>
+          <hi rendition="#g">viage</hi>; <hi rendition="#i"
+            >altengl.</hi> viage, veage, <hi rendition="#i"
+            >altfr.</hi> veage, veiage, voiage, <hi rendition="#i"
+            >neufr.</hi> voyage, <hi rendition="#i">pr.</hi> viatge,
+            <hi rendition="#i">sp.</hi> viage, <hi rendition="#i"
+            >it.</hi> viaggio, <hi rendition="#i">vom lat.</hi>
+          viaticum, <hi rendition="#i">welches von</hi> via <hi
+            rendition="#i">weg abgeleitet erst reisegeld, wegzoll,
+            öffentliche strasse, letzte ölung, dann auch reise
+            bedeutete; s.</hi> Ducange <hi rendition="#i">unter</hi>
+          viaticum <hi rendition="#i">und das engl.</hi>
+          <hi rendition="#g">via</hi>.</p>
+        <milestone rendition="#hr" unit="section"/>
+      </div>
+      <pb n="[612]" facs="#f0614"/>
+      <div xml:id="section-w">
+        <head rendition="#c">W.</head>
+        <p><hi rendition="#b">Wabble</hi>
+          <hi rendition="#i">wackeln, schlottern; bei</hi> Hal. 912
+          wabble: to tremble, to reel, to do anything awkwardly; <hi
+            rendition="#i">der ausdruck findet sich wieder in dem
+            ndd.</hi> wabbeln, <hi rendition="#i">mit dem
+            adjektiv</hi> wabbelig; Br. Wb. 5, 158; <hi rendition="#i"
+            >auch nhd.</hi> wabbeln <hi rendition="#i">in
+            schwankender, schlotternder bewegung sein bei</hi> Weigand
+          2, 1004, <hi rendition="#i">der es als dasselbe wort nimmt
+            wie</hi> quabbeln; <hi rendition="#i">s.</hi>
+          <hi rendition="#g">quab</hi>; <hi rendition="#i">so wie die
+            mundartlich nhd.</hi> quabbeln, quappeln, schwappeln,
+          schwappern, wackeln, <hi rendition="#i">in denen die malende
+            bedeutsamkeit der ableitung nicht zu verkennen ist;</hi>
+          Mätzner 1, 483; <hi rendition="#i">nicht zu trennen aber
+            dürften von</hi> wabble <hi rendition="#i">auch sein die
+            mhd.</hi> waben, wabelen, waberen, <hi rendition="#i"
+            >nhd.</hi> wabeln, wabern, <hi rendition="#i">welche
+            zunächst zu dem hochdeutschen</hi> weben <hi
+            rendition="#i">sich bewegen gehören; vgl.</hi> Lexer 3,
+          622 f.; Weigand 2, 1004. 1028 <hi rendition="#i">und die
+            engl.</hi>
+          <hi rendition="#g">waver</hi>, <hi rendition="#g">web</hi>
+          <hi rendition="#i">und</hi>
+          <hi rendition="#g">weave</hi>.</p>
+        <p><hi rendition="#b">Wacke</hi>
+          <hi rendition="#i">als name einer bestimmten steinart; wie
+            das fr.</hi> wacke, vacke, vake <hi rendition="#i">als
+            fremdwort herübergenommen aus dem nhd.</hi> wacke; <hi
+            rendition="#i">mhd.</hi> wacke <hi rendition="#i">grosser
+            stein, feldstein,</hi>
+          <hi rendition="#i">ahd.</hi> waggo <hi rendition="#i">harter
+            stein, kiesel; vielleicht verwandt mit mhd. nhd.</hi>
+          wecke <hi rendition="#i">keil; vgl.</hi>
+          <hi rendition="#g">wedge</hi>.</p>
+        <p><hi rendition="#b">Wad</hi>
+          <hi rendition="#i">watte; besonders auch in der
+            ableitung</hi>
+          <hi rendition="#g">wadding</hi>; Hal. 912 <hi rendition="#i"
+            >hat</hi> wad <hi rendition="#i">in einer menge von
+            bedeutungen, deren meiste den ausdruck als entstellte
+            nebenform erkennen lassen von</hi>
+          <hi rendition="#g">would</hi>, <hi rendition="#g">woad</hi>,
+            <hi rendition="#g">wed</hi>
+          <hi rendition="#i">und</hi>
+          <hi rendition="#i">what</hi>; <hi rendition="#i">ausserdem
+            aber</hi> wad: a wisp of straw, a bundle or quantity of
+          anything; <hi rendition="#i">in der jetzigen bedeutung
+            entsprechen schwd.</hi> vadd, <hi rendition="#i">dän.</hi>
+          vat, <hi rendition="#i">nhd. ndl.</hi> watte, <hi
+            rendition="#i">fr.</hi> ouate, <hi rendition="#i">sp.</hi>
+          huata, <hi rendition="#i">it.</hi> ovata; <hi rendition="#i"
+            >auch russ. poln.</hi> vata; <hi rendition="#i">das
+            verhältniss dieser wörter unter einander und ihr weiterer
+            ursprung ist noch nicht sicher ermittelt;</hi> Diez 2, 298
+            <hi rendition="#i">verweist, wenn man von den roman.
+            ausdrücken ausgehen dürfe, auf lat.</hi> ovum <hi
+            rendition="#i">ei, eiförmiges ding; wahrscheinlicher ist
+            es ursprüngl. ein german. wort, doch erheben sich
+            allerdings bedenken gegen die herleitung von dem ags.</hi>
+          vaed <hi rendition="#i">kleid, ahd.</hi> wât, <hi
+            rendition="#i">s. engl.</hi>
+          <hi rendition="#g">weed</hi> 2.; <hi rendition="#i"
+            >ndd.</hi> waad Br. Wb. 5, 161; Dief. 1, 151; Weigand 2,
+          1028; Latham <hi rendition="#i">findet darin das arab.</hi>
+          wat: down of pod of Asclepias Syriaca.</p>
+        <pb n="613" facs="#f0615"/>
+        <pb n="614" facs="#f0616"/>
+        <pb n="615" facs="#f0617"/>
+        <pb n="616" facs="#f0618"/>
+        <pb n="617" facs="#f0619"/>
+        <pb n="618" facs="#f0620"/>
+        <pb n="619" facs="#f0621"/>
+        <pb n="620" facs="#f0622"/>
+        <pb n="621" facs="#f0623"/>
+        <pb n="622" facs="#f0624"/>
+        <pb n="623" facs="#f0625"/>
+        <pb n="624" facs="#f0626"/>
+        <pb n="625" facs="#f0627"/>
+        <pb n="626" facs="#f0628"/>
+        <pb n="627" facs="#f0629"/>
+        <pb n="628" facs="#f0630"/>
+        <pb n="629" facs="#f0631"/>
+        <pb n="630" facs="#f0632"/>
+        <pb n="631" facs="#f0633"/>
+        <pb n="632" facs="#f0634"/>
+        <pb n="633" facs="#f0635"/>
+        <pb n="634" facs="#f0636"/>
+        <pb n="635" facs="#f0637"/>
+        <pb n="636" facs="#f0638"/>
+        <pb n="637" facs="#f0639"/>
+        <pb n="638" facs="#f0640"/>
+        <pb n="639" facs="#f0641"/>
+        <pb n="640" facs="#f0642"/>
+        <pb n="641" facs="#f0643"/>
+        <pb n="642" facs="#f0644"/>
+        <pb n="643" facs="#f0645"/>
+        <pb n="644" facs="#f0646"/>
+        <pb n="645" facs="#f0647"/>
+        <pb n="646" facs="#f0648"/>
+        <pb n="647" facs="#f0649"/>
+        <pb n="648" facs="#f0650"/>
+        <pb n="649" facs="#f0651"/>
+        <pb n="650" facs="#f0652"/>
+        <pb n="651" facs="#f0653"/>
+        <pb n="652" facs="#f0654"/>
+        <pb n="653" facs="#f0655"/>
+        <pb n="654" facs="#f0656"/>
+        <pb n="655" facs="#f0657"/>
+        <pb n="656" facs="#f0658"/>
+        <pb n="657" facs="#f0659"/>
+        <pb n="658" facs="#f0660"/>
+        <pb n="659" facs="#f0661"/>
+        <pb n="660" facs="#f0662"/>
+        <pb n="661" facs="#f0663"/>
+        <pb n="662" facs="#f0664"/>
+        <pb n="663" facs="#f0665"/>
+        <pb n="664" facs="#f0666"/>
+        <pb n="665" facs="#f0667"/>
+        <milestone rendition="#hr" unit="section"/>
+      </div>
+      <pb n="[666]" facs="#f0668"/>
+      <div xml:id="section-x">
+        <head rendition="#c">X.</head>
+        <p><hi rendition="#b">Xebec</hi>
+          <hi rendition="#i">eine art schiff; fr.</hi> chébec, <hi
+            rendition="#i">sp.</hi> xabeque, jabeque, <hi
+            rendition="#i">pg.</hi> xabeco, chabeco, <hi
+            rendition="#i">it.</hi> ciabecco, sciabecco, siambecco;
+            <hi rendition="#i">nhd.</hi> schebecke; <hi rendition="#i"
+            >von dem türk.</hi> sumbeki, <hi rendition="#i">arab.</hi>
+          sumbuk, <hi rendition="#i">pers.</hi> sunbuk <hi
+            rendition="#i">als name eines kleinen ursprüngl.
+            asiatischen, dann südeuropäischen fahrzeugs; s.</hi>
+          Weigand 2, 569; Diez 1, 123; Heyse 832.</p>
+        <p><hi rendition="#i">Die übrigen mit</hi> x <hi
+            rendition="#i">beginnenden wörter sind deutlich dem gr.
+            entnommen und wie in den anderen neueren sprachen leicht
+            als fremdwörter gu erkennen; vgl.</hi> Heyse 972.</p>
+        <milestone rendition="#hr" unit="section"/>
+      </div>
+      <pb n="[667]" facs="#f0669"/>
+      <div xml:id="section-y">
+        <head rendition="#c">Y.</head>
+        <p><hi rendition="#b">Yacht</hi>
+          <hi rendition="#i">rennschiff; der ausdruck ist in dieser
+            bedeutung in verschiedene neuere sprachen gedrungen wie
+            fr.</hi> yacht, <hi rendition="#i">schwd.</hi> jakt,
+          jaktskepp, <hi rendition="#i">dän.</hi> jagt, <hi
+            rendition="#i">nhd.</hi> jacht, jachtschiff, <hi
+            rendition="#i">aus dem ndl., wo es</hi> jagt, <hi
+            rendition="#i">in älteren formen</hi> jacht, jaght,
+          jaghte, <hi rendition="#i">in voller gestalt</hi> jaghtschip
+            <hi rendition="#i">lautet und auf</hi> jagt, jacht, <hi
+            rendition="#i">nhd.</hi> jagd, <hi rendition="#i">von dem
+            zeitwort</hi> jagen <hi rendition="#i">beruht;</hi> Heyse
+          475; Weigand 1, 543; Scheler 340.</p>
+        <p><hi rendition="#b">Yam</hi>
+          <hi rendition="#i">brotwurzel; fr.</hi> igname, <hi
+            rendition="#i">sp.</hi> ignama, igname, iñame, ñame, <hi
+            rendition="#i">pg. neulat.</hi> inhame, <hi rendition="#i"
+            >von der westind. bezeichnung</hi> ihame; <hi
+            rendition="#i">in Ostasien begegnen dafür als namen
+            malay.</hi> ubi, <hi rendition="#i">javan.</hi> uwi, <hi
+            rendition="#i">ostind.</hi> oebis, <hi rendition="#i"
+            >daher auch als fremdwort nhd.</hi> öbiswurzel; <hi
+            rendition="#i">s.</hi> Mahn <hi rendition="#i">in</hi>
+          Webster <hi rendition="#i">und bei</hi> Heyse 973.</p>
+        <p><hi rendition="#b">Yankee</hi>
+          <hi rendition="#i">spottname der Nordamerikaner; nach der
+            einen ansicht wäre es nur die verderbte aussprache
+            von</hi> English <hi rendition="#i">oder von</hi> Anglais
+            <hi rendition="#i">im munde der Indianer; nach anderen
+            entstellt aus</hi> Jankin <hi rendition="#i">als
+            verkleinerung von</hi> John; <hi rendition="#i">vielleicht
+            ist es aber auf noch anderem grunde erwachsen, wie denn
+            nach</hi> Jamieson <hi rendition="#i">schott.</hi> yankie
+            <hi rendition="#i">bedeutet:</hi> a sharp, clever, and
+          rather bold woman; <hi rendition="#i">engl.</hi>
+          bow-yankies, <hi rendition="#i">bei</hi> Hal. 943 yankes <hi
+            rendition="#i">eine art kamaschen; vgl.</hi> Heyse 973,
+            <hi rendition="#i">sowie</hi> Webster <hi rendition="#i"
+            >und</hi> Worcester.</p>
+        <p><hi rendition="#b">Yap</hi>
+          <hi rendition="#i">bellen, jappen; dem ausdrucke entsprechen
+            fr.</hi> japper, <hi rendition="#i">pr.</hi> japar, <hi
+            rendition="#i">ndd.</hi> jappen, japen, <hi rendition="#i"
+            >die doch ähnlich wie die engl.</hi> yaup, yaulp, yelp <hi
+            rendition="#i">zunächst wohl auflautnachahmung beruhen,
+            andrerseits sich nahe berühren mit ndd. ndl.</hi> gapen,
+            <hi rendition="#i">nhd.</hi> gaffen <hi rendition="#i">den
+            mund aufsperren; vgl.</hi>
+          <hi rendition="#g">gape</hi>
+          <hi rendition="#i">und</hi> Weigand 1, 544.</p>
+        <p><hi rendition="#b">Yard 1.</hi>
+          <hi rendition="#i">gerte, ruthe, elle; bei</hi> Hal. 946
+          yerd: a rod, or staff; <hi rendition="#i">altengl.</hi>
+          yerd, yerde, yeorde, ᵹerde, gerde, <hi rendition="#i"
+            >ags.</hi> gierd, gyrd, <hi rendition="#i">alts.</hi>
+          gerda, <hi rendition="#i">altfrs.</hi> ierde, ieerde, <hi
+            rendition="#i">altndl.</hi> gaerde, gheerde, gerde,
+          geirde, gaert, <hi rendition="#i">neundl.</hi> garde, gard,
+            <hi rendition="#i">ahd.</hi> gerta, <hi rendition="#i"
+            >mhd. nhd.</hi> gerte; <hi rendition="#i">zunächst
+            verwandt mit ahd. mhd.</hi> gart, <hi rendition="#i"
+            >goth.</hi> gazds <hi rendition="#i">stechen,
+            treibstachel, altn.</hi> gaddr <hi rendition="#i">grosser
+            nagel, welche lautverschoben entsprechen dem lat.</hi>
+          hasta <hi rendition="#i">stange, spiess; s. darüber und
+            wegen berührung mit</hi>
+          <pb n="668" facs="#f0670"/><hi rendition="#g">yard</hi> 2.
+            <hi rendition="#i">bei</hi> Weigand 1, 419; Dief. 2, 376;
+            <hi rendition="#i">zur begriffsentwicklung vgl. das
+            nhd.</hi> ruthe, <hi rendition="#i">die engl.</hi>
+          <hi rendition="#g">perch</hi>
+          <hi rendition="#i">und</hi>
+          <hi rendition="#g">rod</hi>; Trench E. 198; <hi
+            rendition="#i">sonst noch</hi> Stratmann ³ 262; Mätzner 1,
+          165.</p>
+        <p><hi rendition="#b">Yard 2.</hi>
+          <hi rendition="#i">hof; altengl.</hi> ᵹerd, ᵹard, ᵹord,
+          ᵹeard, <hi rendition="#i">ags.</hi> geard, <hi
+            rendition="#i">alts.</hi> gard, <hi rendition="#i"
+            >altfrs.</hi> garda, <hi rendition="#i">goth.</hi> gards,
+            <hi rendition="#i">ndl.</hi> gaard, <hi rendition="#i"
+            >altn.</hi> garđr, gardr, <hi rendition="#i">schwd.</hi>
+          gård, <hi rendition="#i">dän.</hi> gaard, <hi rendition="#i"
+            >ahd.</hi> gart, garte, <hi rendition="#i">mhd.</hi>
+          garte, <hi rendition="#i">nhd.</hi> garten; <hi
+            rendition="#i">es ist ursprüngl. das eingehegte, daher
+            zaun, haus, hof, garten, und scheint urverwandt mit
+            lat.</hi> hortus, <hi rendition="#i">gr.</hi> χόρτος, <hi
+            rendition="#i">slav.</hi> grad, gorod; <hi rendition="#i"
+            >vgl.</hi> Stratmann ³ 257; Weigand 1, 390; Dief. 2, 390
+          ff.; Grimm 4¹, 1388 ff. <hi rendition="#i">und s. die
+            engl.</hi>
+          <hi rendition="#g">garden</hi>, <hi rendition="#g"
+          >gird</hi>, <hi rendition="#g">orchard</hi>, <hi
+            rendition="#g">vineyard</hi>.</p>
+        <p><hi rendition="#b">Yare</hi>
+          <hi rendition="#i">bereit, geschickt, eifrig; bei</hi> Hal.
+          392 gare, <hi rendition="#i">schott.</hi> gare, gair, <hi
+            rendition="#i">altengl.</hi> yare, ᵹare, yarwe, ᵹearu, <hi
+            rendition="#i">ags.</hi> gearu, gearo, <hi rendition="#i"
+            >alts.</hi> garu, <hi rendition="#i">ndd.</hi> gar, <hi
+            rendition="#i">ndl.</hi> gaar, <hi rendition="#i"
+            >altn.</hi> görr, gerr, <hi rendition="#i">altschwd.</hi>
+          gar, garv, <hi rendition="#i">ahd.</hi> garu, karo, <hi
+            rendition="#i">mhd.</hi> gare, gar, <hi rendition="#i"
+            >nhd.</hi> gar; <hi rendition="#i">der stamm war</hi>
+          garw, <hi rendition="#i">daher ahd. auch</hi> garwo: <hi
+            rendition="#i">vgl.</hi> Stratmann ³ 257 ; Weigand 1, 389
+            <hi rendition="#i">und über weiter vermutheten
+            zusammenhang mit altn.</hi> giöra <hi rendition="#i"
+            >machen, mit lat.</hi> creare, <hi rendition="#i"
+            >skr.</hi> kar <hi rendition="#i">besonders bei</hi> Grimm
+          4¹ 1312 ff.; <hi rendition="#i">s. auch</hi>
+          <hi rendition="#g">garb</hi> 1.</p>
+        <p><hi rendition="#b">Yarn</hi>
+          <hi rendition="#i">garn; bei</hi> Hal. 392 garn; <hi
+            rendition="#i">altengl.</hi> yarn, ᵹarn, <hi
+            rendition="#i">ags.</hi> gearn, <hi rendition="#i">ndd.
+            ndl.</hi> garen, <hi rendition="#i">altn. schwd. dän.</hi>
+          garn, <hi rendition="#i">daneben schwd.</hi> görn, <hi
+            rendition="#i">dän.</hi> gjörn, <hi rendition="#i"
+            >ahd.</hi> karn, garn, <hi rendition="#i">mhd. nhd.</hi>
+          garn; <hi rendition="#i">vgl.</hi> Stratmann ³ 237; <hi
+            rendition="#i">über weitere verwandtschaft mit gr.</hi>
+          χορδή <hi rendition="#i">und den entwicklungsgang der
+            bedeutungen bei</hi> Grimm 4¹ 1361. 1369.</p>
+        <p><hi rendition="#b">Yarrow</hi>
+          <hi rendition="#i">schafgarbe; altengl.</hi> yarou, ᵹarwe,
+          ᵹarowe, <hi rendition="#i">ags.</hi> gearve, <hi
+            rendition="#i">ndl.</hi> garwe, gerw, <hi rendition="#i"
+            >ahd.</hi> garawa, garewa, garwa, <hi rendition="#i"
+            >mhd.</hi> garwe, <hi rendition="#i">nhd.</hi> garbe; <hi
+            rendition="#i">vgl.</hi> Stratmann ³ 238 <hi
+            rendition="#i">und über weiteren zusammenhang mit</hi>
+          <hi rendition="#g">yare</hi>
+          <hi rendition="#i">bei</hi> Grimm 4¹ 1335, <hi
+            rendition="#i">wonach es ursprünglich das heilende
+            wundkraut bedeutet haben soll.</hi></p>
+        <p><hi rendition="#b">Yawl 1.</hi>
+          <hi rendition="#i">eine art boot; ndl.</hi> jol, <hi
+            rendition="#i">schwd.</hi> julle, <hi rendition="#i">dän.
+            ndd., dann auch nhd.</hi> jolle, <hi rendition="#i"
+            >mundartl.</hi> jölle, gölle; <hi rendition="#i">vgl.</hi>
+          Weigand 1, 548 <hi rendition="#i">und</hi>
+          <hi rendition="#g">jolly</hi> 2.</p>
+        <p><hi rendition="#b">Yawl 2.</hi>
+          <hi rendition="#i">heulen, schreien; bei</hi> Hal. 944
+          yawle; 948 yole, yowl; <hi rendition="#i">auch</hi> gowl;
+            <hi rendition="#i">altengl.</hi> goulen; <hi
+            rendition="#i">das wesentlich lautnachahmende wort findet
+            sich wieder im altn.</hi> gaula, <hi rendition="#i"
+            >ndd.</hi> jaueln, <hi rendition="#i">nhd.</hi> jaulen;
+          Stratmann ³ 274; Weigand 1, 445.</p>
+        <p><hi rendition="#b">Yawn</hi>
+          <hi rendition="#i">gähnen; mundartl. auch</hi> gawn; <hi
+            rendition="#i">bei</hi> Levins yane; <hi rendition="#i"
+            >bei</hi> Hal. 394 gaunt; 406 goan; <hi rendition="#i"
+            >altengl.</hi> yanen, gonen, ganen, ganien, <hi
+            rendition="#i">ags.</hi> gânian, gaenan, <hi
+            rendition="#i">ahd.</hi> geinon; <hi rendition="#i"
+            >ndd.</hi> janen; <hi rendition="#i">vgl. unter vielen
+            anderen formen des stamms ahd.</hi> ginen, <hi
+            rendition="#i">mhd.</hi> genen, <hi rendition="#i"
+            >nhd.</hi> gähnen; <hi rendition="#i">zu dem starken
+            zeitwort ags.</hi> gînan, <hi rendition="#i">altn.</hi>
+          gina <hi rendition="#i">und so verwandt dem lat.</hi> hiare,
+            <hi rendition="#i">dem gr.</hi> χαίνειν <hi rendition="#i"
+            >in der ursprünglichen bedeutung</hi>
+          <pb n="669" facs="#f0671"/><hi rendition="#i">den mund
+            aufsperren; vgl.</hi> Stratmann ³ 237; Weigand 1, 383;
+          Grimm 4¹ 1148 <choice>
+            <sic>f,</sic>
+            <corr>f.</corr>
+          </choice>; <hi rendition="#i">über das auf dem german.
+            ausdrucke beruhende it. sp. pg.</hi> gana <hi
+            rendition="#i">heftige begier auch</hi> Diez 1, 200.</p>
+        <p><hi rendition="#b">Yeleped</hi>
+          <hi rendition="#i">genannt, gerufen; es ist das
+            archaistische participium, altengl.</hi> icleped, iclept,
+          icliped, icluped, <hi rendition="#i">von</hi> ᵹeclepien <hi
+            rendition="#i">rufen; vgl.</hi>
+          <hi rendition="#g">clepe</hi>; Stratmann ³ 120. 241; <hi
+            rendition="#i">über das auf der ags. vorsilbe</hi> ge, <hi
+            rendition="#i">wie nhd.</hi> ge, <hi rendition="#i"
+            >beruhende altengl.</hi> ᵹe, y, i, <hi rendition="#i">das
+            in einzelnen formen noch begegnet, bei</hi> Mätzner 1,
+          170. 364.</p>
+        <p><hi rendition="#b">Ye</hi>
+          <hi rendition="#i">ihr; es ist das jetzt fast veraltete
+            pronomen für den nominativ, an dessen stelle im ganzen der
+            objektivkasus</hi> you <hi rendition="#i">getreten ist;
+            altengl.</hi> ye, yee, ᵹe, <hi rendition="#i">ags.</hi>
+          ge, <hi rendition="#i">alts.</hi> gi, ye, <hi rendition="#i"
+            >altfrs.</hi> gî, î, <hi rendition="#i">altndl.</hi> ghi,
+            <hi rendition="#i">neundl.</hi> gij, jou, u, <hi
+            rendition="#i">ndd.</hi> ji, <hi rendition="#i">altn.</hi>
+          jer, er, <hi rendition="#i">schwd. dän.</hi> i, <hi
+            rendition="#i">ahd. mhd.</hi> îr, <hi rendition="#i"
+            >nhd.</hi> ihr, <hi rendition="#i">goth.</hi> jus, <hi
+            rendition="#i">gr.</hi> ὔμμες <hi rendition="#i">für</hi>
+          ὔσμες; <hi rendition="#i">vgl.</hi>
+          <hi rendition="#g">thon</hi>
+          <hi rendition="#i">und</hi>
+          <hi rendition="#g">you</hi>; Stratmann ³ 239; Mätzner 1,
+          311; Koch 1, 464.</p>
+        <p><hi rendition="#b">Yea</hi>
+          <hi rendition="#i">ja; altengl.</hi> ᵹe, yai, ya, yo, ᵹea,
+            <hi rendition="#i">ags.</hi> geâ, <hi rendition="#i"
+            >goth.</hi> ja, jai, <hi rendition="#i">alts.</hi> iâ, <hi
+            rendition="#i">altfrs.</hi> iê, gê, <hi rendition="#i"
+            >ndl. altn. schwd. dän. ahd. mhd. nhd.</hi> jâ, ja; <hi
+            rendition="#i">vgl.</hi> Grimm Gr. 3, 764; Stratmann ³
+          256; Mätzner 1, 446; 3, 127; Dief. 1, 118; <hi
+            rendition="#i">s.</hi>
+          <hi rendition="#g">yes</hi>
+          <hi rendition="#i">und über den früheren unterschied im
+            gebrauche</hi> Max Müller 1, 190.</p>
+        <p><hi rendition="#b">Yead</hi>
+          <hi rendition="#i">gehen; wenn das wort so als infinitiv
+            oder präsens begegnet, beruht dies auf einem ähnlichen
+            missverständniss wie bei</hi>
+          <hi rendition="#g">wot</hi>; <hi rendition="#i">denn es ist
+            eigentlich nur die vergangenheit, so auch bei</hi> Hal.
+          945 yede: went; 947 yode; 951 ᵹede; <hi rendition="#i"
+            >altengl.</hi> yode, yede, geode, eda, eode, iede, <hi
+            rendition="#i">vgl.</hi> Stratmann ³ 182; Mätzner 1, 410;
+            <hi rendition="#i">ags.</hi> eode, <hi rendition="#i"
+            >goth.</hi> iddja <hi rendition="#i">als anomales
+            Präteritum zu</hi> gangan, gân, <hi rendition="#i"
+            >engl.</hi>
+          <hi rendition="#g">go</hi>; <hi rendition="#i">vgl. über
+            diesen spross der alten wurzel</hi> i <hi rendition="#i"
+            >gehen, lat.</hi> ire, <hi rendition="#i">gr.</hi> ἰέναι
+            <hi rendition="#i">unter anderen</hi> Dief. 1, 94; 2, 733;
+          Bopp V. Gr. 1, 231; 2, 522; Curtius No. 615; Haupt’s
+          Zeitsch. 12, 396.</p>
+        <p><hi rendition="#b">Yean</hi>
+          <hi rendition="#i">lammen; dazu</hi>
+          <hi rendition="#g">yeanling</hi>
+          <hi rendition="#i">lamm, jährling;</hi> Hal. 944 yean: to
+          ean, or bring forth young; <hi rendition="#i">es ist eine
+            nebenform von</hi>
+          <hi rendition="#g">ean</hi>; <hi rendition="#i">vgl.</hi>
+          Stratmann ³ 172 <hi rendition="#i">altengl.</hi> eanen;
+          Mätzner 1, 188; <hi rendition="#i">die hervorgerufen sein
+            mag durch das zusammengesetzte ags.</hi> geeánian,
+          geeácnian <hi rendition="#i">neben dem einfachen</hi>
+          eánian, eácnian; Etm. 58.</p>
+        <p><hi rendition="#b">Year</hi>
+          <hi rendition="#i">jahr; altengl.</hi> ᵹear, ᵹer, yeer, ger,
+          yar, <hi rendition="#i">ags.</hi> geár, gêr, <hi
+            rendition="#i">alts. altfrs.</hi> gêr, jêr, jâr, <hi
+            rendition="#i">goth.</hi> jêr, <hi rendition="#i"
+            >ndl.</hi> jaer, jaar, <hi rendition="#i">ndd.</hi> jôr,
+            <hi rendition="#i">altn.</hi> âr, <hi rendition="#i"
+            >schwd.</hi> år, <hi rendition="#i">dän.</hi> aar, <hi
+            rendition="#i">ahd. mhd.</hi> jâr, <hi rendition="#i"
+            >nhd.</hi> jahr; <hi rendition="#i">vgl.</hi> Stratmann ³
+          257 <hi rendition="#i">und über die doch nicht zweifellose
+            weitere verwandtschaft mit slav.</hi> jaro <hi
+            rendition="#i">frühling, gr.</hi> ὥρα <hi rendition="#i"
+            >jahreszeit, zend</hi> yâre <hi rendition="#i">jahr,
+            bei</hi> Bopp V. Gr. 1, 31; Curtius No. 522; Grimm 4²,
+          2230; Myth. 715.</p>
+        <pb n="670" facs="#f0672"/>
+        <p><hi rendition="#b">Yearn</hi>
+          <hi rendition="#i">verlangen, streben; altengl.</hi> ᵹernen,
+          ᵹirnen, ᵹeornen, <hi rendition="#i">ags.</hi> geornian,
+          girnan, gyrnan, <hi rendition="#i">alts.</hi> gernean,
+          girnean, <hi rendition="#i">goth.</hi> gairnjan, <hi
+            rendition="#i">altn.</hi> girna, <hi rendition="#i"
+            >ahd.</hi> gernen; <hi rendition="#i">zu dem adjektiv und
+            adverb, noch bei</hi> Hal. 946 yearne: quickly, eagerly,
+            <hi rendition="#i">altengl.</hi> gerne, yerne, ᵹurne,
+          ᵹorne, ᵹeorne, ᵹeorn, <hi rendition="#i">ags.</hi> georn,
+          gyrn, <hi rendition="#i">alts.</hi> gern, <hi rendition="#i"
+            >altn.</hi> giarnr, <hi rendition="#i">goth.</hi> gairns,
+            <hi rendition="#i">ahd. mhd. nhd.</hi> gern; <hi
+            rendition="#i">aus dem stamme des mhd.</hi> gern, <hi
+            rendition="#i">nhd.</hi> begehren; <hi rendition="#i"
+            >vgl.</hi> Stratmann 3 261 f.; Weigand 1, 121. 419; Dief.
+          2, 396; <hi rendition="#i">im engl. berührt es sich, ohne
+            doch nur eine nebenform davon zu sein, mit</hi>
+          <hi rendition="#g">earn</hi>; <hi rendition="#i">s. die
+            altengl.</hi> earnien <hi rendition="#i">und</hi> iernien
+            <hi rendition="#i">gewinnen, verdienen bei</hi> Stratmann
+          ³ 173. 242; <hi rendition="#i">andrerseits</hi> Mätzner 1,
+          170; Hal. 328 earne: to yearn.</p>
+        <p><hi rendition="#b">Yeast</hi>
+          <hi rendition="#i">schaum, gäscht;</hi> Hal. 946 yest:
+          froth; <hi rendition="#i">auch</hi> yist, <hi rendition="#i"
+            >altengl.</hi> ᵹest, ᵹeest, <hi rendition="#i">ags.</hi>
+          gist, <hi rendition="#i">ndl.</hi> gest, gist, <hi
+            rendition="#i">mhd.</hi> gest, gist, jis, <hi
+            rendition="#i">nhd.</hi> gäscht, gischt, <hi
+            rendition="#i">zu den zeitwörtern ahd.</hi> gesan, jesan,
+            <hi rendition="#i">mhd.</hi> gesen, jesen, <hi
+            rendition="#i">nhd.</hi> gäschen, gischen, gähren; <hi
+            rendition="#i">s.</hi> Stratmann ³ 263; Weigand 1, 383.
+          391. 440; <hi rendition="#i">über vermuthete weitere
+            verwandtschaft mit gr.</hi> ζέειν <hi rendition="#i"
+            >sieden, wurzel skr.</hi> jas <hi rendition="#i">bei</hi>
+          Curtius No. 567.</p>
+        <p><hi rendition="#b">Yelk</hi>
+          <hi rendition="#i">eidotter; auch</hi> yolk; <hi
+            rendition="#i">altengl.</hi> yelke, ᵹelke, yholke, ᵹeolke,
+            <hi rendition="#i">ags.</hi> geolka; <hi rendition="#i"
+            >jedenfalls zu ags.</hi> geolo, <hi rendition="#i"
+            >engl.</hi>
+          <hi rendition="#g">yellow</hi>
+          <hi rendition="#i">gelb; vgl. unser nhd.</hi> eigelb; Etm.
+          418; Stratmann ³ 260.</p>
+        <p><hi rendition="#b">Yell</hi>
+          <hi rendition="#i">gellend schreien; altengl.</hi> gellen,
+          ᵹellen, <hi rendition="#i">ags.</hi> gellan, giellan,
+          gillan, gyllan, <hi rendition="#i">ndl.</hi> gillen, <hi
+            rendition="#i">altn.</hi> gella, gialla, <hi
+            rendition="#i">schwd.</hi> gälla, <hi rendition="#i"
+            >ahd.</hi> gellan, <hi rendition="#i">mhd. nhd.</hi>
+          gellen; <hi rendition="#i">verwandt mit altn.</hi> gala, <hi
+            rendition="#i">alts. ags.</hi> galan, <hi rendition="#i"
+            >altengl.</hi> galen; <hi rendition="#i">unter einfluss
+            der lautnachahmung sich berührend mit ausdrücken wie</hi>
+          yawl, <hi rendition="#g">yelp</hi>; <hi rendition="#i"
+            >vgl.</hi> Stratmann ³ 235. 259 <hi rendition="#i"
+            >und</hi>
+          <hi rendition="#g">nightingale</hi>; Weigand 1, 410.</p>
+        <p><hi rendition="#b">Yellow</hi>
+          <hi rendition="#i">gelb; altengl.</hi> yelwe, yolwe, ᵹelu,
+          ᵹolou, ᵹeolu, <hi rendition="#i">ags.</hi> geolu, <hi
+            rendition="#i">ndd.</hi> gel, gäl, <hi rendition="#i"
+            >ndl.</hi> geel, <hi rendition="#i">ahd.</hi> gelo, <hi
+            rendition="#i">mhd.</hi> gel, <hi rendition="#i">nhd.</hi>
+          gelb; <hi rendition="#i">vgl. auch altn.</hi> gulr, <hi
+            rendition="#i">schwd.</hi> gul, <hi rendition="#i"
+            >dän.</hi> guul; <hi rendition="#i">verwandt mit lat.</hi>
+          helvus, gilvus <hi rendition="#i">hellgelb, honiggelb; man
+            vergleicht weiter das gr.</hi> χλόη <hi rendition="#i">und
+            hat den ausdruck zusammengestellt mit den stämmen von</hi>
+          <hi rendition="#g">gall</hi>
+          <hi rendition="#i">und</hi>
+          <hi rendition="#g">gold</hi>; <hi rendition="#i">vgl.</hi>
+          Stratmann ³ 260; Weigand 1, 408.</p>
+        <p><hi rendition="#b">Yelm</hi>
+          <hi rendition="#i">bündel abgeernteten korns;</hi> Hal. 945
+            <hi rendition="#i">hat</hi> yelm: to lay straw fit for use
+          by a thatcher; <hi rendition="#i">ags.</hi> gilm: manipulus;
+            <hi rendition="#i">vgl. noch einige bemerkungen über das
+            wenig aufgeklärte wort bei</hi> Dief. 2, 404.774; Or. Eur.
+          391.</p>
+        <p><hi rendition="#b">Yelp</hi>
+          <hi rendition="#i">bellen, kreischen; das altengl.</hi>
+          gelpen, geolpen, ᵹilpen, ᵹelpen: to boast, to speak <hi
+            rendition="#i">beruht offenbar auf ags.</hi> gelpan,
+          gielpan, gilpan, gylpan <hi rendition="#i">prahlen, rühmen,
+            zu dem substantiv altengl.</hi> yelp, gelp, <hi
+            rendition="#i">ags.</hi> gelp, gielp, gilp, gylp, <hi
+            rendition="#i">alts.</hi> gelp, <hi rendition="#i"
+            >ahd.</hi> gelph, gelf; <hi rendition="#i">mhd.</hi>
+          <pb n="671" facs="#f0673"/>gelf <hi rendition="#i">lautes
+            geschrei, prahlrede; auch als zeitwort mhd.</hi> gelfen,
+            <hi rendition="#i">nhd.</hi> gelfen, gelfern; <hi
+            rendition="#i">altn.</hi> gialp, gialfa, gialfra <hi
+            rendition="#i">lärm, lärmen; dän.</hi> gulpe, gylpe <hi
+            rendition="#i">krächzen;</hi> Etm. 425; Stratmann ³ 259;
+          Weigand 1, 409; <hi rendition="#i">dabei mag es unter
+            einfluss der lautnachahmung sich berührt haben mit</hi>
+          <hi rendition="#g">yell</hi>
+          <hi rendition="#i">und</hi>
+          <hi rendition="#g">yawl</hi>, <hi rendition="#i">selbst
+            mit</hi>
+          <hi rendition="#g">whelp</hi>; <hi rendition="#i">vgl.</hi>
+          Hal. 945 yelper: a young dog, a whelp.</p>
+        <p><hi rendition="#b">Yeoman</hi>
+          <hi rendition="#i">ein gemeinfreier;</hi> Levins <hi
+            rendition="#i">hat</hi> yoman: libertus; Hal. 945 yeman;
+          952 <hi rendition="#i">als plural</hi> ᵹemen <hi
+            rendition="#i">in der bedeutung:</hi> a servant of a rank
+          next below a squire: a person of middling rank; <hi
+            rendition="#i">als altengl. formen sind belegt</hi> ᵹeman,
+          ᵹoman, yomon <hi rendition="#i">und diese weisen auf
+            ags.</hi> geo-mann, jumann <hi rendition="#i">als eine
+            zusammensetzung aus</hi> man <hi rendition="#i">und</hi>
+          geo, gio, ju <hi rendition="#i">ehemals, goth.</hi> ju, <hi
+            rendition="#i">ahd. alts.</hi> giu, ju; <hi rendition="#i"
+            >freilich erscheint dann die begriffsentwicklung
+            auffallend; andererseits hat man zu grunde gelegt das
+            ags.</hi> gemaene, <hi rendition="#i">nhd.</hi> gemein,
+            <hi rendition="#i">oder in dem ersten bestandtheile nur
+            die vorsilbe</hi> ge <hi rendition="#i">erblicken wollen,
+            die vor</hi> man <hi rendition="#i">getreten sei; dabei
+            bliebe der sonderbare wechsel des tons zu erklären; auch
+            von dem goth.</hi> gavi, <hi rendition="#i">ahd.</hi> gau,
+            <hi rendition="#i">von dem ags.</hi> geám <hi
+            rendition="#i">sorge, von dem goth. ags.</hi> guma, <hi
+            rendition="#i">altengl.</hi> gome <hi rendition="#i">mann
+            ist man ausgegangen, ohne dass eine von den verschiedenen
+            ableitungen ganz zweifellos oder ohne alle schwierigkeit
+            wäre; möglich, dass ags.</hi> geo-man <hi rendition="#i"
+            >von mehr als einer seite beeinflusst wurde; vgl.</hi>
+          Stratmann ³ 271; Mätzner 1, 111; Grimm Gr. 2, 750; Dief. 2,
+          764; Schmitz Encl. 238; German. 8, 9; Wedgwood 3, 523.</p>
+        <p><hi rendition="#b">Yerk</hi>
+          <hi rendition="#i">schlagen, stossen;</hi> Hal. 946 yerk: to
+          kick, like a horse; <hi rendition="#i">altengl.</hi> yirke;
+            <hi rendition="#i">unklarer abstammung; vgl. das
+            gleichbedeutende</hi>
+          <hi rendition="#g">jerk</hi>, <hi rendition="#i">dessen
+            nebenform es zu sein scheint.</hi></p>
+        <p><hi rendition="#b">Yes</hi>
+          <hi rendition="#i">ja; altengl.</hi> yis, ᵹis, ᵹes, ᵹise,
+          ᵹuse, ᵹus, <hi rendition="#i">ags.</hi> gise, gyse, gese,
+            <hi rendition="#i">worin der zweite theil</hi> se <hi
+            rendition="#i">für</hi> sîe, sî <hi rendition="#i">zu
+            stehen scheint; also eine verstärkung von</hi> ge, ye, <hi
+            rendition="#i">ags.</hi> gea <hi rendition="#i">mit der
+            bedeutung:</hi> sane sit; <hi rendition="#i">vgl.</hi>
+          <hi rendition="#g">yea</hi>; Stratm. ³ 256; Mätzner 1, 446;
+          Grimm Gr. 3, 764; Dief. 1, 118.</p>
+        <p><hi rendition="#b">Yesterday</hi>
+          <hi rendition="#i">gestern; vgl. bei</hi> Hal. 946 yestreen:
+          last night; 952 ᵹisturday: yesterday; <hi rendition="#i"
+            >mundartlich auch</hi> yister, yuster <hi rendition="#i"
+            >in zusammensetzungen; altengl.</hi> ᵹusterdai,
+          yhistredai, ᵹisterdai, ᵹurstendai, ᵹerstendai, ᵹestrendai,
+            <hi rendition="#i">ags.</hi> gestran däg; <hi
+            rendition="#i">das einfache wort lautet ags.</hi> gestran,
+          geostran, gystran, gyrstan, <hi rendition="#i">goth.</hi>
+          gistra, <hi rendition="#i">ndl.</hi> gisteren, <hi
+            rendition="#i">ahd.</hi> gestren, gestre, <hi
+            rendition="#i">mhd.</hi> gester, <hi rendition="#i"
+            >nhd.</hi> gestern <hi rendition="#i">und als blosser
+            stamm erhalten in dem altn.</hi> gär, î gär, <hi
+            rendition="#i">schwd. dän.</hi> igår, igaar; Stratmann ³
+          263; Grimm Gr. 3, 155; Dief. 2, 410; Weigand 1, 428; <hi
+            rendition="#i">urverwandt mit lat.</hi> hesternus, heri,
+            <hi rendition="#i">gr.</hi> χϑές, <hi rendition="#i"
+            >skr.</hi> hyas; Bopp V. Gr. 2, 209; Curtius No. 193.</p>
+        <pb n="672" facs="#f0674"/>
+        <p><hi rendition="#b">Yet</hi>
+          <hi rendition="#i">noch, doch; altengl.</hi> ᵹet, ᵹete, ᵹut,
+            <hi rendition="#i">ags.</hi> get, giet, git, gita, gita.
+            <hi rendition="#i">altfrs.</hi> jeta, eta, ita, <hi
+            rendition="#i">alts.</hi> get; <hi rendition="#i">der
+            weitere ursprung ist dunkel, zusammenhang mit ags.</hi>
+          gitan, <hi rendition="#i">engl.</hi> get <hi rendition="#i"
+            >wenigstens sehr fraglich; nur scheinbar nähert sich das
+            mhd.</hi> jeze, jezuo, <hi rendition="#i">nhd.</hi> jetzt,
+            <hi rendition="#i">welches auf einer zusammensetzung</hi>
+          ie ze, ie zuo <hi rendition="#i">beruht; vgl.</hi> Stratmann
+          ³ 263; Mätzner 1, 461; Grimm Gr. 3, 120; Weigand 1, 547;
+          Dief. 1, 123; 2, 411.</p>
+        <p><hi rendition="#b">Yew</hi>
+          <hi rendition="#i">eibe; bei</hi> Hal. 342 ewgh; <hi
+            rendition="#i">altengl.</hi> ew, eu, <hi rendition="#i"
+            >ags.</hi> eóv, îv, <hi rendition="#i">fries.</hi> îf, <hi
+            rendition="#i">ndl.</hi> ijf, <hi rendition="#i">ahd.</hi>
+          îwa, îga, <hi rendition="#i">mhd.</hi> îwe, <hi
+            rendition="#i">nhd.</hi> eibe, <hi rendition="#i"
+            >altn.</hi> ŷr, <hi rendition="#i">schwd.</hi> id, <hi
+            rendition="#i">dän.</hi> ibe; <hi rendition="#i"
+            >mlat.</hi> ivus, iva, <hi rendition="#i">daher auf roman.
+            gebiete sp. pg.</hi> iva, <hi rendition="#i">fr.</hi> if;
+            <hi rendition="#i">vielleicht ursprünglich kelt. wort, wie
+            denn begegnet corn.</hi> hiuen, <hi rendition="#i"
+            >welsch</hi> yw, ywen, <hi rendition="#i">ir.</hi> iubhar,
+          iughar; <hi rendition="#i">aber auch altbulgar.</hi> iva <hi
+            rendition="#i">weide, litth.</hi> jevà <hi rendition="#i"
+            >faulbaum, preuss.</hi> inwis <hi rendition="#i">eibe, so
+            dass ein altgemeinsamer stamm</hi> inva <hi rendition="#i"
+            >vermuthet werden kann; sehr zweifelhaft ist der vielfach
+            geltend gemachte zusammenhang mit</hi>
+          <hi rendition="#g">ivy</hi>; <hi rendition="#i">vgl.</hi>
+          Stratmann ³ 339; Weigand 1, 273; Grimm 3, 77; <hi
+            rendition="#i">wegen der roman. wörter</hi> Diez 1,
+          239.</p>
+        <p><hi rendition="#b">Yex</hi>
+          <hi rendition="#i">schlucken; bei</hi> Hal. 946 yex:
+          hiccough; <hi rendition="#i">altengl.</hi> ᵹex, <hi
+            rendition="#i">bei</hi> Hal 954 ᵹoxe, <hi rendition="#i"
+            >ags.</hi> geocsa, gicsa, gisca; <hi rendition="#i">als
+            zeitwort neuengl.</hi> yex, yesk, yisk, <hi rendition="#i"
+            >altengl.</hi> yexen, ᵹesken, ᵹoxen, ᵹeoxen, <hi
+            rendition="#i">ags.</hi> giscian; <hi rendition="#i">dies
+            stellt</hi> Etm. 433 <hi rendition="#i">zu</hi> gînan, <hi
+            rendition="#i">vgl.</hi>
+          <hi rendition="#g">yawn</hi>, <hi rendition="#i">und
+            vergleicht ahd.</hi> gescizjan; <hi rendition="#i">eine
+            auf dem älteren</hi> ᵹoxen <hi rendition="#i">beruhende
+            nebenform ist</hi> yux; <hi rendition="#i">einfluss der
+            lautnachahmung darf angenommen werden; vgl. die mundartl.
+            nhd.</hi> giken, gieksen <hi rendition="#i">eine piepende,
+            keuchende stimme hören lassen; s. bei</hi> Stratmann ³ 262
+            <hi rendition="#i">und</hi> Schwenck 229.</p>
+        <p><hi rendition="#b">Yield</hi>
+          <hi rendition="#i">nachgeben; altengl.</hi> yilden, ᵹilden,
+          gelden, yelden, ᵹelden, <hi rendition="#i">ags.</hi> geldan,
+          gieldan, gildan, gyldan <hi rendition="#i">in den
+            bedeutungen: aufgeben, zurückgeben, bezahlen, büssen; vgl.
+            über die starken konjugationsformen bei</hi> Stratmann ³
+          259 <hi rendition="#i">und</hi> Mätzner 1, 390; <hi
+            rendition="#i">alts.</hi> geldan, <hi rendition="#i"
+            >altfrs.</hi> gelda, jelda, <hi rendition="#i">goth.</hi>
+          fra-, us-gildan, <hi rendition="#i">ndd. ndl.</hi> gelden,
+            <hi rendition="#i">altn.</hi> gialda, <hi rendition="#i"
+            >schwd.</hi> gälda, gälla, <hi rendition="#i">dän.</hi>
+          gielde, <hi rendition="#i">ahd.</hi> keltan, geltan, <hi
+            rendition="#i">mhd. nhd.</hi> gelten; <hi rendition="#i"
+            >s. weiteres bei</hi> Dief. 2, 403; Weigand 1, 410; Grimm
+          Myth. 34 <hi rendition="#i">und</hi>
+          <hi rendition="#g">guild</hi>.</p>
+        <p><hi rendition="#b">Yoke</hi>
+          <hi rendition="#i">joch; bei</hi> Hal. 947 yoak: two pails
+          of milk; <hi rendition="#i">vgl.</hi> 948 <hi rendition="#i"
+            >unter</hi> yoke; <hi rendition="#i">altengl.</hi> yok,
+          ᵹok, ᵹoc, <hi rendition="#i">ags.</hi> joc, gioc, geoc, <hi
+            rendition="#i">alts.</hi>
+          <hi rendition="#i">altfrs.</hi> juc, <hi rendition="#i"
+            >ndl.</hi> juk, jok, <hi rendition="#i">ndd.</hi> jok,
+          jog, <hi rendition="#i">goth.</hi> juk, <hi rendition="#i"
+            >altn. schwd.</hi> ok, <hi rendition="#i">dän.</hi> aag,
+            <hi rendition="#i">ahd.</hi> joh, joch, <hi rendition="#i"
+            >mhd. nhd.</hi> joch; <hi rendition="#i">urverwandt mit
+            lat.</hi> jugum <hi rendition="#i">(woher dann it.</hi>
+          giogo, <hi rendition="#i">sp.</hi> yogo, <hi rendition="#i"
+            >fr.</hi> joug), <hi rendition="#i">gr.</hi> ζυγόν, ζυγός,
+            <hi rendition="#i">altslav.</hi> igo, <hi rendition="#i"
+            >litth.</hi> jungas, <hi rendition="#i">skr.</hi> yugas,
+          yugam, <hi rendition="#i">zu der wurzel von lat.</hi>
+          jungere, <hi rendition="#i">skr.</hi> yuǵ <hi rendition="#i"
+            >schirren, verbinden; s.</hi> Stratmann <pb n="673"
+            facs="#f0675"/>³ 271; Weigand 1, 547; Grimm 4², 2328;
+          Dief. 1, 124; Curtius No. 144.</p>
+        <p><hi rendition="#b">Yolk</hi>
+          <hi rendition="#i">eidotter; altengl.</hi> yholke, ᵹolke,
+          ᵹeolke, <hi rendition="#i">ags.</hi> geolca; <hi
+            rendition="#i">vgl. die nebenform</hi>
+          <hi rendition="#g">yelk</hi>.</p>
+        <p><hi rendition="#b">Yonder</hi>
+          <hi rendition="#i">dort, jener;</hi> Hal. 947 yinder; <hi
+            rendition="#i">ursprüngl. nur adverb, dann auch
+            adjektivisch gebraucht; altengl.</hi> yonder, yondur,
+          ᵹonder, ᵹendir, ᵹeonder, <hi rendition="#i">altndl.</hi>
+          ghender, ghinder, <hi rendition="#i">goth.</hi> jaindre <hi
+            rendition="#i">dort, dorthin; in einfacher form</hi> yond,
+            <hi rendition="#i">altengl.</hi> yond, yend, ᵹond, ᵹeond,
+            <hi rendition="#i">ags.</hi> geond, <hi rendition="#i"
+            >alts</hi>. giend, <hi rendition="#i">goth.</hi> jaind <hi
+            rendition="#i">und dies selbst weiterbildung von</hi> yon,
+            <hi rendition="#i">altengl.</hi> ᵹon, ᵹeon, <hi
+            rendition="#i">altfrs.</hi> jene, <hi rendition="#i"
+            >goth.</hi> jains. <hi rendition="#i">altn.</hi> enn, <hi
+            rendition="#i">ahd.</hi> gener <hi rendition="#i">und
+            schon wie mhd. nhd.</hi> jener; <hi rendition="#i"
+            >ebendazu</hi> yond, <hi rendition="#i">altengl.</hi>
+          ᵹeond, <hi rendition="#i">ags.</hi> geond <hi rendition="#i"
+            >hinüber, jenseits; vgl.</hi>
+          <hi rendition="#g">beyond</hi>; <hi rendition="#i">s.</hi>
+          Stratmann ³ 261 ; Mätzner 1, 322. 437; Dief. 1, 119; Grimm
+          4², 2304; Gr. 3, 180; Weigand 1, 546; Bopp V. Gr. 2, 291;
+            <hi rendition="#i">aus dem pronominalstamme skr.</hi> ya
+            <hi rendition="#i">entweder erweitert oder durch
+            komposition mit</hi> na <hi rendition="#i">oder</hi> ana
+            <hi rendition="#i">entstanden.</hi></p>
+        <p><hi rendition="#b">Yore</hi>
+          <hi rendition="#i">vor zeiten; altengl.</hi> yoore, ᵹore,
+          ᵹare, ᵹeare, <hi rendition="#i">ags.</hi> geâra <hi
+            rendition="#i">ehemals; verwandt mit ags.</hi> geâr, <hi
+            rendition="#i">s. das engl.</hi>
+          <hi rendition="#g">year</hi>; <hi rendition="#i">nach
+            anderen ursprüngl. beruhend auf einer zusammenziehung aus
+            ags.</hi> geó aer, <hi rendition="#i">bei</hi> Etm. 430
+          geógeára: olim, dudum; <hi rendition="#i">s.</hi> Stratmann
+          ³ 257; Grimm Gr. 3, 120. 250; Dief. 1, 123.</p>
+        <p><hi rendition="#b">You</hi>
+          <hi rendition="#i">euch, ihr; ursprüngl. nur objektivkasus;
+            vgl.</hi>
+          <hi rendition="#g">ye</hi>; <hi rendition="#i">altengl.</hi>
+          you, ᵹou, ᵹeu, eou, ou, eu, ow, eow, <hi rendition="#i"
+            >ags.</hi> eov, <hi rendition="#i">altfrs.</hi> io, iu,
+            <hi rendition="#i">alts.</hi> eu, iu, giu, <hi
+            rendition="#i">ndd.</hi> ju, <hi rendition="#i">ndl.</hi>
+          u, <hi rendition="#i">ahd.</hi> iu; <hi rendition="#i">vgl.
+            auch über die verschiebungen des dativs und akkusativs im
+            nhd.</hi> euch <hi rendition="#i">die grammatiken;
+            dazu</hi>
+          <hi rendition="#g">your</hi>, <hi rendition="#i"
+            >altengl.</hi> ᵹoure, ᵹure, eowre, eower, euwer, <hi
+            rendition="#i">ags.</hi> eower, <hi rendition="#i"
+            >alts.</hi> iuwar, <hi rendition="#i">ahd.</hi> iuwer;
+          Stratmann ³ 183; Mätzner 1, 309 ff.; <hi rendition="#i">im
+            allgemeinen</hi> Dief. 1, 92 ff. <hi rendition="#i">unter
+            den entsprechenden goth. formen</hi> izvis, izvara.</p>
+        <p><hi rendition="#b">Young</hi>
+          <hi rendition="#i">jung; altengl.</hi> yung, yong, ᵹong,
+          ᵹung, <hi rendition="#i">ags.</hi> jung, giung, ging, geong,
+            <hi rendition="#i">altfrs.</hi> jung, jong, <hi
+            rendition="#i">alts.</hi> jung, <hi rendition="#i"
+            >goth.</hi> juggs, <hi rendition="#i">ndl.</hi> jong, <hi
+            rendition="#i">altn.</hi> ûggr, <hi rendition="#i">schwd.
+            dän.</hi> ung, <hi rendition="#i">ahd. mhd.</hi> junc, <hi
+            rendition="#i">nhd.</hi> jung; <hi rendition="#i">die
+            germanische von frühester zeit kontrahirte form stimmt zu
+            lat.</hi> juvenc-us, <hi rendition="#i">skr.</hi> yuvak-as
+            <hi rendition="#i">jüngling, welches abgeleitet ist von
+            lat.</hi> juven-is, <hi rendition="#i">skr.</hi> yuvan <hi
+            rendition="#i">und zu der wurzel skr.</hi> yu <hi
+            rendition="#i">wehren gestellt wird;</hi> Dief. 1, 123;
+          Grimm 4², 2370; <hi rendition="#i">aus dem lat.</hi> juvenis
+            <hi rendition="#i">auch die roman. wörter it.</hi>
+          giovane, <hi rendition="#i">fr.</hi> jeune; <hi
+            rendition="#i">über die ableitungen vgl. besonders
+            bei</hi> Stratmann ³ 283; <hi rendition="#i">so unter
+            anderen</hi>
+          <hi rendition="#g">youngling</hi>, <hi rendition="#i"
+            >altengl.</hi> yongling, <hi rendition="#i">ags.</hi>
+          jungling, geongling, <hi rendition="#i">ahd.</hi> jungelinc,
+            <hi rendition="#i">mhd.</hi> jungelinc, <hi rendition="#i"
+            >nhd.</hi> jüngling; <hi rendition="#i">über das
+            ursprüngl. weibliche</hi>
+          <hi rendition="#g">youngster</hi>
+          <pb n="674" facs="#f0676"/><hi rendition="#i">bei</hi>
+          Trench E. 159; <hi rendition="#i">erst von dem kontinente
+            herübergekommen erscheint</hi>
+          <hi rendition="#g">younker</hi>, yonker, <hi rendition="#i"
+            >nach dem ndl.</hi> jonker, <hi rendition="#i">nhd.</hi>
+          junker, <hi rendition="#i">welche auf den älteren
+            zusammensetzungen ndl.</hi> jonkheer, <hi rendition="#i"
+            >mhd.</hi> juncherre <hi rendition="#i">beruhen; s.</hi>
+          Trench Gl 229; Weigand 1, 550 f.</p>
+        <p><hi rendition="#b">Youth</hi>
+          <hi rendition="#i">jugend; altengl.</hi> youthe, ᵹeoᵹedhe,
+          ᵹuhedhe, ᵹugedhe, <hi rendition="#i">ags.</hi> geoguđ,
+          jogođ, <hi rendition="#i">alts.</hi> juguth, jugudh, <hi
+            rendition="#i">ndd.</hi> joghet, jöget, jögd, <hi
+            rendition="#i">ndl.</hi> jeugd, <hi rendition="#i"
+            >ahd.</hi> jugund, jugent <hi rendition="#i">neben</hi>
+          jungund, <hi rendition="#i">mhd.</hi> jungent, junget, <hi
+            rendition="#i">nhd.</hi> jugend; <hi rendition="#i"
+            >altengl. auch</hi> youngthe, yongthe, yengthe; <hi
+            rendition="#i">aus dem stamme von</hi>
+          <hi rendition="#g">young</hi>; <hi rendition="#i">in etwas
+            anderer bildung goth.</hi> junda; <hi rendition="#i"
+            >vgl.</hi> Stratmann ³ 282 f.; Grimm 4², 2360; Weigand 1,
+          549—551.</p>
+        <p><hi rendition="#b">Yule</hi>
+          <hi rendition="#i">weihnachten; altengl.</hi> yole, ᵹole,
+            <hi rendition="#i">ags.</hi> geól, <hi rendition="#i"
+            >altn.</hi> jol, <hi rendition="#i">schwd.</hi> jul, <hi
+            rendition="#i">dän.</hi> juul <hi rendition="#i">und aus
+            dem skandinav. auch nach Deutschland gedrungen nhd.</hi>
+          jul; <hi rendition="#i">man hat den ausdruck in verbindung
+            gebracht mit dem goth.</hi> juleis, <hi rendition="#i"
+            >ags.</hi> geóla <hi rendition="#i">als namen des
+            wintermonats, sowie mit</hi>
+          <hi rendition="#g">wheel</hi>, <hi rendition="#i">indem
+            ursprünglich die sonnenwende, das sonnenrad damit gemeint
+            gewesen sei; vgl.</hi> Stratmann ³ 272; Dief. 1, 122;
+          Grimm 4², 2369; Myth. 664; G. d. d. S. 57. 75. 211; Weinhold
+          Monatsnamen <hi rendition="#i">s.</hi> 4. 47.</p>
+        <p><hi rendition="#b">Yux</hi>
+          <hi rendition="#i">seufzen, schluchzen; altengl.</hi> yoxen;
+            <hi rendition="#i">s. das weitere unter der nebenform</hi>
+          <hi rendition="#g">yex</hi>.</p>
+        <milestone rendition="#hr" unit="section"/>
+      </div>
+      <pb n="[675]" facs="#f0677"/>
+      <div xml:id="section-z">
+        <head rendition="#c">Z.</head>
+        <p><hi rendition="#b">Zani</hi>
+          <hi rendition="#i">possenreisser; fr.</hi> zani, <hi
+            rendition="#i">it.</hi> zanni <hi rendition="#i">hanswurst
+            der komödie in der gestalt eines bauern von Bergamo;
+            mundartl. für</hi> Gianni, Giovanni; <hi rendition="#i"
+            >vgl. die anwendungen der eigennamen nhd.</hi> Hans, <hi
+            rendition="#i">engl.</hi> John <hi rendition="#i">und</hi>
+          Jack; Diez 2, 81.</p>
+        <p><hi rendition="#b">Zeal</hi>
+          <hi rendition="#i">eifer; bei</hi> Levins <hi rendition="#i"
+            >noch</hi> zeele, zele; <hi rendition="#i">fr.</hi> zèle,
+            <hi rendition="#i">sp. pg. it.</hi> zelo, <hi
+            rendition="#i">von dem gr.</hi> ζῆλος, <hi rendition="#i"
+            >lat.</hi> zelus; <hi rendition="#i">dazu ableitungen
+            wie</hi>
+          <hi rendition="#g">zealous</hi>, <hi rendition="#i"
+            >vgl.</hi>
+          <hi rendition="#g">jealous</hi>; <hi rendition="#i"
+            >ferner</hi>
+          <hi rendition="#g">zealot</hi>, <hi rendition="#i">fr.</hi>
+          zélote, <hi rendition="#i">lat. gr.</hi> zelotes, ζηλώτης;
+            <hi rendition="#i">s.</hi> Diez 1, 449 <hi rendition="#i"
+            >und die nhd. fremdwörter</hi> zelot, zelotisch <hi
+            rendition="#i">bei</hi> Heyse 975.</p>
+        <p><hi rendition="#b">Zebra</hi>
+          <hi rendition="#i">pferdartiges thier; fr.</hi> zèbre, <hi
+            rendition="#i">it.</hi> zebro, <hi rendition="#i">sp. pg.
+            nhd.</hi> zebra; <hi rendition="#i">südafrikanisches wort;
+            s.</hi> Heyse 975; Weigand 2, 1126.</p>
+        <p><hi rendition="#b">Zedoari</hi>
+          <hi rendition="#i">zitwer; altengl.</hi> zedewal, zedwale,
+          sedewale, cetewale, cetuale, <hi rendition="#i">altfr.</hi>
+          citoual, <hi rendition="#i">neufr.</hi> zédoaire, <hi
+            rendition="#i">pr.</hi> zeduari, <hi rendition="#i"
+            >it.</hi> zedoaria, zettovario, <hi rendition="#i">sp.
+            pg.</hi> zedoaria, zodoaria; <hi rendition="#i">mlat.</hi>
+          zedoarium, zeduarium; <hi rendition="#i">ahd.</hi> zitawar,
+            <hi rendition="#i">mhd.</hi> zitwar, <hi rendition="#i"
+            >nhd.</hi> zitwer; <hi rendition="#i">aus dem
+            gleichbedeutenden arab. pers. hindost.</hi> dschadwâr;
+          Stratmann ³ 659; Weigand 2, 1150.</p>
+        <p><hi rendition="#b">Zenith</hi>
+          <hi rendition="#i">scheitelpunkt; fremdwort wie fr.</hi>
+          zénith, <hi rendition="#i">sp.</hi> zenit, cenit, <hi
+            rendition="#i">pg.</hi> zenit, zenith, <hi rendition="#i"
+            >it.</hi> zenit, <hi rendition="#i">nhd.</hi> zenith; <hi
+            rendition="#i">aus dem arab.</hi> samt, semt <hi
+            rendition="#i">weg, für das vollständige arab.</hi>
+          semt-ur-râs <hi rendition="#i">weg des kopfes,
+            scheitelgegend;</hi> Weigand 2, 1134.</p>
+        <p><hi rendition="#b">Zero</hi>
+          <hi rendition="#i">null; fr.</hi> zéro, <hi rendition="#i"
+            >it. sp. pg.</hi> zero, <hi rendition="#i">von dem
+            arab.</hi> çafrun, çifrun <hi rendition="#i">zahlzeichen,
+            null; vgl. das damit ursprünglich identische</hi>
+          <hi rendition="#g">cipher</hi>; Diez 2, 450.</p>
+        <p><hi rendition="#b">Zest</hi>
+          <hi rendition="#i">citronenschale, geschmack;</hi> Webster:
+          „a piece of orange or lemon peel used to give flavour to
+          liquor; relish; to give relish;“ <hi rendition="#i">fr.</hi>
+          zeste <hi rendition="#i">der sogenannte sattel der nuss; aus
+            dem lat. gr.</hi> schistus, σχιςτός <hi rendition="#i"
+            >gespalten, zu</hi> σχίζειν <hi rendition="#i">spalten;
+            s.</hi> Diez 2, 456.</p>
+        <pb n="676" facs="#f0678"/>
+        <p><hi rendition="#b">Zinc</hi>
+          <hi rendition="#i">eine art metall; fr.</hi> zinc, <hi
+            rendition="#i">schwd. dän. nhd.</hi> zink; <hi
+            rendition="#i">mlat.</hi> zincum; <hi rendition="#i">das
+            wort ist vielleicht verwandt mit dem nhd.</hi> zinn, <hi
+            rendition="#i">engl.</hi>
+          <hi rendition="#g">tin</hi>, <hi rendition="#i">oder enthält
+            noch eine spur des dunkeln ahd.</hi> zinco, ziucho <hi
+            rendition="#i">weisser fleck im auge; jedenfalls erst aus
+            dem nhd.</hi> zink <hi rendition="#i">in die anderen
+            sprachen gekommen;</hi> Heyse 976; Weigand 2, 1145.</p>
+        <p><hi rendition="#b">Zone</hi>
+          <hi rendition="#i">gürtel, erdgürtel; fr. nhd.</hi> zone;
+            <hi rendition="#i">pr. sp. pg. it. lat.</hi> zona, <hi
+            rendition="#i">aus dem gr.</hi> ζώνη, <hi rendition="#i"
+            >zu</hi> ζώννυμι <hi rendition="#i">ich gürte.</hi></p>
+        <milestone rendition="#hr" unit="section"/>
+        <p rendition="#smaller #c">Druck von Paul Schettler’s Verlag
+          in Cöthen.</p>
+      </div>
     </body>
     <back/>
   </text>
