@@ -31,5 +31,7 @@ In order to view the transcripts in a web browser after cloning
 or checking out this repository you may have to set up a webserver
 running locally on your machine in order to have the XSL applied automatically.
 An easy way to do this is:
-```ùser@host:trunk$ python -m SimpleHTTPServer```
-and pointing your browser to http://localhost:8000/.
+
+```user@host:trunk$ python -m SimpleHTTPServer```
+
+and then pointing your browser to http://localhost:8000/.
