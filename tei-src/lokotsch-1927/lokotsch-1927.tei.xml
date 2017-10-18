@@ -32,7 +32,7 @@
           <orgName ref="https://github.com/xlhrld/retro-dict"
             >retro-dict</orgName>
         </publisher>
-        <date type="publication">2017-10-13</date>
+        <date type="publication">2017-10-18</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">
             <p>This work is licensed under a Creative Commons Attribution
@@ -1292,8 +1292,10 @@
             rendition="#i">textos aljamiados</hi> also spanische
           Schriftstücke, die arabisch geschrieben sind, z. B. das Poema de
           Yūṣuf, vgl. Ad. Zauner, Altspanisches Elementarbuch.² Heidelberg
-          1921. S. 155. [DE 145. ML 298. ZromPh XXXII, 41. XXXIII, 62.
-          Karlowicz 435.</p>
+          1921. S. 155. [DE 145. ML 298. <choice>
+            <sic>ZromPh</sic>
+            <corr>ZfromPh</corr>
+          </choice> XXXII, 41. XXXIII, 62. Karlowicz 435.</p>
         <p>30. <hi rendition="#b">Mal. agar-agar:</hi>
           <lb/>[Pijn 9: Plocaria candida]; hieraus angloind. und engl. <hi
             rendition="#i">agar-agar</hi>, dtsch. <hi rendition="#i"
@@ -1880,7 +1882,10 @@
             <hi rendition="#i">Arabeske</hi> usw. — e) Zur Bezeichnung <pb
             n="9" facs="#f0031"/><cb n="1"/>des ‛Mais’ im bulg. <hi
             rendition="#i">arapka</hi> benutzt [wie im ngr. ἀραβόστος]. [DE
-          56 bis 57. ZromPh XXIX, 418. ML 589 und 590. Roth ViFr 38.</p>
+          56 bis 57. <choice>
+            <sic>ZromPh</sic>
+            <corr>ZfromPh</corr>
+          </choice> XXIX, 418. ML 589 und 590. Roth ViFr 38.</p>
         <p>90. <hi rendition="#b">Tk. araba:</hi>
           <lb/>[Mit falscher arabisierender Schreibung <hi rendition="#i"
             >‛araba</hi>] ‛Wagen‘, <hi rendition="#i">arabaǧy</hi>
@@ -2009,7 +2014,11 @@
           Kriegsruf „<hi rendition="#i">aride! aride!</hi>“ beigelegt wird,
           paßt die hier Nr. 59 d [am Schlusse] gegebene Ableitung
           semantisch besser. — Die Ableitung aus lat. <hi rendition="#i"
-            >ululatus</hi> ZromPh XVI, 520 ist abzulehnen.</p>
+            >ululatus</hi>
+          <choice>
+            <sic>ZromPh</sic>
+            <corr>ZfromPh</corr>
+          </choice> XVI, 520 ist abzulehnen.</p>
         <p>101. <hi rendition="#b">Ar. ‛arīš:</hi>
           <lb/>‛Weinlaube’. Hieraus sp. <hi rendition="#i">arije</hi> als
           Adjektiv in der Verbindung <hi rendition="#i">uva arije</hi>
@@ -7090,8 +7099,10 @@
             rendition="#i">farfanti</hi> ‛Lügner’, <hi rendition="#i"
             >farfaru</hi> ‛Spitzbube’; Vb. it. <hi rendition="#i"
             >farfogliare</hi> ‛stottern’, frz. (dial.) <hi rendition="#i"
-            >farfoulier</hi>, sp. <hi rendition="#i">farfullar</hi>.
-          [ZromPh XXVIII, 738. XXX, 676. GrSVociSic 233/234. ML 3194.</p>
+            >farfoulier</hi>, sp. <hi rendition="#i">farfullar</hi>. [<choice>
+            <sic>ZromPh</sic>
+            <corr>ZfromPh</corr>
+          </choice> XXVIII, 738. XXX, 676. GrSVociSic 233/234. ML 3194.</p>
         <p>590. <hi rendition="#b">Ar.</hi>
           <hi rendition="#b">farǧīja:</hi>
           <lb/>‛Riß in der Mauer, Dachbalken’; hieraus mit ar. Art. sp. <hi
@@ -21281,6 +21292,1033 @@
             facs="#f0171"/><cb n="1"/>Gotha 1901. S. 340 ff. Vgl. auch
           Journal of the Anthropological Society of Bombay 1894. III,
           275/300 und Hobson-Jobson 878/883.</p>
+        <p>1870. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">saṭl:</hi>
+          <lb/>‛Schöpfeimer’, vulg. <hi rendition="#i">seṭl</hi>; hieraus
+          kat. <hi rendition="#i">cetre</hi>, sp. <hi rendition="#i"
+            >cetre</hi>, <hi rendition="#i">acetre</hi>, <hi rendition="#i"
+            >celtre</hi>, pg. <hi rendition="#i">acetere</hi> ‛dass.’. [DE
+          34. Eguilaz 27. ML 1852.</p>
+        <p>1871. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">šaṭranǧ:</hi>
+          <lb/>‛Schach’ [aus sskr. <hi rendition="#i">čaturanga</hi>
+          ‛viergliederig’, weil das altindische Schachspiel vier
+          Waffengattungen kennt: Wagen, Reiter, Fußvolk, Elefanten], auch
+            <hi rendition="#i">šiṭranǧ</hi>; hieraus kat. <hi
+            rendition="#i">aixedres</hi>, sp. <hi rendition="#i"
+            >ajedrez</hi>, pg. <hi rendition="#i">xadrez</hi>, <hi
+            rendition="#i">enxadrez</hi> ‛Schachspiel’. — Aus ar. <hi
+            rendition="#i">aš-šiṭranǧ</hi>
+          <hi rendition="#i">at-tāmm</hi> ‛das vollständige Schach’ wurde
+          über sp. <hi rendition="#i">ajedrez</hi>
+          <hi rendition="#i">atama</hi> volksetymologisch <hi
+            rendition="#i">ajedrez</hi>
+          <hi rendition="#i">de</hi>
+          <hi rendition="#i">la</hi>
+          <hi rendition="#i">dama</hi>, frz. <hi rendition="#i">jeu</hi>
+          <hi rendition="#i">de</hi>
+          <hi rendition="#i">dames</hi>, dtsch. <hi rendition="#i"
+            >Damespiel</hi>. [DE 219. Eguilaz 76. ML 7694.</p>
+        <p>1872. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">šaṭrija:</hi>
+          <lb/>‛Satureia hortensis’ [aus lat. <hi rendition="#i"
+            >satureia</hi>]; hieraus mit ar. Art. sp. <hi rendition="#i"
+            >ajedrea</hi> ‛Saturei’. [DE 219. Eguilaz 75/76.</p>
+        <p>1873. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">sāṭūr:</hi>
+          <lb/>‛Großes Fleischermesser, mit dem das Schlachtvieh zerlegt
+          wird’ [ḲM II, 925; vgl. auch FISCHER in MSOS II, 233]; über tk.
+            <hi rendition="#i">saṭyr</hi> hieraus rum. <hi rendition="#i"
+            >satîr</hi> ‛dass., Hackmesser’, Ableitung <hi rendition="#i"
+            >satîraş</hi>; bulg. <hi rendition="#i">satъr</hi>
+          ‛Hackmesser’. [Sain 58. Löbel ElTAP 83.</p>
+        <p>1874. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ṣaul:</hi>
+          <lb/>Infin. des Vbs. <hi rendition="#i">ṣāla</hi> ‛sich auf jmd.
+          stürzen’; hieraus pg. <hi rendition="#i">açular</hi>
+          <hi rendition="#i">o</hi>
+          <hi rendition="#i">cão</hi> ‛den Hund reizen, daß er sich auf
+          jemand stürzt’ [wohl unter Einfluß der IV. kausativen Form <hi
+            rendition="#i">aṣāla</hi> ‛auf jmd. hetzen’, Constancio Dicc 20
+          c/21 a]. [DE 40. Eguilaz 39/40 (mit anderer, unwahrscheinlicher
+          Etymologie).</p>
+        <p>1875. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">sauṭ:</hi>
+          <lb/>‛Peitsche’; hieraus sp. <hi rendition="#i">azote</hi>, pg.
+            <hi rendition="#i">açoute</hi>, kat. <hi rendition="#i"
+            >assot</hi> ‛Peitsche<choice>
+            <sic>’</sic>
+            <corr/>
+          </choice>, Geißel’, siz. <hi rendition="#i">zotta</hi> ‛dass.’,
+          Vb. sp. <hi rendition="#i">azotar</hi>, it. <hi rendition="#i"
+            >ciottare</hi> ‛geißeln’. [DE 228. Eguilaz 325. ML 7628.</p>
+        <p>1876. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">saz:</hi>
+          <lb/>‛Schilf’; hieraus bulg. <hi rendition="#i">saz</hi>
+          ‛Schilfrohr’, poln. <hi rendition="#i">sasina</hi> ‛dass.’. [Mikl
+          SlEtWb 289 a.</p>
+        <p>1877. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">sazan:</hi>
+          <lb/>‛Karpfen’ [Kélékian Ḳāmūs 658 a]; hieraus russ. <hi
+            rendition="#i">sazan</hi> ‛dass.’ [vgl. auch ngr. σαζάνι,
+          Jannarakis Dtsch.-ngr. WB 456]. [Gorjajew 310. Mikl SlEtWb 289
+          a.</p>
+        <p>1878. <hi rendition="#b">Chin.</hi>
+          <hi rendition="#b">se:</hi>
+          <lb/>‛Seide’; hierauf gehen die meisten Benennungen der Seide in
+          den verschiedenen europäischen Sprachen zurück: mlat. <hi
+            rendition="#i">seta</hi> [mit lat. <hi rendition="#i">seta</hi>
+          &lt; <hi rendition="#i">saeta</hi> ‛Borste, Haar’ lautlich
+          zusammengefallen], it. <hi rendition="#i">seta</hi>, sp. pg.
+          prov. <hi rendition="#i">seda</hi>, frz. <hi rendition="#i"
+            >soie</hi>; dtsch. <hi rendition="#i">Seide</hi>. Mit der
+          Endpartikel <hi rendition="#i">or</hi>, deren sich <cb n="2"/>die
+          Bewohner der nördlichen Provinzen Chinas häufig bedienen, wurde
+            <hi rendition="#i">se-or</hi>, und so wurden daher im Altertum
+          die chinesischen Kaufleute bezeichnet: gr. Ση&#785;ρες, lat. <hi
+            rendition="#i">Seres</hi>, das Land <hi rendition="#i"
+            >Serica</hi>, Adj. <hi rendition="#i">sericus</hi> ‛serisch,
+          seiden’, <hi rendition="#i">serica</hi> ‛seidene Kleider’; aus
+            <hi rendition="#i">serica</hi>, <hi rendition="#i">sarica</hi>,
+            <hi rendition="#i">sirica</hi> entwickelte sich: frz. <hi
+            rendition="#i">serge</hi>, <hi rendition="#i">sarge</hi>, prov.
+            <hi rendition="#i">serga</hi>, it. <hi rendition="#i"
+            >sargia</hi>, kat. <hi rendition="#i">sarja</hi>, sp. pg. <hi
+            rendition="#i">sarga</hi>, rum. <hi rendition="#i">sarecă</hi>
+          ‛Art Wollstoff’, sp. <hi rendition="#i">jergo</hi>, pg. <hi
+            rendition="#i">xergo</hi> ‛großer Sack’, sp. <hi rendition="#i"
+            >jergon</hi>, pg. <hi rendition="#i">enxergão</hi> ‛Strohsack’,
+          sp. <hi rendition="#i">sirgo</hi> ‛Florettseide’, it. (dial.
+          Calabrien) <hi rendition="#i">siricu</hi> ‛Seidenwurm’; dtsch.
+            <hi rendition="#i">Sarsche</hi>; russ. <hi rendition="#i"
+            >sarža</hi>, bulg. <hi rendition="#i">sarža</hi>, čech. <hi
+            rendition="#i">sarše</hi>, poln. <hi rendition="#i">sarša</hi>,
+          szarsza ‛Art wollener Stoff’. Auf <hi rendition="#i">sericum</hi>
+          ‛aus Seide gemacht’ geht auch durch Vermittlung des Afrz. das
+          engl. <hi rendition="#i">silk</hi> ‛Seide’, ferner aslav. <hi
+            rendition="#i">šelkŭ</hi> ‛Seide’ zurück; hieraus <hi
+            rendition="#i">šolk</hi> ‛Seide’, klruss. <hi rendition="#i"
+            >šol̃k</hi>, Abltg. russ. <hi rendition="#i">šelkowica</hi>,
+            <hi rendition="#i">šelkownik</hi> ‛Maulbeerbaum’. [Gorjajew
+          312. Mikl SlEtWb 312. ML 7848.</p>
+        <p>1879. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">sefertasy:</hi>
+          <lb/>‛Auf einander gelegte Porzellangeschirre, die auf zwei
+          Seiten verbunden sind und in denen man Essen trägt’ [aus <hi
+            rendition="#i">sefer</hi> ‛Reise’, ar. <hi rendition="#i"
+            >safar</hi>, woraus auch dtsch. <hi rendition="#i">Safari</hi>
+          ‛Reise- oder Kriegszug in den Kolonien Afrikas’ über das
+          gleichlautende Kisuaheliwort entstanden ist, sowie <hi
+            rendition="#i">ṭas</hi>, s. hier Nr. 2044, vgl. Kélékian Ḳāmūs
+          681 a]; hieraus rum. <hi rendition="#i">sefertaş</hi>
+          ‛Essenträger, Eß- oder Kochgeschirr’.</p>
+        <p>1880. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">šēḳel:</hi>
+          <lb/>Ein Gewicht, ungefähr 19,37 g [vom Vb. šāḳal ‛wägen’; vgl.
+          assyr. <hi rendition="#i">šiḳlu</hi>, hier Nr. 1456 a], und
+          später ein Geldstück im Gewichte von 14,55 g Silber und im Werte
+          von 2,50 M; hieraus in gleicher Bedeutung engl. <hi
+            rendition="#i">shekel</hi>, dtsch. <hi rendition="#i"
+            >Sekel</hi> und unter Einfluß von gr. σίκλος, lat. <hi
+            rendition="#i">siclus</hi>, auch ndl. <hi rendition="#i"
+            >sikkel</hi>.</p>
+        <p>1881. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">Šelōmō:</hi>
+          <lb/>Statt der volleren Form <hi rendition="#i">Šelōmōn</hi>
+          [vgl. ar. <hi rendition="#i">Sulaimān</hi>, wie dieses Abltg. aus
+          hebr. <hi rendition="#i">šālōm</hi> = ar. <hi rendition="#i"
+            >salām</hi> ‛Friede’], N. pr., Name eines jüd. Königs, der
+          durch seine Weisheit berühmt und sprichwörtlich wurde, daher
+          dtsch. Adj. <hi rendition="#i">salomonisch</hi> [über die lat.
+          Form des Namens Salomon] ‛weise’.</p>
+        <p>1882. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">šęlō</hi>
+          <hi rendition="#b">mō‛īl:</hi>
+          <lb/>‛Derjenige, der nichts taugt; Taugenichts’; hieraus dtsch.
+            <hi rendition="#i">Schlemiel</hi>, <hi rendition="#i"
+            >Schlemihl</hi> ‛Pechvogel’, bes. bekannt durch CHAMISSOS
+          „Peter Schlemihl“, den Schattenlosen. [Ablt. von TORCZYNER in
+          ZDMG L, 557; andere Ableitungen: a) Eigenname <hi rendition="#i"
+            >Selūmī’ēl</hi> Num. I, 6; II, 12, ein jüd. Fürst, so Avé-L IV,
+          470; denselben Namen soll ein Rabbinerschüler des XIV.
+          Jahrhunderts in Ens in Österreich <pb n="150" facs="#f0172"/><cb
+            n="1"/>geführt haben, b) Aus <hi rendition="#i"
+            >Schlimmassel</hi> mit Anlehnung an <hi rendition="#i"
+            >Gabriel</hi> oder ähnliche Namen. c) Hebr. <hi rendition="#i"
+            >šelūmī’ēl</hi> soll als Ausruf ‛Heil Gottes! = Gott behüte!’
+          auf die Person übertragen sein. Die oben angegebene Etymologie
+          scheint die wahrscheinlichste zu sein.] [<choice>
+            <sic>MDWiD</sic>
+            <corr>MWiD</corr>
+          </choice> 39/40.</p>
+        <p>1883. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">semer:</hi>
+          <lb/>‛Sattel’ [aus ngr. σωμάρι σαμάρι ‛Packsattel’ &lt;
+          σαγμάριον, klassisch σάγμα; vgl. it. <hi rendition="#i"
+            >somaro</hi> ‛Saumtier’]; hieraus rum. samar ‛Pack- oder
+          Saumsattel’.</p>
+        <p>1884. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">šemū‛ā:</hi>
+          <lb/>‛Kunde, Erzählung, Gerücht’; hieraus jüd.-dtsch. <hi
+            rendition="#i">Schmu</hi>
+          <hi rendition="#i">machen</hi> ‛sich einen unerlaubten Gewinn
+          verschaffen’ [durch schlaues oder trügerisches Geschwätz], <hi
+            rendition="#i">Schmu</hi> ‛der so erzielte Gewinn’. Aus dem
+          plr. <hi rendition="#i">šemū‛ōϑ</hi> wurde jüd.-dtsch. <hi
+            rendition="#i">Schmus</hi> ‛verschmitztes Gerede und
+          Anpreisen’, Vb. <hi rendition="#i">schmusen</hi> ‛lange Redereien
+          machen’, <hi rendition="#i">Schmuser</hi> ‛betrügerischer
+          Schwätzer’, <hi rendition="#i">beschmusen</hi> ‛überreden’.
+          [Avé-L IV, 472. Kluge 400 und 401.</p>
+        <p>1885. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">serāφīm:</hi>
+          <lb/>Plr. von <hi rendition="#i">sārāφ</hi> [vom Vb. <hi
+            rendition="#i">sāraφ</hi> ‛verbrennen’, also ‛die
+          Verbrennenden’, d. h. ‛Läuternde’], Name von Engeln im AT; in der
+          gleichen Bedeutung durch gr. σεραφείμ, lat. <hi rendition="#i"
+            >seraphim</hi> in alle europäischen Sprachen übergegangen, z.
+          B. russ. <hi rendition="#i">serafim</hi>; sp. <hi rendition="#i"
+            >serafin</hi>; dtsch. <hi rendition="#i">Seraf</hi>, plr. <hi
+            rendition="#i">Serafin</hi>.</p>
+        <p>1886. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">šerid:</hi>
+          <lb/>Od. <hi rendition="#i">šerit</hi> ‛Band, Tresse’ [Kélékian
+          Ḳāmūs 726 a; aus ar. <hi rendition="#i">šarīṭ</hi> ‛Strick aus
+          Palmbast; Tresse, Franse’]; hieraus rum. <hi rendition="#i"
+            >şiret</hi> ‛gedrehter Faden, Zwirnband’.</p>
+        <p>1887. <hi rendition="#b">Tam.</hi>
+          <hi rendition="#b">shāṭi:</hi>
+          <lb/>Im Pali <hi rendition="#i">chāḍi</hi>; hieraus angloind. <hi
+            rendition="#i">chatty</hi> ‛irdener, fast kegelförmiger Topf’.
+          [Hobson-Jobson 185.</p>
+        <p>1888. <hi rendition="#b">Tam.</hi>
+          <hi rendition="#b">shuruṭṭu:</hi>
+          <lb/>Ebenso malayālam <hi rendition="#i">churuṭṭu</hi> ‛eine
+          Rolle (Tabak)’; hieraus angloind. engl. <hi rendition="#i"
+            >cheroot</hi> ‛Zigarre’, bes. eine solche, die an beiden Enden
+          abgestumpft ist, wie es die indischen und die Manilazigarren
+          früher waren. [Hobson-Jobson 188/189.</p>
+        <p>1889. <hi rendition="#b">Chin.</hi>
+          <hi rendition="#b">siao-chung:</hi>
+          <lb/>‛Kleine Sprossen’; hieraus dtsch. <hi rendition="#i"
+            >Souchong</hi>, engl. <hi rendition="#i">souchong</hi> Name
+          einer feinen Teesorte. Andere Namen sind dtsch. <hi
+            rendition="#i">Pekko</hi>, engl. <hi rendition="#i">pekoe</hi>
+          aus chin. <hi rendition="#i">pai-hao</hi>, kantonesisch <hi
+            rendition="#i">pák-ho</hi> ‛weißer Flaum’; <hi rendition="#i"
+            >Congou</hi>, engl. <hi rendition="#i">congou</hi> aus chin.
+            <hi rendition="#i">kung-fu</hi> ‛Arbeit’, die zweite Qualität
+          des schwarzen Tees, die von der dritten Pflückung stammt; <hi
+            rendition="#i">Oolung</hi> aus chin. <hi rendition="#i"
+            >wulung</hi> ‛schwarzer Drache’. [Hirth Chin FW 209.</p>
+        <cb n="2"/>
+        <p>1890. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ṣibar:</hi>
+          <lb/>[Vom gleichen Stamme wie hier Nr. 1741] ‛Aloë’; hieraus mit
+          ar. Art. sp. <hi rendition="#i">acíbar</hi>, kat. <hi
+            rendition="#i">aciber</hi>, pg. <hi rendition="#i">azevre</hi>,
+            <hi rendition="#i">azevar</hi>, ohne ar. Art. kat. <hi
+            rendition="#i">cever</hi>, siz. <hi rendition="#i">zabarra</hi>
+          ‛dass.’. [DE 35. Eguilaz 29. ML 1893.</p>
+        <p>1891. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">šibbōlęϑ:</hi>
+          <lb/>‛Flut, Strom’; im AT, Richter 12, 6 wird das Wort als
+          Beispiel für die Eigentümlichkeit der Ephraimiten angeführt,
+          statt <hi rendition="#i">š</hi> ein <hi rendition="#i">s</hi> zu
+          sprechen; an dieser Aussprache des Worts wurden sie ebenso
+          erkannt, wie die Franzosen während der sizilianischen Vesper an
+          der Aussprache des it. <hi rendition="#i">ciceri</hi>. Daher
+          ergab sich die Bedeutung: ‛Erkennungswort, Losung’, z. B. dtsch.
+            <hi rendition="#i">Schibbolet</hi> bei GOETHE (Campagne in
+          Frankreich, 24. 9. 1792): „Weiß und schwarz Brot ist eigentlich
+          das Schibolet, das Feldgeschrei zwischen Deutschen und
+          Franzosen“, ebenso ndl. <hi rendition="#i">schibboleth</hi>,
+          engl. <hi rendition="#i">shibboleth</hi>; dagegen frz. <hi
+            rendition="#i">schibboleth</hi> ‛unüberwindbare Schwierigkeit,
+          schlüssiger Beweis’. [Devic DEt 204/205.</p>
+        <p>1892. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">šiddāχ:</hi>
+          <lb/>‛Kuppler’, auch ‛Heiratsvermittler’; hieraus jüd.-dtsch. <hi
+            rendition="#i">Schadchon</hi> ‛dass.’, jetzt <hi rendition="#i"
+            >Schadchen</hi> ‛Heiratsvermittler für jüd. Partien’.</p>
+        <p>1893. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">šiff:</hi>
+          <lb/>‛Leichtes, durchsichtiges Gewand’; hieraus afrz. <hi
+            rendition="#i">chiffe</hi> ‛leichter Stoff von schlechter
+          Beschaffenheit’, mit romanischer Endung frz. <hi rendition="#i"
+            >chiffon</hi>, it. <hi rendition="#i">chiffone</hi> ‛Lumpen;
+          dünner, durchsichtiger Stoff’; dtsch. <hi rendition="#i"
+            >Chiffon</hi> ‛dünner Stoff’; Abltg. engl. <hi rendition="#i"
+            >chiffonnier</hi> [&lt; frz. <hi rendition="#i"
+            >chiffonnier</hi> ‛Lumpensammler’] ‛Art kleiner Anrichte,
+          hölzernes Gestell mit Regalen’. [Devic DEt 94/95.</p>
+        <p>1894. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ṣifr:</hi>
+          <lb/>‛Leer, Null’ [Übersetzung von sskr. <hi rendition="#i"
+            >sūnya</hi> ‛leer &gt; Null’, s. Cantor, Vorlesungen über
+          Geschichte der Mathematik. I. ³. S. 614 und 711]; hieraus
+          zunächst in der Bedeutung ‛Null’ und erst später in der neuen
+          Bedeutung ‛Zahlzeichen’ zahlreiche europäische Abkömmlinge: it.
+            <hi rendition="#i">cifra</hi> ‛Null (alt), Geheimschrift’, frz.
+            <hi rendition="#i">chiffre</hi> ‛Geheimschrift’, sp. pg. <hi
+            rendition="#i">cifra</hi> ‛Zahlzeichen’, rum. <hi
+            rendition="#i">cifră</hi>, <hi rendition="#i">ţifră</hi>; sp.
+            <hi rendition="#i">cero</hi> ‛Null’, frz. <hi rendition="#i"
+            >zéro</hi>, it. <hi rendition="#i">zero</hi> [&lt; <hi
+            rendition="#i">zefro</hi>, <hi rendition="#i">zéfiro</hi>, noch
+          bei LEONARDO PISANO um das Jahr 1200: <hi rendition="#i"
+            >zephirum</hi>]; dtsch. <hi rendition="#i">Ziffer</hi>, ndl.
+            <hi rendition="#i">cijfer</hi> ‛Zahlzeichen’, engl. <hi
+            rendition="#i">cipher</hi>, <hi rendition="#i">cypher</hi>
+          ‛Null, Zahlzeichen, Geheimschrift’. — Am vollständigsten findet
+          sich die Geschichte der Etymologie von Ziffer usw. unter
+          Zurückweisung anderer Ableitungen bei Fischer, Zur Berichtigung
+          einer Etymologie von K. VOLLERS in ZDMG LVII, 783/793.</p>
+        <pb n="151" facs="#f0173"/>
+        <cb n="1"/>
+        <p>1895. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ṣifāḳ:</hi>
+          <lb/>‛Darmhaut’; hieraus sp. <hi rendition="#i">cifac</hi>, <hi
+            rendition="#i">cifaque</hi> [Dicc Cast 533 c], pg. <hi
+            rendition="#i">sifac</hi> ‛Bauchfell’. [DE 257. Eguilaz
+          379.</p>
+        <p>1896. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">siǧn:</hi>
+          <lb/>‛Gefängnis’ [aus gr. σίγνον, lat. <hi rendition="#i"
+            >signum</hi>, das selbst auf das Koptische zurückgeht; man
+          beachte, daß das ar. Wort im Koran nur an Stellen vorkommt, die
+          auf Ägypten Bezug haben. Vgl. A. A. BEVAN in ‛Aǧabnāma. A volume
+          of oriental studies dedicated to Edward Granville Browne.
+          Cambridge 1922. S. 71]; hieraus pg. <hi rendition="#i"
+            >sagena</hi>, <hi rendition="#i">sejana</hi> ‛Gefängnis der
+          gefangenen Christen bei den Mauren’. [DE 338. Eguilaz 489.</p>
+        <p>1897. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">šihāb:</hi>
+          <lb/>Plr. <hi rendition="#i">šuhūb</hi> ‛Sternschnuppe’; hieraus
+          mit dem ar. Art. it. <hi rendition="#i">asub</hi>. [NALLINO in
+          RSO VIII. 369 f.</p>
+        <p>1898. <hi rendition="#b">Mal.</hi>
+          <hi rendition="#b">sijāmang:</hi>
+          <lb/>‛Ein Affe Hylobates syndactylus Wagn.’ [Pijn 147]; hieraus
+          frz. engl. <hi rendition="#i">siamang</hi>, dtsch. <hi
+            rendition="#i">Siamang</hi> ‛derselbe Langarmaffe’. [Devic DEt
+          207. JAOS XVIII, 101/102.</p>
+        <p>1899. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">siḳā’:</hi>
+          <lb/>‛Schlauch für allerlei Flüssigkeiten, bes. Wasser und
+          Milch’, gewöhnlich aus Tierhäuten, insbesondere einem
+          Ziegenfelle, hergestellt [ḲM II, 942]; hieraus mit ar. Art. sp.
+            <hi rendition="#i">azacán</hi> ‛dass.; Krug, Gefäß’ [Dicc Cast
+          295 mit <hi rendition="#i">odre</hi> &lt; lat. <hi rendition="#i"
+            >uter</hi> ‛Schlauch’ synonym erklärt]. [DE 222. Eguilaz
+          315/316.</p>
+        <p>1900. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">siḳāja:</hi>
+          <lb/>‛Brunnen, Kanal zur Wasserzuführung’; hieraus mit ar. Art.
+          sp. <hi rendition="#i">azacaya</hi> ‛dass.’ [auch mit <hi
+            rendition="#i">acequia</hi> als synonym erklärt, s. hier Nr.
+          1791]. [DE 222. Eguilaz 316.</p>
+        <p>1901. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ṣiḳāl:</hi>
+          <lb/>‛Politur’, subst. Inf. des ar. Vbs. <hi rendition="#i"
+            >saḳdla</hi> ‛polieren’; hieraus sp. <hi rendition="#i"
+            >acicalar</hi> ‛schminken, sich herausputzen’, pg. <hi
+            rendition="#i">acicalar</hi>, <hi rendition="#i">açacalar</hi>
+          ‛polieren’. [Vielleicht hat auch ein vulg. Vb. <hi rendition="#i"
+            >ṣaiḳal</hi> ‛polieren’ eingewirkt.] [DE 35/36. Eguilaz 29/30.
+          ML 1936.</p>
+        <p>1902. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">sikbāǧ:</hi>
+          <lb/>‛Gehacktes Fleisch, in Essig gekocht; mariniertes Fleisch’
+          [ḲM II, 944, Z. 3: aus pers. <hi rendition="#i">sikbä</hi> ‛saure
+          Speise’]; sp. pg. <hi rendition="#i">escabeche</hi>, pg. <hi
+            rendition="#i">escaveche</hi>, it. (dial. Neapel, Abruzzen) <hi
+            rendition="#i">scapeccio</hi> ‛Salzlake, marinierter Fisch’,
+          Vb. sp. <hi rendition="#i">escabechar</hi>, frz. <hi
+            rendition="#i">escabecher</hi> ‛marinieren’. [DE 261. Eguilaz
+          390. ML 7909.</p>
+        <p>1903. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">sikka:</hi>
+          <lb/>‛Münze, Prägestock’, <hi rendition="#i">dār</hi>
+          <hi rendition="#i">as-sikka</hi> ‛Münzstätte’; hieraus durch
+          Abkürzung it. <hi rendition="#i">zecca</hi> ‛Münzstätte’, sp.
+          kat. <hi rendition="#i">zeca</hi>, <hi rendition="#i">seca</hi>;
+          Redensart sp. kat. <hi rendition="#i">de</hi>
+          <hi rendition="#i">zeca</hi>
+          <hi rendition="#i">en</hi>
+          <hi rendition="#i">meca</hi> ‛hin und her’ [wörtlich ‛von der
+          Zeca nach Mekka’, durch den Islam berühmt gewordene <cb n="2"
+          />Stadt in Hiǧāz, Südwestarabien]. Abltg. it. <hi rendition="#i"
+            >zecchino</hi> ‛eine Goldmünze’, sp. kat. <hi rendition="#i"
+            >cequí</hi>, pg. <hi rendition="#i">sequim</hi>, <hi
+            rendition="#i">zequim</hi>, frz. <hi rendition="#i"
+          >sequin</hi>; dtsch. <hi rendition="#i">Zechine</hi>. [DE 251.
+          Devic DEt 206. Eguilaz 367. 369. 349. ML 7793.</p>
+        <p>1904. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">sikkīn:</hi>
+          <lb/>‛Messer’; hieraus siz. <hi rendition="#i">zicchinetta</hi>
+          ‛ein Glücksspiel mit Karten’ [wahrscheinlich ursprünglich ein
+          gefährliches, gegen die Gesetze verstoßendes Spiel, bei dem das
+          Messer eine Rolle spielte]. [GrSVociSic 250.</p>
+        <p>1905. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">siḳlāt:</hi>
+          <lb/>[Aus gr. lat. <hi rendition="#i">cyclas</hi>, s. hier Nr.
+          1794] ‛Brokatstoff’; hieraus zur Bezeichnung eines orientahschen
+          Stoffes mit ar. Nunation <hi rendition="#i">-un</hi> afrz. <hi
+            rendition="#i">siglaton</hi>, prov. <hi rendition="#i"
+            >sisclató</hi>, sp. <hi rendition="#i">ciclatón</hi>. [Eguilaz
+          378/379. ML 7951.</p>
+        <p>1906. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">silāḥ:</hi>
+          <lb/>‛Waffe’, ebenso tk.; hieraus rum. <hi rendition="#i"
+            >seleaf</hi> ‛Waffengurt’. — [Aus <hi rendition="#i"
+            >silāḥ-ed-dīn</hi> ‛Waffe des Glaubens’ entstand der Eigenname
+          dtsch. <hi rendition="#i">Saladin</hi>.]</p>
+        <p>1907. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">silḳa:</hi>
+          <lb/>Eine Pflanze Beta sicula [aus gr. σικελός, nach Theophrast
+          so benannt, weil sie aus Sizilien stamme]; hieraus sp. <hi
+            rendition="#i">acelga</hi> ‛Lauch’, pg. <hi rendition="#i"
+            >acelga</hi>, <hi rendition="#i">celga</hi> ‛weiße Bete’, siz.
+          (alt) <hi rendition="#i">secla</hi>, (Messina) <hi rendition="#i"
+            >sécali</hi>, <hi rendition="#i">ségali</hi>. [DE 33. Mahn
+          EtUnt 95/96. Eguilaz 21/22. GrSVociSic 545/<choice>
+            <sic>246</sic>
+            <corr>546</corr>
+          </choice>. ML 7797.</p>
+        <p>1908. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">šilte:</hi>
+          <lb/>‛Matratze; langes, breites, mit Baumwolle gefüttertes
+          Polster, auf dem man bequem sitzen kann’ [Kélékian Ḳāmūs 732 b];
+          hieraus rum. <hi rendition="#i">saltea</hi> ‛dass.’.</p>
+        <p>1909. <hi rendition="#b">Pers.</hi>
+          <hi rendition="#b">šimšäd:</hi>
+          <lb/>‛Buchsbaum, Buxus sempervirens’, tk. <hi rendition="#i"
+            >čimšir</hi> ‛dass.’; hieraus rum. <hi rendition="#i"
+            >cimşir</hi> ‛Buchsbaum’; serb. <hi rendition="#i">šimšir</hi>,
+          russ. <hi rendition="#i">samšit</hi>, šamšit ‛dass.’.</p>
+        <p>1910 <hi rendition="#b">Pers.</hi>
+          <hi rendition="#b">šimṣīr:</hi>
+          <lb/>‛Schwert’; hieraus it. <hi rendition="#i">scimitarra</hi>,
+          frz. <hi rendition="#i">cimeterre</hi>, <hi rendition="#i"
+            >cimiterre</hi>, sp. pg. <hi rendition="#i">cimitarra</hi> ‛tk.
+          Säbel’ ; engl. <hi rendition="#i">scymitar</hi>, <hi
+            rendition="#i">cimetar</hi> ‛Säbel, Schwert’. [Oriente I, 195, <choice>
+            <sic>Anm,</sic>
+            <corr>Anm.</corr>
+          </choice> 2.</p>
+        <p>1911. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">sindīja:</hi>
+          <lb/>‛Wassermelone’ [ursprünglich <hi rendition="#i"
+            >al-baṭṭīḫa</hi>
+          <hi rendition="#i">as-sindīja</hi> ‛die Melone aus Sind in
+          Indien’]; hieraus kat. <hi rendition="#i">sindria</hi>, <hi
+            rendition="#i">acendria</hi>, sp. <hi rendition="#i"
+            >sandía</hi> ‛dass.’; sp. <hi rendition="#i">sandio</hi>, pg.
+            <hi rendition="#i">sandeu</hi> ‛töricht’. [DE 339. Eguilaz 490.
+          ML 7934 a.</p>
+        <p>1912. <hi rendition="#b">Pers.</hi>
+          <hi rendition="#b">sinǧāb:</hi>
+          <lb/>‛Eichhörnchen, Sciurus cinereus’, ebenso tk.; hieraus rum.
+            <hi rendition="#i">sîngeap</hi> ‛Feh, Marderpelz’, <hi
+            rendition="#i">singepiŭ</hi> ‛aschgrau’.</p>
+        <p>1913. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">sini:</hi>
+          <lb/>‛Große Platte an Stelle eines Speisetisches’ [aus ar. Adj.
+            <hi rendition="#i">ṣīnī</hi> ‛chinesisch, Porzellan’, zu <hi
+            rendition="#i">Šīn</hi> ‛Sina, China’]; hieraus rum. <hi
+            rendition="#i">sinie</hi> ‛Kuchenpfanne, -form’.</p>
+        <pb n="152" facs="#f0174"/>
+        <cb n="1"/>
+        <p>1914. <hi rendition="#b">Pers.</hi>
+          <hi rendition="#b">sipāh:</hi>
+          <lb/>‛Heer, Lager’ [Horn NpEt S. 155, Nr. 699; wohl mit pers. <hi
+            rendition="#i">äsp</hi> ‛Pferd’ verwandt, daher zunächst
+          ‛Reiterei’], dazu Adj. <hi rendition="#i">sipāhī</hi> ‛zur
+          Reiterei gehörig; Reitersoldat’; hieraus engl. <hi rendition="#i"
+            >seapoy</hi>, <hi rendition="#i">sepoy</hi> ‛eingeborener
+          Soldat in Indien’; frz. <hi rendition="#i">spahi</hi>, (alt) <hi
+            rendition="#i">cipaye</hi> ‛eingeborener Kavallerist, bes. in
+          Algerien’, sp. pg. <hi rendition="#i">espay</hi>, <hi
+            rendition="#i">cipayo</hi>, rum. <hi rendition="#i">spahi</hi>
+          <hi rendition="#i">spahiŭ</hi> ‛dass.’ [vgl. auch ngr.
+          οπαχη&#785;ς MSOS XII, 239]. [DE 261. Devic DEt 96 und 211.</p>
+        <p>1915. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ši‛rā:</hi>
+          <lb/>Name des Sternes Sirius [aus gr. σείριος]; hieraus mit ar.
+          Art. der Sternname <hi rendition="#i">Aschere</hi> ‛Sirius α
+          Canis maioris’.</p>
+        <p>1916. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">širra:</hi>
+          <lb/>Ebenso tk. <hi rendition="#i">širret</hi> ‛Schlauheit,
+          Bosheit’; hieraus rum. <hi rendition="#i">şiret</hi> als Subst.
+          ‛Schlauberger’, als Adj. ‛schlau, pfiffig’, Abltg. <hi
+            rendition="#i">şiretenie</hi> ‛Schlauheit, Pfiffigkeit’.</p>
+        <p>1917. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">šīš:</hi>
+          <lb/>‛Stilett, Bratspieß’ [vgl. MSOS II, 234, Anm. 8], ebenso
+          tk.; hieraus rum. <hi rendition="#i">şiş</hi> ‛Stockdegen’.</p>
+        <p>1918. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">šiš:</hi>
+          <lb/>‛Geschwulst’ [Kélékian Ḳāmūs 741]; hieraus russ. <hi
+            rendition="#i">šiška</hi> ‛Beule, Zapfen’, čech. <hi
+            rendition="#i">šiška</hi>, bulg. serb. <hi rendition="#i"
+            >šišarka</hi> ‛Zapfen’.</p>
+        <p>1919. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">sitāra:</hi>
+          <lb/>‛Vorhang, Pferdedecke; Mauer’ [eigentlich ‛alles, womit
+          etwas bedeckt wird’, vom Vb. <hi rendition="#i">satara</hi>
+          ‛bedecken’]; hieraus sp. pg. <hi rendition="#i">acitara</hi>, sp.
+            <hi rendition="#i">citara</hi> ‛Mauer’, pg. (alt) ‛Decke’. [DE
+          38/40. Eguilaz 34/36.</p>
+        <p>1920. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">šlim-mazol:</hi>
+          <lb/>‛Unglück, Pechvogel’ [moderner Ausdruck, s. H. L. Strack,
+          Jüdisches Wörterbuch. Leipzig 1916. S. 195; aus dtsch. <hi
+            rendition="#i">schlimm</hi> und nhebr. <hi rendition="#i"
+            >mazol</hi> ‛Geschick, Glücksstern’, s. hier Nr. 1455]; hieraus
+          jüd.-dtsch. <hi rendition="#i">Schlimasel</hi> ‛Unglück’, <hi
+            rendition="#i">Schlammassel</hi>, ganz modern <hi
+            rendition="#i">Schlamastik</hi> ‛Verlegenheit,
+          Unannehmlichkeit’; mit slav. Endung jüd.-dtsch. <hi
+            rendition="#i">Schlimasalnik</hi> ‛ein Mensch, dem alles
+          widerrät; Pechvogel’ [Birnbaum Hebr. El 52]. [SCHUCHARDT in <choice>
+            <sic>ZromPh</sic>
+            <corr>ZfromPh</corr>
+          </choice> XXXI, 8. SPITZER in Herrigs Archiv CXXXVIII, 159 und
+          234/236.</p>
+        <p>1921. <hi rendition="#b">Pers.</hi>
+          <hi rendition="#b">šobān:</hi>
+          <lb/>‛Schäfer, Hirte’ [Horn NpEt S. 171, Nr. 776], tk. <hi
+            rendition="#i">čoban</hi>; hieraus rum. <hi rendition="#i"
+            >cioban</hi> ‛dass.’ und viele Ableitungen.</p>
+        <p>1922. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">ṣoḥbet:</hi>
+          <lb/>‛Unterhaltung, bes. abends’ [ar. <hi rendition="#i"
+            >ṣuḥba</hi>]; hieraus bulg. <hi rendition="#i">sobat</hi>,
+          serb. <hi rendition="#i">sobet</hi> ‛Gastmahl’, [Mikl SlEtWb 312
+          b.</p>
+        <p>1923. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">soj:</hi>
+          <lb/>‛Art’; hieraus rum. <hi rendition="#i">soĭŭ</hi> ‛Art,
+          Gattung, Geschlecht’; serb. <hi rendition="#i">soj</hi>
+          ‛Rasse’.</p>
+        <cb n="2"/>
+        <p>1924. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">somun:</hi>
+          <lb/>‛Schwarzes Brot in runder Form’ [Kélékian Ḳāmūs 775 b];
+          hieraus rum. <hi rendition="#i">somon</hi> ‛großes Stück Brot;
+          Dickkopf’.</p>
+        <p>1925. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">sopa:</hi>
+          <lb/>‛Großer Knüppel, Prügel’ [vom Stamme <hi rendition="#i"
+            >sap</hi> ‛hauen, schlagen’, Vb. <hi rendition="#i">sapmaḳ</hi>
+          ‛einschlagen, einrammen’, Vámbéry TktEtWb S. 142, Nr. 153 I] ;
+          hieraus rum. <hi rendition="#i">sopa</hi>; bulg. serb. <hi
+            rendition="#i">sopa</hi> ‛dass.’. [Mikl SlEtWb 316 a. Löbel
+          ElTAP 86.</p>
+        <p>1926. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">ṣorġuǧ:</hi>
+          <lb/>‛Helmbusch, Perlenstrauß’ [Kélékian Ḳāmūs 771 b]; hieraus
+          rum. <hi rendition="#i">surgucĭŭ</hi> ‛dass.’.</p>
+        <p>1927. <hi rendition="#b">Hebr.</hi>
+          <hi rendition="#b">šōṭe:</hi>
+          <lb/>‛Dumm, töricht’ [mit biblischem <hi rendition="#i">sāṭā</hi>
+          ‛abweichen, abirren’ verwandt]; hieraus sp. pg. <hi
+            rendition="#i">zote</hi> ‛Tölpel’, frz. <hi rendition="#i"
+            >sot</hi> ‛dumm’, Abltg. <hi rendition="#i">sottie</hi>
+          ‛unflätiges Narrenspiel’, <hi rendition="#i">sottise</hi>
+          ‛gemeine Beleidigung’, it. <hi rendition="#i">zotico</hi> ‛grob,
+          ungeschliffen’; russ. (dial.) <hi rendition="#i">šut</hi>
+          ‛Spaßmacher, Possenreißer’, slovenisch <hi rendition="#i"
+            >sutec</hi> ‛dummer Mensch’; ndl. <hi rendition="#i">zot</hi>
+          ‛Narr, närrisch’, engl. <hi rendition="#i">sot</hi> ‛dumm,
+          Tölpel’, dtsch. <hi rendition="#i">Schaute</hi>, <hi
+            rendition="#i">Schote</hi>, mhd. <hi rendition="#i">sot</hi>,
+            <hi rendition="#i">sote</hi> ‛Narr’, dtsch. <hi rendition="#i"
+            >Zote</hi> [früher; vor dem XVI. Jhdt. <hi rendition="#i"
+            >Zotte</hi>] ‛unflätige Rede’. Aus dem zugehörigen Abstraktum
+            <hi rendition="#i">šeṭūϑ</hi>, modern ausgesprochen <hi
+            rendition="#i">štus</hi>, wurde jüd.-dtsch. <hi rendition="#i"
+            >Stuß</hi>, z. B. <hi rendition="#i">rede</hi>
+          <hi rendition="#i">keinen</hi>
+          <hi rendition="#i">Stuß</hi> ‛Unsinn’, auch in der Bedeutung
+          ‛törichter Aufwand’. [Da auf den Namen des engl. Gelehrten
+          Johannes DUNS SCOTUS, d. h. ‛der Schotte’, viele spottende
+          Wortspiele mit <hi rendition="#i">sottus</hi> ‛dumm’ gemacht
+          wurden, wurde schließlich der Familienname zu engl. <hi
+            rendition="#i">dunce</hi>, dtsch. <hi rendition="#i">Duns</hi>
+          ‛dummer Mensch’.] [Seiler DKiL III, 96. Kluge 445. 505.</p>
+        <p>1928. <hi rendition="#b">Sskr.</hi>
+          <hi rendition="#b">śramaṇâ:</hi>
+          <lb/>‛Bettelmönch, Asket’ [eigentlich ‛Selbstpeiniger’, vgl. <hi
+            rendition="#i">śram</hi> ‛defatigari!’], prākr. <hi
+            rendition="#i">śamana</hi>; hieraus tungusisch <hi
+            rendition="#i">šaman</hi> ‛Geisterbeschwörer’; dieses Wort ist
+          in alle europäischen Sprachen zur Bezeichnung des ostasiatischen
+          Zauberers und Geisterbeschwörers übergegangen: russ. <hi
+            rendition="#i">šaman</hi>, bulg. <hi rendition="#i">šaman</hi>,
+          čech. <hi rendition="#i">šamán</hi>, poln. <hi rendition="#i"
+            >szaman</hi>; frz. <hi rendition="#i">chaman</hi>, <hi
+            rendition="#i">samanéen</hi>; dtsch. <hi rendition="#i"
+            >Schamane</hi>, engl. <hi rendition="#i">shaman</hi>. Vgl.
+          Geschichten der Ost-Mongolen von Ssanang Ssetzen Chuntaidschi.
+          Aus dem Mongolischen von Isaac Jacob Schmidt. St. Petersburg
+          1829. S. 416; W. Schott, Über den Doppelsinn des Wortes Schamane
+          und über den tungusischen Schamanen-Cultus am Hofe der
+          Mandju-Kaiser. Berlin 1842. Auf altaischen Ursprung soll tungus.
+            <hi rendition="#i">šam</hi> &lt; tk. <hi rendition="#i"
+            >kam</hi> zurückgehen nach J. Németh, Über den Ursprung des
+          Wortes šaman in KSz <pb n="153" facs="#f0175"/>XIV, 240/249; mit
+          lautgeschichtlichen und kulturhistorischen Gründen zurückgewiesen
+          von Joseph Schmidt, A persza šaman etymonja in Nyelvtudományi
+          Közlemények XLIV, 470/474.</p>
+        <p>1929. <hi rendition="#b">Sskr.</hi>
+          <hi rendition="#b">ṣṛgāla:</hi>
+          <lb/>‛Canis aureus, Schakal’, ebenso pers. <hi rendition="#i"
+            >šäġāl</hi>, tk. <hi rendition="#i">šaḳal</hi>, <hi
+            rendition="#i">čaḳal</hi>; hieraus rum. <hi rendition="#i"
+            >ceacal</hi>, it. <hi rendition="#i">sciacallo</hi>, afrz. <hi
+            rendition="#i">jachal</hi>, frz. <hi rendition="#i"
+          >chacal</hi>; engl, <hi rendition="#i">jackal</hi>, ndl. <hi
+            rendition="#i">jakhals</hi> [mit volksetymologischer
+          Umgestaltung], dtsch. <hi rendition="#i">Schakal</hi>; russ. <hi
+            rendition="#i">šakal</hi>, <hi rendition="#i">čakal</hi>, bulg.
+          serb. <hi rendition="#i">šakal</hi>, čech. <hi rendition="#i"
+            >šakal</hi>, poln. <hi rendition="#i">szakal</hi>
+          ‛Goldwolf’.</p>
+        <p>1930. <hi rendition="#b">Sskr.</hi>
+          <hi rendition="#b">ṣṛagavêra:</hi>
+          <lb/>‛Ingwer, Zingiber officinarum Roscoe’ [eigentlich
+          ‛hornartig’; so sind die Wurzeln des braunen oder gemeinen
+          Ingwers tatsächlich beschaffen]; mit Schwinden des vokalischen
+            <hi rendition="#i">r</hi> wurde ar. <hi rendition="#i"
+            >zenǧebīl</hi>, tk. <hi rendition="#i">zinǧifre</hi> sowie gr.
+          ζιγγίβερις, lat. <hi rendition="#i">zingiber</hi> und hieraus:
+          it. <hi rendition="#i">zenzovero</hi>, <hi rendition="#i"
+            >zenzero</hi>, <hi rendition="#i">gengiovo</hi>, aprov. <hi
+            rendition="#i">gingebre</hi>, frz. <hi rendition="#i"
+            >gingembre</hi>, kat. <hi rendition="#i">gingebre</hi>, sp. <hi
+            rendition="#i">gengibre</hi>, <hi rendition="#i"
+          >agengibre</hi>, pg. <hi rendition="#i">gengibre</hi>, <hi
+            rendition="#i">gengivre</hi>, rum. <hi rendition="#i"
+            >ghimber</hi>, <hi rendition="#i">zingifil</hi>, <hi
+            rendition="#i">zinzifil</hi>; ndl. <hi rendition="#i"
+            >gember</hi>, engl. <hi rendition="#i">ginger</hi>, dtsch. <hi
+            rendition="#i">Ingwer</hi> [mit Abwurf des Anlautes wie bei den
+          folgenden Formen]; russ. <hi rendition="#i"><choice>
+              <sic>imbiŕ</sic>
+              <corr>imbir'</corr>
+            </choice></hi>, <hi rendition="#i"><choice>
+              <sic>inbiŕ</sic>
+              <corr>inbir'</corr>
+            </choice></hi>, klruss. <hi rendition="#i"><choice>
+              <sic>imbiŕ</sic>
+              <corr>imbir'</corr>
+            </choice></hi>, poln. <hi rendition="#i">imbier</hi>, <hi
+            rendition="#i">jembier</hi>, čech. <hi rendition="#i"
+            >zázvor</hi>, serb. <hi rendition="#i">džendžefil</hi>, <hi
+            rendition="#i">dumbir</hi> [über ung. <hi rendition="#i"
+            >győmbér</hi>]. [Dozy Oost 40/41. Kluge 215/216. Bern SlEtWb
+          259.</p>
+        <p>1931. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">Stambul:</hi>
+          <lb/>N. pr., Name der europäischen Hauptstadt der Türkei, auch
+            <hi rendition="#i">Istambul</hi> [aus gr. εἰς τὰν πόλιν];
+          hieraus serb. <hi rendition="#i">stambol</hi>, russ. <hi
+            rendition="#i">stambulka</hi>, dtsch. <hi rendition="#i"
+            >Stambulina</hi> ‛schwarzer tk. Gehrock’. [Gorjajew 342. Mikl
+          SlEtWb 320 a.</p>
+        <p>1932. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">subāt:</hi>
+          <lb/>‛Schlaf, Ruhe, Lethargie’ [vom Vb. <hi rendition="#i"
+            >sabata</hi> ‛ruhen’, gleicher Wurzel wie <hi rendition="#i"
+            >Sabbat</hi>, s. hier Nr. 1742], ebenso tk.; hieraus poln.
+          (alt) <hi rendition="#i">subet</hi> ‛Zuflucht; Lethargie’. [Mikl
+          SlEtWb 328 b. Karlowicz 422.</p>
+        <p>1933. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">sudd:</hi>
+          <lb/>‛Schleuse, Wehr an einem Flusse’ [vom Vb. <hi rendition="#i"
+            >sadda</hi> ‛versperren’]; hieraus mit ar. Art. kat. <hi
+            rendition="#i">assut</hi>, sp. <hi rendition="#i">azud</hi>
+          ‛dass.’; aus dem Einheitsnomen <hi rendition="#i">sudda</hi>
+          wurde sp. <hi rendition="#i">azuda</hi>, pg. <hi rendition="#i"
+            >açuda</hi> ‛Wasserrad, Noria’. [DE 229. Eguilaz 326.</p>
+        <p>1934. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ṣūf:</hi>
+          <lb/>‛Baumwollstoff’, ebenso tk. <hi rendition="#i">sof</hi>;
+          hieraus rum. <hi rendition="#i">zof</hi>, <hi rendition="#i"
+            >sof</hi> ‛Barchent’. — Das ar. Adj. <hi rendition="#i"
+            >sūfī</hi>, also ‛der in Baumwollkutte Gekleidete’ bezeichnete
+          den Anhänger des sog. <hi rendition="#i">Sufismus</hi>, einer
+          Geistesrichtung im Islam, die das Lebensziel des Menschen in dem
+          Streben nach mystischer Vereinigung mit Gott auf dem Wege der <cb
+            n="2"/>Ekstase erblickt und besonders von den Derwischorden
+          gepflegt wird: frz. <hi rendition="#i">soufi</hi>, was wir
+          heutzutage etwa ‛Theosoph’ nennen [Einwirkung von gr. σοφός
+          ‛weise’ braucht nicht ausgeschlossen zu sein, wenn es auch nicht
+          Grundwort ist]; engl. <hi rendition="#i">sofi</hi>.</p>
+        <p>1935. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ṣuffa:</hi>
+          <lb/>‛Ruhebank’ [vom Vb. <hi rendition="#i">ṣaffa</hi> ‛in eine
+          Reihe stellen’]; hieraus zur Bezeichnung eines gepolsterten
+          Sitzes für mehrere Personen it. <hi rendition="#i">sofà</hi>,
+          frz. <hi rendition="#i">sofa</hi>, <hi rendition="#i">sopha</hi>,
+          sp. pg. <hi rendition="#i">sofá</hi>, rum. <hi rendition="#i"
+            >sofa</hi>; engl. ndl. <hi rendition="#i">sofa</hi>, dtsch. <hi
+            rendition="#i">Sofa</hi>; russ. <hi rendition="#i">sofa</hi>.
+          [DE 340. Devic DEt 210. Eguilaz 494. ML 2025.</p>
+        <p>1936. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ṣufr:</hi>
+          <lb/>‛Messing’ [von <hi rendition="#i">aṣfar</hi> ‛gelb’; über
+          die Form des ar. Wortes vgl. FLEISCHER u. DOZY in BSAW XX, 285];
+          hieraus [oder aus einer westarabischen Form <hi rendition="#i"
+            >sufar</hi>, die in Spanien gebräuchlich war] mit ar. Art. sp.
+            <hi rendition="#i">azofar</hi>, pg. <hi rendition="#i"
+            >açofar</hi> ‛dass.’. [DE 227. Eguilaz 323.</p>
+        <p>1937. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">sufra :</hi>
+          <lb/>‛Niedriger Speisetisch’, ebenso tk. <hi rendition="#i"
+            >sofra</hi> ‛dass.’, eine manchmal ziemlich große, runde
+          Platte, die auf einen Schemel, <hi rendition="#i">kürsi</hi> [s.
+          hier Nr. 1190], oder ein entsprechendes einfaches Gestell gelegt,
+          erst unmittelbar vor dem Gebrauche in das Zimmer gebracht wird
+          und im orientalischen Haushalt als Eßtisch dient; hieraus rum.
+            <hi rendition="#i">sofra</hi> ‛dass.’, <hi rendition="#i"
+            >sofragĭŭ</hi> ‛Tafeldecker, -diener’, <hi rendition="#i"
+            >sofragerie</hi> ‛Speisezimmer’.</p>
+        <p>1938. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">ṣuǧuḳ:</hi>
+          <lb/>‛Wurst’; hieraus russ. <hi rendition="#i">syčug</hi>
+          ‛Magenwurst; der vom Schlunde in den Labmagen führende
+          Kanal’.</p>
+        <p>1939. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">šūka:</hi>
+          <lb/>‛Sporn’ [eigentlich <hi rendition="#i">šauka</hi> ‛Dorn’],
+          plr. <hi rendition="#i">šūkāt</hi> ‛ein Paar Sporen’; hieraus mit
+          ar. Art. pg. <hi rendition="#i">açucate</hi>, <hi rendition="#i"
+            >acicate</hi> [Constancio Dicc 15 c], kat. <hi rendition="#i"
+            >asicats</hi>, sp. <hi rendition="#i">acicate</hi> ‛Sporn’, der
+          statt des Sternchens oder Rädchens ein dornförmiges Ende hat; ein
+          Widerhaken verhindert das zu tiefe Eindringen. [DE 36/37. Eguilaz
+          30/31.</p>
+        <p>1940. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">suḳāṭa:</hi>
+          <lb/>‛Ausschuß’; hieraus mit Imalā [<hi rendition="#i">ā</hi>
+          &gt; <hi rendition="#i">ē</hi>] sp. <hi rendition="#i"
+            >zoquete</hi> ‛Brocken Brot; kleiner Mensch, roher Mensch von
+          langsamer Auffassung’.</p>
+        <p>1941. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">šuḳḳa:</hi>
+          <lb/>‛Spalte’; hieraus sp. <hi rendition="#i">chuca</hi>, <hi
+            rendition="#i">chuque</hi> [Dicc Cast 704 b] ‛eine der vier
+          Seiten des Knöchels, die eine Höhlung hat (im Tabaspiel)’. —
+          [Eguilaz 377 hat eine andere, nicht haltbare Ableitung.]</p>
+        <p>1942. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">sulaimānī:</hi>
+          <lb/>‛Gemisch von arseniger Säure und Quecksilber, Arsenik’
+          [SANGUINETTI in JAs 1866, I; Adj. zu <hi rendition="#i"
+            >Sulaimān</hi>, N. pr., = <pb n="154" facs="#f0176"/><cb n="1"
+          />Salomo, s. hier Nr. 1881, zu dessen Form vgl. NÖLDEKE in ZA
+          XXX, 158]; hieraus sp. <hi rendition="#i">solimán</hi>
+          ‛Quecksilbersublimat’, kat. <hi rendition="#i">solimani</hi>, pg.
+            <hi rendition="#i">solimão</hi>; über tk. <hi rendition="#i"
+            >sülümen</hi> ‛Quecksilbersublimat &gt; Schminke’ wurde rum.
+            <hi rendition="#i">suliman</hi> ‛Schminke’, Vb. <hi
+            rendition="#i">sulemeni</hi> ‛sich schminken’. [Löbel ElTAP 87.
+          DE 340, Eguilaz 494.</p>
+        <p>1943. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">sulhām:</hi>
+          <lb/>‛Mantel mit Kapuze’ [nur in Marokko und angrenzenden
+          Ländern, daher vielleicht berberischen Ursprungs; vgl. Dozy Vêtem
+          194/195]; hieraus sp. (alt) <hi rendition="#i">çulame</hi> und
+          mit Liquidenwechsel [<hi rendition="#i">l</hi> &gt; <hi
+            rendition="#i">r</hi>] sp. <hi rendition="#i">zorame</hi>, <hi
+            rendition="#i">zeramne</hi>, <hi rendition="#i">cerome</hi>
+          [Dicc Cast 1994 c und 553 b], pg. <hi rendition="#i">cerome</hi>,
+            <hi rendition="#i">cerame</hi> Constancio Dicc 246 a] ‛Mantel,
+          Überzieher’. [DE 368/369. Eguilaz 370. ML 8444.</p>
+        <p>1944. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">sullam:</hi>
+          <lb/>‛Leiter’; hieraus pg. <hi rendition="#i">xelma</hi> ‛die
+          seitlichen Bretter eines Leiterwagens, mit denen das Heu oder
+          Stroh festgehalten wird’ [DE 355; Constancio Dicc 974 b].</p>
+        <p>1945. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">sulṭān:</hi>
+          <lb/>‛Herrschaft &gt; Herrscher’ [vom aram. Stamme <hi
+            rendition="#i">šalaṭ</hi> ‛herrschen’, nicht ursprünglich ar.,
+          sondern erst entlehnt]; hieraus zur Bezeichnung orientalischer
+          Herrscher, bes. der türkischen: it. <hi rendition="#i"
+            >soldano</hi>, (moderner) <hi rendition="#i">sultano</hi>, sp.
+            <hi rendition="#i">soldan</hi>, <hi rendition="#i">sultan</hi>,
+          pg. <hi rendition="#i">soldão</hi>. rum. <hi rendition="#i"
+            >sultan</hi>, frz. <hi rendition="#i">sultan</hi>, (älter) <hi
+            rendition="#i">soldan</hi> und <hi rendition="#i">soudan</hi>
+          [die letztere Form zur Bezeichnung der mohammedanischen Herrscher
+          von Ägypten; dagegen kommt <hi rendition="#i">le</hi>
+          <hi rendition="#i">Soudan</hi>, dtsch. <hi rendition="#i"
+            >der</hi>
+          <hi rendition="#i">Sudan</hi> aus dem ar. <hi rendition="#i"
+            >bilād</hi>
+          <hi rendition="#i">as-sūdān</hi> ‛Land der Schwarzen’; <hi
+            rendition="#i">sūd</hi> ist Plr. von <hi rendition="#i"
+            >aswad</hi> ‛schwarz’]; engl. ndl. <hi rendition="#i"
+            >sultan</hi>, mhd. <hi rendition="#i">soldân</hi>, dtsch. <hi
+            rendition="#i">Sultan</hi>. — Ursprünglich ist der Titel Sultan
+          nur dem Kalifen von Bagdad beigelegt, worden, aber gegen Ende des
+          X. Jhdts. wurden die ‛Abbāsiden ihrer weltlichen Macht beraubt
+          und auf geistliche Macht beschränkt; Sultan wurde der Titel jedes
+          mächtigen Fürsten oder Emirs, der andere beherrschte, so daß sich
+          schließlich der <choice>
+            <sic>ger ngste</sic>
+            <corr>geringste</corr>
+          </choice> Duodezfürst so nannte. Vgl. Becker, Bartholds Studien
+          über Kalif und Sultan in Isl VI, 350 ff. [Devic DEt 212. ZDMG
+          LXII, 563/564, 714 u. 715.</p>
+        <p>1946. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">summāḳ:</hi>
+          <lb/>Eine Staude Rhus coriaria L. ‛Essigbaum’ [vom Vb. <hi
+            rendition="#i">samaḳa</hi> ‛einen schönen Wuchs haben’ oder aus
+          dem Aram.]; hieraus it. <hi rendition="#i">sommaco</hi>, prov.
+          frz. <hi rendition="#i">sumac</hi>, sp. <hi rendition="#i"
+            >zumaque</hi>, pg. <hi rendition="#i">summagre</hi>, rum. <hi
+            rendition="#i">sumac</hi>; russ. <hi rendition="#i">sumaḫ</hi>;
+          engl. <hi rendition="#i">sumac</hi>, <hi rendition="#i"
+            >sumach</hi>, <hi rendition="#i">shumach</hi>, ndl. <hi
+            rendition="#i">smak</hi>, dtsch. <hi rendition="#i"
+            >Schmack</hi>, <hi rendition="#i">Sumach</hi>. — Die zu Pulver
+          zerriebenen <cb n="2"/>Zweige und Blätter des Sumachbaumes werden
+          zum Gerben von Häuten und zum Schwarzfärben benutzt. [DE 369.
+          Eguilaz 532. Devic DEt 212. ML 8450.</p>
+        <p>1947. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">sunbul:</hi>
+          <lb/>‛Hyazinthe, Hyacinthus orientalis’ [ḲM II, 972, Z. 8].
+          ebenso tk. <hi rendition="#i">sümbül</hi>; hieraus serb. <hi
+            rendition="#i">zumbul</hi>; rum. <hi rendition="#i"
+            >zambilă</hi> ‛dass.’, frz. <hi rendition="#i">sumbul</hi>,
+          Bezeichnung einer pers. Umbellifere.</p>
+        <p>1948. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">ṣundurma:</hi>
+          <lb/>Auch <hi rendition="#i">ṣondyrma</hi> ‛offener Schuppen’
+          [Kélékian Ḳāmūs 775 b]; hieraus rum. <hi rendition="#i"
+            >şandrama</hi> ‛Bretterbude, altes Gerümpel’.</p>
+        <p>1949. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ṣurad:</hi>
+          <lb/>Ein in islamischen Märchen vorkommender phantastischer
+          Vogel, der den Sperlingen nachstellt [ḲM II, 1123, Z. 14/15],
+          dazu dual. <hi rendition="#i">ṣuradāni</hi>, Obliquus <hi
+            rendition="#i">ṣuradaini</hi>; hieraus der Sternname <hi
+            rendition="#i">Suradain</hi> α und β Sagittarii. [Devic DEt
+          44.</p>
+        <p>1950. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">sürgün:</hi> ‛Verbannung’ [Kélékian Ḳāmūs 698
+          a]; hieraus bulg. <hi rendition="#i">sjurgjun</hi>; rum. <hi
+            rendition="#i">surgun</hi>, <hi rendition="#i">surghiun</hi>
+          ‛dass.’.</p>
+        <p>1951. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">šurḳa:</hi>
+          <lb/>‛Armband, Fußring mit Münzen als Schmuck’ [nicht
+          klassisch-ar., wo es <hi rendition="#i">šaraḳa</hi> heißt];
+          hieraus mit ar. Art. sp. <hi rendition="#i">ajorca</hi>, <hi
+            rendition="#i">aljorca</hi>, pg. <hi rendition="#i">xorca</hi>
+          ‛Gold- oder Silberreifen mit Edelsteinen, die am Fuß oder Arm
+          getragen werden’. [DE 220. Eguilaz 78.</p>
+        <p>1952. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">sürme:</hi>
+          <lb/>‛Schminke’ [vom Stamme <hi rendition="#i">sir</hi>, <hi
+            rendition="#i">sür</hi> ‛reiben, streichen, schmieren’, <hi
+            rendition="#i">sürme</hi> ‛Strich, Linie’ &gt; ‛Schminke’,
+          Vámbéry TktEtWb S. 147, Nr. 159 II]; hieraus bulg. serb. čech.
+            <hi rendition="#i">surma</hi>, russ. <hi rendition="#i"
+            >sur'ma</hi> ‛Antimonium, Spießglanz’.</p>
+        <p>1953. <hi rendition="#b">Pers.</hi>
+          <hi rendition="#b">sūrnā:</hi>
+          <lb/>‛Festflöte, Musikinstrument zwischen Klarinette und Oboe’
+          [aus pers. <hi rendition="#i">sūr</hi> ‛Fest, Gelage’ Horn NpEt
+          S. 166, Nr. 753 und <hi rendition="#i">nāī</hi>, s. hier Nr.
+          1541], ebenso tk. <hi rendition="#i">surna</hi>, <hi
+            rendition="#i">zurna</hi> [Kélékian Ḳāmūs 650 a]; hieraus rum.
+            <hi rendition="#i">surlă</hi> ‛Querpfeife’, <hi rendition="#i"
+            >surlar</hi> ‛Querpfeifer’; bulg. serb. <hi rendition="#i"
+            >surna</hi>, klruss. <hi rendition="#i">surla</hi>, russ. <hi
+            rendition="#i">zurna</hi>, <hi rendition="#i">surna</hi>
+          ‛Pfeife’, čech. <hi rendition="#i">surma</hi> ‛Posaune’. [Mikl
+          SlEtWb 329 a.</p>
+        <p>1954. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ṣurra:</hi>
+          <lb/>‛Geldbörse’; hieraus kat. <hi rendition="#i">sarró</hi>, sp.
+            <hi rendition="#i">zurron</hi>, pg. <hi rendition="#i"
+            >surrão</hi> ‛Ledertasche der Schäfer’. [Eguilaz 533. ML
+          2249.</p>
+        <p>1955. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">šurṭa:</hi>
+          <lb/>‛Polizeimann’; hieraus siz. <hi rendition="#i">sciorta</hi>,
+          (alt) <hi rendition="#i">zurta</hi> ‛Nachtwächter, Nachtwache;
+          nächtlicher Gesang’. [ZfromPh XXXV, 440. GrSVociSic 245. ML
+          7717.</p>
+        <p>1956. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">sürüǧü:</hi>
+          <lb/>Auch <hi rendition="#i">süriǧi</hi> ‛Postillon, Stallknecht’
+          [Kélékian Ḳāmūs 699 b]; hieraus rum. <pb n="155" facs="#f0177"
+            /><cb n="1"/><hi rendition="#i">surugiŭ</hi> ‛dass.,
+          Postknecht’, Ableitung <hi rendition="#i">surugiesc</hi>, <hi
+            rendition="#i">surugieşte</hi>.</p>
+        <p>1957. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">sūs:</hi>
+          <lb/>‛Süßholz, Glycyrrhiza’ [Dozy Suppl II, 119 a; aus aram. <hi
+            rendition="#i">šūšā</hi> &lt; ass. <hi rendition="#i"
+          >šūšu</hi>, ZAkkFW 58]; hierzu a) <hi rendition="#i">‛urūḳ</hi>
+          <hi rendition="#i">sūs</hi> [Plr. von <hi rendition="#i"
+            >‛irḳ</hi> ‛Wurzel’] ‛Wurzeln der Sūspflanze’; hieraus sp. <hi
+            rendition="#i">orozuz</hi>, <hi rendition="#i">alcazuz</hi>,
+          pg. <hi rendition="#i">alcaçuz</hi> ‛Süßholz’; b) <hi
+            rendition="#i">rubb</hi>
+          <hi rendition="#i">as-sūs</hi> [s. hier Nr. 1726] ‛Fruchtsaft des
+          Sūs’; hieraus sp. <hi rendition="#i">rabazuz</hi> ‛Mus aus
+          Süßholz’. [DE 325/326. 327. Eguilaz 467. 476.</p>
+        <p>1958. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">sūsān:</hi>
+          <lb/>‛Lilie’ [teils bläulich oder dunkelviolett, teils weiß ; s.
+          FLEISCHER u. DOZY in BSAW XX, 305; wie hebr. <hi rendition="#i"
+            >šōšan</hi> wahrscheinlich aus äg. <hi rendition="#i"
+            >s-šš-n</hi> entlehnt ZDMG XLVI, 117], Einheitsnomen <hi
+            rendition="#i">susāna</hi>; hieraus mit ar. Art. und Imāla [<hi
+            rendition="#i">ā</hi> &gt; <hi rendition="#i">ē</hi>] sp. <hi
+            rendition="#i">azucena</hi>, pg. <hi rendition="#i"
+            >açucena</hi> ‛weiße Lilie’, Ableitung it. <hi rendition="#i"
+            >susino</hi> ‛Lilienparfüm’. [DE 228. Eguilaz 325. ML 8480.</p>
+        <p>1959. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">šuwār:</hi>
+          <lb/>‛Hausrat’, insbesondere <hi rendition="#i">šuwār</hi>
+          <hi rendition="#i">al-‛arūs</hi> ‛Brautausstattung’; hieraus mit
+          ar. Art. sp. <hi rendition="#i">ajuar</hi>, <hi rendition="#i"
+            >ajovar</hi>, kat. <hi rendition="#i">aixovar</hi>, <hi
+            rendition="#i">aljuvar</hi>, pg. <hi rendition="#i"
+            >enxoval</hi> ‛Mitgift’. [DE 221. Eguilaz 79/80. ML 7714 a.</p>
+        <p>1960. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">syḳmaḳ:</hi>
+          <lb/>‛Drücken, quälen’ [vom Stamme <hi rendition="#i">soḳ</hi>,
+            <hi rendition="#i">siḳ</hi> ‛eng, dicht, drücken’ Vámbéry
+          TktEtWb S. 152, Nr. 164]; vom Stamme <hi rendition="#i">syḳ</hi>
+          wurde rum. <hi rendition="#i">săcăi</hi>, <hi rendition="#i"
+            >sîcăi</hi> ‛kritteln, nörgeln, quälen’. Das tk. Kausativ
+          lautet <hi rendition="#i">syḳdyrmaḳ</hi>, Imper. <hi
+            rendition="#i">syḳdyr</hi>; hieraus rum. <hi rendition="#i"
+            >sictir</hi> ‛zum Teufel mit dir’, ein Fluch, dazu das Vb. <hi
+            rendition="#i">sictiri</hi> ‛zum Teufel jagen’. — [Der
+          osmanische Fluch κ. ε. ist <hi rendition="#i">anasyny</hi>
+          <hi rendition="#i">syḳajym</hi> ‛cum matre eius coibo’ oder in
+          ähnlicher Form, z. B. NO III, 21; er ist wie bei den Türken so
+          auch bei den Völkern des südöstlichen Europas trotz seiner
+          Obszönität zur banalen Redensart in allen Lagen des täglichen
+          Lebens geworden.]</p>
+        <p>1961. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">syra:</hi>
+          <lb/>‛Reihe, Glied’ [aus gr. σειρά]; hieraus rum. <hi
+            rendition="#i">şir</hi> ‛dass.’, <hi rendition="#i">şiră</hi>
+          ‛Wirbelsäule’.</p>
+        <p>1962. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">syrma:</hi>
+          <lb/>‛Filigran, Gold- oder Silberdraht’; hieraus rum. <hi
+            rendition="#i">sîrma</hi> ‛Draht, bes. aus Gold oder
+          Silber’.</p>
+      </div>
+      <div xml:id="section-t">
+        <p>1962 a. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">ṭabaḳ:</hi>
+          <lb/>‛Sohle’ [vom Stamme <hi rendition="#i">tap</hi> ‛unten,
+          Grund, Sohle’, Vámbéry TktEtWb S. 156, Nr. 172 I; Kélékian Ḳāmūs
+          787 a]; hieraus mit Verlust des Endkonsonanten sp. <hi
+            rendition="#i">taba</hi> ‛Art Würfel zum Taba- oder
+          Knöchelspiel’. Man beachte, daß bereits im Mandschurischen <hi
+            rendition="#i">taba</hi> ein technischer Ausdruck im
+          Knöchelspiel ist: ‛Die flachste Seite des Spielknochens’; ebenso
+            <cb n="2"/>kirgis. <hi rendition="#i">tawa</hi>, kalmük. <hi
+            rendition="#i">tā</hi>. — [Andere Ableitungen bei Eguilaz 497
+          und ML 8506.]</p>
+        <p>1963. <hi rendition="#b">Tk.</hi>
+          <hi rendition="#b">ṭaban:</hi>
+          <lb/>‛Brett’ [vom gleichen Stamme wie Nr. 1962]; hieraus rum. <hi
+            rendition="#i">taban</hi> ‛Latte, Diele’.</p>
+        <p>1964. <hi rendition="#b">Pers.</hi>
+          <hi rendition="#b">täbär:</hi>
+          <lb/>‛Beil, Axt’ [Horn NpEt S. 84, Nr. 374], ebenso tk. <hi
+            rendition="#i">tabar</hi>, <hi rendition="#i">teber</hi>;
+          hieraus russ. <hi rendition="#i">topor</hi> ‛Beil’, <hi
+            rendition="#i">toporišče</hi> ‛Stiel am Beile’, bulg. čech. <hi
+            rendition="#i">topor</hi>, poln. <hi rendition="#i">topór</hi>
+          ‛Beil, Axt’; rum. <hi rendition="#i">topor</hi> ‛dass.’, <hi
+            rendition="#i">toporîşte</hi> ‛Axtstiel’. — [Dagegen kommt der
+          Name Tabaristan, die Landschaft am Südufer des Kaspischen Meeres,
+          welche die pers. Provinzen Gīlān, Māzändärān u. Ästärābād umfaßt,
+          von dem einheimischen Worte <hi rendition="#i">tabar</hi>
+          ‛Gebirge’ und heißt mithin ‛Gebirgsland’, ZDMG XLVI, 186.] [Mikl
+          SlEtWb 359 a.</p>
+        <p>1965. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ṭabāšīr:</hi>
+          <lb/>‛Bambuszucker’, d. h. zuckerhaltige Kieselknollen, die an
+          den Knoten der Bambusstämme abgeschieden werden [selbst aus dem
+          Ind. stammend, ZDMG L. 650, und zwar von sskr. <hi rendition="#i"
+            >tavakhshīra</hi>]; hieraus pg. <hi rendition="#i">tabaxir</hi>
+          ‛Bambuszucker’, <hi rendition="#i">t.</hi>
+          <hi rendition="#i">dos</hi>
+          <hi rendition="#i">alfaiates</hi> [aus ar. <hi rendition="#i"
+            >al-ḫajjāṭ</hi> ‛der Schneider’] ‛Schneiderkreide’, frz. <hi
+            rendition="#i">tébachier</hi>, <hi rendition="#i"
+            >tabaschir</hi>; engl, <hi rendition="#i">tabasheer</hi>,
+          dtsch. <hi rendition="#i">Tabaschir</hi>. Über tk. <hi
+            rendition="#i">tebešir</hi> ‛Kreide’ wurde rum. <hi
+            rendition="#i">tibişir</hi> ‛dass.’. [DE 345. Eguilaz 497.
+          Löbel ElTAP 95. Hobson-Jobson 887. Lammens Rem 231.</p>
+        <p>1966. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">tabdīl:</hi>
+          <lb/>‛Änderung’ [subst. Infin. von <hi rendition="#i">badala</hi>
+          II ‛ändern’], ebenso tk. <hi rendition="#i">tebdil</hi>
+          ‛verstohlen, incognito’; hieraus rum. <hi rendition="#i"
+            >tiptil</hi> ‛sachte, verstohlen’.</p>
+        <p>1967. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">tabī‛a:</hi>
+          <lb/>‛Natur, Gewohnheit’, ebenso tk. <hi rendition="#i"
+            >tabiet</hi>; hieraus rum. <hi rendition="#i">tabiet</hi>
+          ‛Vorliebe, Angewöhnung’, Adj. mit tk. Endung <hi rendition="#i"
+            >tabietliŭ</hi> ‛bequemlich’.</p>
+        <p>1968 <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ṭabīḫ:</hi>
+          <lb/>‛Gekocht’, bes. ‛gekochte Milch’; hieraus pg. <hi
+            rendition="#i">tabefe</hi> ‛mit Mehl und Zucker gekochte
+          Schafmilch’ [Constancio Dicc 913; DE 345. Eguilaz 498].</p>
+        <p>1969. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ta’bīja:</hi>
+          <lb/>‛Verschanzung, Bastei’, ebenso tk. <hi rendition="#i"
+            >tabijet</hi> ‛dass.’ [Kélékian Ḳāmūs 787; woraus wieder ar.
+            <hi rendition="#i">ṭābije</hi> entstand, vgl. SKAW Wien ph. h.
+          Cl. CV, 435], hieraus rum. <hi rendition="#i">tabie</hi>
+          ‛Bastion, Wall und Graben’.</p>
+        <p>1970. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ṭabīḳ:</hi>
+          <lb/>‛Etwas aneinander Passendes’; hieraus sp. pg. <hi
+            rendition="#i">tabique</hi> ‛Zwischenwand aus Steinen und
+          Lehm’. [DE 344. ML 8512. Eguilaz 498 [wo wohl mit Unrecht als
+          Grundwort <hi rendition="#i">tašbīḳ</hi> angegeben wird].</p>
+        <pb n="156" facs="#f0178"/>
+        <cb n="1"/>
+        <p>1971. <hi rendition="#b">Ar.</hi>
+          <hi rendition="#b">ṭabl:</hi>
+          <lb/>‛Pauke’ [vgl. bei Hesychius τάβαλα ‛Pauke’ bei den
+          Parthern]; hieraus mit ar. Art. it. <hi rendition="#i"
+            >ataballo</hi>, <hi rendition="#i">taballo</hi>, sp. <hi
+            rendition="#i">atabal</hi>, pg. <hi rendition="#i"
+          >atabale</hi>, kat. <hi rendition="#i">tabal</hi>, mfrz. <hi
+            rendition="#i">attabal</hi> ‛Pauke’, prov. <hi rendition="#i"
+            >tabalh</hi> ‛Glockenschwengel’; mit slav. Endung bulg. <hi
+            rendition="#i">tjumbelek</hi>, serb. <hi rendition="#i"
+            >talambak</hi>; russ. <hi rendition="#i">litawra</hi>, <hi
+            rendition="#i">litawry</hi>, poln. <hi rendition="#i"
+            >litawra</hi> ‛Pauke’; mit lat. <hi rendition="#i"
+            >tympanum</hi> kontaminiert, wurde sp. <hi rendition="#i"
+            >timbal</hi>, frz. <hi rendition="#i">timbale</hi> ‛Pauke’,
+          rum. <hi rendition="#i">diblă</hi>, <hi rendition="#i">diplă</hi>
+          ‛Geige’. [DE 207. Eguilaz 295. ML 8513.</p>
       </div>
       <cb type="end"/>
     </body>
