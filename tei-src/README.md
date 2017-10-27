@@ -9,7 +9,7 @@ The collection of transcripts comprise the following dictionaries:
 | goedel-1902     | Goedel, Gustav: Etymologisches Wörterbuch der deutschen Seemannssprache. Kiel, Leipzig, 1902. | :white_check_mark: fully transcribed |
 | juergens-1877   | Jürgens, Karl: Etymologisches Lehnwörterbuch der deutschen Sprache. Braunschweig, 1877. | :no_entry: stub |
 | kluge+lutz-1898 | Kluge, Friedrich/Lutz, Frederick: English Etymology. A Select Glossary Serving as an Introduction to the History of the English Language. Boston, 1898. | :white_check_mark: fully transcribed |
-| lokotsch-1927   | Lokotsch, Karl: Etymologisches Wörterbuch der europäischen (germanischen, romanischen und slavischen) Wörter orientalischen Ursprungs. Heidelberg, 1927. | :construction: partly transcribed |
+| lokotsch-1927   | Lokotsch, Karl: Etymologisches Wörterbuch der europäischen (germanischen, romanischen und slavischen) Wörter orientalischen Ursprungs. Heidelberg, 1927. | :construction: partly transcribed (dictionary complete) |
 | meidinger-1836  | Meidinger, Heinrich: Vergleichendes etymologisches Woerterbuch der gothisch-teutonischen Mundarten. Frankfurt am Main, ²1836. | :no_entry: stub |
 | miklosich-1886  | Miklosich, Franz: Etymologisches Wörterbuch der slavischen Sprachen. Wien, 1886. | :no_entry: stub |
 | mueller-1878    | Mueller, Eduard: Etymologisches Wörterbuch der englischen Sprache. Bd. 1 (A – K). Cöthen, ²1878. | :construction: partly transcribed |
