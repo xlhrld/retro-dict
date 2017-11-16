@@ -38,7 +38,7 @@
           <orgName ref="https://github.com/xlhrld/retro-dict"
             >retro-dict</orgName>
         </publisher>
-        <date type="publication">2017-11-10</date>
+        <date type="publication">2017-11-16</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">
             <p>This work is licensed under a Creative Commons Attribution
@@ -273,7 +273,7 @@
         <pb n="[VIII]" facs="#f0007"/>
       </div>
     </front>
-    <body>
+    <body xml:id="dictionary">
       <pb n="[1]" facs="#f0008"/>
       <div xml:id="section-a">
         <head rendition="#c">A.</head>
@@ -7451,18 +7451,1414 @@
           seine unschuld) und <hi rendition="#i">erweisen</hi> (z. b.
           wohlwollen) entspricht. Siehe <hi rendition="#g #i"
           >vise</hi>.</p>
-        <pb n="67" facs="#f0074"/>
-        <pb n="68" facs="#f0075"/>
+        <p><hi rendition="#b">Bed</hi> I (gartenbeet), von nhd. <hi
+            rendition="#i">Beet</hi>, dasselbe wort wie <hi rendition="#i"
+            >Bett</hi>: vgl. holl. engl. <hi rendition="#i">bed</hi> in
+          beiden bedeutungen. Hierzu ahd. <hi rendition="#i">bet(t)i</hi>,
+          ags. <hi rendition="#i">bedd</hi>, got. <hi rendition="#i"
+            >badi</hi> n. „bett“, anord. <hi rendition="#i">beđr</hi> m.
+          „deckbett“ (finnisch <hi rendition="#i">patja</hi> „deckbett“);
+          schw. <hi rendition="#i">bädd</hi> „bett“ ist vielleicht aus dem
+          nd. gekommen. Die grundbedeutung „lager eines tieres, nest“
+          findet sich auch in dem echt nordischen norw. dial. <hi
+            rendition="#i">bed</hi> sowie in der ableitung aschw. <hi
+            rendition="#i">bædhil</hi>. Die wurzel ist idg. <hi
+            rendition="#i">*bhedh</hi> „graben“, wozu lat. <hi
+            rendition="#i">fodio</hi> „grabe“, aslav. <hi rendition="#i"
+            >bodą</hi> „steche“, lit. <hi rendition="#i">badau&#771;</hi>,
+            <hi rendition="#i">badýti</hi> „stechen“, kymr. <hi
+            rendition="#i">bedd</hi> „grab“.</p>
+        <p><hi rendition="#b">Bed</hi> II (dän. = gerberlohe) ist mnd. <hi
+            rendition="#i">bête</hi>: siehe <hi rendition="#g #i">bede</hi>
+          II.</p>
+        <p><hi rendition="#b">Bed</hi> III in der redensart <hi
+            rendition="#g #i">gaa</hi>
+          <hi rendition="#g #i">en</hi>
+          <hi rendition="#g #i">i</hi>
+          <hi rendition="#g #i">bedene</hi> (dän. = einen eingriff in
+          anderer leute sachen machen) gehört zu ält. dän. <hi
+            rendition="#i">bed</hi> „weide(platz)“, anord. <hi
+            rendition="#i">beit</hi> f. „weide, gräsung“ (norw. <hi
+            rendition="#g #i">beite</hi>): siehe <hi rendition="#g #i"
+            >bede</hi> II. Die redensart gibt wohl nhd. <hi rendition="#i"
+            >einem</hi>
+          <hi rendition="#i">ins</hi>
+          <hi rendition="#i">Gehege</hi>
+          <hi rendition="#i">kommen</hi> wieder.</p>
+        <p><hi rendition="#b">Bede</hi> I (bitten), schw. <hi
+            rendition="#i">bedja</hi>, anord. <hi rendition="#i">biđja</hi>
+          = got. <hi rendition="#i">bidjan</hi>, ags. <hi rendition="#i"
+            >biddan</hi> (engl. <hi rendition="#i">bid</hi>), as. <hi
+            rendition="#i">biddian</hi> (holl. <hi rendition="#i"
+            >bidden</hi>), ahd. <hi rendition="#i">bitten</hi> (nhd. <hi
+            rendition="#i">bitten</hi>). Man vergleicht aslav. <hi
+            rendition="#i">běditi</hi> „zwingen“, skr. <hi rendition="#i"
+            >bâdhatê</hi> „drängt“, idg. wurzel <hi rendition="#i"
+            >*bhē̆dh</hi>. Andererseits stellt man es zu anord. <hi
+            rendition="#i">beiđa</hi> „fordern“, got. <hi rendition="#i"
+            >baidjan</hi> „zwingen“, ags. <hi rendition="#i">bæ̂dan</hi>
+          „zwingen, auffordern“, as. <hi rendition="#i">bêdian</hi>, ahd.
+            <hi rendition="#i">beit(t)en</hi> „zwingen“, indem man ein
+          präs. idg. <hi rendition="#i">*bhidhjô</hi> = got. <hi
+            rendition="#i">bidja</hi> ansetzt, dessen weitere flexion sich
+          nach germ. <hi rendition="#i">*sitjan</hi> und <hi rendition="#i"
+            >*ligjan</hi> gerichtet haben sollte. Diese erklärung empfiehlt
+          sich dadurch, daß sie <hi rendition="#g #i">bede</hi> mit gr.
+          πείϑω zusammenbringt. Siehe <hi rendition="#g #i">bie</hi>. — <hi
+            rendition="#b">Bedemand</hi> (dän. = ein gemeindeangestellter,
+          der einladungen zu hochzeiten, kindtaufen und beerdigungen
+          auszutragen hat), in Bergen „eine person, die zur beerdigung
+          einlädt“, ist mit nhd. <hi rendition="#i">Leichenbitter</hi> und
+            <hi rendition="#i">Hochzeitsbitter</hi>, holl. <hi
+            rendition="#i">doodbidder</hi> (siehe <hi rendition="#g #i"
+            >dödbider</hi>) und <hi rendition="#i">lijkbidder</hi>
+          zusammenzustellen. Hierzu <hi rendition="#g #i"
+            >bedemandsansigt</hi> = nhd. <hi rendition="#i"
+            >Leichenbittermiene</hi> und <hi rendition="#g #i"
+            >bedemandsstil</hi> (umständlicher, pedantischer stil).</p>
+        <p><hi rendition="#b">Bede</hi> II (dän. = grasen lassen), schw.
+            <hi rendition="#i">beta</hi>, neunorw. <hi rendition="#i"
+            >beita</hi> „grasen“, anord. <hi rendition="#i">beita</hi>
+          „grasen lassen“, eigentlich „beißen lassen“: siehe <hi
+            rendition="#g #i">bide</hi>. Hierzu subst. neunorw. <hi
+            rendition="#i">beite</hi> n. „weide“, schw. <hi rendition="#i"
+            >bete</hi>: siehe <hi rendition="#g #i">bed</hi> III. Dasselbe
+          wort ist eigentlich das veraltete und poetische dän. <hi
+            rendition="#g #i">bede</hi> „jagen (mit hund oder falke)“,
+          anord. <hi rendition="#i">beita</hi> = d. <hi rendition="#i"
+            >beizen</hi>. Ebenso das veraltete dän. <hi rendition="#g #i"
+            >bede</hi> „gerben“, das vom mnd. <hi rendition="#i">bêten</hi>
+          = mhd. <hi rendition="#i">beizen</hi> (vgl. <hi rendition="#g #i"
+            >beitse</hi>) eingedrungen ist; auch schw. hat <hi
+            rendition="#i">beta</hi> in dieser bedeutung, ebenso neunorw.
+            <hi rendition="#i">beita</hi>: siehe <hi rendition="#g #i"
+            >bed</hi> II. Der erstgenannten bedeutung schheßt sich nahe
+          dän. <hi rendition="#g #i">bede</hi> „halt machen auf der reise,
+          um die pferde ruhen zu lassen“ (eigentlich um sie grasen zu
+          lassen), schw. <hi rendition="#i">beta</hi> „ruhefutter geben“
+          an. Aus dem nordischen <pb n="67" facs="#f0074"/>stammt engl. <hi
+            rendition="#i">bait</hi> „erfrischung geben auf einer reise“
+            <hi rendition="#i">(to</hi>
+          <hi rendition="#i">bait</hi>
+          <hi rendition="#i">the</hi>
+          <hi rendition="#i">horses).</hi> Eine andere bedeutung von engl.
+            <hi rendition="#i">bait</hi> „angelwurm“ findet sich wieder im
+          neunorw. und anord. <hi rendition="#i">beita</hi> f., schw. <hi
+            rendition="#i">bete</hi> n., wozu norw. <hi rendition="#g #i"
+            >bete(s)mark</hi> „angelwurm“. Das anord. <hi rendition="#i"
+            >beita</hi> bedeutet auch „gebiß anlegen“ (= ags. <hi
+            rendition="#i">bæ̂tan</hi>, ahd. <hi rendition="#i"
+          >beizen</hi>), sowie „vorspannen“; vgl. neunorw. <hi
+            rendition="#i">beita</hi> „vorspannen“ und <hi rendition="#i"
+            >beite</hi> „vorspann“.</p>
+        <p><hi rendition="#b">Bede</hi> III (dän. = verschneiden,
+          kastrieren) scheint eine entstellte form von dän. <hi
+            rendition="#i">bøde</hi> „weibchen ausschneiden“ zu sein, beide
+          von nd. <hi rendition="#i">böten</hi> &lt; mnd. <hi
+            rendition="#i">bôten</hi> „heilen, kastrieren“: siehe <hi
+            rendition="#g #i">bøde</hi>. Dazu das subst. <hi
+            rendition="#g #i">bede</hi> (dän. = verschnittener widder),
+          schw. dial. <hi rendition="#i">bete</hi>: vgl. nd. <hi
+            rendition="#i">bötel</hi>, mnd. <hi rendition="#i">bôtlink</hi>
+          in ders. bed. Dasselbe bedeutungsverhältnis besteht bei mnd. <hi
+            rendition="#i">hêlen</hi>, <hi rendition="#i">heilen</hi>, mhd.
+            <hi rendition="#i">heilen</hi> „heilen, kastrieren“ und bei
+          mnd. holl. <hi rendition="#i">lubben</hi> „kastrieren“, ags. <hi
+            rendition="#i">(ge)lybban</hi> in ders. bed. (engl. <hi
+            rendition="#i">lib</hi>, <hi rendition="#i">glib</hi>): mhd.
+            <hi rendition="#i">lüppen</hi> „heilen“ (siehe subst. <hi
+            rendition="#g #i">løbe</hi>). Die erklärung ist vielleicht die,
+          daß die worte von anfang an gebraucht worden sind von der
+          verschneidung als kur gegen entzündungen in den hoden, eine kur,
+          die schon seit dem altertum angewendet wird.</p>
+        <p><hi rendition="#b">Bede</hi> (beete, rote rübe), von mnd. <hi
+            rendition="#i">bête</hi> (holl. <hi rendition="#i">beet</hi>,
+            <hi rendition="#i">biet</hi>), wovon auch schw. <hi
+            rendition="#i">beta</hi> und nhd. <hi rendition="#i"
+          >Beete</hi>, während ahd. <hi rendition="#i">bieʒa</hi> aus dem
+          lat. <hi rendition="#i">bêta</hi> vor der lautverschiebung
+          entlehnt ist.</p>
+        <p><hi rendition="#b">Beding</hi> oder <hi rendition="#g #i"
+            >bedding</hi> (schiffsbauplatz, gestell zur befestigung der
+          ankertaue), norw. <hi rendition="#g #i">beiting</hi> und schw.
+            <hi rendition="#i">beting</hi> in der letzteren bedeutung, von
+          holl. nd. <hi rendition="#i">beting</hi>; vgl. engl. <hi
+            rendition="#i">bits</hi>
+          <hi rendition="#i">(bitts)</hi> „betinge für das ankertau“. Das
+          wort gehört zu anord. <hi rendition="#i">biti</hi>, neunorw. <hi
+            rendition="#i">bite</hi> „balken“, schw. dial. <hi
+            rendition="#i">bita</hi> „bootsruderbänke“, zum vb. <hi
+            rendition="#g #i">bide</hi> in der ursprünglichen bedeutung
+          „spalten“ (vgl. <hi rendition="#g #i">baad</hi>). Aus dem germ.
+          stammt ital. <hi rendition="#i">bitta</hi>, span. <hi
+            rendition="#i">bita</hi>, frz. <hi rendition="#i">bitte</hi>
+          „balken, pfahl, ankerbeting“.</p>
+        <p><hi rendition="#b">Bedre,</hi>
+          <hi rendition="#b">bedst,</hi> schw. <hi rendition="#i"
+            >bättre</hi>, <hi rendition="#i">bäst</hi>, anord. <hi
+            rendition="#i">betri</hi>, <hi rendition="#i">beztr</hi> = got.
+            <hi rendition="#i">batiza</hi>, <hi rendition="#i"
+          >batists</hi>, ags. <hi rendition="#i">betera</hi>, <hi
+            rendition="#i">betst</hi> (engl. <hi rendition="#i"
+          >better</hi>, <hi rendition="#i">best</hi>), mnd. <hi
+            rendition="#i">beter</hi>, <hi rendition="#i">best</hi> (holl.
+            <hi rendition="#i">beter</hi>, <hi rendition="#i">best</hi>),
+          ahd. <hi rendition="#i">beʒʒiro</hi>, <hi rendition="#i"
+            >beʒʒist</hi> (nhd. <hi rendition="#i">besser</hi>, <hi
+            rendition="#i">best</hi>). Hierzu der adv. komp. anord. <hi
+            rendition="#i">betr</hi> = got. <hi rendition="#i">batis</hi>,
+          ags. <hi rendition="#i">bet</hi>, as. <hi rendition="#i"
+          >bat</hi>, ahd. <hi rendition="#i">baʒ</hi> (nhd. <hi
+            rendition="#i">fürbaß</hi> „weiter“). Der wortstamm gehört zu
+          skr. <hi rendition="#i">bhadrá-</hi> „tüchtig, gut“. Siehe vb.
+            <hi rendition="#g #i">baade</hi> und <hi rendition="#g #i"
+            >bod</hi> II. — <hi rendition="#g #i">Bedre</hi> (vb.), schw.
+            <hi rendition="#i">bättra</hi>, anord. <hi rendition="#i"
+            >betra</hi> = ags. <hi rendition="#i">beterian</hi> (engl. <hi
+            rendition="#i">better</hi>), mnd. <hi rendition="#i"
+            >beteren</hi>, ahd. <hi rendition="#i">beʒʒirôn</hi> (nhd. <hi
+            rendition="#i">bessern</hi>). <hi rendition="#g #i">Gud</hi>
+          <hi rendition="#g #i">bedre</hi>
+          <hi rendition="#g #i">det</hi> (auch <hi rendition="#g #i"
+            >Gud</hi>
+          <hi rendition="#g #i">bedre</hi>
+          <hi rendition="#g #i">sig</hi>) stammt von nd. <hi rendition="#i"
+            >god</hi>
+          <hi rendition="#i">beter’t</hi>, — In der wendung <hi
+            rendition="#g #i">(love)</hi>
+          <hi rendition="#g #i">bod</hi>
+          <hi rendition="#g #i">og</hi>
+          <hi rendition="#g #i">bedring</hi> wird <hi rendition="#g #i"
+            >bedring</hi> jetzt als „verbesserung, das sich bessern“
+          aufgefaßt, während seine ursprüngliche bedeutung „ersatz, buße“
+          (= <hi rendition="#g #i">bod</hi>) ist; diese bedeutung hat ält.
+          dän. <hi rendition="#i">bedring</hi> und ebenso das grundwort
+          mnd. <hi rendition="#i">beteringe</hi>. — <hi rendition="#g #i"
+            >Det</hi>
+          <hi rendition="#g #i">almene</hi>
+          <hi rendition="#g #i">bedste</hi> = d. <hi rendition="#i"
+            >das</hi>
+          <hi rendition="#i">(all)gemeine</hi>
+          <hi rendition="#i">Beste</hi>, übersetzung des lat. <hi
+            rendition="#i">commune</hi>
+          <hi rendition="#i">bonum</hi>, wörtlicher: <hi rendition="#g #i"
+            >det</hi>
+          <hi rendition="#g #i">almene</hi>
+          <hi rendition="#g #i">vel</hi> = d. <hi rendition="#i">das</hi>
+          <hi rendition="#i">allgemeine</hi>
+          <hi rendition="#i">Wohl</hi>, <hi rendition="#i">das</hi>
+          <hi rendition="#i">Gemeinwohl</hi>, engl. <hi rendition="#i"
+            >the</hi>
+          <hi rendition="#i">public</hi>
+          <hi rendition="#i">weal</hi>. — <hi rendition="#g #i">Ha</hi>
+          <hi rendition="#g #i">noget</hi>
+          <hi rendition="#g #i">til</hi>
+          <hi rendition="#g #i">bedste</hi>
+          <hi rendition="#g #i">(lægge</hi>
+          <hi rendition="#g #i">sig</hi>
+          <hi rendition="#g #i">noget</hi>
+          <hi rendition="#g #i">til</hi>
+          <hi rendition="#g #i">bedste)</hi> ist nhd. <hi rendition="#i"
+            >was</hi>
+          <hi rendition="#i">zum</hi>
+          <hi rendition="#i">Besten</hi>
+          <hi rendition="#i">haben</hi>: die redensart stammt von den
+          deutschen schützenfesten, wo <hi rendition="#i">das</hi>
+          <hi rendition="#i">Beste</hi> den kampfpreis für den besten
+          schützen bezeichnete (Schiller und Goethe gebrauchen das wort
+          noch so); die eigentliche bedeutung wird also „etwas als gewinn,
+          als ausbeute, übrig haben“. Anders wurde das bild im ält. d. <hi
+            rendition="#i">etwas</hi>
+          <hi rendition="#i">zum</hi>
+          <hi rendition="#i">Besten</hi>
+          <hi rendition="#i">haben</hi> „etwas fortgeworfen, verloren
+          haben“ aufgefaßt: eigentlich „als teilnehmer an einem
+          schützenfest eine prämie aufstellen, ohne eine zu gewinnen,
+          preisgeben“. Wieder anders aufzufassen ist das nd. <pb n="68"
+            facs="#f0075"/><hi rendition="#i">wat</hi>
+          <hi rendition="#i">tom</hi>
+          <hi rendition="#i">besten</hi>
+          <hi rendition="#i">hebben</hi> „einen schmaus haben“: siehe die
+          folgende redensart. — <hi rendition="#g #i">Give</hi>
+          <hi rendition="#g #i">noget</hi>
+          <hi rendition="#i">(</hi><hi rendition="#g #i">et</hi>
+          <hi rendition="#g #i">digt</hi><hi rendition="#i">)</hi>
+          <hi rendition="#g #i">til</hi>
+          <hi rendition="#g #i">bedste</hi> = d. <hi rendition="#i"
+            >etwas</hi>
+          <hi rendition="#i">(ein</hi>
+          <hi rendition="#i">Gedicht)</hi>
+          <hi rendition="#i">zum</hi>
+          <hi rendition="#i">Besten</hi>
+          <hi rendition="#i">geben</hi> ist eine weiterführung des
+          ausdrucks <hi rendition="#i">etwas</hi>
+          <hi rendition="#i">zum</hi>
+          <hi rendition="#i">Besten</hi>
+          <hi rendition="#i">geben</hi> „(getränke) spendieren“, nd. <hi
+            rendition="#i">wat</hi>
+          <hi rendition="#i">tom</hi>
+          <hi rendition="#i">besten</hi>
+          <hi rendition="#i">geven</hi> „einen schmaus geben“: eigentlich
+          zu einem fest durch prämien beitragen, dann auch dadurch, daß man
+          die bewirtung oder unterhaltung bestreitet. — <hi
+            rendition="#g #i">Ha</hi>
+          <hi rendition="#g #i">en</hi>
+          <hi rendition="#g #i">til</hi>
+          <hi rendition="#g #i">bedste</hi> = d. <hi rendition="#i"
+            >einen</hi>
+          <hi rendition="#i">zum</hi>
+          <hi rendition="#i">Besten</hi>
+          <hi rendition="#i">haben</hi>, <hi rendition="#i">halten</hi>,
+          eigentlich „einen der allgemeinen unterhaltung preisgeben“; siehe
+          die vorhergehenden redensarten. — <hi rendition="#g #i"
+            >Gjøre</hi>
+          <hi rendition="#g #i">sit</hi>
+          <hi rendition="#g #i">bedste</hi> ist echt nordischen ursprungs;
+          die ält. dän. form ist <hi rendition="#i">gjøre</hi>
+          <hi rendition="#i">sin</hi>
+          <hi rendition="#i">bedste</hi>, was den alten neutralen plural
+          repräsentiert: vgl. anord. <hi rendition="#i">hafa</hi>
+          <hi rendition="#i">ǫll</hi>
+          <hi rendition="#i">sîn</hi>
+          <hi rendition="#i">beztu</hi>
+          <hi rendition="#i">frammi</hi> „sein bestes tun“. Was die
+          Umbildung anbetrifft, vgl. subst. <hi rendition="#g #i"
+          >gode</hi>; vielleicht hat auch mitgewirkt d. <hi rendition="#i"
+            >sein</hi>
+          <hi rendition="#i">Bestes</hi>
+          <hi rendition="#i">tun</hi> (engl. <hi rendition="#i">to</hi>
+          <hi rendition="#i">do</hi>
+          <hi rendition="#i">one’s</hi>
+          <hi rendition="#i">best</hi>). — <hi rendition="#b"
+            >Bedstefar,</hi>
+          <hi rendition="#b">-mor</hi> = holl. <hi rendition="#i"
+            >bestevader</hi>, <hi rendition="#i">bestemoeder</hi>; in norw.
+          dial. auch <hi rendition="#i">besta</hi> „großmutter“ (vgl. holl.
+            <hi rendition="#i">best</hi>, <hi rendition="#i">bestje</hi>
+          „mütterchen“). In ders. bed. auch norw. dial. <hi rendition="#i"
+            >gofar</hi> und <hi rendition="#i">gomor</hi>. Die worte
+          erklären sich aus dem mittelalterlichen brauch, „god“ oder
+          „bedste“ als höflichkeitsausdruck in der anrede an verwandte und
+          freunde zu gebrauchen (vgl. <hi rendition="#g #i">gode</hi>
+          <hi rendition="#g #i">ven!</hi> und das jetzt ironische <hi
+            rendition="#g #i">min</hi>
+          <hi rendition="#g #i">bedste</hi>
+          <hi rendition="#g #i">mand!</hi>); im afrz. wurde in diesem sinne
+            <hi rendition="#i">beau</hi> gebraucht und hiervon sind frz.
+            <hi rendition="#i">beau-frère</hi> „schwager“ etc.
+          überreste.</p>
+        <p><hi rendition="#b">Beg,</hi> schw. <hi rendition="#i">beck</hi>,
+          anord. <hi rendition="#i">bik</hi> = ags. <hi rendition="#i"
+            >pic</hi> (engl. <hi rendition="#i">pitch</hi>), as. <hi
+            rendition="#i">pik</hi> (holl. <hi rendition="#i">pek</hi> und
+            <hi rendition="#i">pik</hi>), ahd. <hi rendition="#i">peh</hi>
+          (nhd. <hi rendition="#i">Pech</hi>). Das wort ist dem lat. <hi
+            rendition="#i">picem</hi> (nom. <hi rendition="#i">pix</hi>)
+          „teer, pech, harz“ entlehnt, das mit gr. πίσσα (von <hi
+            rendition="#i">*pikia</hi>) und aslav. <hi rendition="#i"
+            >pĭclŭ</hi> „pech“ verwandt ist; zugrunde liegt vielleicht ein
+          wort für „föhre“, vgl. gr. πίτυς, lat. <hi rendition="#i"
+            >pinus</hi> (ebenso wie <hi rendition="#g #i">tjære</hi> —
+          woraus ja pech bereitet wird — zu <hi rendition="#g #i">træ</hi>
+          gehört). Siehe <hi rendition="#g #i">harpiks</hi>.</p>
+        <p><hi rendition="#b">Begge</hi> ist der anord. gen. <hi
+            rendition="#i">beggja</hi>: nachdem dieser form in ihrer
+          ursprünglichen funktion ein analogisches <hi rendition="#i"
+            >-s</hi> angefügt worden war <hi rendition="#i">(begges)</hi>,
+          wurde die form ohne <hi rendition="#i">-s</hi> als
+          nominativ-akkusativ gebraucht. Lange zeit wurde aber neben <hi
+            rendition="#g #i">begge</hi> auch das dem anord. <hi
+            rendition="#i">bâđir</hi>, <hi rendition="#i">bâđar</hi>, <hi
+            rendition="#i">bâđa</hi> entsprechende <hi rendition="#g #i"
+            >baade</hi> angewendet (s. d.). Dem anord. <hi rendition="#i"
+            >bâđir</hi> (neutr. <hi rendition="#i">bæ̂đi</hi>) entspricht
+          ahd. <hi rendition="#i">beide</hi>, <hi rendition="#i">bêde</hi>
+          (nhd. <hi rendition="#i">beide</hi>), as. <hi rendition="#i"
+            >bêthie</hi>, <hi rendition="#i">bêthia</hi> (holl. <hi
+            rendition="#i">beide</hi>), ags. <hi rendition="#i">bêgen</hi>
+          <hi rendition="#i">þâ</hi>, <hi rendition="#i">bâ</hi>
+          <hi rendition="#i">þâ</hi> (engl. <hi rendition="#i">both</hi>).
+          Das wort ist eigentlich eine zusammensetzung der germ. wurzel <hi
+            rendition="#i">*ba</hi> „beide“ (got. <hi rendition="#i"
+            >bai</hi>, akk. <hi rendition="#i">bans</hi>, neutr. <hi
+            rendition="#i">ba</hi>) und dem demonstr. „der“ (siehe <hi
+            rendition="#g #i">den</hi>); dieses <hi rendition="#i">*ba</hi>
+          entspricht dem letzten gliede in gr. ἄμφω, lat. <hi
+            rendition="#i">ambo</hi>, aslav. <hi rendition="#i">oba</hi>,
+          skr. <hi rendition="#i">ubhâu</hi> „beide“. In (gen.) <hi
+            rendition="#g #i">begge</hi> = got. <hi rendition="#i"
+            >baddê</hi>, urgerm. <hi rendition="#i">*bajjêm</hi> findet
+          sich das demonstrat. dagegen nicht.</p>
+        <p><hi rendition="#b">Beile</hi> (freien, werben), ält. dän. <hi
+            rendition="#i">bedle</hi>, neunorw. <hi rendition="#i"
+            >bidla</hi> = ahd. <hi rendition="#i">betalôn</hi> (nhd. <hi
+            rendition="#i">betteln</hi>), mnd. holl. <hi rendition="#i"
+            >bedelen</hi> „betteln“, abgeleitet vom subst. ält. dän. <hi
+            rendition="#i">bedel</hi>, anord. <hi rendition="#i"
+            >biđill</hi> „freier“ = mhd. <hi rendition="#i">bitel</hi>
+          „freier, bewerber“. Die form <hi rendition="#g #i">beiler</hi>
+          ist nicht eine fortsetzung von ält. dän. <hi rendition="#i"
+            >bedler</hi>, das „bettler“ bedeutet und dem mnd. <hi
+            rendition="#i">bedeler</hi> entlehnt ist, sondern ist eine
+          neubildung zum verb, ebenso wie <hi rendition="#g #i">betler</hi>
+          eine aus dem nhd. <hi rendition="#i">Bettler</hi> eingeführte
+          neuere form für das ältere <hi rendition="#i">bedler</hi> ist.
+          Etymologisch sind die worte identisch: siehe <hi
+            rendition="#g #i">betle</hi>. Ein <hi rendition="#g #i"
+            >beiler</hi> ist also einer, der um ein weib bittet: vgl.
+          anord. <hi rendition="#i">hann</hi>
+          <hi rendition="#i">bađ</hi>
+          <hi rendition="#i">hennar</hi> „er begehrte sie zur frau“. Über
+          die etymologie siehe <hi rendition="#g #i">bede</hi> I.</p>
+        <p><hi rendition="#b">Beit</hi> (norw. = klemme, verlegenheit):
+          siehe <hi rendition="#g #i">bet</hi>.</p>
         <pb n="69" facs="#f0076"/>
-        <pb n="70" facs="#f0077"/>
-        <pb n="71" facs="#f0078"/>
+        <p><hi rendition="#b">Beitel</hi> (norw. = haueisen, schrotmeißel),
+          ält. dän. <hi rendition="#i">betelhammer</hi> „schwerer hammer“,
+          schw. dial. <hi rendition="#i">betel</hi>, von mnd. <hi
+            rendition="#i">bêtel</hi>, <hi rendition="#i">beitel</hi>
+          (holl. <hi rendition="#i">beitel</hi>) = mhd. <hi rendition="#i"
+            >beiʒel</hi>. Das wort (germ. grundform <hi rendition="#i"
+            >*baitila-</hi>) gehört zu <hi rendition="#g #i">bide</hi> und
+          ist also mit skr. <hi rendition="#i">bhêdurá-</hi>, <hi
+            rendition="#i">bhêdirá-</hi> „donnerkeil“ verwandt. Ein ganz
+          anderes wort ist nhd. <hi rendition="#i">Beutel</hi>
+          „dreschflegel“, mnd. <hi rendition="#i">bôtel</hi> „instrument
+          zum schlagen“, engl. <hi rendition="#i">beetle</hi> (ags. <hi
+            rendition="#i">bíetel</hi>) „keule, dreschflegel“: dies gehört
+          zu anord. <hi rendition="#i">bauta</hi> „schlagen“ (grundform <hi
+            rendition="#i">*bautila-</hi>): siehe <hi rendition="#g #i"
+            >bautasten</hi>.</p>
+        <p><hi rendition="#b">Beitse,</hi> schw. <hi rendition="#i"
+            >betsa</hi>, entlehnt dem nhd. <hi rendition="#i">beizen</hi>,
+          eigentlich „einen ätzenden stoff sich in etwas hineinbeißen
+          lassen“: das wort ist identisch mit neunorw. <hi rendition="#i"
+            >beita</hi> „beizen“, siehe <hi rendition="#g #i">bede</hi>
+          II.</p>
+        <p><hi rendition="#b">Beitski</hi> (norw. = türpfosten) enthält im
+          letzten gliede anord. <hi rendition="#i">skiđa</hi> „gespaltenes
+          holzstück“: siehe <hi rendition="#g #i">ski</hi>, und im ersten
+          gliede norw. dial. <hi rendition="#i">beit</hi> „ausgeschnittene
+          rinne oder furche“; vgl. norw. dial. <hi rendition="#i"
+            >beita</hi> „einschnitte in die balkenenden für den türpfosten
+          machen“: die bedeutung „schneiden“ ist ausgegangen von „beißen
+          lassen“ (siehe <hi rendition="#g #i">bede</hi> II).</p>
+        <p><hi rendition="#b">Bekkasin,</hi> von frz. <hi rendition="#i"
+            >bécassine</hi>, ableitung von <hi rendition="#i">bécasse</hi>
+          „junge schnepfe“ = ital. <hi rendition="#i">beccaccia</hi>,
+          eigentlich „vogel mit langem schnabel“, von <hi rendition="#i"
+            >becco</hi> „schnabel“ = frz. <hi rendition="#i">bec</hi>
+          (engl. <hi rendition="#i">beak</hi>), lat. <hi rendition="#i"
+            >beccus</hi>, ein wort keltischen ursprungs.</p>
+        <p><hi rendition="#b">Ben</hi> (subst,), schw. <hi rendition="#i"
+            >ben</hi>, anord. <hi rendition="#i">bein</hi> n. „knochen,
+          fuß“ = ahd. <hi rendition="#i">bein</hi> (nhd. <hi rendition="#i"
+            >Bein</hi>, das in zusammensetzungen auch „knochen“ bedeutet),
+          ags. <hi rendition="#i">bân</hi> „knochen“ und in
+          zusammensetzungen „fuß“ (engl. <hi rendition="#i">bone</hi>
+          „knochen“), as. <hi rendition="#i">bên</hi> (holl. <hi
+            rendition="#i">been</hi>). Das wort scheint auf die eine oder
+          andere weise mit neunorw. <hi rendition="#i">buna</hi>
+          „knochenröhre, wadenbein“, mnd. <hi rendition="#i">bunk</hi>
+          (holl. <hi rendition="#i">bonk</hi>) „knochen“ zusammenhängen zu
+          müssen. Ferner verwandt sind dann wohl auch lat. <hi
+            rendition="#i">fĕmur</hi> „schenkel“ und aslav. <hi
+            rendition="#i">bedro</hi>. <hi rendition="#i">Et</hi>
+          <hi rendition="#g #i">ben</hi> „eine schwierigkeit“ ist ein bild,
+          das vom essen von fischen mit vielen gräten hergeholt ist; vgl.
+          d. <hi rendition="#i">er</hi>
+          <hi rendition="#i">hat</hi>
+          <hi rendition="#i">eine</hi>
+          <hi rendition="#i">Gräte</hi>
+          <hi rendition="#i">darin</hi>
+          <hi rendition="#i">gefunden</hi> „eine Schwierigkeit“, engl. <hi
+            rendition="#i">to</hi>
+          <hi rendition="#i">make</hi>
+          <hi rendition="#i">no</hi>
+          <hi rendition="#i">bone</hi> „keine schwierigkeiten finden, sich
+          keine bedenken machen“, schw. <hi rendition="#i">benig</hi>
+          „voller gräten (von fischen), schwierig, problematisch“. — <hi
+            rendition="#g #i">Give</hi>
+          <hi rendition="#i">(</hi><hi rendition="#g #i">skaffe</hi><hi
+            rendition="#i">)</hi>
+          <hi rendition="#g #i">en</hi>
+          <hi rendition="#g #i">ben</hi>
+          <hi rendition="#g #i">at</hi>
+          <hi rendition="#g #i">gaa</hi>
+          <hi rendition="#g #i">paa</hi> = d. <hi rendition="#i">einem</hi>
+          <hi rendition="#i">Beine</hi>
+          <hi rendition="#i">machen</hi>; im dän. findet sich auch die mehr
+          wortgetreue wiedergabe <hi rendition="#g #i">gjøre</hi>
+          <hi rendition="#g #i">en</hi>
+          <hi rendition="#g #i">ben</hi>
+          <hi rendition="#g #i">at</hi>
+          <hi rendition="#g #i">gaa</hi>
+          <hi rendition="#g #i">paa</hi> (die letzten worte sind im dän. um
+          der deutlichkeit willen beigefügt). — <hi rendition="#g #i"
+            >Komme</hi>
+          <hi rendition="#g #i">paa</hi>
+          <hi rendition="#g #i">benene</hi> (zu kräften kommen) ist nd. <hi
+            rendition="#i">up</hi>
+          <hi rendition="#i">de</hi>
+          <hi rendition="#i">bên</hi>
+          <hi rendition="#i">kamen</hi>, nhd. wieder auf die Beine kommen.
+          — <hi rendition="#g #i">Tage</hi>
+          <hi rendition="#g #i">benene</hi>
+          <hi rendition="#g #i">paa</hi>
+          <hi rendition="#g #i">nakken</hi> gibt frz. <hi rendition="#i"
+            >prendre</hi>
+          <hi rendition="#i">ses</hi>
+          <hi rendition="#i">jambes</hi>
+          <hi rendition="#i">à</hi>
+          <hi rendition="#i">son</hi>
+          <hi rendition="#i">cou</hi> wieder; vgl. d. <hi rendition="#i"
+            >die</hi>
+          <hi rendition="#i">Beine</hi>
+          <hi rendition="#i">in</hi>
+          <hi rendition="#i">die</hi>
+          <hi rendition="#i">Hand</hi>, <hi rendition="#i">unter</hi>
+          <hi rendition="#i">den</hi>
+          <hi rendition="#i">Arm</hi>
+          <hi rendition="#i">nehmen</hi> (siehe <hi rendition="#g #i"
+            >fod</hi>), humoristisch übertriebene ausdrücke für große eile.
+          — <hi rendition="#g #i">Gaa</hi>
+          <hi rendition="#g #i">en</hi>
+          <hi rendition="#g #i">til</hi>
+          <hi rendition="#g #i">marv</hi>
+          <hi rendition="#g #i">og</hi>
+          <hi rendition="#g #i">ben</hi> = d. <hi rendition="#i">es</hi>
+          <hi rendition="#i">geht</hi>
+          <hi rendition="#i">durch</hi>
+          <hi rendition="#i">Mark</hi>
+          <hi rendition="#i">und</hi>
+          <hi rendition="#i">Bein</hi> (mhd. <hi rendition="#i">ze</hi>
+          <hi rendition="#i">beine</hi>
+          <hi rendition="#i">gên</hi>). — <hi rendition="#g #i">Gjøre</hi>
+          <hi rendition="#g #i">sig</hi>
+          <hi rendition="#g #i">ud</hi>
+          <hi rendition="#g #i">til</hi>
+          <hi rendition="#g #i">bens</hi>
+          <hi rendition="#g #i">med</hi>
+          <hi rendition="#g #i">en</hi> (sich mit jemand entzweien) ist ein
+          bild, das von tieren hergenommen ist, die die beine auseinander
+          sperren, wenn man sie gegen ihren willen in einer bestimmten
+          richtung ziehen will. In der umgangssprache ist der ausdruck oft
+          verfälscht zu <hi rendition="#g #i">gjøre</hi>
+          <hi rendition="#g #i">sig</hi>
+          <hi rendition="#g #i">utilvens</hi>
+          <hi rendition="#g #i">med</hi>
+          <hi rendition="#g #i">en</hi>. — <hi rendition="#b">Benbræk</hi>
+          (narthecium ossifragum) = nd. <hi rendition="#i"
+          >bênbrekgras</hi>, nhd. <hi rendition="#i">Beinbrech</hi>, so
+          genannt, weil man annahm, daß die pflanze knochensprödheit beim
+          vieh verursachte. Vgl. <hi rendition="#g #i">rome</hi>. — <hi
+            rendition="#b">Benrad</hi> (skelett), im ält. dän. auch <hi
+            rendition="#i">rad</hi> und <hi rendition="#i">dødningrad</hi>,
+          vgl. schw. dial. <hi rendition="#i">rade</hi> „skelett von
+          tieren“. Das wort enthält <hi rendition="#g #i">rad</hi> „reihe“
+            <pb n="70" facs="#f0077"/>und bedeutet somit eigentlich
+          „knochenreihe“. — <hi rendition="#b">Benrangel,</hi> schw. <hi
+            rendition="#i">benragel</hi> (veraltet) und <hi rendition="#i"
+            >benrangel</hi>, wohl zu norw. und schw. dial. <hi
+            rendition="#i">rangla</hi>, <hi rendition="#i">ragla</hi>
+          „schwanken, wackeln, schlenkern“, also ursprünglich vom skelett
+          eines gehängten, der am galgen baumelt. Siehe <hi
+            rendition="#g #i">rangle</hi>. — <hi rendition="#b">Benved</hi>
+          (norw. = ilex aquifolium, christdorn), anord. <hi rendition="#i"
+            >beinviđr</hi>, eigentlich „der knochenharte baum“.
+          Etymologisch identisch ist dän. <hi rendition="#g #i">benved</hi>
+          „euonymus europaeus, spindelbaum“, schw. <hi rendition="#i"
+            >benved</hi>, neuisl. <hi rendition="#i">beinviđr</hi>. Ebenso
+          schw. <hi rendition="#i">benved</hi> „lonicera xylosteum“, norw.
+          dial. <hi rendition="#i">beinvid</hi>, neuisl. <hi rendition="#i"
+            >beinviđr</hi>; vgl. schw. dial. <hi rendition="#i"
+            >hårdved</hi> in ders. bed. An anderen stellen in Norwegen
+          bezeichnet <hi rendition="#i">beinvid</hi> „viburnum opulus,
+          schneeball“, eigenthch „der gerade baum“, zum adj. <hi
+            rendition="#g #i">ben</hi>.</p>
+        <p><hi rendition="#b">Ben</hi> (norw. = gerade), anord. <hi
+            rendition="#i">beinn</hi>. Das wort, dessen etymologie unsicher
+          ist, fehlt außerhalb des nordens. Hiervon <hi rendition="#g #i"
+            >benke</hi> (norw. = gerade machen), anord. <hi rendition="#i"
+            >beinka</hi>.</p>
+        <p><hi rendition="#b">Bende</hi> (norw. = biegen), ält. dän. <hi
+            rendition="#i">bende</hi> „biegen, spannen“, schw. <hi
+            rendition="#i">bända</hi> „spannen“, anord. <hi rendition="#i"
+            >benda</hi> „biegen“ (<hi rendition="#i">benda</hi>
+          <hi rendition="#i">boga</hi> „den bogen spannen“) = ags. <hi
+            rendition="#i">bendan</hi> „spannen, binden“ (engl. <hi
+            rendition="#i">bend</hi>). Das wort ist aus dem germ. ins frz.
+          gedrungen: frz. <hi rendition="#i">bander</hi>
+          <hi rendition="#i">(un</hi>
+          <hi rendition="#i">arc)</hi>. Es ist abgeleitet von <hi
+            rendition="#g #i">baand</hi>, und die bedeutung „spannen,
+          biegen“ ist ausgegangen von „band oder sehne auf den bogen
+          setzen“.</p>
+        <p><hi rendition="#b">Bengel,</hi> schw. <hi rendition="#i"
+            >bängel</hi>, von nd. holl. <hi rendition="#i">bengel</hi>
+          „knüppel, stock, lümmel“ = nhd. <hi rendition="#i">Bengel</hi>;
+          vgl. engl. dial. <hi rendition="#i">bangle</hi> „knotenstock“,
+          anord. <hi rendition="#i">bǫngull</hi> (als beiname). Das wort
+          gehört zu anord. <hi rendition="#i">banga</hi> „klopfen“: siehe
+            <hi rendition="#g #i">bank</hi> I. Zur bedeutung vgl. d. <hi
+            rendition="#i">Flegel</hi> „dreschflegel, lümmel“.</p>
+        <p><hi rendition="#b">Berg</hi> ist die norw. form für <hi
+            rendition="#g #i">bjerg</hi>, s. d. In Dänemark ist sie von
+          Deutschland in einer anzahl zusammensetzungen eingeführt; von
+          diesen ist <hi rendition="#g #i">bergbygning</hi> eine törichte
+          wiedergabe von d. <hi rendition="#i">Bergbau</hi>. — <hi
+            rendition="#b">Bergfisk</hi> (norw. = dorsch, der auf den
+          klippen getrocknet ist), dän. <hi rendition="#g #i"
+            >bergefisk</hi>; hiervon mnd. <hi rendition="#i"
+            >bergerfisch</hi>, das ins ält. dän. als <hi rendition="#i"
+            >bergerfisk</hi> überging, wofür auch <hi rendition="#i"
+            >bergenfisk</hi> geschrieben wurde: die veranlassung dazu war,
+          daß der fisch aus Bergen kam. — <hi rendition="#b">Berggylte</hi>
+          (norw. = lippfisch, labrus) enthält im letzten gliede das anord.
+            <hi rendition="#i">gylta</hi>
+          <hi rendition="#i">(gyltr)</hi> „sau“ (engl. dial. <hi
+            rendition="#i">yelt</hi>), femin. zu <hi rendition="#i"
+            >galtr</hi>: siehe <hi rendition="#g #i">galt</hi>. Der fisch
+          heißt auch <hi rendition="#i">berggalt</hi> und <hi
+            rendition="#i">bergsugga</hi>.</p>
+        <p><hi rendition="#b">Bernsten,</hi> schw. <hi rendition="#i"
+            >bärnsten</hi>, von mnd. <hi rendition="#i">bernstên</hi>
+          (holl. <hi rendition="#i">barnsteen</hi>, nhd. <hi rendition="#i"
+            >Bernstein</hi>); das wort ist ursprünglich nd. und bedeutet
+          hier auch „backstein, mauerstein“ (nd. <hi rendition="#i"
+            >bernen</hi> = hd. <hi rendition="#i">brennen</hi>). Das
+          entsprechende anord. <hi rendition="#i">brennusteinn</hi>,
+          neunorw. <hi rendition="#i">brennestein</hi>, adän. <hi
+            rendition="#i">brænnæsteen</hi> bezeichnet „schwefel“ (anord.
+            <hi rendition="#i">brenna</hi> „brand“); hiervon engl. <hi
+            rendition="#i">brimstone</hi> „schwefel“. Als bezeichnung für
+          „bernstein“ scheint <hi rendition="#g #i">bernsten</hi> gr.
+          ἤλεκτρον wiederzugeben, eigentlich „das strahlende, scheinende“,
+          da die altgerm. bezeichnung <hi rendition="#i">*glâsa-</hi>
+          (latinisiert <hi rendition="#i">glêsum</hi>, ags. <hi
+            rendition="#i">glæ̂re</hi>, siehe <hi rendition="#g #i"
+            >glas</hi>) ist; vgl. auch spät. anord. <hi rendition="#i"
+            >raf</hi>. Doch ist die annahme nicht zwingend, da bernstein ja
+          ein brennbares erdharz ist.</p>
+        <p><hi rendition="#b">Berserk,</hi> schw. <hi rendition="#i"
+            >bärsärk</hi>, ist neu aufgenommen von anord. <hi
+            rendition="#i">berserkr</hi>, eigentlich bezeichnung für die in
+          bärenfelle gekleideten krieger: von anord. <hi rendition="#i"
+            >*beri</hi> (bewahrt ist das fem. <hi rendition="#i">bera</hi>)
+          „bär“ und <hi rendition="#i">serkr</hi> (siehe <hi
+            rendition="#g #i">serk</hi>). Eine andere benennung für die
+          wilden kämpfer der vorzeit war <hi rendition="#i">ulfheđnar</hi>,
+          eigentlich „wolfswämser“.</p>
+        <p><hi rendition="#b">Bertram</hi> (chrysanthemum parthenium,
+          achillea ptarmica) ist nhd. <hi rendition="#i">Bertram</hi>,
+          dessen häufigste und ursprünglichste bedeutung „anacyclus <pb
+            n="71" facs="#f0078"/>officinarum“ ist. Das wort ist eine nach
+          dem mannsnamen vorgenommene umänderung von gr. πύρεϑρον (lat. <hi
+            rendition="#i">pyrethrum</hi>), eigentlich „fieberwurzel“; vgl.
+          d. dial. <hi rendition="#i">fieberkraut</hi> „chrysanthemum
+          parthenium“. Vgl. <hi rendition="#g #i">matrem</hi>.</p>
+        <p><hi rendition="#b">Besk,</hi> schw. <hi rendition="#i"
+          >besk</hi>, anord. <hi rendition="#i">beiskr</hi> „beißend,
+          bitter“, von der germ. grundform <hi rendition="#i"
+            >*baitska-</hi>, zum vb. <hi rendition="#g #i">bide</hi>; vgl.
+            <hi rendition="#g #i">bitter</hi> und <hi rendition="#g #i"
+            >bidsk</hi>.</p>
+        <p><hi rendition="#b">Beskøit</hi>
+          <hi rendition="#i">(biskøit)</hi>, von holl. <hi rendition="#i"
+            >beschuit</hi> = engl. <hi rendition="#i">biscuit</hi>, frz.
+            <hi rendition="#i">biscuit</hi>, ital. <hi rendition="#i"
+            >biscotto</hi>, entsprechend lat. <hi rendition="#i">bis</hi>
+          <hi rendition="#i">coctus</hi> „zweimal gebacken“; vgl. das
+          hieraus übersetzte <hi rendition="#g #i">tvebak</hi>
+          „zwieback“.</p>
+        <p><hi rendition="#b">Bet</hi> (strafeinsatz im kartenspiel), schw.
+            <hi rendition="#i">bet</hi>, von frz. <hi rendition="#i"
+            >bête</hi>, das eine verderbte form für span. <hi
+            rendition="#i">puesta</hi> „einsatz“ sein soll, indem dieses
+          durch das echte frz. <hi rendition="#i">bête</hi> „tier“ (siehe
+            <hi rendition="#g #i">bæst</hi>) wiedergegeben wurde; vgl. <hi
+            rendition="#i">faire</hi>
+          <hi rendition="#i">la</hi>
+          <hi rendition="#i">bête</hi> „einen dummen streich machen“. Das
+          norwegische <hi rendition="#i">beit</hi> „klemme, verlegenheit“
+          ist wohl dasselbe wort, vielleicht von <hi rendition="#i"
+            >beita</hi> „zwingen, eindringen auf jemand“ beeinflußt; vgl.
+          dän. <hi rendition="#g #i">bet</hi>
+          <hi rendition="#g #i">paa</hi>
+          <hi rendition="#g #i">penge</hi> u. ähnl. Dasselbe wort (mit
+          bewahrung des bestimmten artikels) ist dän. umgangssprache <hi
+            rendition="#g #i">komme</hi>
+          <hi rendition="#g #i">i</hi>
+          <hi rendition="#g #i">labéten</hi> „in die klemme kommen“, dän.
+          dial. <hi rendition="#i">labet</hi>, norw. dial. <hi
+            rendition="#i">labeita</hi>. Der Ursprung des ausdrucks im
+          kartenspiel ist ersichtlich aus ält. dän. <hi rendition="#i"
+            >labet</hi> „eine art kartenspiel und der strafeinsatz in
+          diesem“ (<hi rendition="#i">sætte</hi>
+          <hi rendition="#i">labet</hi> „setzen und verlieren“); vgl. nhd.
+            <hi rendition="#i">labét</hi>
+          <hi rendition="#i">werden</hi> und nd. <hi rendition="#i"
+            >labét</hi> „kaput, krank, schwach“.</p>
+        <p><hi rendition="#b">Betemark:</hi> siehe <hi rendition="#g #i"
+            >bede</hi> II.</p>
+        <p><hi rendition="#b">Betle,</hi> schw. <hi rendition="#i"
+            >bettla</hi>, von nhd. <hi rendition="#i">betteln</hi> (ahd.
+            <hi rendition="#i">betalôn</hi>), iterativum zu <hi
+            rendition="#i">bitten</hi>: siehe <hi rendition="#g #i"
+            >beile</hi>.</p>
+        <p><hi rendition="#b">Bi</hi> oder <hi rendition="#g #i">bie</hi>
+          (biene), schw. <hi rendition="#i">bi</hi>, neunorw. <hi
+            rendition="#i">bia</hi>, adän. <hi rendition="#i">by</hi> n.
+          pl. „bienen“, anord. <hi rendition="#i">bŷ</hi> n. <hi
+            rendition="#i">(bŷfluga)</hi> = ags. <hi rendition="#i"
+            >béo</hi> (engl. <hi rendition="#i">bee</hi>), as. <hi
+            rendition="#i">bî-</hi> und <hi rendition="#i">bini-</hi>
+          (holl. <hi rendition="#i">bij</hi>), ahd. <hi rendition="#i"
+            >bîa</hi> und <hi rendition="#i">bini</hi> (nhd. <hi
+            rendition="#i">Biene</hi>). Weitere verwandte sind litt. <hi
+            rendition="#i">bìtis</hi>, air. <hi rendition="#i">bech</hi>
+          „biene“ (wohl von <hi rendition="#i">*bhiko-</hi>), lat. <hi
+            rendition="#i">fûcus</hi> „drohne“ (von <hi rendition="#i"
+            >*bhoiko-</hi>), alle von der idg. wurzel <hi rendition="#i"
+            >*bhî</hi> „beben, zittern, schwirren“: siehe <hi
+            rendition="#g #i">bæve</hi>. Die form <hi rendition="#i"
+            >bŷ</hi> ist hervorgegangen aus urnord. <hi rendition="#i"
+            >*bîu</hi>, plur. zu <hi rendition="#i">*bî</hi>.</p>
+        <p><hi rendition="#b">Bi-,</hi> schw. <hi rendition="#i">bi-,</hi>
+          von mnd. <hi rendition="#i">bî</hi> „bei, neben“ = ags. <hi
+            rendition="#i">bî</hi> (engl. <hi rendition="#i">by</hi>), as.
+            <hi rendition="#i">bî</hi> (holl. <hi rendition="#i">bij</hi>),
+          ahd. <hi rendition="#i">bî</hi> (nhd. <hi rendition="#i"
+          >bei</hi>), betonte form von <hi rendition="#g #i">be-</hi>, s.
+          d. Die bedeutung ist besonders „bei“ (z. b. <hi rendition="#g #i"
+            >bisidder</hi> = mnd. <hi rendition="#i">bîsitter</hi>, nhd.
+            <hi rendition="#i">Beisitzer</hi>) oder der gegensatz zu
+          „haupt-“ (z. b. im neugebildeten <hi rendition="#g #i">bisag</hi>
+          = d. <hi rendition="#i">Nebensache</hi>). Selten ist <hi
+            rendition="#g #i">bi</hi> selbständige partikel. z. b. <hi
+            rendition="#g #i">staa</hi>
+          <hi rendition="#g #i">en</hi>
+          <hi rendition="#g #i">bi</hi> (d. <hi rendition="#i"
+            >beistehen</hi>), <hi rendition="#g #i">lægge</hi>
+          <hi rendition="#g #i">bi</hi>
+          <hi rendition="#g #i">med</hi>
+          <hi rendition="#g #i">et</hi>
+          <hi rendition="#g #i">skib</hi> (d. <hi rendition="#i">das</hi>
+          <hi rendition="#i">Schiff</hi>
+          <hi rendition="#i">beilegen</hi>). — <hi rendition="#b"
+            >Bifalde,</hi> im ält. dän. „sich anschließen“, von mnd. <hi
+            rendition="#i">bivallen</hi> „auf die seite jemandes treten,
+          beistehen, einem recht geben“ = nhd. <hi rendition="#i"
+            >beifallen</hi> „seine zustimmung geben“; der gebrauch des
+          präfixes ist wie in d. <hi rendition="#i">beitreten</hi> und des
+          verbums wie in <hi rendition="#i">abfallen</hi>. — <hi
+            rendition="#g #i">Bisidder</hi> gibt d. <hi rendition="#i"
+            >Beisitzer</hi> wieder, von lat. <hi rendition="#i"
+            >assessor</hi>. — <hi rendition="#b">Bislag</hi> (beischlag,
+          ein kleiner mit bänken versehener ausbau außerhalb der
+          eingangstür), von mnd. <hi rendition="#i">bîslach</hi>,
+          eigentlich „aufgeschlagener, lose errichteter seitenbau“; vgl. d.
+            <hi rendition="#i">Verschlag</hi>, <hi rendition="#i"
+            >Taubenschlag</hi>, <hi rendition="#i">Hühnerschlag</hi>. — <hi
+            rendition="#b">Bisætte</hi> (beisetzen), vou nhd. <hi
+            rendition="#i">beisetzen</hi> „hinsetzen zu (den übrigen
+          leichen in der familiengrabstätte)“; vielleicht eine übersetzung
+          des lat. <hi rendition="#i">componere</hi> „beisetzen“. — <hi
+            rendition="#b">Bivaane,</hi> von nhd. <hi rendition="#i"
+            >beiwohnen</hi>, eigentlich „wohnen bei“, dann „zugegen sein
+          bei“; siehe <hi rendition="#g #i">vaaning</hi>.</p>
         <pb n="72" facs="#f0079"/>
+        <p><hi rendition="#b">Bide,</hi> schw. <hi rendition="#i"
+          >bita</hi>, anord. <hi rendition="#i">bîta</hi> = got. <hi
+            rendition="#i">beitan</hi>, ags. as. <hi rendition="#i"
+            >bîtan</hi> (engl. <hi rendition="#i">bite</hi>, holl. <hi
+            rendition="#i">bijten</hi>), ahd. <hi rendition="#i">bîʒan</hi>
+          (nhd. <hi rendition="#i">beißen</hi>). Die grundbedeutung ist
+          „spalten“ (vgl. <hi rendition="#g #i">baad</hi>, <hi
+            rendition="#g #i">beding</hi>), von der idg. wurzel <hi
+            rendition="#i">*bhid</hi> (erweitert von <hi rendition="#i"
+            >*bhi</hi>, siehe <hi rendition="#g #i">bild</hi>), wozu lat.
+            <hi rendition="#i">findo</hi> „spalte“, skr. <hi rendition="#i"
+            >bhid</hi>, <hi rendition="#i">bhinádmi</hi>. — <hi
+            rendition="#g #i">Bide</hi>
+          <hi rendition="#g #i">(æde)</hi>
+          <hi rendition="#g #i">harmen</hi>
+          <hi rendition="#g #i">i</hi>
+          <hi rendition="#g #i">sig</hi> ist d. <hi rendition="#i">den</hi>
+          <hi rendition="#i">Zorn</hi>
+          <hi rendition="#i">verbeißen</hi>; vgl. „han bed sig i læberne og
+          taug“, „indædt raseri“. — <hi rendition="#g #i">Give</hi>
+          <hi rendition="#g #i">en</hi>
+          <hi rendition="#g #i">noget</hi>
+          <hi rendition="#g #i">at</hi>
+          <hi rendition="#g #i">bide</hi>
+          <hi rendition="#g #i">i</hi> (eine schwierigkeit zu heben) ist
+          eine redensart von derselben art wie „dette er en haard nød at
+          knække“ (d. <hi rendition="#i">eine</hi>
+          <hi rendition="#i">harte</hi>
+          <hi rendition="#i">Nuß</hi>). — Hierzu <hi rendition="#g #i"
+            >et</hi>
+          <hi rendition="#g #i">bid</hi>, anord. <hi rendition="#i"
+            >bit</hi> n. = ags. <hi rendition="#i">bite</hi> m. (engl. <hi
+            rendition="#i">bite</hi>), as. <hi rendition="#i">biti</hi>
+          (holl. <hi rendition="#i">beet</hi>), ahd. <hi rendition="#i"
+            >biʒ</hi>; m. (nhd. <hi rendition="#i">Biß</hi>), und <hi
+            rendition="#g #i">en</hi>
+          <hi rendition="#g #i">bid</hi>, anord. <hi rendition="#i"
+            >biti</hi> m. = ags. <hi rendition="#i">bita</hi> (engl. <hi
+            rendition="#i">bit</hi>), ahd. <hi rendition="#i">biʒʒo</hi>
+          (nhd. <hi rendition="#i">Bissen</hi>). Das letzte <hi
+            rendition="#i">bid</hi> verdankt seine form dem ersten; im
+          norwegischen unterscheiden sich die beiden auch in der form: <hi
+            rendition="#g #i">et</hi>
+          <hi rendition="#g #i">bid</hi> und <hi rendition="#g #i">en</hi>
+          <hi rendition="#g #i">bete</hi>. Eine deminutivform ist dän. <hi
+            rendition="#g #i">bidling</hi> und <hi rendition="#g #i"
+            >billing</hi>.</p>
+        <p><hi rendition="#b">Biderhvas:</hi> siehe <hi rendition="#g #i"
+            >bitter</hi>.</p>
+        <p><hi rendition="#b">Bidevind,</hi> schw. <hi rendition="#i"
+            >bidevind</hi>, von nd. <hi rendition="#i">bî</hi>
+          <hi rendition="#i">de(n)</hi>
+          <hi rendition="#i">wind</hi>, holl. <hi rendition="#i">bij</hi>
+          <hi rendition="#i">de(n)</hi>
+          <hi rendition="#i">wind</hi> (gegens.: <hi rendition="#i"
+            >vor</hi>
+          <hi rendition="#i">de</hi>
+          <hi rendition="#i">wind</hi>) = nhd. <hi rendition="#i">bei</hi>
+          <hi rendition="#i">dem</hi>
+          <hi rendition="#i">Winde</hi>
+          <hi rendition="#i">(segeln)</hi>, engl. <hi rendition="#i"
+            >by</hi>
+          <hi rendition="#i">the</hi>
+          <hi rendition="#i">wind</hi>, eigentlich „neben dem winde“. Aus
+          einem adv. ist der ausdruck schon im holl. subst. geworden.</p>
+        <p><hi rendition="#b">Bidsk,</hi> von nd. <hi rendition="#i"
+            >betsk</hi>, <hi rendition="#i">bitsk</hi> &lt; mnd. <hi
+            rendition="#i">betisch</hi> (holl. <hi rendition="#i"
+          >bits</hi>); vgl. nhd. <hi rendition="#i">bissig</hi>, <hi
+            rendition="#i">beißig</hi>. Siehe <hi rendition="#g #i"
+            >bide</hi>.</p>
+        <p><hi rendition="#b">Bidsel,</hi> schw. <hi rendition="#i"
+            >betsel</hi>, neunorw. <hi rendition="#i">beisl</hi>, anord.
+            <hi rendition="#i">beizl</hi> n. (auch <hi rendition="#i"
+            >bitull</hi> m.), eigentlich nur das mundeisen oder gebiß (vgl.
+            <hi rendition="#g #i">mundbid</hi>), aber dann auch das ganze
+          kopfgeschirr; germ. grundform <hi rendition="#i">*baitisla-</hi>
+          zu <hi rendition="#g #i">bide</hi>. Hierzu norw. <hi
+            rendition="#g #i">biksle</hi> „zäumen“.</p>
+        <p><hi rendition="#b">Bie</hi> (warten); schw. <hi rendition="#i"
+            >bida</hi>, neunorw. <hi rendition="#i">bida</hi> auch
+          „vorhanden sein, sich finden“ (wovon <hi rendition="#i">hver</hi>
+          <hi rendition="#i">bidige</hi>
+          <hi rendition="#i">dag</hi> „jeden tag“), anord. <hi
+            rendition="#i">biđa</hi> „warten, verbleiben, aushalten,
+          dulden“ = got. <hi rendition="#i">beidan</hi>, ags. as. <hi
+            rendition="#i">bîdan</hi> (engl. <hi rendition="#i">bide</hi>,
+            <hi rendition="#i">abide</hi>), ahd. <hi rendition="#i"
+            >bîtan</hi>. Etymologisch entspricht <hi rendition="#g #i"
+            >bie</hi> gr. πείϑω „überrede“, πείϑομαι „vertraue auf“, lat.
+            <hi rendition="#i">fîdo</hi>. Auf abweichender präsensbildung
+          beruht <hi rendition="#g #i">bede</hi>, s. d. Wie die stark
+          abweichenden bedeutungen sich vereinigen lassen, ist nicht ganz
+          klar; am ehesten scheint idg. <hi rendition="#i">*bheidh</hi> die
+          doppelte bedeutung „überreden“ und (medial) „sich fügen“ gehabt
+          zu haben, woher „sich finden in, dulden, warten“.</p>
+        <p><hi rendition="#b">Bif</hi> (norw.) ist engl. <hi rendition="#i"
+            >beef</hi>, während das entsprechende dän. <hi rendition="#i"
+            >bøf</hi> von frz. <hi rendition="#i">bœuf</hi> stammt.
+          Zugrunde liegt lat. <hi rendition="#i">bôs</hi> (akkus. <hi
+            rendition="#i">bovem</hi>) „rind“: siehe <hi rendition="#g #i"
+            >ko</hi>.</p>
+        <p><hi rendition="#b">Bikje</hi> (norw. = hündin, hund, besonders
+          verächtlich), ält. dän. <hi rendition="#i">bikke</hi> „hündin,
+          petze“, schw. in der zusammensetzung <hi rendition="#i"
+            >argbigga</hi> „böses frauenzimmer“, anord. <hi rendition="#i"
+            >bikkja</hi> „petze, hündin“ = ags. <hi rendition="#i"
+            >bicce</hi> (engl. <hi rendition="#i">bitch</hi> „petze,
+          metze“); wahrscheinlich dasselbe wort ist d. dial. <hi
+            rendition="#i">petze</hi>; afrz. <hi rendition="#i">biche</hi>
+          „petze“ ist dem germ. entlehnt. Die grundform <hi rendition="#i"
+            >*bekjôn</hi> steht im ablautsverhältnis zu anord. <hi
+            rendition="#i">grey-baka</hi> „petze“, wahrscheinlich verwandt
+          mit skr. <hi rendition="#i">bhaga-</hi> „cunnus“, eigentlich
+          „riß“ (siehe <hi rendition="#g #i">bag</hi>); vgl. anord. <hi
+            rendition="#i">refkeila</hi> „füchsin“: <hi rendition="#i"
+            >keila</hi> „riß, spalt“.</p>
+        <p><hi rendition="#b">Bikke</hi> (norw. = sich neigen, bücken,
+          wippen), anord. <hi rendition="#i">bikkja</hi>, ungewisser
+          herkunft. Das abgeleitete vb. neunorw. <hi rendition="#i"
+            >bikla</hi> „sich schlängeln“ scheint mit engl. <hi
+            rendition="#i">bicker</hi> „sich schlängeln, sich hin und her
+          bewegen“ verwandt.</p>
         <pb n="73" facs="#f0080"/>
-        <pb n="74" facs="#f0081"/>
-        <pb n="75" facs="#f0082"/>
+        <p><hi rendition="#b">Bikse</hi> (norw. = großer herr, matador),
+          spät anord. <hi rendition="#i">bjaxi</hi> (als beiname), ist
+          wahrscheinlich dasselbe wort wie neunorw. <hi rendition="#i"
+            >bikse</hi>, <hi rendition="#i">pikse</hi>, <hi rendition="#i"
+            >bjakse</hi> „pflock, zwecke (zum befestigen von dingen)“. Die
+          bedeutungsentwicklung wäre dann dieselbe wie bei norw. <hi
+            rendition="#g #i">plugg</hi> „kleine vierschrötige person“
+          (siehe auch <hi rendition="#g #i">benget</hi>). <hi
+            rendition="#g #i">Bikse</hi> (wovon <hi rendition="#i"
+            >bjakse</hi> eine sekundäre form ist) kann nicht zu lat. <hi
+            rendition="#i">fîgo</hi> „befestige<choice>
+            <sic/>
+            <corr>“</corr>
+          </choice>
+          <hi rendition="#i">(*dheig-)</hi> gehören. Auffallend ist die
+          übereinstimmung mit nd. <hi rendition="#i">baks</hi>, <hi
+            rendition="#i">päks</hi> „kleine dicke person“.</p>
+        <p><hi rendition="#b">Bil</hi> I: siehe <hi rendition="#g #i"
+            >bile</hi>.</p>
+        <p><hi rendition="#b">Bil</hi> II (zwischenraum, zeitraum), schw.
+          dial. <hi rendition="#i">bil</hi>, dän. dial. <hi rendition="#i"
+            >bil</hi> „augenblick“, <hi rendition="#i">bæl</hi>
+          „zwischenzeit“, anord. <hi rendition="#i">bil</hi> n. „weile,
+          zeit, schwache stelle“ (<hi rendition="#i">bila</hi> „nachgeben,
+          entzweigehen“). Der stamm <hi rendition="#i">*bila-</hi> ist
+          derselbe wie der in <hi rendition="#g #i">billede</hi> und <hi
+            rendition="#g #i">billig</hi>; er ist wahrscheinlich von der
+          idg. wurzel <hi rendition="#i">*bhi</hi> gebildet, dem letzten
+          glied in gr. ἀμφί, das eine zweiheit bezeichnet (vgl. die wurzel
+            <hi rendition="#i">*bho</hi> in <hi rendition="#g #i"
+            >begge</hi>), + dem suffix <hi rendition="#i">-lo-</hi>: dies
+          erklärt sowohl die bedeutung „zwischenraum“ wie „schwache stelle“
+          (eigentlich „zweifel, unsicherheit“).</p>
+        <p><hi rendition="#b">Bild</hi> (dän. = bille, steinhauerwerkzeug,
+          norw. = werkzeug zum aderlassen), anord. <hi rendition="#i"
+            >bîldr</hi> m. Hierzu dän. <hi rendition="#g #i">isbild</hi>,
+          schw. <hi rendition="#i">isbill</hi>, neunorw. <hi rendition="#i"
+            >ispîl</hi> (umgedeutet nach <hi rendition="#g #i">pil</hi>)
+          „stock mit eisenspitze, um löcher ins eis zu hauen“; schw. <hi
+            rendition="#i">plogbill</hi>, neunorw. <hi rendition="#i"
+            >bild</hi>, ält. dän. <hi rendition="#i">aarbille</hi>
+          „pflugeisen“. Das wort weist auf ein germ. <hi rendition="#i"
+            >*bîþla-</hi>, von idg. wurzel <hi rendition="#i">*bhî</hi>
+          „spalten, schlagen“ (aslav. <hi rendition="#i">biją</hi>
+          „schlage“), und ist also die echt nordische form für <hi
+            rendition="#g #i">bile</hi>, s. d. Eine andere bildung ist d.
+            <hi rendition="#i">Bille</hi> „steinhacke“, nd. <hi
+            rendition="#i">bille</hi> „steinhammer“, hiervon entlehnt im
+          ält. dän. <hi rendition="#i">bild</hi> „steinhammer“; dieses ist
+          dasselbe wort wie ags. <hi rendition="#i">bill</hi>
+          „zweischneidiges krummes schwert“ (engl. <hi rendition="#i"
+            >bill</hi> „sichel, krummaxt“), as. <hi rendition="#i">bil</hi>
+          „schwert“ und weist entweder auf eine endbetonte nebenform des
+          nordischen wortes: germ. <hi rendition="#i">*bidlá-</hi>
+          (assimiliert <hi rendition="#i">*bill-</hi>), oder ist gebildet
+          von idg. wurzel <hi rendition="#i">*bhid</hi> „spalten“ (siehe
+            <hi rendition="#g #i">bide</hi>) mit dem suffix <hi
+            rendition="#i">-lo-</hi>.</p>
+        <p><hi rendition="#b">Bilde,</hi> in „bildende kunst“ und „bilde en
+          noget ind“, stammt von nhd. <hi rendition="#i">bilden</hi>, <hi
+            rendition="#i">einbilden</hi>, abgeleitet von <hi
+            rendition="#i">Bild</hi>: siehe <hi rendition="#g #i"
+            >billede</hi> und <hi rendition="#g #i">indbilde</hi>.</p>
+        <p><hi rendition="#b">Bile,</hi> dän. <hi rendition="#g #i"
+            >bil</hi> (breitaxt zum glatthauen von bauholz), schw. <hi
+            rendition="#i">bila</hi>, von mnd. <hi rendition="#i">bîl</hi>
+          n. und <hi rendition="#i">bîle</hi> f. = nhd. <hi rendition="#i"
+            >Beil</hi> n. Wie ahd. <hi rendition="#i">bîhal</hi> „axt“
+          beweist, muß die germ. grundform <hi rendition="#i">*bîþla</hi>
+          sein, von der idg. wurzel <hi rendition="#i">*bhî</hi> „schlagen,
+          spalten“: siehe <hi rendition="#g #i">bild</hi>. Hierzu mit
+          anderem suffix air. <hi rendition="#i">bíail</hi> „axt“ (von <hi
+            rendition="#i">*bhîali-</hi>).</p>
+        <p><hi rendition="#b">Bille</hi> (dän. = käfer) muß — wegen ags.
+            <hi rendition="#i">bitel</hi> (engl. <hi rendition="#i"
+            >beetle</hi>) „käfer, roßkäfer“ — von einem anord. <hi
+            rendition="#i">*bitli</hi> kommen, der substantivierung des
+          adj. ags. <hi rendition="#i">bitol</hi> „geneigt zu beißen“; vgl.
+          ags. <hi rendition="#i">hrædbita</hi> „käfer“.</p>
+        <p><hi rendition="#b">Billede,</hi> ält. dän. <hi rendition="#i"
+            >belede</hi>, schw. <hi rendition="#i">beläte</hi>, anord. <hi
+            rendition="#i">bilæ̂ti</hi> stammt von as. <hi rendition="#i"
+            >biliþi</hi> „bild“ = mnd. <hi rendition="#i">belde</hi>, <hi
+            rendition="#i">bilde</hi> (holl. <hi rendition="#i"
+          >beeld</hi>), ahd. <hi rendition="#i">bilidi</hi> und <hi
+            rendition="#i">biladi</hi> (nhd. <hi rendition="#i">Bild</hi>);
+          das anord. und schw. wort zeigt einwirkung von anord. <hi
+            rendition="#i">læ̂ti</hi> n. pl. „mienen, gebärden, wesen,
+          betragen“ (siehe <hi rendition="#g #i">lader</hi>). Das wort
+          gehört zu einem germ. stamme <hi rendition="#i">*bila-</hi>, der
+          ursprünglich eine doppelheit bezeichnet, entsprechend lat. <hi
+            rendition="#i">geminus</hi> „zwilling(s-), doppelt, sehr
+          ähnlich, ganz entsprechend“; dieser stamm liegt u. a. vor im
+          subst. <hi rendition="#g #i">bil</hi> und adj. <hi
+            rendition="#g #i">billig</hi>, sowie im anord. <hi
+            rendition="#i">billingr</hi> „zwilling“. <pb n="74"
+            facs="#f0081"/>Das bedeutungsverhältnis ist ganz wie zwischen
+          lat. <hi rendition="#i">îmâgo</hi> „bild“ und dem verwandten skr.
+            <hi rendition="#i">yáma-</hi> „zwilling“.</p>
+        <p><hi rendition="#b">Billig,</hi> schw. <hi rendition="#i"
+            >billig</hi>, von mnd. <hi rendition="#i">billîk</hi> „passend,
+          recht und billig“ (holl. <hi rendition="#i">billijk</hi>) = ahd.
+            <hi rendition="#i">billîh</hi> (nhd. <hi rendition="#i"
+            >billig</hi>). Das wort gehört zu mhd. <hi rendition="#i"
+            >unbilde</hi> „ungebührliche handlungsweise, ungerechtigkeit“
+          (nhd. <hi rendition="#i">Unbill</hi>), <hi rendition="#i"
+            >wîchbilde</hi> „stadtrecht“ (nhd. <hi rendition="#i"
+            >Weichbild</hi>) und zu ags. <hi rendition="#i">bilewit</hi>
+          „unschuldig, gut“, sowie zu air. <hi rendition="#i">bil</hi>
+          „gut“. Die grundbedeutung ist „gleich, stimmend zu“, hiervon
+          „gerecht, gut“: siehe <hi rendition="#g #i">billede</hi>.</p>
+        <p><hi rendition="#b">Bimpel</hi> (dän. = kleines tönnchen), ält.
+          dän. auch <hi rendition="#i">pimpel</hi>, schw. dial. <hi
+            rendition="#i">pimpel</hi> „branntweinflasche“. Norw. dial. <hi
+            rendition="#i">dempel</hi> scheint dissimiliert zu sein (vgl.
+            <hi rendition="#g #i">desmer</hi>). Schw. dial. <hi
+            rendition="#i">vimpill</hi> ist wohl dem gleichbedeutenden <hi
+            rendition="#i">värpill</hi> (anord. <hi rendition="#i"
+            >verpill</hi>) angeglichen; synonym auch dän. <hi
+            rendition="#i">vrimpel</hi> „kleines tönnchen“. Vielleicht
+          gehört das wort zu schw. dial. <hi rendition="#i">pimp</hi> „1½
+          nössel branntwein“. Zugrunde liegt dann vielleicht engl. <hi
+            rendition="#i">pint</hi> „ein halber liter“ (von frz. <hi
+            rendition="#i">pinte</hi> in ders. bed. = span. <hi
+            rendition="#i">pinte</hi> „fleck, marke, pinte, nössel“,
+          eigentlich partizip zu lat. <hi rendition="#i">pingo</hi> „male“,
+          vgl. <hi rendition="#g #i">pægl</hi>), das umgebildet ist nach
+          dem vb. <hi rendition="#g #i">pimpe</hi>, schw. dial. <hi
+            rendition="#i">pimpa</hi> und <hi rendition="#i">pimpla</hi>
+          (holl. <hi rendition="#i">pimpelen</hi>).</p>
+        <p><hi rendition="#b">Binde,</hi> schw. <hi rendition="#i"
+            >binda</hi>, anord. <hi rendition="#i">binda</hi> = got. <hi
+            rendition="#i">bindan</hi>, ags. <hi rendition="#i">bindan</hi>
+          (engl. <hi rendition="#i">bind</hi>), as. <hi rendition="#i"
+            >bindan</hi> (holl. <hi rendition="#i">binden</hi>), ahd. <hi
+            rendition="#i">bintan</hi> (nhd. <hi rendition="#i"
+          >binden</hi>). Das wort gehört zu der idg. wurzel <hi
+            rendition="#i">*bhendh</hi> „binde“: skr. <hi rendition="#i"
+            >bandh</hi> „binden“, <hi rendition="#i">bándhu-</hi>
+          „verbindung, verwandter“, gr. πει&#785;σμα „tau, seil“ (von
+          *πένϑσμα), πενϑερός „schwiegervater“, lat. <hi rendition="#i"
+            >offendimentum</hi> „band“, lit. <hi rendition="#i"
+            >bèndras</hi> „teilnehmer“, air. <hi rendition="#i">béss</hi>
+          „brauch“ (von <hi rendition="#i">*bhendhtu-</hi>). — <hi
+            rendition="#g #i">Binde</hi>
+          <hi rendition="#g #i">an</hi>
+          <hi rendition="#g #i">med</hi>
+          <hi rendition="#g #i">en</hi> ist d. <hi rendition="#i">mit</hi>
+          <hi rendition="#i">jemand</hi>
+          <hi rendition="#i">anbinden</hi> „einen kampf, streit mit jemand
+          anfangen“. Der ausdruck stammt aus der fechtersprache, wo die
+          klingen wie man sagt <hi rendition="#i">gebunden</hi>, d. h.
+          kreuzweise gegeneinander gelegt werden. — <hi rendition="#b"
+            >Bindegal</hi> heißt eigentlich „so verrückt, daß man gebunden
+          werden muß“: vgl. nhd. <hi rendition="#i">Narr</hi>
+          <hi rendition="#i">zum</hi>
+          <hi rendition="#i">Anbinden</hi>, frz. <hi rendition="#i"
+            >fou</hi>
+          <hi rendition="#i">à</hi>
+          <hi rendition="#i">lier</hi>. — <hi rendition="#b">Bindsaale</hi>
+          (die innerste schuhsohle) hat nichts mit <hi rendition="#g #i"
+            >binde</hi> zu tun, sondern ist d. <hi rendition="#i"
+            >Binn(en)sohle</hi>.</p>
+        <p><hi rendition="#b">Bing</hi> (große kiste, kasten, kornkiste),
+          schw. dial. <hi rendition="#i">bing</hi> „korn- oder mehlkiste“,
+          anord. <hi rendition="#i">bingr</hi> „abgeteilter raum“; hierzu
+          norw. <hi rendition="#g #i">binge</hi> „düngerraum“, schw. dial.
+            <hi rendition="#i">binge</hi> „haufen von korn, stroh, heu“.
+          Dasselbe wort ist mhd. <hi rendition="#i">binge</hi> (nhd. <hi
+            rendition="#i">Binge</hi>) „kesselartige vertiefung“,
+          wahrscheinlich auch schweiz. <hi rendition="#i">bing</hi>
+          „kleiner dungwagen“. Nicht verwandt ist ahd. <hi rendition="#i"
+            >bîgo</hi> „kornhaufen“ (nhd. <hi rendition="#i">Beige</hi>),
+          ebensowenig nhd. <hi rendition="#i">Benne</hi> „wagenkasten“
+          (gall. <hi rendition="#i">benna</hi> „wagen“) und ags. <hi
+            rendition="#i">binn</hi> „krippe“ (engl. <hi rendition="#i"
+            >bin</hi> „kasten“). <hi rendition="#g #i">Bing</hi> gehört zu
+            <hi rendition="#g #i">bunke</hi> I, s. d.</p>
+        <p><hi rendition="#b">Bingelurt</hi> (dän.) ist nhd. <hi
+            rendition="#i">Bingelkraut</hi>: siehe <hi rendition="#g #i"
+            >bunke</hi> III.</p>
+        <p><hi rendition="#b">Bingse</hi> (norw. = bärin) verhält sich zu
+          neunorw. <hi rendition="#i">bingsa</hi> „schief und humpelnd
+          gehen“ wie neuisl. <hi rendition="#i">bangsi</hi> „männlicher
+          bär“ (siehe <hi rendition="#g #i">bamse</hi>) zu norw. dial. <hi
+            rendition="#i">bangsa</hi> „schwer und humpelnd gehen“.</p>
+        <p><hi rendition="#b">Binne</hi> (norw. = bärin), anord. <hi
+            rendition="#i">birna</hi> = ags. <hi rendition="#i">biren</hi>,
+            <hi rendition="#i">birene</hi> (grundform <hi rendition="#i"
+            >*berniôn</hi>): siehe <hi rendition="#g #i">bjørn</hi>.</p>
+        <p><hi rendition="#b">Birk</hi> I (dän.), norw. <hi
+            rendition="#g #i">bjerk</hi>, schw. <hi rendition="#i"
+            >björk</hi>, anord. <hi rendition="#i">bjǫrk</hi> f. (von <hi
+            rendition="#i">*berkô</hi>) = ags. <hi rendition="#i"
+            >beorc</hi> und <hi rendition="#i">birce</hi> (engl. <hi
+            rendition="#i">birch</hi>), mndl. <hi rendition="#i">berke</hi>
+          (holl. <hi rendition="#i">berk</hi>), ahd. <hi rendition="#i"
+            >bircha</hi>, <hi rendition="#i">biricha</hi> (nhd. <hi
+            rendition="#i">Birke</hi>). Die benennung ist indogerm.: vgl.
+          skr. <hi rendition="#i">bhûrja-</hi> m. „art birke“, aslav. <hi
+            rendition="#i">brěza</hi>, lit. <hi rendition="#i">béržas</hi>
+          „birke“. Eigentlich „der helle baum“: siehe <hi rendition="#g #i"
+            >bjert</hi>. Vgl. <hi rendition="#g #i">bark</hi>. Den vokal
+          verdankt <pb n="75" facs="#f0082"/><hi rendition="#g #i"
+            >birk</hi> dem einfluß des kollektivuins anord. <hi
+            rendition="#i">birki</hi> n. (vgl. <hi rendition="#g #i"
+            >bøg</hi>, dän. <hi rendition="#g #i">elm</hi>, <hi
+            rendition="#g #i">esp</hi>).</p>
+        <p><hi rendition="#b">Birk</hi> II (dän. = rechtsbezirk), ält. dän.
+            <hi rendition="#i">bjærk</hi>, wovon mnd. <hi rendition="#i"
+            >berch</hi>; vgl. anord. <hi rendition="#i"
+            >bjarkeyjarrêttr</hi> (name für das alte gesetz über handel und
+          seefahrt), aschw. <hi rendition="#i">bjærköæ</hi>
+          <hi rendition="#i">rættær</hi>. Die inseln <hi rendition="#i"
+            >Bjarkey</hi> in Haalogaland, <hi rendition="#i">Björkö</hi> im
+          Mälarsee und <hi rendition="#g #i">Björkö</hi> im finnischen
+          busen dienten gewiß alle seinerzeit als marktplätze.
+          Wahrscheinlich stammt <hi rendition="#g #i">birk</hi> von einem
+          von diesen Ortsnamen, wahrscheinlich von Björkö im Mälar, dessen
+          lat. namen <hi rendition="#i">Birca</hi> ist und das wohl der
+          älteste von diesen handelsplätzen ist. Etymologisch ist also <hi
+            rendition="#g #i">birk</hi> identisch mit dem baumnamen.</p>
+        <p><hi rendition="#b">Biskop</hi> (verkürzt <hi rendition="#g #i"
+            >bisp</hi>), anord. <hi rendition="#i">biskup</hi>, <hi
+            rendition="#i">byskup</hi> = ags. <hi rendition="#i"
+            >bisceop</hi> (engl. <hi rendition="#i">bishop</hi>), as. <hi
+            rendition="#i">biscop</hi> (holl. <hi rendition="#i"
+            >bisschop</hi>), ahd. <hi rendition="#i">biscof</hi> (nhd. <hi
+            rendition="#i">Bischof</hi>). Das wort ist durch die
+          arianischen Goten von gr. ἐπίσκοπος „aufseher“ gekommen, wovon
+          auch frz. <hi rendition="#i">évêque</hi>. — <hi rendition="#g #i"
+            >Bisp</hi> als bezeichnung eines bestimmten getränks ist
+          dasselbe wort: d. <hi rendition="#i">Bischof</hi> (schw. <hi
+            rendition="#i">bischof</hi>), engl. <hi rendition="#i"
+            >bishop</hi>.</p>
+        <p><hi rendition="#b">Bismer</hi> (handwage), schw. dial. <hi
+            rendition="#i">bismere</hi>, anord. <hi rendition="#i"
+            >bismari</hi>, von mnd. <hi rendition="#i">bisemer</hi> = nhd.
+            <hi rendition="#i">Desemer</hi>
+          <hi rendition="#i">(Desem)</hi>. Eine ursprünglichere form zeigt
+          schw. <hi rendition="#i">besman</hi>. Das wort ist durch die
+          slav. sprachen gekommen: russ. <hi rendition="#i">bezmen</hi>,
+          lit. <hi rendition="#i">bezmė̃nas</hi>; das slavische hat es
+          vielleicht wiedier vom türkischen <hi rendition="#i">batman</hi>.
+          Zur form vgl. anord. <hi rendition="#i">pundari</hi>, ags. mnd.
+            <hi rendition="#i">punder</hi> (siehe <hi rendition="#g #i"
+            >pund</hi>).</p>
+        <p><hi rendition="#b">Bisa</hi> (norw. = wunder), anord. <hi
+            rendition="#i">bŷsn</hi> f. „wunder“ ist formell identisch mit
+          ags. <hi rendition="#i">bŷsen</hi>, <hi rendition="#i">bisn</hi>
+          f. „beispiel, vorbild“; vgl. got. <hi rendition="#i"
+            >anabûsns</hi> „befehl“, as. <hi rendition="#i">ambûsan</hi>.
+          Die grundform ist <hi rendition="#i">*bhûdhsni-</hi>: siehe <hi
+            rendition="#g #i">byde</hi>. Die bedeutung „wunder“ setzt als
+          ausgangspunkt „verbot, warnung“ voraus (anord. <hi rendition="#i"
+            >bŷsna</hi> „warnen“): unsere vorfahren betrachteten wunderbare
+          ereignisse als zeichen von etwas künftigem (siehe <hi
+            rendition="#g #i">forefærd</hi>). Den übergang von <hi
+            rendition="#i">ŷ</hi> zu <hi rendition="#i">i</hi> verdankt es
+          wahrscheinlich einem gleichbedeutenden wort: norw. dial. <hi
+            rendition="#i">bina</hi> „sonderbare erscheinung“ (<hi
+            rendition="#i">bina</hi> „neugierig blicken auf“ = <hi
+            rendition="#i">bisna</hi>), schw. dial. <hi rendition="#i"
+            >bönna</hi> „wunder“; da schw. dial. auch <hi rendition="#i"
+            >åbel</hi> „wunder“ hat, könnte man an die idg. wurzel <hi
+            rendition="#i">*bhi</hi> in <hi rendition="#g #i">bil</hi> (s.
+          d.) denken, was die bedeutung „zweiheit, zweifel, furcht“ ergibt
+          (vgl. norw. dial. <hi rendition="#i">bin</hi> „scham,
+          schamhaftigkeit“).</p>
+        <p><hi rendition="#b">Bison(okse)</hi> stammt durch d. <hi
+            rendition="#i">Bison</hi> aus lat. <hi rendition="#i"
+            >bison</hi> (frz. <hi rendition="#i">bison</hi>, ital. span.
+            <hi rendition="#i">bisonte</hi>) = spätgr. βίσων. Dem lat.-gr.
+          worte liegt wiederum ein germ. zugrunde: ahd. <hi rendition="#i"
+            >wisant</hi>, <hi rendition="#i">-unt</hi>, <hi rendition="#i"
+            >-int</hi>, ags. <hi rendition="#i">wesend</hi>, anord. <hi
+            rendition="#i">vîsundr</hi> „bison“. Damit verwandt ist das
+          erste glied von apreuß. <hi rendition="#i">wissambrs</hi>
+          „auerochs“ (vgl. aslav. <hi rendition="#i">ząbrŭ</hi> „bos
+          jubatus“). Das idg. <hi rendition="#i">*viso-</hi> heißt „geruch,
+          gestank“: vgl. lat. <hi rendition="#i">virus</hi> „gestank“ und
+          siehe <hi rendition="#g #i">væsel</hi>. Danach wäre das tier von
+          seinem moschusgeruch benannt. Der name ist wohl ursprünglich
+          balt.-slav.</p>
+        <p><hi rendition="#b">Bisse</hi> (dän. = durchgehen, vom vieh, das
+          von bremsen gejagt wird), schw. <hi rendition="#i">besa</hi>, von
+          mnd. <hi rendition="#i">bissen</hi> „durchgehen“ = nhd. <hi
+            rendition="#i">biesen</hi>, wozu <hi rendition="#i"
+            >Biesfliege</hi>. Verwandt scheint nhd. <hi rendition="#i"
+            >bisen</hi> „stark blasen“, <hi rendition="#i">Bise</hi>
+          „nordostwind“ (ahd. <hi rendition="#i">bī̆są</hi>, wovon frz. <hi
+            rendition="#i">bise</hi>), westfläm. <hi rendition="#i"
+            >bijs</hi> und <hi rendition="#i">bijze</hi> „schauer, bö“. Die
+          grundbedeutung ist also „vorwärtsstürmen“. Möglicherweise gehört
+            <hi rendition="#g #i">bisse</hi> zu aslav. <hi rendition="#i"
+            >bĕsŭ</hi>, lit. <hi rendition="#i">baisà</hi> „schreck“, von
+          demselben grundwort wie <hi rendition="#g #i">bæve</hi>. — <hi
+            rendition="#b">Bissekræmmer</hi> (umherwandernder handelsmann,
+          hausierer), eigentlich ein schmähname; vgl. dän. <hi
+            rendition="#g #i">ha</hi>
+          <hi rendition="#g #i">bisselæder</hi>
+          <hi rendition="#g #i">i</hi>
+          <hi rendition="#g #i">skoene</hi> „viel umherlaufen“.</p>
         <pb n="76" facs="#f0083"/>
-        <pb n="77" facs="#f0084"/>
-        <pb n="78" facs="#f0085"/>
+        <p><hi rendition="#b">Bister,</hi> schw. <hi rendition="#i"
+            >bister</hi>, von mnd. <hi rendition="#i">bîster</hi>
+          „umherstreifend, verwildert, verwirrt, elend“ (holl. <hi
+            rendition="#i">bijster</hi> „verrückt, bedürftig“). Das wort,
+          das am ehesten zu <hi rendition="#g #i">bisse</hi> zu gehören
+          scheint, ist zum teil vermischt mit nd. <hi rendition="#i"
+            >büster</hi> „dunkel, stürmisch“ (zu <hi rendition="#g #i"
+            >buse</hi>); vgl. engl. <hi rendition="#i">boisterous</hi>
+          „verwirrt, fahrig, stürmisch, unruhig“. Siehe <hi
+            rendition="#g #i">forbistret</hi>.</p>
+        <p><hi rendition="#b">Bitte</hi>
+          <hi rendition="#i">(</hi><hi rendition="#g #i">bitte</hi>
+          <hi rendition="#g #i">liden</hi><hi rendition="#i">)</hi> ist
+          eigentlich subst. und wird noch so gebraucht im dän. <hi
+            rendition="#g #i">ikke</hi>
+          <hi rendition="#g #i">en</hi>
+          <hi rendition="#g #i">bitte</hi> „kein bißchen“ = mnd. <hi
+            rendition="#i">nicht</hi>
+          <hi rendition="#i">ên</hi>
+          <hi rendition="#i">bete</hi> (nhd. <hi rendition="#i">nicht</hi>
+          <hi rendition="#i">ein</hi>
+          <hi rendition="#i">Bissen</hi>). Zugrunde liegt mnd. <hi
+            rendition="#i">bete</hi>
+          <hi rendition="#i">(bite)</hi> „bissen, stück“, das jedoch ein
+          echt nordisches <hi rendition="#i">vitte</hi> (siehe <hi
+            rendition="#g #i">vette</hi>) verschlungen hat: adän. <hi
+            rendition="#i">(en)</hi>
+          <hi rendition="#i">lille</hi>
+          <hi rendition="#i">vitte</hi>
+          <hi rendition="#i">(hest)</hi>, im südjütischen noch <hi
+            rendition="#i">lille</hi>
+          <hi rendition="#i">vette</hi>, entsprechend neudän. <hi
+            rendition="#g #i">lille</hi>
+          <hi rendition="#g #i">bitte</hi>; vgl. neunorw. <hi
+            rendition="#i">litevætta</hi>
+          <hi rendition="#i">(litet</hi>
+          <hi rendition="#i">vetta)</hi> „ein klein wenig“, anord. <hi
+            rendition="#i">nǫkkut</hi>
+          <hi rendition="#i">væ̂tta</hi> „irgend etwas“, <hi rendition="#i"
+            >ekki</hi>
+          <hi rendition="#i">væ̂tta</hi> „nichts“, wo <hi rendition="#i"
+            >væ̂tta</hi> gen. pl. von <hi rendition="#i">væ̂ttr</hi>
+          „wesen“ ist (d. <hi rendition="#i">nichts</hi> von <hi
+            rendition="#i">niwiht</hi> „kein wesen“). Siehe <hi
+            rendition="#g #i">vette</hi>. Das wort, das zum teil reines
+          adj. geworden ist (z. b. jütisch <hi rendition="#i">bitte</hi>
+          „klein“, dän. volkslieder <hi rendition="#i">bette</hi>
+          <hi rendition="#i">fugl</hi>), ist als verstärkung mit dem adj.
+            <hi rendition="#g #i">bitter</hi> verschmolzen (vgl. nhd. <hi
+            rendition="#i">bitterböse</hi> „sehr böse“); hieraus erklärt
+          sich die redensart <hi rendition="#g #i">ikke</hi>
+          <hi rendition="#g #i">det</hi>
+          <hi rendition="#g #i">bitterste</hi> (dän. <hi rendition="#g #i"
+            >bitteste</hi>), schw. <hi rendition="#i">icke</hi>
+          <hi rendition="#i">det</hi>
+          <hi rendition="#i">bittersta</hi> = nd. <hi rendition="#i"
+            >nich</hi>
+          <hi rendition="#i">dat</hi>
+          <hi rendition="#i">bitterste</hi> „nicht das geringste“.</p>
+        <p><hi rendition="#b">Bitter</hi> ist als dän. form das d. <hi
+            rendition="#i">bitter</hi>; der echte dän. repräsentant für
+          anord. <hi rendition="#i">bitr</hi> „beißend, scharf,
+          schmerzlich, bitter“ liegt in dän. umgangsspr. <hi
+            rendition="#g #i">biderhvas</hi> „scharf“ vor. Siehe <hi
+            rendition="#g #i">bide</hi>. Zur bedeutungsentwicklung vgl.
+          lat. <hi rendition="#i">acerbus</hi> und frz. <hi rendition="#i"
+            >aigre</hi> „bitter, sauer (eigentlich und figürlich)“ von lat.
+            <hi rendition="#i">acer</hi> „scharf“.</p>
+        <p><hi rendition="#b">Bjeffe,</hi> ält. dän. <hi rendition="#i"
+            >bæffe</hi>, schw. dial. <hi rendition="#i">bjäffa</hi>, von d.
+            <hi rendition="#i">bäffen</hi> „bellen“. Ein anderes wort ist
+          wahrscheinlich ält. dän. <hi rendition="#i">bjaffe</hi> = <hi
+            rendition="#i">blaffe</hi>, von mnd. holl. <hi rendition="#i"
+            >blaffen</hi> „heftig bellen“. In beiden worten ist ein
+          verstärkendes <hi rendition="#i">j</hi> eingeschoben, das im
+          letzteren das vorhergehende <hi rendition="#i">l</hi> verdrängt
+          hat, ein häufiges phänomen im neueren nordisch. Die worte sind
+          wahrscheinlich onomatopoetisch (vgl. die deutsche interjektion
+            <hi rendition="#i">baff</hi>).</p>
+        <p><hi rendition="#b">Bjelde,</hi> anord. <hi rendition="#i"
+            >bjalla</hi> = ags. <hi rendition="#i">belle</hi> (engl. <hi
+            rendition="#i">bell</hi>), mnd. <hi rendition="#i">belle</hi>
+          (holl. <hi rendition="#i">bel</hi>); vgl. nhd. <hi rendition="#i"
+            >Bellhammel</hi> = engl. <hi rendition="#i">bell-wether</hi>
+          (frz. <hi rendition="#i">bélier</hi> „widder“, in der tierfabel
+          genannt <hi rendition="#i">Belin</hi>). Schw. <hi rendition="#i"
+            >bjällra</hi> „schelle“ ist gewiß beeinflußt vom vb. schw.
+          dial. <hi rendition="#i">bjällra</hi> „schwatzen“, norw. dial.
+            <hi rendition="#i">bjeldra</hi>, dän. dial. <hi rendition="#i"
+            >bjaldre</hi>. Hierzu das st. vb. ags. <hi rendition="#i"
+            >bellan</hi> „brüllen, bellen, grunzen“ (engl. <hi
+            rendition="#i">bell</hi>), ahd. <hi rendition="#i">bellan</hi>
+          „bellen, zanken“ (nhd. <hi rendition="#i">bellen</hi>). Da
+          verwandte bildungen einfaches <hi rendition="#i">l</hi> aufweisen
+          — z. b. anord. <hi rendition="#i">belja</hi> „brüllen“, mndl. <hi
+            rendition="#i">belen</hi> „bellen“ —, so ist die wurzel
+          wahrscheinlich <hi rendition="#i">*bel</hi> (vgl. lit. <hi
+            rendition="#i">bylà</hi> „rede“, <hi rendition="#i">bilóti</hi>
+          „reden“, lat. <hi rendition="#i">flêre</hi>, aslav. <hi
+            rendition="#i">blějati</hi> „brüllen“), und <hi rendition="#i"
+            >ll</hi> ist aus <hi rendition="#i">lz</hi> entstanden: vgl.
+          skr. <hi rendition="#i">bhaṣ</hi> (von <hi rendition="#i"
+            >*bhals</hi>) „bellen“ und <hi rendition="#i">bhâṣ</hi> (von
+            <hi rendition="#i">*bhâls</hi>) „reden, plaudern“, lit. <hi
+            rendition="#i">bałsas</hi> „stimme, laut“. Siehe <hi
+            rendition="#g #i">buldre</hi>, <hi rendition="#g #i"
+          >bælje</hi>.</p>
+        <p><hi rendition="#b">Bjelke,</hi> schw. <hi rendition="#i"
+            >bjälke</hi>, anord. <hi rendition="#i">bjalki</hi> (von <hi
+            rendition="#i">*belkan</hi>). Eine andere ablautstufe zeigt
+          ags. <hi rendition="#i">bealca</hi> (engl. <hi rendition="#i"
+            >balk</hi>), as. <hi rendition="#i">balko</hi> (holl. <hi
+            rendition="#i">balk</hi>), ahd. <hi rendition="#i">balko</hi>
+          (nhd. <hi rendition="#i">Balken</hi>); eine dritte ags. <hi
+            rendition="#i">bolca</hi> „schiffsgang“. Hierzu anord. <hi
+            rendition="#i">balkr</hi> „scheidewand, abteilung“, neunorw.
+            <hi rendition="#i">bolk</hi> und <hi rendition="#i">balk</hi>,
+          schw. <hi rendition="#i">balk</hi> „balken, scheidewand,
+          abteilung, erhöhter rand“. Verwandte außerhalb des germ. sind gr.
+          φάλαγξ (-αγγος) „runder balken, wagestange, schlachtordnung“,
+          lit. <hi rendition="#i">balžëna</hi> „langbalken an der egge“,
+          lett. <hi rendition="#i">balseens</hi> „stütze am pflug“, russ.
+            <hi rendition="#i">bolozno</hi> „dickes brett“. Die idg. <pb
+            n="77" facs="#f0084"/>wurzel ist <hi rendition="#i"
+            >*bheləą</hi>, mit der nebenform <hi rendition="#i"
+            >*sp(h)eləą</hi> „spalten“; zur letzteren gehört mnd. <hi
+            rendition="#i">spalke</hi> „gespaltenes holzstück“ (holl. <hi
+            rendition="#i">spalk</hi>), anord. <hi rendition="#i"
+            >spjalk</hi> „holzstück“: siehe <hi rendition="#g #i"
+            >spjelke</hi>.</p>
+        <p><hi rendition="#b">Bjerg,</hi> schw. <hi rendition="#i"
+            >berg</hi>, neunorw. <hi rendition="#i">berg</hi> (siehe <hi
+            rendition="#g #i">berg</hi>), anord. <hi rendition="#i"
+            >bjarg</hi> und <hi rendition="#i">berg</hi> = ahd. <hi
+            rendition="#i">berg</hi> (nhd. <hi rendition="#i">Berg</hi>),
+          as. <hi rendition="#i">berg</hi> (holl. <hi rendition="#i"
+            >berg</hi>), ags. <hi rendition="#i">beorh</hi>, <hi
+            rendition="#i">beorg</hi> „höhe, grabhügel“ (engl. <hi
+            rendition="#i">barrow</hi> „grahhügel“); vgl. got. <hi
+            rendition="#i">baírgahei</hi> „berggegend“. Die wurzel ist idg.
+            <hi rendition="#i">*bherąh</hi>, wozu skr. (adj.) <hi
+            rendition="#i">br̥hánt-</hi> „hoch“, arm. <hi rendition="#i"
+            >berj</hi> „höhe“, air. <hi rendition="#i">brí</hi>, akk. <hi
+            rendition="#i">brig</hi> „berg“ (hiervon der völkername <hi
+            rendition="#i">Brigantes</hi> „Burgunden“, eigentlich
+          „bergbewohner“, sowie der stadtname <hi rendition="#i"
+            >Brigantia</hi> „Bregenz“ und der frauenname <hi rendition="#i"
+            >Brigit</hi> „Birgitte“, eigentlich „die hohe“). Siehe <hi
+            rendition="#g #i">borg</hi>. — <hi rendition="#g #i"
+            >Bjergryg</hi> = d. <hi rendition="#i">Bergrücken</hi>, holl.
+            <hi rendition="#i">bergrug</hi>, engl. <hi rendition="#i"
+            >mountain-ridge</hi>; vgl. anord. <hi rendition="#i">ǫxl</hi>
+          „bergkuppe“, <hi rendition="#i #g">landtunge</hi>, <hi
+            rendition="#g #i">flodarm</hi>, d. <hi rendition="#i"
+            >Meerbusen</hi> u. a. ähnliche metaphorische anwendungen von
+          namen von körperteilen. — <hi rendition="#b">Bjergugle</hi> (uhu,
+          bubo maximus), norw. dial. <hi rendition="#i">bergûl</hi> und <hi
+            rendition="#i">bergulv</hi>: letztes glied ist umgedeutet für
+            <hi rendition="#i">*-uv</hi> &lt; anord. <hi rendition="#i"
+            >ûfr</hi> „uhu“ (schw. <hi rendition="#i">uf</hi>, <hi
+            rendition="#i">berguf</hi>) = ags. <hi rendition="#i">ûf</hi>,
+          mhd. <hi rendition="#i">ûve</hi>, <hi rendition="#i">ûfe</hi>,
+          ein onomatopoetisches wort, ebenso wie d. <hi rendition="#i"
+            >Uhu</hi>, ahd. <hi rendition="#i">hûwo</hi>. Vgl. <hi
+            rendition="#g #i">hubro</hi>.</p>
+        <p><hi rendition="#b">Bjerge,</hi> schw. <hi rendition="#i"
+            >berga</hi>, anord. <hi rendition="#i">bjarga</hi> „befreien,
+          retten, helfen“ = got. <hi rendition="#i">baírgan</hi>
+          „verbergen, bewahren“, ags. <hi rendition="#i">beorgan</hi>, as.
+          ahd. <hi rendition="#i">bergan</hi> (holl. nhd. <hi
+            rendition="#i">bergen</hi>). Die grundbedeutung ist
+          „verbergen“, davon „bewahren, retten“. Hierzu aslav. <hi
+            rendition="#i">brěgą</hi> „sorge für, pflege“. Vgl. <hi
+            rendition="#g #i">borge</hi>.</p>
+        <p><hi rendition="#b">Bjerk</hi> (norw.): siehe <hi
+            rendition="#g #i">birk</hi>.</p>
+        <p><hi rendition="#b">Bjert</hi> (norw. = scheinend, blank) ält.
+          dän. <hi rendition="#i">bjært</hi>, schw. <hi rendition="#i"
+            >bjärt</hi>, neunorw. <hi rendition="#i">bjart</hi> und <hi
+            rendition="#i">bjert</hi>, anord. <hi rendition="#i"
+            >bjartr</hi> = got. <hi rendition="#i">baírhts</hi>, ags. <hi
+            rendition="#i">beorht</hi> (engl. <hi rendition="#i"
+            >bright</hi>), as. <hi rendition="#i">berht</hi>, ahd. <hi
+            rendition="#i">beraht</hi> (bewahrt in namen wie <hi
+            rendition="#i">Albrecht</hi>, <hi rendition="#i">Bertha</hi>).
+          Germ. stamm <hi rendition="#i">*berhta-</hi>, eigentlich eine
+          partizipialbildung zur wurzel <hi rendition="#i">*bherəc</hi>
+          „strahlen“ in skr. <hi rendition="#i">bhrâçatê</hi> „funkelt“,
+          kymr. <hi rendition="#i">berth</hi> „hübsch, nett“, lit. <hi
+            rendition="#i">ber̃szta</hi> „wird weiß“, gr. φορκός „weiß“,
+          alb. <hi rendition="#i">barϑ</hi> „weiß“, <hi rendition="#i"
+            >barϑ</hi> m. „weizen“.</p>
+        <p><hi rendition="#b">Bjørn,</hi> schw. <hi rendition="#i"
+            >björn</hi>, anord. <hi rendition="#i">bjǫrn</hi> = ags. <hi
+            rendition="#i">beorn</hi> „krieger, häuptling“ (vgl. anord. <hi
+            rendition="#i">jǫfurr</hi> „fürst“, eigentlich „wildschwein“ =
+          d. <hi rendition="#i">Eber</hi>). Der stamm <hi rendition="#i"
+            >*bernu-</hi> ist vom stamme <hi rendition="#i">*beran</hi>
+          (siehe <hi rendition="#g #i">bersærk</hi>) in ahd. <hi
+            rendition="#i">bero</hi> (nhd. <hi rendition="#i">Bär</hi>),
+          mndl. <hi rendition="#i">bere</hi> (holl. <hi rendition="#i"
+            >beer</hi>), ags. <hi rendition="#i">bera</hi> (engl. <hi
+            rendition="#i">bear</hi>) ausgegangen, der erklärt wird als
+          „das braune tier“: vgl. lit. <hi rendition="#i">bė́ras</hi>
+          „braun“ (in der d. tierfabel heißt der bär <hi rendition="#i"
+            >Braun</hi>, im engl. <hi rendition="#i">bruin</hi>): siehe <hi
+            rendition="#g #i">brun</hi>. <hi rendition="#g #i">Bjørn</hi>
+          in der bedeutung „rausch“ erklärt sich aus holl. <hi
+            rendition="#i">den</hi>
+          <hi rendition="#i">beer</hi>
+          <hi rendition="#i">loslaten</hi> „ausgelassen sein“. — <hi
+            rendition="#g #i">Sælge</hi>
+          <hi rendition="#g #i">skindet</hi>, <hi rendition="#g #i"
+            >før</hi>
+          <hi rendition="#g #i">man</hi>
+          <hi rendition="#g #i">har</hi>
+          <hi rendition="#g #i">skudt</hi>
+          <hi rendition="#g #i">bjørnen</hi> = <hi rendition="#i">die</hi>
+          <hi rendition="#i">Bärenhaut</hi>
+          <hi rendition="#i">verkaufen</hi>, <hi rendition="#i">bevor</hi>
+          <hi rendition="#i">man</hi>
+          <hi rendition="#i">den</hi>
+          <hi rendition="#i">Bären</hi> hat, engl. <hi rendition="#i"
+            >don’t</hi>
+          <hi rendition="#i">sell</hi>
+          <hi rendition="#i">the</hi>
+          <hi rendition="#i">bear’s</hi>
+          <hi rendition="#i">skin</hi>, <hi rendition="#i">before</hi>
+          <hi rendition="#i">you</hi>
+          <hi rendition="#i">have</hi>
+          <hi rendition="#i">caught</hi>
+          <hi rendition="#i">the</hi>
+          <hi rendition="#i">bear</hi>, frz. <hi rendition="#i">il</hi>
+          <hi rendition="#i">ne</hi>
+          <hi rendition="#i">faut</hi>
+          <hi rendition="#i">pas</hi>
+          <hi rendition="#i">vendre</hi>
+          <hi rendition="#i">la</hi>
+          <hi rendition="#i">peau</hi>
+          <hi rendition="#i">de</hi>
+          <hi rendition="#i">l’ours</hi>
+          <hi rendition="#i">avant</hi>
+          <hi rendition="#i">qu’il</hi>
+          <hi rendition="#i">soit</hi>
+          <hi rendition="#i">pris</hi>: die redensart stammt aus der
+          bekannten fabel von den beiden fahrenden jägern, die versprachen,
+          den wirt mit der haut des noch nicht geschossenen bären zu
+          bezahlen. — <hi rendition="#b">Bjørnebær</hi> (norw. = rubus
+          caesius und plicatus, brombeere, bärentraube), dial. auch
+          „arbutus alpina“, schw. dial. <hi rendition="#i">björnbär</hi> =
+          nhd. <hi rendition="#i">Bärentraube</hi>, engl. <hi
+            rendition="#i">bear-berry</hi> (frz. <hi rendition="#i"
+            >raisin</hi>
+          <hi rendition="#i">d’ours</hi>). Hierhin auch got. <hi
+            rendition="#i">baíra-bagms</hi> „maulbeerbaum“ (eigentlich
+          „bärenbaum“): gr. μόρον ist eigentlich „brombeere“. — <hi
+            rendition="#g #i">Bjørnetjeneste</hi> stammt aus Lafontaines
+          bekannter fabel vom bären, der seines herren kopf zermalmte, als
+          er eine fliege <pb n="78" facs="#f0085"/>von seiner nase jagen
+          wollte (die heimat der fabel ist Indien, wo sie von einem affen
+          erzählt wird). — <hi rendition="#g #i">Bjørnetrækker</hi>, von
+          nd. <hi rendition="#i">barentrecker</hi> = nhd. <hi
+            rendition="#i">Bärenführer</hi>.</p>
         <pb n="79" facs="#f0086"/>
         <pb n="80" facs="#f0087"/>
         <pb n="81" facs="#f0088"/>
