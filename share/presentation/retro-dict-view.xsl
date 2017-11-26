@@ -100,6 +100,7 @@
 	}
         .editorial{background-color: Salmon;}
         .s{text-decoration: line-through;}
+	.gap{background-color:red;color:white;}
 	.antiqua{text-decoration:underline;}
 	.hr{width:50%;}
 
@@ -202,6 +203,10 @@
   <xsl:template match="tei:corr">
     <span class="editorial"><xsl:apply-templates/></span>
   </xsl:template>  
+
+  <xsl:template match="tei:gap">
+    <span class="gap">??</span>
+  </xsl:template>
 
   <xsl:template match="tei:table">
 	  <table><xsl:apply-templates/></table>
