@@ -12,7 +12,7 @@ The collection of transcripts comprise the following dictionaries:
 | lokotsch-1927   | Lokotsch, Karl: Etymologisches Wörterbuch der europäischen (germanischen, romanischen und slavischen) Wörter orientalischen Ursprungs. Heidelberg, 1927. | :construction: partly transcribed (dictionary complete) |
 | meidinger-1836  | Meidinger, Heinrich: Vergleichendes etymologisches Woerterbuch der gothisch-teutonischen Mundarten. Frankfurt am Main, ²1836. | :no_entry: stub |
 | miklosich-1886  | Miklosich, Franz: Etymologisches Wörterbuch der slavischen Sprachen. Wien, 1886. | :no_entry: stub |
-| mueller-1878    | Mueller, Eduard: Etymologisches Wörterbuch der englischen Sprache. Bd. 1 (A – K). Cöthen, ²1878. | :construction: partly transcribed |
+| mueller-1878    | Mueller, Eduard: Etymologisches Wörterbuch der englischen Sprache. Bd. 1 (A – K). Cöthen, ²1878. | :white_check_mark: fully transcribed |
 | mueller-1879    | Mueller, Eduard: Etymologisches Wörterbuch der englischen Sprache. Bd. 2 (L – Z). Cöthen, ²1879. | :construction: partly transcribed |
 | uhlenbeck-1900  | Uhlenbeck, C. C.: Kurzgefaßtes etymologisches Wörterbuch der gotischen Sprache. Amsterdam, ²1900. | :white_check_mark: fully transcribed |
 | walde-1910      | Walde, Alois: Lateinisches etymologisches Wörterbuch. Heidelberg, ²1910 | :construction: partly transcribed |
