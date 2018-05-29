@@ -4,7 +4,7 @@ The collection of transcripts comprise the following dictionaries:
 | Directory       | Bibliographic citation | Status |
 | :-------------- | :--------------------- | :----- |
 | berneker-1896   | Berneker, Erich: Die preußische Sprache. Texte, Grammatik, etymologisches Wörterbuch. Straßburg, 1896. | :construction: partly transcribed (dictionary complete) |
-| falk+torp-1910  | Falk, H. S.; Torp, Alf: Norwegisch-dänisches etymologisches Wörterbuch. Erster Teil (A – O). Heidelberg, 1910. | :no_entry: stub |
+| falk+torp-1910  | Falk, H. S.; Torp, Alf: Norwegisch-dänisches etymologisches Wörterbuch. Erster Teil (A – O). Heidelberg, 1910. | :construction: partly transcribed |
 | falk+torp-1911  | Falk, H. S.; Torp, Alf: Norwegisch-dänisches etymologisches Wörterbuch. Zweiter Teil (P – Ø). Heidelberg, 1911. | :no_entry: stub |
 | goedel-1902     | Goedel, Gustav: Etymologisches Wörterbuch der deutschen Seemannssprache. Kiel, Leipzig, 1902. | :white_check_mark: fully transcribed |
 | juergens-1877   | Jürgens, Karl: Etymologisches Lehnwörterbuch der deutschen Sprache. Braunschweig, 1877. | :no_entry: stub |
