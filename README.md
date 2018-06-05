@@ -1,5 +1,17 @@
 # retro-dict: historical etymological dictionaries
+
 `retro-dict` is a collection of historical etymological dictionaries.
+
+## Active development moved to GitLab.com
+
+On 2018-06-05 (and due to events that happened shortly prior to this date),
+this repository was mirrored to GitLab.com.
+From this date on, the GitHub.com version will be frozen as is.
+If you intend to use `retro-dict` data or take part in its development
+then please consider using the latest version
+at https://gitlab.com/xlhrld/retro-dict.
+
+## Overview
 
 Transcription and typographical markup follow the guidelines
 of the DTA base format which was developed for the _German Text Archive_
@@ -32,6 +44,6 @@ or checking out this repository you may have to set up a webserver
 running locally on your machine in order to have the XSL applied automatically.
 An easy way to do this is:
 
-```user@host:trunk$ python -m SimpleHTTPServer```
+```user@host:retro-dict$ python -m SimpleHTTPServer```
 
 and then pointing your browser to http://localhost:8000/.
